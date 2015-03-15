@@ -1,0 +1,5088 @@
+# vim: syntax=python ts=2 tw=79 et sw=2 sts=2:
+#!/bin/cat
+
+2013-09-16 (Monday) # CMU Skibo Squat 5/3/1 (525 T1RM, reduced)
+  squat:
+    45@2x10, 135@2x5, 225, 275@3, 315@2
+    370@1x3 # 70%
+    420@1x3 # 80%
+    472.5@1x3 # 90%, maybe 2 sets if feels OK.
+    370@1x+ # 70% First Set Last
+
+2013-09-14 (Saturday) # Paused Bench Try 2 at 24hr
+  weight: 191.0
+  bench:
+    45@2x15, 95p, 115p, 135p, 155p, 185@3p, 205@3p, 225@2p, 245@2p, 265@1p
+    280@3x2p # Pretty gross, but so be it.
+    150@5x10p # Paused BBB. Easy with rest. (280*2*0.0333+280 = 300; 300*0.5)
+
+2013-09-13 (Friday) # HOME GYM SQUAT 5/3/1 (530 T1RM)
+  weight: 192.0 # Estimate.
+  squat:
+    45@2x10, 135@2x5, 225, 275@3, 315@2
+    345@1x5 # 65% -- Tough.
+    400@1x5 # 75% -- Also tough.
+    450@1x5 # 85% -- Yet again tough. I'm not sure what I'm expecting here.
+    265@5x10 # BBB. Very easy.
+
+2013-09-12 (Thursday) # More press volume, another 192.5 attempt.
+  weight: 193.6
+  press:
+    45@2x15, 75@2x5, 95, 115, 135@2x3, 155@3, 175@{2,1,1}, 185@1
+    192.5@{3,3, 2f, 2f} #1s left side rising faster than right, but strong.
+      # 2s faster, with better form. 3s3r totally dead. 1r pretty tough.
+      # Tried 3r twice with no give.
+      # 4s2r easy, but huge twist. Left side powered it up. Shitty.
+    130@5x10 # Hard.
+
+2013-09-11 (Wednesday) # 5/3/1 DL (Training Max 505)
+  weight: 193.6
+  deadlift:
+    135@2x5, 225, 275, 315@3
+    380@1x5 # 75% -- A bit tough. Felt like weight.
+    405@1x5 # 80% -- OK. Been a while since I did volume.
+    430@1x5 # 85% -- Difficult.
+    225@2x10 # 45% --  Backoff, just to make back feel better. Hard.
+
+2013-09-10 (Tuesday) # 6x4 Bench, Increasing Volume Anyway
+  weight: 192.8
+  bench:
+    45@2x15, 95, 135, 185, 205@4, 225@2, 245@1
+    265@6x4 # 3s-6s weirdly-grooved grinders, all alike.
+  face pulls:
+    57.5@3x20
+
+2013-09-09 (Monday) # 5/3/1 Squat Deload (520 T1RM)
+  weight: 192.6
+  squat: # "Feels like I'm barely squatting at all!"
+    45, 135@2x5
+    210@1x5 # 40%
+    260@1x5 # 50%
+    315@1x5 # 60%
+    260@5x10 # 50% BBB
+
+2013-09-07 (Saturday) # Sarah moves in! Paused bench attempt.
+  weight: 191.4
+  bench: 45@2x10, 95p, 115p, 135p, 155p, 185@3p, 205@3p, 225@2p
+    # Stopped here. Should have been 280@3x2. Extremely dehydrated from
+    # moving Sarah in earlier in the day, feels like mild heatstroke.
+    # Left pec and lower back acting up quite badly. Called it.
+
+2013-09-06 (Friday) # Post-Chiro 5/3/1 Squat (520 T1RM)
+  weight: 190.2
+  squat:
+    45@2x10, 135@2x5, 225, 275@3
+    390@1x5 # 75% -- pretty tough, actually.
+    445@1x3 # 85% -- grindy. Excessive rest due to waiting.
+    495@1x1 # 95% -- grindy as fuck. Talking like 5secs here. BUT I GOT IT.
+    260@5x10 # 50% -- BBB. Very easy. Danced into rack.
+
+2013-09-05 (Thursday) # Press Attempt Despite Crippling Back Pain
+  weight: 191.4
+  press:
+    45@15, 75@2x5, 95, 115@2x5, 135@{5,3}, 155@{3,3}, 175@{2,1}, 185@1 # Great
+    192.5@3 # Keeping VERY close to bouth. 3r low bounce, and went up very
+      # unevenly, with left side rising much faster. Lat injury on right side.
+    192.5@3 # GREAT. Flew up. Used hips at bottom on bounces.
+    192.5@f # Tried 3x. Couldn't lift once. Hip drive stopped above head,
+      # but arms couldn't even come close to locking it out.
+    130@{10,10,10,10,8f}
+
+# Switching to 5/3/1 to lower volume and work with heavier weights.
+2013-09-04 (Wednesday) # 5/3/1 Deficit DL (530 T1RM)
+  weight: 192.0
+  deadlift:
+    135, 225, 315 # Actually tough. Let upper spine round, and it fucked it up.
+      # HUGE back pain upon waking up the next morning, compounded with some
+      # new, exciting lat strain.
+
+2013-09-03 (Tuesday) # Bench Volume
+  weight: 191.4
+  bench:
+    45@2x15, 95, 115, 135, 155, 185, 205, 225@2, 245@1
+    262.5@6x4 # 5-6s quite tough. Lower back hurting.
+
+2013-09-02 (Monday) # 6x6 @ 24hr San Mateo
+  weight: 192.0 # Estimate: 197 in gear.
+  squat:
+    45@2x10, 135, 225, 275@3, 315@1, 365@2, 405@2
+    425@6x6 # 1s extremely hard -- thought that I might be done at 4r.
+      # Reracking was compromised by external lifting of right side, and
+      # bar collapsed. Note also poor sleep + poor nutrition.
+      # Balls hurt a lot during the set, which compromised form.
+      # 2s felt a lot better -- no ball pain anymore.
+      # 5s6r a bit of a grinder. Took ~20 minute rests.
+
+2013-08-31 (Saturday) # Paused Bench at Boss
+  # Entered gym with significant negative energy, but perked up a bit after
+  # a minute on the rower. Threw up in mouth a bit after 2nd set of 45x10:
+  # probably presence of Better Aesthetics, plus relationship trouble.
+  weight: 192.0
+  bench:
+    45@2x10, 95p, 135p, 155p, 185@3p, 205@2p, 225@2p, 245@2p, 265@1p
+    277.5@3x2 # Sarah says "looks good". 3s pretty tough. Wrist failed
+              # a bit at bottom.
+  flyes:
+    25@3x10
+  face pulls:
+    52.5@4x20
+  chins:
+    0@3x10 # Easy today.
+
+2013-08-30 (Friday) # Squats at Google.
+  weight: 190.4
+  squat: # 475 Triple attempt No. 2, with a very, very sore lower back.
+    45@2x10, 135, 225, 275@3, 315@1, 365@1, 405@1, 435@1 # last 2 tough.
+    475@2x3 # 1s quite strong. Grind on 3r, but not too bad.
+            # 2s3r extremely hard, with upper back rounding.
+    # Stopped at this point -- lower back ultra sore.
+
+2013-08-29 (Thursday) # 192.5 press
+  weight: 192.0
+  press:
+    45@2x10, 75@2x5, 95, 115, 135, 155@2x3, 175@1, 185@1 # Not too bad.
+    192.5@1f # Very slow ascent. Quite hard.
+    192.5@3
+    192.5@1f # Just got heavy, plus bad hip motion at start.
+    192.5@2f # First 2 were huge struggle; did not attempt 3r.
+    125@5x10 # Backoff.
+
+2013-08-28 (Wednesday) # DLs! Blocks!
+  weight: 191.4
+  deadlift: # "b" designating blocks
+    135, 225, 275@3, 315@1b, 365@1b, 405@1b, 455@1b
+    495@f # Failed twice to get it moving. Dan says I was trying to squat it up,
+          # and that I should let shoulders round.
+    495@2x3 # 2s actually very hard. To end. Lower back overused to hell.
+  ghr:
+    0@3x10, 0@8f, 0@6f
+
+2013-08-27 (Tuesday) # Volume Bench. Wicked Sore.
+  weight: 191.0 # Estimate
+  bench:
+    45@15, 95, 115, 135, 155, 185, 205, 225@2, 245@1
+    260@6x4 # 1s flew up, soreness be damned. 2-3s tough. ~7.5 min rest.
+      # 4s very fast. Took a ~40 minute dinner break after 4s;
+      # rewarmed up with 225@3, 245@1, which was insufficient.
+
+2013-08-26 (Monday) # Squat Triples
+  weight: 190.4
+  squat:
+    45, 135, 225, 275@3, 315@1, 365@1, 405@1, 435@1 # Ultra sore
+    475@1x2f # Hoping for 10x3 -- clearly did not work out.
+      # Low quad strength from Friday fatigue + lower back rounding
+      # due to overuse. Likely the proposed progression is exceeding recovery.
+    315@3x5 # Attempted DE.
+  t-bar row:
+    45, 90@4x8, 135@3x8 # Not difficult.
+  chins:
+    0@5x8 # Very tough on left pec, which is usually sore.
+
+2013-08-24 (Saturday) # Paused bench 3x2 (+5) "I Bleed Lactose"
+  weight: 192.0
+  bench:
+    45@10, 95p, 115p, 135p, 155p, 185@3p, 205@2p, 225@2p, 245@2p, 255@1p
+    275@6x2p # 5lb PR plus 3 extra sets. Awesome.
+      # 1s flew up. 2s used press/rack commands. Still went well.
+      # 3s still strong. 4s felt like feet slipping, drifted toward upright.
+      # 5s still looking strong. Sarah said pathing was great.
+      # Focused on rowing it down.
+      # 6s tough -- comparable to 3s last week.
+
+2013-08-23 (Friday) # Squat 7x4 (+5)
+  weight: 191.4
+  squat:
+    45, 135, 225, 275@3, 315@1, 365@1, 405@1, 425@1 # Fairly tough.
+    460@7x4 # Tightened belt one notch. 15-20 minute rests.
+      # 1s extremely difficult, lots of strain in lower back. No adrenaline.
+      # 2s better: wore belt lower, directly on lower back.
+      # 3s much better: kept back more vertical.
+      # 4s tough as expected.
+      # 5s actually quite comfortable now. Still heavy, but comfy.
+
+2013-08-22 (Thursday) # Bodyweight Press!
+  weight: 189.4
+  press:
+    45@10, 75, 95, 115, 135, 155@3 # Cleaned from floor due to rack avail.
+    155@3, 175@1 # From rack.
+    190@2f # No tricep strength -- forgot that these bars are marked narrowly.
+           # Taking a wider grip on future sets.
+    190@6x3 # Listened to DMX on Sarah's player. Did wonders.
+    125@10x5 # Shit son. 5 min rest.
+
+2013-08-21 (Wednesday) # Hesitant deadlifts
+  weight: 189.2
+  squat:
+    45, 135, 225, 275@3
+    315@3x5 # Keeping it easy to integrate DLs.
+  face pull:
+    52.5@4x20 # Easy, including 4s.
+  deadlift:
+    135, 225, 315@3, 365@2, 405@1, 455@1 # 455 tough on lower back.
+    505@1 # "Good speed!" says Sarah. Adductors killing at end.
+          # Lower back felt rounded a bit.
+    515@f # Got off ground OK, but lower back immediately rounded.
+          # Hurt a bit afterward.
+    # In the future, should do pulls only from blocks, and let lower
+    # back be worked entirely by squats.
+
+2013-08-20 (Tuesday) # More Bench Volume (+2.5)
+  weight: 190.0
+  bench:
+    45, 95, 115, 135, 155, 185, 205, 225@2, 240@1
+    257.5@{4,4,4,4,4,4,4,4,3f,3} # Of {6-10}x{2-4}.
+      # 3f happened due to energy loss trying to avoid uprights.
+      # Ate dinner (~30 min rest) after 5th set, re-warmed with 225x2.
+
+2013-08-19 (Monday) # Actually doing that 5x5 squat. (+5)
+  weight: 189.8
+  squat:
+    45, 135, 225, 275@3, 315@1, 365@1, 405@1, 425@1
+    445@5x5 # 1s not too taxing at all. Medium-hard. Some pain in right knee.
+            # 2s much easier/faster. 3s getting tough, taking more rest.
+            # 4s gave lung pain at end -- hurt to take deep breaths.
+            # 5s got ~20 minute rest waiting for Dan to finish. Good speed.
+            # Felt like maybe a 6th was in the tank.
+
+2013-08-17 (Saturday) # Paused Bench With Sarah at 24hr
+  bench:
+    45@10, 95p, 115p, 135p, 185@3p, 205@2p, 225@2p, 245@2p, 255@1p
+    267.5@1x2p # Sarah says it looks too easy, calling for 270.
+    270@2x2p # 1s very strong, but lost arch from slippery bench.
+             # 2s harder but still strong. Good weight call.
+  row station:
+    45@10, 70@10 # "Looks easy" says Sarah
+    90@3x10 # Just about the right weight.
+
+2013-08-16 (Friday) # Squat attempt at World Gym SF
+  squat:
+    45, 135, 225, 275@3, 315@1, 365@1, 405@1, 425@1 # Tough but good speed.
+    445@1x5 # Took 2x ibuprofen before set. 1s extremely hard, felt
+            # like the end. Probably overtired from low sleep.
+            # Putting it off until Monday.
+            # Supposed to be 5x5.
+
+2013-08-15 (Thursday) # Press at 24hr
+  weight: 190.0
+  press:
+    45@10, 75, 95, 115, 135, 155@3, 175@1
+    187.5@1x2f # 24hr bars have narrower markings. Fixed.
+    187.5@{3,3,3,2f,3,3,3}
+      # 4s (2f) felt rushed, only 5 minutes rest.
+      # 6s very easy. 7s a struggle to the very end.
+    125@4x10 # 3s 7-10r finished almost entirely using traps. Weird.
+    125@1x8f # Triceps giving out around 7s on every set. Good weight.
+
+2013-08-14 (Wednesday) # Tired Deadlifts.
+  weight: 191.4
+  squat:
+    45, 135, 225, 275@3, 315@1
+    365@2x5 # Actually tough, like in the good old days.
+  # Planned to just go home -- no energy to DL.
+  face pulls: # Got some energy in me.
+    47.5@4x20
+  deadlift:
+    135, 225, 315, 365@2, 405@1, 455@1
+    # Sarah recommended the following form fixes:
+    # 1) keep arms locked at start
+    # 2) pull slack out of the bar at start
+    # 3) engage lats by external rotation of shoulders
+    # Made a huge difference.
+    # Dan recommended that bar placement in hands be below
+    #  the calluses, closer to the palm. Helped a lot.
+    475@1 # Felt great.
+    495@2 # Could have gotten a 3rd, but was mentally set for 2.
+
+2013-08-13 (Tuesday) # Volume Bench (+5)
+  weight: 190.2
+  bench: # Attempting {6-15}x{1-4}, with success upon 6x4
+    45, 95, 115, 135, 155, 185, 205, 225@2
+    255@7x4 # 7s4r completely to end.
+    255@1x3f # Just tired.
+    255@1x2f # Just tired.
+
+2013-08-12 (Monday) # Medium squats (increase +15! Holy shit!).
+  weight: 190.4
+  squat: # Adductor pain from sumo still present and active.
+    45, 135, 225, 275@3, 315@1, 365@1, 405@1
+    420@6x6 # Fairly difficult. 1-4s on the easy side, then fell off.
+
+2013-08-10 (Saturday)
+  weight: 192.8
+  bench:
+    45, 95, 115p, 135p, 155p, 185p@2, 205p@2, 225p@2, 245p@2
+    255p@2 # Sarah says "looked easy"
+    265p@2 # Got it, but Sarah touched 2r slightly to avoid pins.
+    265p@2 # Got it honestly.
+    265p@2 # Great.
+  chins: # Supersetted with the face pulls.
+    0@4x8
+  face pulls:
+    47.5@4x20
+
+2013-08-09 (Friday)
+  weight:  191.8
+  squat:
+    45, 135, 225, 275@3, 315@1, 365@1, 405@1, 445@1
+    465@6x3 # All sets very difficult. Knees hurting on 3s. 4-6s felt like end.
+
+2013-08-08 (Thursday) # At Google.
+  weight: 191.0
+  press:
+    45@15, 95, 115, 135, 155@3, 175@1
+    185@6x3 # *HOT*
+    120@5x10 # Torso twisting a bit, with left shoulder more forward.
+  klokov press:
+    45@10, 75@5
+    95@{7f,7f} # Closer grip than normal due to uprights being in the way.
+
+2013-08-07 (Wednesday)
+  weight: 192.6 # Oh hell yes.
+  sumo deadlift: #  # Planned 455 1x3, but form was shitty and I injured myself.
+    135@5, 225@5, 275@5
+    315@2x1 # Huge dull pain in adductors.
+
+2013-08-06 (Tuesday) # Google gym.
+  weight: 191.4
+  bench:
+    45, 95, 115, 135, 155, 185@2, 205@2, 225@2 # Left shoulder hurting.
+    250@10x4 # 10s4r paused. This was not hard.
+  face pulls:
+    42.5@4x20 # Very, very easy.
+
+2013-08-05 (Monday)
+  weight: 191.4
+  squat: # Smolov ended with 455 10x3, so this should be about to limit.
+    45, 135, 225, 275@3, 315@1, 365@1, 405@1, 425@1
+    455@7x4 # Felt heavy, but got all sets solidly. Could have kept going,
+            # but the gym closed. 6s broken up into 2x2 due to the safeties
+            # being too high -- hit them.
+
+2013-08-03 (Saturday) # All major joints hurting. No ibuprofen.
+  weight: 191.0
+  high pull:
+    75@3, 95@3 # No energy.
+  press: # starr 185 6x3 +5
+    45@15, 75, 95, 115, 135, 155@3, 175@1
+    185@4x3,1xf # Reps strong from hip. Rested too little before last set,
+                # due to feeling a bit rushed by gym closing.
+
+2013-08-02 (Friday) # Knees hurting. Lots of ibuprofen.
+  weight: 190.4
+  squat:
+    45, 135, 225, 275@3, 315@1, 365@1, 405@1, 425@1
+    440@5x5 # Pretty damn strong finish.
+  chins:
+    0@5x8,2x5 # 50 total reps. About to end of stamina.
+
+2013-08-01 (Thursday) # At 24hr Fitness in San Mateo.
+  weight: 190.4
+  bench:
+    45, 95, 115, 135, 155, 185@2, 205@2, 225@2 # Pain in left shoulder.
+    245@9x4 # {6-15}x{1-4}. Not bad.
+    245@1x2f # Didn't have a strong arch, and laughed before the set.
+  face pulls:
+    150@{20,15,15} # Weird weights on machine.
+
+2013-07-31 (Wednesday) # Lower back still a little fucked. <2hr sleep.
+  weight: 191.4
+  high pull:
+    75@3, 95@3
+  deadlift: # Heavy. Attempting 445@6x2.
+    135@5, 225@5, 315@5
+    # At this point, too tired to continue. Hand ripped open again.
+    # Could barely re-rack the weights. Slept for a few hours.
+
+2013-07-30 (Tuesday)
+  weight: 190.0
+  squat: # Light. Take it easy for heavy Wednesday and Saturday.
+    45, 135, 225, 275@3
+    315@3x8
+  bench: # Medium
+    45, 95, 115, 135, 155, 185@3
+    215@1x6 # Felt too light.
+    225@6x6 # Not bad.
+  klokov press: # Light
+    75@8
+    95@3x8 # Very easy.
+  bench:
+    155@1x9f # Lol.
+    135@1x8f # Lol.
+
+2013-07-29 (Monday) # Back is mostly better.
+  weight: 190.0
+  squat: # Adv Sq Medium: 410 or 415 next time.
+    45, 135, 225, 275@3, 315@1, 365@1
+    405@5x6,1x8 # Could have done more, but saving strength.
+  press: # Starr 6x3 +5: 185 next time, with volume.
+    45@15, 75, 95, 115, 135@3, 155@1, 165@1
+    180@5x3,1x4 # Klokov presses helped. There's a new groove.
+    # Intended to do more, but the gym closed.
+
+2013-07-27 (Saturday) # INJURY DID NOT GET BETTER
+  weight: 190.0
+  bench: # Practicing "rowing the bar down". Feels like a stronger path.
+    240@6x4 # 2s actually fairly hard. 4,5s better form and pretty easy.
+    135@5x10 # ~2 min rest.
+
+# Pretty bad strain on right side of lower back.
+2013-07-26 (Friday)
+  weight: 189.4 # Despite a gallon of milk and a large dinner.
+  squat:
+    45, 135, 225, 275@3, 315@1, 365@1, 405@1, 455@1 # Felt quite difficult.
+    465@3x3 # Intended to do 10x3, but it was very heavy -- the last rep
+            # involved heavy back rounding, which cracked a number of
+            # vertebrae in the lower back during the rep, and caused a nasty
+            # strain on the right side of the lower back.
+            # Pretty much incapacitated from squatting after that.
+            # Deadlift volume was too high on Wednesday.
+            # The same injury was felt then too, and now exacerbated.
+    45@50 # Some attempt at rehab. Felt better after.
+    55@50 # Felt a little better after this too.
+
+2013-07-24 (Wednesday) # Heavy DL (following Lewis' Advanced Squat Program)
+  weight: 190.0
+  front squat: # Stop doing front squats.
+    95@8, 135@8, 185@8
+    225@1x4f # Can't hold: slipped off left shoulder.
+    205@3x8 # Still tough to hold.
+    # Knees hurt quite a bit after this.
+  deadlift: # Now with volume!
+    135@5, 225@5, 315@5, 405@5
+    # Plan was (435-455)@(6-8)x(1-3), following Jamie Lewis.
+    435@4x3 # Pretty easy. By the end, patella was hurting quite a bit.
+    455@1x1 # After this, can't contract quad fully without pain.
+    # Cut out front squats, and get used to volume.
+
+2013-07-23 (Tuesday)
+  weight: 190.2
+  press:
+    45@15, 75, 95, 115, 135@3, 155@1, 165@1
+    175@6x3 # Pretty easy. 180 should be OK.
+    120@{10,10,10,10,9f} # Taking 2 minute rest or so. Too exhausted.
+  face pulls:
+    42.5@3x20
+
+2013-07-22 (Monday) # Not on any program. Trying Dan Green's thing.
+  weight: 188.4
+  squat:
+    135, 225, 275@3, 315@1, 365@1, 405@1, 455@1
+    445@1x6 # Shaking at top, so stopped. Very weak.
+  paused highbar:
+    225@1x8
+    275@3x8 # Knees started hurting.
+  # No SLDL due to knee pain.
+
+2013-07-21 (Sunday)
+  weight: 187.8
+  bench:
+    235@6x4
+  paused bench:
+    205@{6,4f} # First 3 always feel easy, then strength drops off quickly.
+    185@{4f}   # Had intended 205@3x6.
+  # No wide-grip speed work due to failure.
+
+2013-07-20 (Saturday)
+  weight: 189.0
+  bb curls:
+    45@15
+    95@5x10 # Alright.
+
+2013-07-19 (Friday)
+  weight: 192.0
+  sumo deadlift: # Extremely tough on grip.
+    135@5, 225@5, 275@5, 315@5, 365@4, 405@3
+    455@1x3 # Surprisingly tough.
+  sumo block pulls:
+    475@2x3 # First set ripped callus off right hand. Huge chunk missing.
+  deficit deadlift:
+    225@5, 315@3 # Grip dying.
+    365@2x8 # First set easy, second set to limit.
+
+# Quads very sore from Monday, upper back feels strained.
+2013-07-17 (Wednesday) # Front squats + Hams + Abs
+  weight: 190.8
+  front squat:
+    # Couldn't really do anything -- haven't figured out how to hold
+    # the bar sufficiently, and it kept falling off. ~225.
+
+2013-07-16 (Tuesday) # Shoulders, but trying Starr protocol with 5/3/1 assist.
+  weight: 190.2
+  press:
+    45@20, 75, 95, 115, 135, 155@3, 165@1
+    170@6x3 # Feels heavy, but speed is good. 6s getting tough.
+    115@5x10 # Pretty much negligible weight. Little bit tiring.
+  klokov press:
+    95@3x8 # Tough. Traps very fatigued from high-bar Monday.
+  face pulls:
+    42.5@3x20
+
+2013-07-15 (Monday) # Very fatigued from Friday. Dan Green's program.
+  weight: 188.0
+  squat:
+    45, 135, 225, 275@3, 315@1, 365@1, 405@1, 455@1
+    470@1x5 # Very hard, basically to failure. 4th rep was a killer.
+            # 5th was to the very limit. Just fatigued.
+    405@1x10 # That was a poor choice.
+  high-bar: # Should have been paused, but I wanted to get the motion down.
+    135@10, 225@8, 275@8, 315@8
+    365@2x8 # Not difficult, just tired from all the other stuff.
+  sldl: # I am not a flexible man.
+    135@3x8 # Back so fatigued that even this was heavy.
+
+# New squat PR by 35lbs! Damn, Smolov.
+2013-07-12 (Friday) # Smolov 1RM Test
+  weight: 190.0
+  squat:
+    45, 135, 225, 275@3, 315@1, 365@1, 405@1, 460@1
+    495@1
+    515@1 # Very good speed, but messed up hip drive.
+    525@1 # Also very good speed. Confident to add more.
+    535@1 # Slow. Upper back started rounding. Very tired by this point.
+    # So tested 1RM is 535, possibly stretched to 545 if fresh. Not bad.
+
+2013-07-10 (Wednesday) # Smolov recovery
+  weight: 190.2
+  press:
+    45, 95, 115, 135
+    165@6x3 # Easy.
+    135@1x10 # Immediately after last set of 165, easy.
+  chins:
+    0@10
+    25@8,6f # Tough. Huh.
+  klokov press: # Very fun. Should take a narrower grip, though.
+    95@10
+    115@7f,6f,5f,5 # Tough, +20lbs PR. Stick with 5s.
+
+2013-07-08 (Monday) # Smolov recovery
+  weight: 190.4
+  bench:
+    45, 95, 135, 185
+    225@5x5
+  speed bench: # Suggested & instructed by dan green. Pretty hard.
+    165@6
+    175@2x6
+  dips:
+    0@10,10,8,10
+
+2013-07-06 (Saturday) # Smolov Base Wk 3 85%+30
+  weight: 189.8
+  squat:
+    45, 135, 225, 275@3, 315@1, 365@1, 405@1
+    455@10x3
+
+2013-07-05 (Friday) # Smolov Base Wk 3 80%+30
+  weight: 189.2
+  squat:
+    45, 135, 225, 275@3, 315@1, 365@1, 405@1
+    430@7x5
+
+2013-07-03 (Wednesday) # Smolov Base Wk 3 75%+30
+  weight: 189.2
+  squat:
+    45, 135, 225, 275@3, 315@1, 365@1
+    405@5x7
+
+2013-07-01 (Monday) # Smolov Base Wk 3 70%+30
+  weight: 189.0
+  squat:
+    45, 135, 225, 275@3, 315@1, 365@1
+    380@4x9
+
+2013-06-29 (Saturday) # Smolov Base Wk 2 85%+20
+  weight: 191.0
+  squat:
+    45, 135, 225, 275@3, 315@1, 365@1, 405@1
+    445@10x3
+
+2013-06-28 (Friday) # Smolov Base Wk 2 80%+20
+  weight: 188.8
+  long pull:
+    75@3, 95@3
+  squat:
+    45, 135, 225, 275@3, 315@1, 365@1, 405@1
+    420@7x5
+
+2013-06-26 (Wednesday) # Smolov Base Wk 2 75%+20
+  weight: 191.0
+  long pull:
+    75@3, 95@3
+  squat:
+    45, 135, 225, 275@3, 315@1, 365@1
+    395@5x7
+
+2013-06-24 (Monday) # Smolov Base Wk 2 70%+20
+  weight: 188.2 # Huh. Felt sick to my stomach over the weekend.
+  long pull:
+    75@3, 95@3
+  squat:
+    45, 135, 225, 275@3, 315@1, 365@1
+    370@4x9 # Not particularly difficult.
+
+# Note that during recovery from this Smolov stuff, my back is always sore.
+# It's extremely distracting. Spine needs cracking constantly.
+2013-06-22 (Saturday) # Smolov Base Wk 1 85%
+  weight: 192.2
+  long pull:
+    75@3, 95@3
+  squat:
+    45, 135, 225, 275@3, 315@1, 365@1, 405@1
+    425@10x3 # Not bad, surprisingly.
+
+2013-06-21 (Friday) # Smolov Base Wk 1 80%
+  weight: 191.4
+  long pull:
+    75@3, 95@3
+  squat:
+    45, 135, 225, 275@3, 315@1, 365@1
+    400@7x5 # 1s sucked shit. 3s still sucked shit. Not tough, just tiring.
+            # Got very easy for 6s for some reason. 7s very strong.
+
+2013-06-20 (Thursday)
+  weight: 190.8 # 20 chicken mcnuggets + double hamburger + large fries, etc
+  press: # 180: 70%x3 80%x3 90%x3+, 55%3x10
+    45, 95, 115
+    125@1x3, 145@1x3
+    162.5@1x3+0 # Surprisingly heavy, probably from squats.
+    95@5x10
+  # Probably didn't affect squats too negatively. Hopefully.
+
+2013-06-19 (Wednesday) # Smolov Base Wk 1 75%
+  weight: 190.2 # Eating ~4500? + creatine.
+  long pull (power snatch with no bend after jump):
+    75@3, 95@3
+  squat:
+    45, 135, 225, 275@3, 315@1, 355@1
+    375@5x7 # 1s great speed. 2s tough, but 3s-5s about the same.
+
+2013-06-18 (Tuesday) # 5/3/1 for Bench (265 1RM)
+  weight: 188.4
+  bench:
+    45, 95, 135
+    185@1x3, 210@1x3
+    237.5@1x3+3 # Was trying for 8, but I'm unprepared for this range.
+  db bench:
+    25@10, 35@10
+    50@5x10 # Obviously light, but tough to keep stable.
+
+2013-06-17 (Monday) # Smolov Base Wk 1 70%
+  weight: 187.0
+  squat:
+    45, 135, 225, 275@3, 315@1
+    350@4x9 # Not too bad, but tiring.
+            # Once you get past rep 4, they're all the same.
+
+# 18 weeks until meet, planning for 1300 total.
+# The current format isn't particularly good for monthly planning.
+# Doing a Smolov base mesocycle from a low-balled 500 1RM,
+# then testing a new 1RM and feeding that into 5/3/1, starting from
+# around there instead of a 90% start. Then running 5/3/1 for 3 cycles.
+#
+# Started taking creatine in preparation for the heavy smolov load.
+
+2013-06-14 (Friday)
+  weight: 188.4
+  squat:
+    45, 135, 225, 275@3, 315@1, 365@1, 405@1, 455@1
+    495@1x1 # Wanted a triple, but wasn't in the right mood.
+  ghr:
+    0@2x10, 10@2x10 # Painfully sore. Can barely walk.
+      # Feels just like back extensions on my first week lifting.
+  bench:
+    45, 95, 135, 185@3, 205@1, 225@1
+    252.5@{5,4} # Both sets kept falling to the right. Very weird.
+                # Torso was hugely twisted. Bar felt imbalanced,
+                # but the both sides were the same numerically.
+                # Bad plates?
+
+2013-06-12 (Wednesday)
+  weight: 188.8
+  squat:
+    45, 135, 225, 275@3, 315@1
+    365@2x5 # Tough. Very sore.
+  press:
+    45, 95, 115, 135@3, 155@1, 165@1 # Pain in left elbow from 135 on.
+    175@1x2f # Extremely weak triceps.
+    155@3x5 # Strict, no hip. Tough. Painful in loft elbow.
+
+2013-06-11 (Tuesday)
+  weight: 188.8
+  bench:
+    45, 95, 135, 185@3, 225@1 # Missed one warmup. Hm.
+    252.5@3x3 # 5s too hard. Hoped for it, but no chance.
+    225@3x5 # Last reps paused.
+  lying tricep extension:
+    15, 35, 65@3x12 # Fairly tough. Huge clicking pain in left elbow, still.
+
+2013-06-10 (Monday)
+  weight: 187.8
+  squat:
+    45, 135, 225, 275@3, 315@1, 365@1, 405@1
+    425@5x5 # 3s getting a bit hard. 4s5r a grind.
+      # Dan confirmed that the little kick at the start is legal.
+
+2013-06-08 (Saturday)
+  weight: 188.8
+  squat:
+    45, 135, 225, 275@3, 315@1, 365@1, 405@1, 455@1
+    # Planned to do 485x5, but a guy pointed out that the bar was being held
+    # with more weight on my right side. Couldn't fix it. Eventually
+    # figured out that my grip was narrower than usual by 7": should be 28.5"
+    # between the middle of the 4th fingers.
+  press:
+    45, 95, 115, 135@3, 155@1, 165@1
+    175@1f # Horrible. A guy asked me to try some db shoulder stuff first,
+           # which I did, and that probably fucked it.
+  prowler:
+    225@3 # Mostly quick walking with high posts.
+
+2013-06-06 (Thursday)
+  weight: 188.8
+  squat:
+    45, 135, 225, 275@3, 315@1
+    365@2x5
+  bench:
+    45, 95, 135, 185@3, 205@1, 230@1
+    252.5@{5,5,4f} # First rep on last set very strong, but tired quickly.
+
+# Boss barbell with Kevin.
+2013-06-04 (Tuesday)
+  weight: 187.0
+  squat:
+    45, 135, 225, 275@3, 315@1, 365@1, 405@1
+    420@5x5
+
+# No training for a while: mother in town :)
+
+2013-05-29 (Wednesday) # Let's do some fun things.
+  weight: 188.8
+  front squat: # Work up by triples. Try to do something 5x3.
+    45, 135, 185
+    225@5x3
+  press:
+    45, 95, 115, 135@3, 155@1, 165@1
+    175@3x5
+  power snatch: # Do some hang snatches, then go for 5x3.
+    95@5x3
+
+2013-05-27 (Monday)
+  squat:
+    45, 135, 225, 275@3, 315@1, 365@1, 405@1
+    430@2x5 # 1s very hard. Lower back very tired, unrecovered from Friday.
+            # Tough to catch breath between reps. 2s felt like the end, and
+            # I didn't want to push it, since no training on Friday anyway.
+            # Will finally actually take a little bit of a break.
+  bench:
+    45, 95, 135, 185@3, 205@1, 230@1
+    252.5@{5,5,4f} # 1s very hard. Bias to left. 2s ALSO VERY HARD.
+                   # 3s was extremely difficult, didn't attempt 5th rep.
+                   # Next day, left lat has a new soreness mode when stretched.
+
+2013-05-24 (Friday)
+  weight: 186.8
+  squat:
+    45, 135, 225, 275@3, 315@1, 365@1, 405@1, 455@1
+    500@1x2 # No trouble! Maybe a 3rd if my grip didn't slip a bit.
+  press:
+    45, 95, 115, 135@3, 155@1
+    172.5@3x5 # 1s5r was a 12-second grind. 2s easier.
+  deadlift:
+    135, 225, 275@3, 315@3, 365@3
+    # At this point, back was too shot, and I stopped. From squats?
+
+2013-05-23 (Thursday)
+  # Snatch and clean training with Max and Colin.
+  # Moderately high volume with very low weight (65, 95).
+
+2013-05-22 (Wednesday)
+  weight: 187.0
+  squat:
+    45, 135, 225, 275@3, 315@1
+    370@2x5
+  bench:
+    45, 95, 135, 185@3, 205@1, 230@1
+    250@3x5 # 1s5r tough, but 1r very fast. 2s solid. 3s strong.
+
+2013-05-21 (Tuesday)
+  weight: 187.0
+  press:
+    45, 95, 115, 135@3, 155@1
+    170@3x5 # 1s a bit tough. Strong, maybe, but shaky form?
+  preacher curl:
+    25@15, 45@12, 57.5@5x12 # Forearm splints in both arms.
+
+2013-05-20 (Monday)
+  weight: 187.6
+  squat: # Felt extremely tired even before starting.
+    45, 135, 225, 275@3, 315@1, 365@1, 405@1
+    430@5x5 # 1s quite tough. Exhausted. 2s also quite tough!
+            # 3s a bit easier. 4s hard I GUESS. Little pinch in lower back.
+            # By 5s my vision was blurry and I just wanted to sleep. Got it.
+
+# Training at Planet Granite (bent bars, one power rack, and took every
+# 45lb iron plate in the entire gym for the work set).
+2013-05-17 (Friday)
+  squat:
+    45, 135@2x5, 225, 275@3, 315@1, 365@1, 405@1, 455@1
+      # 455 felt like crap on my right knee + right quad at the top. Hard.
+    500@1x1 # VERY slow, and quite sure my upper back was highly rounded.
+      # Need to work on back strength. Or maybe volume is getting too much.
+  bench:
+    45, 95, 135, 155@3, 185@3, 205@1, 230@1 # Left shoulder hurting.
+    247.5@3x5 # 1s tough. 2s tough. 3s good speed, wanted to get it over with.
+
+# Training at Santa Cruz Strength, no mirror.
+2013-05-15 (Wednesday)
+  squat:
+    45, 135, 225, 275@3, 315@1
+    370@2x5 # 1s a bit tough without mirror. Feels more backward than usual.
+  press: # Tough without mirror + left shoulder hurting.
+    45, 75, 95, 115, 135@3, 155@1
+    155@3x5 # Kept it light. Couldn't do much.
+  ghr:
+    3x10
+  chinups:
+    0@10,10,7
+
+# Right foot badly hurt from excess walking on Friday, something like
+# bad tendonitis. Hurts during squats a bit, but walking is very hard.
+2013-05-13 (Monday) # Early morning lifting in Santa Cruz.
+  squat:
+    45, 135, 225, 275@3, 315@1, 365@1, 405@1
+    425@5x5 # 1s tough on hips. 2s good. 3s1r fell forward but caught
+            # and it didn't matter. 4s exhausted. 5s good.
+            # Upper back feels like cracking.
+  bench:
+    45, 95, 135, 155@3, 185@3, 205@1, 230@1
+    245@3x5 # 1s very strong. 2s weak. 3s a struggle.
+  preacher curl:
+    25@15, 45@8, 55@5x12 # Strong splint-like feeling in left forearm.
+
+2013-05-10 (Friday)
+  weight: 185.6
+  squat:
+    45, 135, 225, 275@3, 315@1, 365@1, 405@1, 455@1
+    495@1x1 # Good. Could have done more reps, but only going for a single.
+  press:
+    45, 75, 95, 115, 135@3, 155@1
+    167.5@3x5 # 1s5r tough. 2s better. 3s5r almost zero velocity.
+  deadlift:
+    135, 225, 275@3, 315@1, 365@1, 405@1 # Very tired lower back.
+    455@1xf # Felt lower back rounding and dropped it. Too tired.
+  ghr:
+    0@3x10
+
+# Abs and brachioradialis very sore from Monday curling / ab rolling.
+2013-05-08 (Wednesday)
+  weight: 187.0
+  squat:
+    45, 135, 225, 275@3, 315@1, 365@1, 405@1
+    405@2x5 # Hips feel like they have no power.
+    415@1x5 # Not bad. No pain. Little strength, though.
+  bench:
+    45, 95, 135, 155@3, 185@3, 205@1, 230@1
+    242.5@3x5 # 1s and 2s good. 3s tough.
+  ab wheel:
+    3x10
+  # Attempted to do lying tricep extensions, but my left elbow clicks
+  # painfully mid-rep now, and the pain is too much to continue.
+
+2013-05-06 (Monday)
+  weight: 186.0
+  squat:
+    45, 135, 225, 275@3, 315@1, 365@1, 405@1 # From 135, right adductor hurts.
+    430@1x2f # Right adductor hurt too badly during the reps. I could have
+             # gotten them--strength was low but not terrible--but it was
+             # too damn painful. Not risking an injury now.
+  press: # Blice is injured, so race to 225 suspended. Taking it slow and right.
+    45, 75, 95, 115@3, 135@1, 150@1
+    165@3x5 # Planned 160, but accidentally loaded up 165, and got it. Old form.
+  ab wheel: # Did in between press sets, for fun.
+    3x10 # Didn't feel like much, but a bit sore the next day.
+  preacher curl:
+    25@20, 35@15, 45@12, 55@5x12 # To limit. Good weight.
+      # All reps slow, controlled, and honest.
+
+2013-05-03 (Friday) # In good health. Back still feels a little strained.
+  weight: 185.4
+  squat: # Focus on tight abs.
+    45, 135, 225, 275@3, 315@1, 365@1, 405@1, 425@1, 450@1
+      # 450 pulled strongly on right patella, which hurt a bit.
+    490@1x1f # Focused too much on abs and forgot master cue. 2r fell forward.
+    490@1x1f # Fell forward again, but saved it. Grip widened, so no 2r.
+    495@1x3 # Felt extremely easy. Great. No back pain, no knee pain.
+            # Focused entirely on master cue. Looked easier than 490.
+            # How about that. FIVEPLATE :)
+  bench:
+    45, 95, 135, 155@3, 185@3, 205@1, 230@1
+    240@3x5 # 1s looked "very easy" to spotter. 2s a bit harder after 7.5 min.
+            # Made an effort to keep shoulders as low toward belt as possible.
+            # Feels much stronger, and fixed shoulder pain.
+
+2013-05-01 (Wednesday)
+  weight: 184.2 # Fluid loss from illness.
+  squat:
+    45, 135, 225, 275@3, 315@1
+    370@2x5 # 1s surprisingly heavy. Almost failed unracking. Quite weak.
+  press:
+    45, 75, 95, 115@3, 135@1, 150@1
+    165@3x4f # Couldn't get a 5th rep with/without pause at bottom.
+    175@1x1
+    180@1xf # No strength left.
+
+2013-04-30 (Tuesday) # Felt horribly sick.
+  weight: 185.0
+  bench:
+    45, 95, 135, 155@3, 185@3, 205@1, 230@1
+    # Benching while sick isn't working. Airways too constricted,
+    # can't breathe properly. Not worth training in this condition.
+
+# Back better -- doesn't need ice anymore. Still sick.
+2013-04-29 (Monday)
+  weight: 184.8 # Scale gives random readings 184.4 to 185.8.
+  squat:
+    45, 135, 225, 275@3, 315@1, 365@1, 405@1
+    425@5x5
+
+# Back hurt slightly more Saturday, feels a little better on Sunday. Icing it.
+# Sore throat developed Saturday, feels a little worse on Sunday. Ignoring it.
+
+2013-04-26 (Friday)
+  weight: 186.4
+  squat:
+    45, 135, 225, 275@3, 315@1, 365@1, 405@1, 445@1
+    485@2x3 # To limit. 1s damn hard. No more than 3.
+            # Form didn't feel tight -- felt like I was figuring it out
+            # as I went along. Right serratus anterior very tight.
+            # 2s3r spine cracked (like cracking a knuckle) in two vertebrae
+            # at the bottom, which scared me, and resulted in a tweaked
+            # quadratus lumborum on the right side. Not a sharp pain, more
+            # like a dull ache, and doesn't appear to be nerve-related.
+            # Can only induce a mildly sharp pain by letting the lower
+            # torso hang limp from the upper torso, producing a stretch.
+            # Hurts mostly near the hip.
+            # Keep getting injured at this exact weight, damnit.
+  press:
+    45, 75, 95, 115@3, 135@1, 150@1, 165@1
+    177.5@1x1f # 2nd rep got about halfway. No strength.
+    177.5@1xf  # Strange.
+    155@2x5 # 1s extremely hard. 2s5r damn hard. Strange...
+    155@1x3f # Now that's just wrong. Lost rep by having it fly forward
+             # after a bounce at the bottom, using the new form.
+
+2013-04-24 (Wednesday)
+  weight: 187.0
+  squat:
+    45, 135, 225, 275@3, 315@1
+    370@2x5 # Pretty tough.
+  bench:
+    45, 95, 135, 155@3, 185@3, 205@1
+    # Stopped bench early: left shoulder hurt (since Sunday).
+    # Started clicking mid-rep. Not risking injury.
+  # No power cleans due to shoulder. It really hurts.
+  chins:
+    0@3x10
+
+2013-04-23 (Tuesday)
+  weight: 187.0
+  press: # With new form.
+    45, 75, 95, 115@3, 135@1, 150@1, 165@1 # 165 very tough.
+    175@5x3 # Couldn't do more than 3 reps on each set due to pause at bottom.
+            # On the positive side, all the reps felt more honest.
+            # Feels like hell in elbow (slightly anterior). 2s damn hard.
+            # 3s some reps feel very easy if the bounce is right.
+            # 5s near limit.
+
+2013-04-22 (Monday)
+  weight: 187.0
+  squat:
+    45, 135, 225, 275@3, 315@1, 365@1, 405@1
+    425@5x5 # 1s very tough on hips. Not too hard. 3s5r getting tough.
+            # Taking 15 minute rests. 5s5r max effort for good speed.
+
+2013-04-21 (Sunday) # Starting Strength Bench/Press Seminar at Crossfit Oakland.
+  weight: 186.6
+  bench:
+    45@2x5, 95@5, 135@5, 185@5
+    225@3x5 # With way less rest between sets. 2-3 minutes.
+  press: # With the new press form. Very different. Writeup soon.
+    45@2x5, 75@5, 105@5, 135@5
+    165@1x5 # Last rep tough.
+    155@1x5 # Last rep tough again.
+    145@1x4f # This 2 minute rest between sets thing is terrible. Also waiting
+             # forever at the bottom of each rep, due to instruction.
+
+2013-04-19 (Friday)
+  weight: 185.8 # Suspect scale broken: reported consistent 186.4 pre-shower.
+  squat: # Trying to not bounce at the beginning. Smooth onto hamstrings.
+    45, 135, 225, 275@3, 315@1, 365@1, 405@1, 440@1
+    480@2x3 # VERY SOLID! 2nd set very strong.
+            # A video was taken, but I was unaware:
+            #  http://www.youtube.com/watch?v=YqTeXK6VBzc
+            # Need to work on not looking at my face in the mirror.
+  bench:
+    45, 95, 135, 155@3, 185@3, 205@1, 230@1
+    242.5@3x5 # Amazingly, went well. Not too tough. 3s5r a grind.
+
+2013-04-17 (Wednesday)
+  weight: 185.8
+  power clean:
+    45, 95@2x3, 115@3, 135@3
+    165@5x3 # 2s2r uncaught, 2s3r flung extremely high. 3s3r uncaught.
+            # 4s got, but terrible form. 5s3r took 3 attempts.
+            # Stay at weight, work on form (jumping position).
+  squat:
+    45, 135, 225, 275@3, 315@1
+    365@2x5 # Felt extremely weak.
+  press:
+    45, 75, 95@5, 115@3, 135@1, 150@1
+    160@3x5 # Surprisingly good.
+
+2013-04-16 (Tuesday) # At Boss Barbell.
+  weight: 184.6
+  bench:
+    45, 95, 135, 155@3, 185@3, 205@1, 230@1
+    242.5@1x5 # Extremely hard. New equipment changed my normal routine.
+    242.5@1x4f # Reps didn't feel tight at all: more like dropping the bar
+               # and struggling to get it back up. Retry at Google on Friday.
+
+2013-04-15 (Monday)
+  weight: 186.4
+  squat: # Hips very sore. Hamstrings very sore from 2 nordic curls yesterday.
+    45, 135, 225, 275@3, 315@1, 365@1, 405@1
+    420@5x5 # Each set easier than the previous. 15 minute rest between sets.
+  nordic curl:
+    1x3 # With bands.
+    1xmany # With bands.
+
+2013-04-12 (Friday)
+  weight: 185.6
+  squat:
+    45, 135, 225, 275@3, 315@1, 365@1, 405@1, 435@1
+    475@1x3 # Lightheaded at top of 3rd, so stopped.
+    475@1x2 # Easily more reps in the tank. 2x3?
+  press:
+    45, 75, 95, 115@3, 135@1, 150@1, 165@1
+    172.5@3x5 # 1s terrible bar path, very hard on right shoulder from dips.
+              # 2s and 3s with hip -- much easier.
+  power clean:
+    45, 95@3, 115@3, 135@3
+    160@5x3 # Terrible form, but got it.
+
+2013-04-10 (Wednesday)
+  weight: 187.0
+  power clean:
+    45, 95@2x3, 115@3, 135@3
+    155@5x3 # 1s tough. Made traps very sore. Form got better.
+  squat:
+    45, 135, 225, 275@3, 315@1
+    365@2x5 # Much more power than usual.
+  bench:
+    45, 95, 135, 155@3, 185@3, 205@1
+    215@2x5 # Shoulders are really shot from dips yesterday.
+
+2013-04-09 (Tuesday)
+  weight: 186.2
+  press:
+    45, 75, 95, 115@3, 135@1, 150@1, 165@1
+    170@3x5 # 1s less annoying than usual. Getting tough.
+  dip:
+    0@10, 25@5, 45@5, 55@5, 70@5
+    90@3x5 # 284lbs total including bodyweight + clothes.
+           # Fairly tough. Shoulder sore for days after.
+
+2013-04-08 (Monday)
+  weight: 184.8
+  squat:
+    45, 135, 225, 275@3, 315@1, 365@1, 405@1
+    420@5x5 # 1s tough but solid. Lower back weak, probably from DLs.
+            # 2s-4s extremely good. Back felt more vertical than normal.
+            # 5s tough but easier than last week. No breathing problems.
+  romanian deadlift:
+    45@12, 95@12, 115@5 # Lower back felt extremely weak, unbelted.
+    135@2x5 # Very easy. Belted. Didn't seem hard in hamstrings at all.
+    135@1x12 # Still seemed easy. Hamstrings unaffected the next day.
+
+2013-04-05 (Friday)
+  weight: 185.4
+  squat:
+    45, 135, 225, 275@3, 315@1, 365@1, 405@1, 435@1
+    470@1x3f # Form issue where grip released then re-caught with no tension.
+             # 2r also fell forward a bit. Strength was good -- all form issue.
+    470@1x2 # Fine.
+  bench:
+    45, 95, 135, 155@3, 185@3, 205@1, 225@1
+    240@3x5 # 1-2s not bad at all. Strong.
+  deadlift:
+    135, 225, 275@3, 315@1, 365@1, 405@1
+    455@1x1 # Felt very hard after squats. Back rounded a lot.
+
+2013-04-03 (Wednesday)
+  weight: 185.8
+  squat: # Facing away from mirror.
+    45, 135, 225, 275@3, 315@1
+    365@2x5 # Easy. Felt nick craning upward.
+  press: # 0.925%
+    45, 75, 95@5, 115@3, 135@1, 150@1
+    155@3x5
+  face pull:
+    25@12, 50@12, 60@3x12
+
+2013-04-02 (Tuesday)
+  weight: 184.0
+  bench:
+    45, 95, 135, 155@3, 185@3, 205@1, 225@1
+    237.5@3x5 # 3s5r tough, very slow. Nice!
+  barbell curl:
+    45, 65, 65@5x12 # Dropped weight to lighten load on back.
+                    # Way too easy. 95 is probably closer to right.
+  lying tricep extension:
+    25, 45, 75@5x12 # Last set a bit challenging.
+
+2013-04-01 (Monday)
+  weight: 184.0 # Despite all-you-can-eat buffets all weekend.
+  squat:
+    45, 135, 225, 275@3, 315@1, 365@1, 405@1
+    415@5x5 # Did not feel OK. Extremely hard. 2s almost failed
+            # (may have done 6 reps). 5s significantly harder than normal
+            # volume day.
+
+# Squat is going down to 415 5x5 volume, hoping it feels OK now.
+# Then work Friday up from 470. At higher BW now, so should be OK.
+# I need a lot of work on form at near-maximal weights. Feels sloppy.
+
+2013-03-29 (Friday)
+  weight: 183.2 # Oh good.
+  squat: # Trying triples to take some mental stress off. Nearing end of 5s.
+    135, 225, 275@3, 275@3, 315@1, 365@1, 405@1, 440@1
+    480@1x1f # 1r fell forward but saved. 2r tried to go extra-deep, but got
+             # stuck for a long time at the bottom. Form issues?
+  press:
+    45, 75, 95@5, 115@1, 135@1, 150@1
+    167.5@3x5 # 1s needed hip. Extremely difficult.
+              # 2s-3s tough but got it with bouced reps.
+              # Need more warmup, possibly a single at working weight.
+  deadlift:
+    135, 225, 275@3, 315@1, 365@1, 405@1
+    455@1x1 # Easy.
+    475@1x1 # Tough.
+    495@1x1 # Oh hell yeah. Held for about 4 seconds.
+            # Grip wasn't the problem: it was insufficient chalk.
+
+2013-03-27 (Wednesday)
+  weight: # Forgot to measure.
+  squat:
+    45, 135, 225, 275@3, 315@1
+    365@2x5 # Very tired and sore. Not too hard, but little force production.
+  bench:
+    45, 95, 135, 155@3, 185@3, 205@1, 225@1
+    237.5@1x4f # Felt bias on left side.
+  barbell curl:
+    45, 65, 95@5x12
+
+2013-03-25 (Monday)
+  weight: 184.8
+  squat: # Sharp pain in right knee at bottom.
+    45, 135, 225, 275@3, 315@1, 365@1, 405@1
+    425@5x5 # 1s very difficult on knee and both hips. 2s great but tough.
+            # Lost grip on 4s4r ascent, 5r with thumbs-around and loose.
+            # Couldn't catch breath. Extremely hard.
+            # 5s extremely difficult, basically to very limit.
+            # Should probably carry the bar lower.
+  press: # Taking care to not let elbows go out and around.
+    45, 75, 95@5, 115@1, 135@1, 150@1
+    165@3x5 # 1s very tough. 2s OK with hip. 3s 1r with hip, rest bounced.
+
+2013-03-22 (Friday)
+  weight: 184.2
+  bench:
+    45, 95, 135, 155@3, 185@3, 205@1, 225@1
+    235@3x5 # Easier than ever thanks to not squatting first.
+  barbell curl:
+    45, 65, 95@5x12
+  situps on decline bench:
+    0@3x12 # Actually moderately difficult, but mostly on upper quads.
+  dip:
+    0@10, 25@5, 45@3x5 # Added weight felt negligible.
+
+2013-03-20 (Wednesday)
+  weight: 184.2
+  squat:
+    45, 135, 225, 275@3, 315@1
+    365@2x5 # Back still feels weak, and upper right quad still bad.
+  press:
+    45, 75, 95@5, 115@1, 135@1
+    162.5@3x5 # With bounce.
+
+2013-03-18 (Monday)
+  weight: 184.2
+  squat: # Slight reduction in workload to 4x5.
+    45, 135, 225, 275@3, 315@1, 365@1, 405@1 # Right knee + right hip hurting.
+    425@1x5 # Stopping after 1s. Extremely tired from moving on Saturday.
+            # Right quad is extremely tired, right knee is painful, and lower
+            # back feels less stable than usual. Taking a light week to heal.
+  bench: # Repeat without injury.
+    45, 95, 135, 155@3, 185@3, 205@1, 225@1
+    232.5@2x5 # 1s good, but last rep slow. Left shoulder still a bit painful.
+              # 2s5r even closer to failure.
+    232.5@1x4f # Very little energy.
+  barbell curl:
+    45, 65, 85@5x12 # Aggravated shoulder.
+
+# Moved during the weekend -- 15 hours of lifting.
+# Felt very sick Saturday night and Sunday, didn't get enough food,
+# and overworked muscles, especially grip.
+
+2013-03-15 (Friday)
+  weight: # Forgot to measure.
+  squat:
+    135, 225, 275@3, 275@3, 315@1, 365@1, 405@1, 440@1
+    480@1x4f # 4r extremely hard, could barely stand for 5r. Hand position
+             # changed during 4r, and I lost upper back tightness (thumb was
+             # now around, and hands were wider). 5r failed by falling forward
+             # after stuck. Needs workload reduction + retry.
+             # This was after a very stressful day at work, so unideal.
+  press:
+    45, 75, 95@5, 115@1, 135@1
+    162.5@1x4f # Very strict.
+    162.5@1x4f # Painful pinching in left shoulder. Stopped.
+  face pull:
+    25@12, 50@12, 57.5@3x12
+  barbell curl:
+    45@12, 65@12, 85@1x5 # Stopped, shoulder pain.
+
+# Left shoulder injured from bench. Some small fibers are being pinched.
+
+2013-03-13 (Wednesday)
+  weight: 184.8
+  squat:
+    135, 225, 275@3, 315@1, 355@1 # Should have been 345. Whoops.
+    365@2x5 # Shins/calves hurting quite a bit.
+  bench:
+    45, 95, 135, 155@3, 185@3, 205@1, 225@1
+    235@3x5 # YEAH! Spotter touched 3s5r, but I immediately lowered it back
+            # down to that position and pressed it back up from there.
+            # So it's probably valid to count that last rep.
+            # Left shoulder feels... maybe impinged, as of the next day.
+
+2013-03-11 (Monday)
+  weight: 187.8 # After a shower.
+  squat: # Hips and right knee giving slight pain. Worse during warmup.
+    45, 135, 225, 275@3, 315@1, 365@1, 405@1 # 405 very hard on hips.
+    425@5x5 # Pain was manageable; warmup (especially 405) was more painful.
+            # Mostly felt in right hip. Plenty of strength left after 5s:
+            # could have done 1-2 more reps. Lower back also sore after 5s.
+            # It might be useful to try +2.5lb/wk instead of +5lb/2wk.
+            # Of course, the weights are inaccurate... need labeling.
+  press:
+    45, 75, 95@3, 115@1, 135@1
+    160@3x5 # Good weight called. 1s tough. +2.5 next time. No bounce.
+  barbell curl:
+    35, 55, 85@5x12 # Tough, but felt great. Lots of, uh, back.
+
+2013-03-08 (Friday)
+  weight: 184.6
+  squat: # Nervous for 2 hours before the lift, again.
+    45, 135, 225, 275@3, 315@1, 365@1, 405@1, 435@1
+      # No pain! Started reps by moving hips back.
+    475@1x5 # Not bad! Solid finish. No stupid screaming.
+  bench:
+    45, 95, 135, 155@3, 185@3, 205@1
+    232.5@3x5 # 1s OK. 3s great, had another rep in there.
+  deadlift: # Right knee started to get painful, probably from squats.
+    135, 225, 275@3, 315@1, 365@1 # Can't hold 315 double-overhand.
+    415@1x1 # Planned a triple, but didn't want to mess with knee.
+
+# The calf/shin pain appears to be not from squats, but from wearing
+# motorcycle boots around all day. Wearing sneakers removed almost
+# all of the pain.
+
+2013-03-06 (Wednesday)
+  weight: 184.2
+  squat:
+    135, 225, 275@3, 315@1, 345@1
+    370@2x5 # Hips and right knee very sore. 2s2r almost fell forward.
+            # Felt extremely heavy. After, calves hurt horribly.
+  press:
+    45, 75, 95@3 # Stopped: too tired, and calves/shins hurt too much.
+
+2013-03-04 (Monday) # Hip extremely sore.
+  weight: 184.2
+  squat:
+    45, 135, 225, 275@3, 315@1, 365@1, 405@1 # Form feels compromised by hip.
+    425@5x5 # 1s very hard in hip, right knee. At 405, upper back felt popping.
+            # 2-5s had no hip/knee pain during the lift, but sore hip after.
+            # Called success from 2s. Hard, but not very hard.
+            # Mostly an exercise in soreness management.
+  bench: # Reconfirmation, work back up.
+    45, 95, 135, 155@3, 185@1, 205@1
+    230@3x5 # 1s every rep very strong, even the last. Best set in a while.
+            # 2s tough; 3s5r medium finish. Could have done 232.5.
+  fat bar deadlift:
+    135, 190@3x5 # 1-2s challenging but no slippage. 3s5r was dropped.
+
+# Adductor, back, forearm are suddenly problem-free as of Sunday.
+# Shins are much improved: can ABS-pipe-roll them without shouting.
+# Left hip (upper quad?) is now moderately bothersome.
+
+2013-03-01 (Friday) # Nervous since 4PM. Elevated BPM, threw up a little.
+  weight: 184.0
+  squat: # Repeat from 02-01. Need spotters for re-racking safely.
+    45, 135, 225, 275@3, 315@1, 365@1, 405@1, 435@1
+    470@1x5 # Holy shit. Easier than 465. Felt amazing.
+            # Still very difficult, of course, but real progress.
+            # Much better than on 02-01.
+  press: # Try thumbless grip, ensure strict.
+    45, 75, 95@3, 115@1, 135@1
+    155@3x5 # Tons of power at bottom with thumbless. 160 next.
+  deadlift: # Last DL was 02-07. Start again low.
+    135, 225, 275@3, 315@1, 365@1
+    405@2x3 # Felt slight curvature in upper back. Tough on lats.
+            # But grip was extremely stable, better than ever.
+  lying tricep extension:
+    25@10, 75@5x12 # Tough. Maybe repeat?
+
+2013-02-27 (Wednesday) # Back still cramped.
+  weight: 182.2
+  squat:
+    135, 225, 275@3, 315@1, 345@1
+    365@2x5 # Adductors + back OK, forearms mostly OK. Shins hurting.
+  bench: # Reconfirmation, work back up.
+    45, 95, 135, 155@3, 185@1, 205@1
+    225@3x5 # Very hard. Probably from Monday's failure stuff.
+  barbell hammer curl:
+    35, 55, 90@5x12 # Hard, mostly in the shoudlers.
+
+2013-02-25 (Monday) # Huge cramp in right upper back in locker room beforehand.
+  weight: 182.2
+  squat: # Adductors, and back SHOT. Forearms better but not perfect.
+    45, 135, 225, 275@3, 315@1, 365@1, 405@1
+    420@5x5 # 3s tough, 4s OK, 5s a medium or hard.
+            # Back felt good under the weight, but sucked shit when released.
+  press: # Probably fatigued from Friday. No give, again.
+    45, 75, 95@3, 115@1, 135@1, 150@1
+    160@1x2f # Tried for strict. Very little force.
+    160@1x5 # Works if I do the shitty hip action, but that's not the goal...
+    # Given that I'm probably fatigued from Friday, practice wide grip:
+    135@7,4,5 # Wide grip, and did press starts to failure.
+              # Lots of tightness in left shoulder and trap.
+  forearm twist:
+    15@3x5 # Very difficult. But it appears to help forearm pain.
+
+# This week on TM: Attempting to increase Intensity day while
+# keeping Volume weight constant. Hopefully this will let me work up
+# to a difference of about 65 between Intensity/Volume from 45 now.
+#
+# Press is in the realm of [150 strict, 170 hips], so taking 160
+# and working back up.
+
+2013-02-22 (Friday)
+  weight: 181.6
+  squat:
+    45, 135, 225, 275@3, 315@1, 365@1, 405@1, 435@1
+    465@1x5 # Repeated from 01-25, which was "very solid".
+            # 1-3s were easy, 4s was hard, 5s was a death grind. Absolute end.
+            # TM might need to drop weight and restart -- even though
+            # linear ended at 460 3x5, so this should have been easy.
+  bench:
+    45, 95, 135, 155@3, 185@1, 205@1, 220@1
+    232.5@2x5 # 2s extremely close to failure, more than Monday's.
+    232.5@1x4f # Same as Monday. Attempted the rep, but had no push.
+               # 1-3r were extremely easy, felt like nothing. Volume practice?
+  face pull:
+    35@12, 50@3x12
+  lat pulldown:
+    85@10, 120@3x12
+  forearm twist:
+    10@3x5 # Where one "rep" involves winding fully in both directions.
+
+2013-02-20 (Wednesday)
+  weight: 182.2
+  squat:
+    135, 225, 275@3, 315@1 # Adductor is felt, but not horribly painful.
+    365@2x5 # Left forearm quite painful in stretch for squat position.
+  press: # Light Wednesday to not interfere with Friday bench.
+    45, 75, 95@3, 115@1, 135@1
+    150@3x5 # Strict. 2s getting tough. 3s really hurt forearm.
+  barbell curl:
+    45@12, 75@12 # 75 felt hard. Forearm pain too much.
+  barbell hammer curl: # Finally measured the trap bar: weighs 35.
+    85@5x12 # Last set to end. No forearm pain.
+  face pulls: # Slow.
+    30@12
+    50@3x12
+
+2013-02-18 (Monday)
+  weight: 182.2
+  squat:
+    45, 135, 225, 275@3, 315@1, 365@1, 405@1 # Adductors mostly ignorable.
+    420@5x5 # Correct weight. 2s-5s very tough. Sore after.
+  bench:
+    45, 95, 135, 155@3, 185@1, 205@1, 220@1
+    232.5@2x5 # Last rep extremely slow on each.
+    232.5@1x4f # Didn't attempt last rep -- no steam. Maybe Friday.
+  fat bar deadlift:
+    135
+    190@2x5 # Felt mostly in the thumb. Very hard. Couldn't do a 3s.
+
+2013-02-15 (Friday) # Left forearm extremely sore, doesn't want stretching.
+  weight: 181.2
+  squat: # I just miss squatting.
+    135, 225, 275@3, 315@1
+    365@2x5 # Adductors unaffected by squats. Quads, glutes very sore.
+  press:
+    45, 75, 95@3, 115@1, 135@1, 150@1, 160@1
+    170@1x3f # Hurt forearms too much. No power.
+    135@10, 135@9f, 135@6f # Volume for fun.
+  # Can't deadlift or do LTEs due to forearm pain. Still need to ride home.
+
+2013-02-13 (Wednesday) # Abs very sore. Hams/back overworked.
+  weight: 183.4
+  squat: # A heavier 5/3/1 deload week.
+    135, 225, 275@3
+    315@5, 365@5, 405@5 # Surprisingly difficult. Very little power output.
+                        # Lower back hurt a bit. Shins sting a bit.
+                        # Adductor is still felt, but is much better.
+  bench:
+    45, 95, 135, 155@3, 185@1, 205@1
+    230@3x5 # 1s strong. High on chest. 2s left a dull pain in left elbow.
+            # 3s to limit.
+  fat bar deadlift:
+    135
+    190@3x5 # 2s opening; 3s5r got up but opening on way down.
+  leg curl:
+    50, 90@8, 110@8
+    150@1x12, 150@1x10f # Left knee hurt a bit.
+  barbell curl:
+    45@12
+    90@5x12 # Very tight in forearms. Doesn't feel great.
+
+2013-02-11 (Monday)
+  weight: 182.6
+  leg curl:
+    50, 90@8, 110@8
+    140@5x12 # Alright.
+  press:
+    45, 75, 95@3, 115@1, 135@1, 150@1 # Left shoulder feels raw from bench.
+    167.5@3x5 # Used hip at bottom. Quite difficult.
+  fat bar deadlift:
+    135
+    185@3x5 # Tuff.
+  neutral grip chins:
+    0@2x10
+    0@1x5f
+
+2013-02-08 (Friday)
+  weight: 181.8
+  # No squatting -- horrible headache. Going to rest and take
+  # a 5/3/1 40/50/60 recovery week next week to hopefully resolve
+  # the latent shin and adductor pains I've been having.
+  # Lower back could also use some healing.
+  # It's been a long time since I took it easy.
+  leg curl:
+    50, 90@8, 110@8
+    130@5x8 # Felt mostly in calves. Weird. Headache hurts like hell though.
+  bench:
+    45, 95, 135, 155@3, 185@1, 205@1
+    227.5@3x5 # 3s slow but OK.
+  deadlift:
+    135, 225, 275@3, 315@1, 355@1
+    385@1x5 # Right hand opening. Fingers very tired.
+            # Felt back arching a bit on last 2 reps.
+  lying tricep extension:
+    25@10, 45@10
+    85@3x12 # Taking dl-style grip: very strong.
+    85@1x10f # Turned into a bench press.
+
+# Sick on Thursday -- didn't get enough sleep or food.
+# Extremely painful to swallow. Kept me up all night.
+# Either from hot tub or from spoiled milk at Google.
+
+2013-02-06 (Wednesday)
+  weight: 182.6
+  squat: # Still feel pain in adductors, but it's better.
+    45, 135, 225, 275@3, 315@1
+    375@2x5 # Calves still shitty. Zero adductor pain, but calves
+            # hurt so much that I couldn't walk for a while after 2s.
+  press: # Make same change to grip as made for Monday's bench.
+    45, 75, 95@3, 115@1, 135@1, 150@1
+    167.5@1x3f # Zero force. Not even close.
+               # In retrospect, this was probably because I was getting sick.
+               # It may also be useful to always take Wednesdays light.
+  fat bar deadlift:
+    135
+    175@3x5 # This was fine. Barely made the last set.
+  barbell curl:
+    45@12
+    90@5x12 # Not hard. Bunch of back involvement, as always,
+            # but it was about as honest as can be expected.
+
+2013-02-04 (Monday)
+  weight: 183.6
+  squat:
+    45, 135, 225, 275@3, 315@1, 365@1, 405@1
+      # Adductor pain at 135. Calves painful from 365 onward.
+    425@5x5 # 1s1r hurt adductor, rest fine. Calves VERY sore after.
+            # 2s easy, but calves sorer each time.
+            # After 3s, it's hard to walk (from calves).
+            # After 5s, it felt like death.
+  bench: # Focus on grip: hold index+middle with thumb. Less angled.
+    45, 95, 135, 155@3, 185@1, 205@1
+    225@3x5 # All sets very strong. Could have gotten a 6th.
+  fat bar deadlift:
+    135
+    165@3x5 # Not easy. Doesn't affect motorcycle ride home.
+
+# Deep tissue massage on Saturday. Dug extremely deep into everything,
+# especially adductors. Knots damn near everywhere.
+# On Sunday, adductors hurt in a different way: they're painful to
+# touch in new areas, but contraction no longer hurts.
+
+2013-02-01 (Friday) # Lower back sore, adductor occasionally painful.
+  weight: 182.2
+  squat:
+    45, 135, 225, 275@3, 315@1, 365@1, 405@1, 435@1
+    470@1x5 # 1-3r felt great. 3r a bit forward but recovered OK.
+            # 5r very tough: barely re-racked it. Strong adrenaline.
+            # Probably need spotters, at least for racking.
+  press:
+    45, 75, 95@3, 115@1, 135@1, 150@1
+    165@3x5 # 1s5r tough. 3s good.
+  deadlift:
+    135, 225, 275@3, 315@1
+    375@1x5 # Felt light this time, as opposed to 365. Keeping it easy.
+  fat bar deadlift:
+    65, 95, 135 # 135 was very solid
+    185@1x5 # Tough. Felt like most of the pressure was on thumbs.
+            # Drop down to 165, do 3x5.
+
+2013-01-30 (Wednesday)
+  weight: 181.6
+  squat:
+    45, 135, 225, 275@3, 315@1
+    365@2x5 # Much easier than usual.
+  bench:
+    45, 95, 135, 155@3, 185@1, 205@1
+    225@2x5 # Felt great except for 5th reps.
+    225@1x4f # Could have just barely gotten it, but spotter grabbed bar
+             # too early: he was worried that it was going to hit one of
+             # the bar hooks. Would be OK to count it -- was near top anyway.
+             # Shoulders extremely sore for the next two days.
+  lying tricep extension:
+    25@10, 45@10
+    85@4x12 # Didn't try a 5th set: some forearm pain.
+
+2013-01-28 (Monday)
+  weight: 182.2
+  squat:
+    45, 135, 225, 275@3, 315@1, 365@1, 405@1 # Adductor very painful.
+    420@1x5 # Kept good form despite adductor. On 2s1r, adductor lit up
+            # with an intense, local burning sensation that is most likely
+            # from a broken adhesion. Completed 2s without additional pain.
+            # Since then, ROM is improved on the adductor, and pain is lower.
+  press:
+    45, 75, 95@3, 115@1, 135@1, 150@1
+    162.5@3x5 # Actually tough. Squeezing the bar extremely hard helped.
+  barbell curl:
+    45@12
+    87.5@5x12 # It's hard to tell how much work the biceps are doing
+              # given the necessity to support them with the back.
+
+2013-01-25 (Friday) # Hopping on TM bandwagon without break.
+  weight: 183.2
+  squat:
+    45, 135, 225, 275@3, 315@1, 365@1, 405@1, 435@1
+    465@1x5 # Very solid!
+  bench:
+    45, 95, 135, 155@3, 185@1, 205@1
+    222.5@3x5 # Great.
+  deadlift: # ROUND PLATES!
+    135, 225, 275@3, 315@1
+    365@1x5 # Tough on fingers. Form probably awful. It's been a while.
+  lying tricep extension:
+    25@10, 45@10
+    82.5@5x12 # Some pain in right wrist, probably from DLs.
+
+2013-01-23 (Wednesday) # Middle finger on right hand swollen around nail.
+  weight: 183.6
+  squat:
+    45, 135, 225, 275@3, 315@1
+    365@2x5 # Tough. Very hard.
+  press: # Triceps very sore beforehand.
+    45, 75, 95@3, 115@1, 135@1, 150@1
+    160@3x5 # Doesn't feel hard -- just sore and fatigued.
+
+2013-01-21 (Monday)
+  weight: 179.8
+  squat:
+    45, 135, 225, 275@3, 315@1, 365@1, 405@1, 435@1 # Adductor pain returns.
+    460@3x5 # 1s obviously difficult. 2s nearly failed due to strength.
+            # Waited 17.5-20 minutes for 3s (normally around 15).
+            # 3s was FULLY to limit. Christ that was difficult.
+            # Last rep was a long yell. So drained that I couldn't rack it:
+            # legs wouldn't fire to raise the bar half an inch.
+            # Eventually shimmied it up.
+            # Really proud of getting this one.
+  bench:
+    45, 95, 135, 155@3, 185@1, 205@1
+    220@3x5 # Very easy! Weird. Made sure to keep elbows internally rotated.
+  lying tricep extension:
+    25@10, 45@10
+    80@5x12 # Made triceps so damn tight. To limit.
+            # Maybe not the best idea after bench, but whatever.
+
+2013-01-18 (Friday)
+  weight: 179.8
+  squat:
+    45, 135, 225, 275@3, 315@1, 365@1, 405@1 # Adductor less painful today.
+    455@3x5 # 1s not hard, very strong. 2s tough.
+            # 3s tough but strong -- used ammonia, felt great.
+  press:
+    45, 75, 95@3, 115@1, 135@1
+    157.5@3x5
+  barbell curl:
+    45@12
+    85@5x12
+
+2013-01-16 (Wednesday)
+  weight: 180.8
+  squat:
+    45, 135, 225, 275@3, 315@1 # Right adductor getting more painful.
+    365@2x5 # 1s felt tough. 2s OK. Back weak.
+  bench:
+    45, 95, 135, 155@3, 185@1, 205@1 # Used sticky pad for better arch.
+    217.5@3x5 # Each set to limit. Extremely hard.
+              # Arch was so strong, got trap pain like a high-bar squat.
+  lying tricep extension:
+    25@10, 45@10
+    80@2x12, 1x10f # First 2 sets very easy, but got very tired for 3rd.
+                   # Foam-rolled quads just before 3rd, maybe that did it.
+
+2013-01-14 (Monday)
+  weight: 180.0
+  squat:
+    45, 135, 225, 275@3, 315@1, 365@1, 405@1 # Right adductor extremely sore.
+    450@3x5 # 1s damn hard. 2s DAMN hard. 2s3r biased to right side.
+            # 3s better than 2nd. Better focus.
+            # Extremely challenging, especially with severe adductor pain
+            # during each rep.
+  press: # Some bouncing at the bottom.
+    45, 75, 95@3, 115@1, 135@1
+    155@3x5 # Most reps turned into an incline bench.
+  face pulls:
+    30@12, 42.5@12, 57.5@5
+    72.5@3x5 # This was very easy, but is apparently a large number?
+             # I don't know what I'm doing. I had time on my hands.
+             # Probably pulled too low.
+  barbell curl:
+    45@12
+    82.5@5x12 # Hey look, forearm pain's mysteriously gone.
+
+# Saturday, went for oly technique work at Catalyst Athletics.
+# Important points on snatch:
+# Before pull:
+# - Shins vertical
+# - Hamstrings fully taut
+# - Lats squeezing bar back toward body
+# - Shoulders more forward toward toes
+# During pull:
+# - Pull under the bar
+# After pull:
+# - No shrug
+
+2013-01-11 (Friday) # Extremely sore upon waking.
+  weight: 180.4
+  squat: # Taking a light day. Then heavy M+F, light W.
+    45, 135, 225, 275@3, 315@1, 365@1
+    405@2x5 # 1s light and fun. 2s fairly difficult.
+  bench:
+    45, 95, 135, 155@3, 185@1, 205@1
+    215@3x5 # 1s tough. Trying to use pecs thanks to Blice.
+            # 2s also tough. 3s great: used a cute female spotter.
+            # That's the secret weapon.
+
+2013-01-09 (Wednesday) # Finally, the day of reckoning for 445 squat.
+  weight: 177.8 # Suspicious. Expected more.
+  squat:
+    45, 135, 225, 275@3, 315@1, 365@1, 405@1
+    445@3x5 # 3s4r a bit forward; saved. Very difficult.
+  strict press:
+    45, 75, 95@3, 115@1, 135@1
+    150@3x5 # Not bad.
+  barbell curl:
+    45@10
+    80@5x12 # Extreme forearm pain, but I decided to bear through it.
+            # It was a bad idea.
+
+2013-01-07 (Monday)
+  weight: 179.4
+  squat: # Right adductor extremely sore.
+    45, 135, 225, 275@3, 315@1, 365@1, 405@1
+    440@3x5 # Exceptionally strong.
+  bench:
+    45, 95, 135, 155@3, 185@1, 205@1
+    212.5@3x5 # Very difficult. 3s exactly at limit.
+  power snatch: # Form mediocre at best.
+    45@3
+    65@3x3
+    95@2x3
+  # Can't curl: forearm pain.
+
+2013-01-04 (Friday)
+  weight: 178.0
+  squat:
+    45, 135, 225, 275@3, 315@1, 365@1, 405@1
+    435@3x5 # 1s great. 2s3r quad-dominant. 3s tough but great power.
+  strict press:
+    45, 75, 95@3, 115@1, 135@1
+    147.5@3x5 # Good, but minor wrist pain.
+  deadlift:
+    135, 225, 275@3, 315@1, 365@1
+    405@1x5 # Minor back rounding. Pretty hard.
+  barbell curl:
+    45@10
+    75@5x12
+
+2013-01-02 (Wednesday) # Little sick to my stomach.
+  weight: 179.2
+  squat:
+    45, 135, 225, 275@3, 315@1, 365@1, 405@1
+    430@3x5 # Very strong.
+  bench: # Wider grip: pinkies on rings.
+    45, 95, 135, 155@3, 185@1, 205@1
+    210@3x5 # Good but tough. Probably because it's been a while.
+  barbell curl:
+    70@5x12 # Strong.
+
+# Chest feeling better, but don't want to aggravate it.
+2012-12-31 (Monday)
+  weight: 178.4
+  squat:
+    45, 135, 225, 275@3, 315@1, 365@1, 405@1 # 405 very hard.
+    425@3x5 # 1s good. 2s-3s tough.
+  strict press:
+    45, 75, 95@3, 115@1, 135@1
+    145@3x5
+  barbell curl:
+    65@5x12 # Easy.
+
+2012-12-28 (Friday)
+  weight: 178.4
+  squat:
+    45, 135, 225, 275@3, 315@1, 365@1, 405@1 # 405 very hard.
+    420@3x5 # 1s strong but tough. 2s getting slow. 3s hard.
+  press:
+    45, 75, 95@3, 115@1, 135@1, 150@1
+    162.5@1x4f # Could get it with the hip motion, but it's silly.
+               # Pec injury is interfering anyway.
+    140@3x5 # Strict. Good weight choice.
+  barbell curl:
+    55@12
+    60@5x12 # Easy.
+
+2012-12-26 (Wednesday)
+  weight: 178.4
+  squat: # Injury to right pec makes it difficult to hold the bar.
+    45, 135, 225, 275@3, 315@1, 365@1
+    415@3x5 # Very good sets. Zero soreness.
+  # Can't bench: right pectoral muscle extremely painful.
+
+2012-12-24 (Monday)
+  weight: 178.6
+  squat:
+    45, 135, 225, 275@3, 315@1, 365@1
+    410@3x5 # 1s very clean. Cold sweats after.
+            # 2s mentally tough. Very tired. Next time will be fine.
+  press:
+    45, 75, 95@3, 115@1, 135@1, 150@1
+    160@3x5 # Strong, but right pec hurts from deadlifting.
+
+2012-12-21 (Friday)
+  weight: 177.6
+  squat:
+    45, 135, 225, 275@3, 315@1, 365@1
+    405@3x5 #1s surprisingly good. 2s5r falling forward. 3s good.
+  bench:
+    45, 95, 135, 155@1, 185@1
+    207.5@3x5 # OK, but right side going toward head. +5 or +2.5 next.
+  deficit deadlift:
+    135, 225, 275@3, 315@1
+    375@1x5 # Very hard. Back rounding?
+            # Long pause between each rep to let bar settle and reset position.
+  lying tricep extension:
+    25@10, 45@10
+    85@2x12 # Insufficiently recovered. 2s right shoulder blade hurting.
+
+2012-12-19 (Wednesday)
+  weight: 178.0
+  squat:
+    45, 135, 225, 275@3, 315@1, 365@1 # More recovered than on Monday.
+    400@3x5  # 2s tough. 3s5r extremely hard. 1 away from failure.
+             # Bad shin splints the next day. Weird.
+  press:
+    45, 75, 95@3, 115@1, 135@1, 150@1
+    157.5@3x5 # 1s5r some tough leanback. 2s excellent. 3s OK. Bouncing.
+  lying tricep extension:
+    25@10, 45@10
+    85@3x12 # Very tough. Each set about to failure. 3s12r was nearly a bench.
+  barbell curl:
+    45@12
+    55@5x12 # Not difficult, but taking it easy to avoid tendinitis again.
+
+2012-12-17 (Monday)
+  weight: 178.0
+  squat:
+    45, 135, 225, 275@3, 315@1, 355@1
+    395@3x5 # Extremely sore vastus lateralis. 3s full-body sweat.
+            # Much harder than 385.
+  bench:
+    45, 95, 135, 155@1, 185@1
+    200@3x5 # Extremely easy. 5-10lb jump next.
+  lying tricep extension:
+    25@10, 45@10
+    75@3x10 # Thought I did 85, but the shitty bar didn't weigh 25lbs.
+            # Explains why I used to have random problems/successes
+            # with LTEs earlier -- the weight was random.
+
+2012-12-14 (Friday)
+  weight: 176.8
+  squat:
+    45, 135, 225, 275@3, 315@1, 355@1
+    385@3x5 # Very easy. Easier than 375. No soreness.
+  press:
+    45, 75, 95@3, 115@1, 135@1
+    155@3x5 # Tough.
+  deficit deadlift:
+    135, 225, 275@3, 315@1
+    365@1x5
+  lying tricep extension:
+    25@10, 45@10
+    80@3x10 # To limit.
+  db curl:
+    25@15
+    35@3x12
+
+2012-12-12 (Wednesday)
+  weight: 175.4
+  squat: # Headache before/after lifts.
+    45, 135, 225, 275@3, 315@1
+    375@3x5 # Glutes less sore than last time. Feels good.
+  bench: # +5 linear
+    45, 95, 135, 155@1, 165@5, 185@1 # Whoops at 165.
+    195@3x5 # 2s tough. 3s5r tough.
+  lying tricep extension:
+    25@10, 45@10
+    75@3x8 # Very sore.
+
+2012-12-10 (Monday)
+  weight: 174.2 # Hopefully end of losses from illness. I can eat now.
+  squat: # Linear: +10lbs / session until 405, heavy wednesdays.
+    45, 135, 225, 275@3, 315@1
+    365@3x5 # Should have done 345. Ass on fire.
+  press:
+    45, 75, 95@3, 115@1, 135@1
+    160@1x3f # Well, that sucks.
+    150@3x5 # Very hard. Lower back feels stretched.
+  db curl:
+    25@15
+    32.5@3x12 # Focused on rep quality, fairly slow descent.
+
+# Looking at the last 2 months of lifting, it looks like I made very little
+# progress but on technique, while gaining about 7 lbs.
+
+2012-12-09 (Sunday) # Went to Planet Granite with Joshua to help with his form.
+  weight: 175.0
+  squat:
+    45, 135, 225, 275@3
+    315@1x5 # Didn't have much time, all I could do. Wasn't very easy.
+            # Glutes got extremely sore.
+  yoga:
+    1.5 hours # Probably never again, but a good experience.
+
+# Took 12-03 (Monday) off to spend time with mother: last day in NY.
+# Extremely bad food poisoning on 12-04, on the flight. Lost a lot of
+# weight (175), and as of 12-09 (Sunday), still slight nausea.
+# Couldn't keep down protein during that time, so huge regression.
+#
+# Back is fine though.
+#
+# The plan is to stay with linear, then TM, until strength is back
+# roughly at previous levels. Tempted to switch to a 4x/week model,
+# as outlined in PPST for a Split - MTTrF, Heavy, Heavy, Heavy, Light.
+# Or 5/3/1, which is a known-good split routine.
+
+2012-11-30 (Friday)
+  weight: 182.0
+  squat: # Taking it easy at ~80% of ~495 1RM.
+    45, 135, 225, 275@3, 315@1, 365@1
+    405@1x5
+  press:
+    45, 75, 95@3, 115@1, 135@1
+    155@3x5
+  prowler:
+    120@10
+
+2012-11-28 (Wednesday) # Experimental with back.
+  weight: 180.0
+  squat:
+    45, 135, 225@3, 275@1
+    315@3x5 # No real back pain, but everything is sore.
+  bench:
+    45, 95, 135, 155@1, 185@1
+    205@3x5 # Can't arch back, so benched flat.
+            # Noticed that all the bars in the gym are horribly bent.
+  hammer curl:
+    25@10, 35@8
+    45@5x8 # Very easy
+  dip:
+    0@20 # Extremely easy, could have done more
+    45@10
+    75@5
+  prowler:
+    100@10 # Killed less than it did last time.
+           # Last rep a full sprint, not even tough.
+
+# No lifting Monday: back is fucked. Probably from the asymmetric 2s
+# on Friday. Pinched nerve. Can mostly function by Tuesday, but hurts
+# if I lean backward at all. Slowly improving. Was extremely worried.
+
+2012-11-23 (Friday)
+  weight: 184.0 # Overestimation: contents in stomach.
+  squat: # Residual upper back pain did not interfere.
+    45, 135, 225, 275@3, 315@1, 365@1, 405@1, 435@1
+    485@1xf # Just stupid. Guy was playing heavy music, and I changed
+            # my readying pattern.
+    485@4x1 # 2s weights slipped toward the right because the clips in this
+            # gym apparently don't work for shit. Still got up, but it was
+            # unbalanced toward my right side.
+            # 3s was a perfect death grind.
+            # 4s was even more of a death grind, but I got pain in my lower
+            # back during the last half of the eccentric. Didn't do any
+            # more sets out of concern for spinal integrity.
+            # This is the end of singles. Squat > DL now.
+  bench:
+    45, 95, 135@3, 165@1, 185@1, 205@1
+    232.5@1x2f # Just shitty. Back pain didn't help.
+
+# Injured upper back on Thursday playing tug-of-war with dog. Twisted badly.
+
+2012-11-21 (Wednesday)
+  weight: 182.0
+  squat:
+    45, 135, 225@3, 275@1
+    320@2x5 # Easy, but lower back is sore.
+  press:
+    45, 75, 95@3, 115@1
+    147.5@3x5 # Very easy.
+  hammer curl:
+    25@10, 35@8
+    45@5x8 # Sweating, but OK. Arms not really tired.
+  prowler:
+    100@10 # Wendler's "Easy" day. Killed. Death to me. Prowler is useful.
+
+2012-11-19 (Monday)
+  weight: 181.0
+  squat:
+    45, 135, 225, 275@3, 315@1, 365@1, 405@1
+    420@5x5 # 2s very tough. Little bounce. 3s kiling quads on 4,5.
+            # Took 15 mins after. Getting shivers, chills.
+            # 4s felt like the end -- quads dead. Threw up in mouth after rest.
+            # 5s great. Very focused.
+  bench:
+    45, 95, 135@3, 165@1, 185@1, 205@1
+    222.5@4x3 # 1s-3s OK, but going up uneven with right side leaving.
+    222.5@1x2f # Hit safeties. Could have probably gotten it.
+    222.5@1x1f # Zero tricep strength.
+  ghr:
+    0@3x10 # This was basically death, cramping up like hell.
+           # Doing GHRs after 5x5 squats was not a good decision.
+
+2012-11-16 (Friday) # Back at Premier Fitness. They got a prowler and GHR!
+  weight: 182.0 # New scale rounds to 0.5, I think.
+  squat:
+    45, 135, 225, 275@3, 315@1, 365@1, 405@1, 435@1
+    480@4x1 # Extremely hard. Rack is too low, so need a partial squat
+            # to unrack. Any higher, can't rack at end.
+            # 2s completely halted halfway up. 3s OK.
+            # 4s extremely heavy, knees starting to hurt, calves sore.
+    480@1xf # This was stupid. Wasn't paying attention to form;
+            # launched myself completely forward at the bottom.
+    480@1x1 # Strong rep. Only rested a few minutes after the failure.
+            # So we can count it.
+  press:
+    45, 75, 95@3, 115@1, 135@1, 150@1, 165@1
+    180@1x2f # Zero tricep strength today. Felt very strang.
+    165@3x3 # Strict.
+  deadlift:
+    135, 225, 315@1, 365@1
+    405@1x3 # OK, but grip opening on the 3rd. Back rounding a bit. Tough.
+
+# Training in New York for about three weeks.
+# Very poor nutrition on Thursday due to all-day traveling.
+
+2012-11-14 (Wednesday) # Everything very easy today. No soreness.
+  weight: 179.8
+  squat:
+    45, 135, 225@3, 275@1
+    315@2x5
+  bench:
+    45, 95, 135, 155@1, 185@1
+    202.5@3x5
+
+2012-11-12 (Monday) # Extremely tired -- clearly unrecovered. No coffee.
+  weight: 180.6 # Not great.
+  squat: # 3rd week of 415, attempting to drive 470-480.
+    45, 135, 225, 275@3, 315@1, 365@1
+    415@5x5 # 1s extremely difficult, in quads. 2s, 3s damn hard.
+            # 4s extremely hard -- lots of panting between reps.
+            # 5s tiring but strong. Greater loss in endurance than in strength.
+  press: # Bodyweight. O fug.
+    45, 75, 95@3, 115@1, 135@1, 150@1, 165@1
+    180@5x3 # Not bad, but hip motion (sometimes minor leg) may be helping.
+    180@1x2f # Failed the very last rep after a 7-second fight. Had to breathe.
+    155@1x4f
+
+2012-11-09 (Friday)
+  weight: 180.4
+  squat:
+    45, 135, 225, 275@3, 315@1, 365@1, 405@1, 435@1
+    475@5x1 # 1s a bit forward. 2s tough. 3s-5s good. Probably 1-2 more weeks.
+  bench:
+    45, 95, 135@3, 165@1, 185@1, 205@1
+    230@1x3 # Tough.
+  rack pull:
+    135, 225, 275@3, 315@1, 365@1, 405@1
+    455@1x1 # Grip opening.
+
+2012-11-07 (Wednesday)
+  weight: 181.8
+  press: # Press first: equipment availability.
+    45, 75, 95@3, 115@1
+    145@3x5
+  squat:
+    45, 135, 225@3, 275@1
+    315@2x5 # Lower back extremely sore after.
+  db curl: 27.5@8 35@5
+    40@1x8 # Too much pain in right forearm. Stopped.
+
+2012-11-05 (Monday)
+  weight: 182.6
+  squat:
+    45, 135, 225, 275@3, 315@1, 365@1
+    415@5x5 # Extremely tiring, but strong, clean finish.
+  bench:
+    45, 95, 135@3, 165@1, 185@1, 205@1
+    220@6x3 # Shoulder pain on each set. Towards end, some pain in left elbow.
+  preacher curl:
+    45@8, 65@5, 75@3
+    82.5@1x5f # Brunt of work felt in forearms, which were tired from bench.
+
+2012-11-02 (Friday)
+  weight: 180.4
+  squat:
+    45, 135, 225, 275@3, 315@1, 365@1, 405@1
+    470@5x1 # Easy.
+  press:
+    45, 75, 95@3, 115@1, 135@1, 150@1, 165@1
+    175@6x3 # 4s extremely hard. Helped by very strong hip motion.
+            # No bouncing on any rep.
+            # First Friday progression -- took it easy Wednesday.
+    155@1x5f # Strict.
+  rack pull:
+    135, 225, 275@3, 315@1, 365@1, 405@1
+    455@1x1
+
+2012-10-31 (Wednesday)
+  weight: 180.0
+  squat:
+    45, 135, 225@3, 275@1 # Extremely sore today.
+    315@2x5
+  bench:
+    45, 95, 135, 155@1, 185@1
+    200@3x5
+  bb hammer curl: # Forgot 1.25lb plates at home.
+    55@8, 75@3
+    105@3x5 # This exercise is stupid.
+
+# Got invisalign. Makes drinking milk pretty obnoxious:
+# aligners require constant removal and cleaning.
+
+2012-10-29 (Monday)
+  weight: 180.2
+  squat:
+    45, 135, 225, 275@3, 315@1, 365@1
+    415@5x5 # 1s right side dipping. 2s getting tired - sloppy.
+            # Other sets good. Very tiring.
+  press:
+    45, 75, 95@3, 115@1, 135@1, 150@1, 165@1
+    170@6x3 # No bounce on 1s3r. Very hard. 2s extremely easy, great hips.
+            # Other sets solid. Good progress.
+    150@1x5 # Still residual strength, but I couldn't catch breath.
+
+2012-10-26 (Friday)
+  weight: 179.0
+  squat:
+    45, 135, 225, 275@3, 315@1, 365@1, 405@1
+    465@5x1 # 1s very light -- didn't even feel it.
+            # 2s great form; 3s feeling hard; 5s back to light.
+  bench: # Increasing extremely conservatively.
+    45, 95, 115, 135@3, 165@1, 185@1, 205@1
+    227.5@1x3
+    235@1x1
+    240@1x1
+    245@1x1 # New record. Limit.
+  deadlift:
+    135, 225, 275@3, 315@1, 365@1, 405@1
+    455@1xf # Didn't leave ground. Maybe DL every 2 weeks?
+
+2012-10-24 (Wednedsay)
+  weight: 178.6
+  squat:
+    45, 135, 225@3, 275@1
+    315@2x5 # Very easy.
+  press:
+    45, 75, 95@3, 115@1
+    142.5@3x5 # Very easy.
+  bb hammer curl:
+    55@8, 75@3
+    100@3x8 # Severe pain around wrist bone (bottom) on right hand.
+  preacher curl: # Killing time. Testing tendinitis.
+    45@8, 65@8, 75@8
+    85@1x8 # Exactly limit.
+    80@1x8
+    80@1x7f
+
+2012-10-22 (Monday)
+  weight: 178.0
+  squat:
+    45, 135, 225, 275@3, 315@1, 365@1
+    410@5x5 # Bit harder, probably due to deadlifting Friday.
+  bench:
+    45, 95, 115, 135@3, 165@1, 185@1, 205@1
+    217.5@6x3 # Some shoulder pain. Form is off: right side closer to head.
+              # Occasional shoulder imbalance, where right shoulder raises.
+  bb hammer curl:
+    55@8, 75@3
+    97.5@3x8
+
+2012-10-19 (Friday)
+  weight: 175.6
+  squat:
+    45, 135, 225, 275@3, 315@1, 365@1, 405@1
+    460@5x1 # 3s a bit high. 5s solid.
+  press:
+    45, 75, 95@3, 115@1, 135@1, 150@1, 165@1
+    170@1xf # So much for that.
+  deadlift:
+    135, 225, 275@3, 315@1, 365@1, 405@1
+    445@1x1 # OK
+    465@1x1 # Left hand open palm, but held (without thumb)
+    475@1xf # Right hand opened.
+  bb hammer curl:
+    55@8 # Need more warmup
+    95@3x8 # To limit.
+
+2012-10-17 (Wednesday)
+  weight: 174.2 # Ate tons yesterday. Oh well.
+  squat:
+    45, 135, 225@3, 275@1
+    315@2x5 # Knee pain during the day, but was fine after squatting. Easy.
+  bench:
+    45, 95, 115, 135, 155@1, 175@1
+    195@3x5
+  bb hammer curl:
+    55@8
+    92.5@3x8 # To limit.
+  lying tricep extension:
+    25@10, 45@10
+    90@3x8 # To limit.
+
+2012-10-15 (Monday)
+  weight: 175.8
+  squat:
+    45, 135, 225, 275@3, 315@1, 365@1
+    410@5x5 # Extremely difficult this week for some reason.
+            # Noticed that I keep going a bit forward during the descent.
+  press:
+    45, 75, 95@3, 115@1, 135@1, 150@1 # Needs more warmup. Maybe 165x1?
+    165@6x3 # 1s damn hard. No bounce on 3r.
+            # 2s easier, no bouncing. 3s3r paused midway. 4s,5s solid.
+    145@1x5f
+  bb hammer curl:
+    55@8
+    90@3x8 # Once again felt like the limit. Back was having trouble.
+
+2012-10-12 (Friday)
+  weight: 173.4 # Losing weight by Friday seems to be a common pattern here.
+  squat:
+    45, 135, 225, 275@3, 315@1, 365@1, 405@1
+    460@2x1 # 1s very hard.
+    460@1xf # Fell forward, with a 3-4 second struggle trying to right it.
+    460@2x1 # OK.
+    460@1xf # Fell forward again.
+  bench:
+    45, 95, 115, 135@3, 165@1, 185@1, 205@1
+    230@1x1f # Well that was disappointing.
+  # Stopped after failing on two lifts. Possibly overtired.
+
+2012-10-10 (Wednesday)
+  weight: 174.6
+  squat:
+    45, 135, 225@3, 275@1
+    315@2x5
+  press:
+    45, 75, 95@3, 115@1
+    140@3x5
+  bb hammer curl:
+    55@8
+    87.5@3x8
+  dip: # Pain in right shoulder.
+    0@15
+    70@3x5
+  db curl: # Doesn't trigger tendinitis if I use DBs.
+    25@10
+    35@3x8 # Very hard.
+
+# Happened to be near the gym; dropped in wearing jeans.
+2012-10-09 (Tuesday)
+  wrist curl: # (srs)
+    10@20, 15@20, 20@20, 25@20
+    30@3x15
+
+2012-10-08 (Monday)
+  weight: 176.2
+  squat:
+    45, 135, 225, 275@3, 315@1, 365@1
+    410@5x5 # Easy.
+  bench:
+    45, 95, 115, 135@3, 165@1, 185@1, 205@1
+    215@6x3 # All sets about the same difficulty; 7.5 min rest.
+  lying tricep extension:
+    25@10, 45@10
+    87.5@3x8
+
+# Measurements for posterity (all cold):
+# waist: 31.5" minimum, 36.0" maximum
+# thigh: 24.5"
+# upper arm: 14.5"
+# forearm: 12.0"
+# head: 23.0"
+# neck: 15.5"
+
+2012-10-05 (Friday) # Feeling a bit better.
+  weight: 173.6 # Well, that's surprising. Thought I ate more than enough.
+  squat:
+    45, 135, 225, 275@3, 315@1, 365@1, 405@1
+    455@5x1 # 1s, 2s extremely easy. 3s getting tired, loss of hearing.
+            # 4s, 5s still easy. This was awesome. Depth verified by 3rd party.
+  press:
+    45, 75, 95@3, 115@1, 135@1, 150@1
+    165@1x2f # Pressing after a heavy Monday doesn't seem to be working out.
+    165@1x1f
+    145@1x4f
+  rack pull: # Focus on strong grip without hand opening.
+    135 # Held for 10 seconds, easy.
+    225 # Held for 10 seconds, started opening at 8.
+    225 # Held for 10 seconds, started opening at 5.
+    225 # Held for 9 seconds.
+  lying tricep extension:
+    25@10, 45@10
+    85@3x8 # Yet again about to the limit.
+
+2012-10-03 (Wednesday) # Runny nose all day.
+  weight: 174.2
+  squat:
+    45, 135, 225@3, 275@1
+    315@2x5 # Fairly easy despite illness.
+  bench:
+    45, 95, 115, 135, 155@1, 175@1 # Forearm pain starting with 95.
+    192.5@3x5
+  bb hammer curl:
+    55@8
+    85@3x8
+
+2012-10-01 (Monday)
+  weight: 175.0 # No weight gain despite GOMAD and two double-cheeseburgers.
+  squat:
+    45, 135, 225, 275@3, 315@1, 365@1
+    405@5x5 # Still damn heavy.
+  press:
+    45, 75, 95@3, 115@1, 135@1, 150@1
+    165@5x3 # Tended toward uneven, with left side going up first.
+            # Extremely fucking hard. Very proud I got this far.
+    165@1x2f # Strength issue, no particular point of failure.
+    145@1x5f # Beat 6.
+  lying tricep extension:
+    25@10, 45@10
+    82.5@3x8 # Easier with closer grip.
+
+# Sick starting Monday -- some (very) sore throat.
+
+2012-09-28 (Friday)
+  weight: 175.0
+  squat:
+    45, 135, 225, 275@3, 315@1, 365@1, 405@1
+    450@5x1 # 1s tough: too forward. 2s-3s damn hard.
+            # 4s zero velocity -- but 5s was strong.
+  bench:
+    45, 95, 115, 135@3, 165@1, 185@1, 205@1
+    225@1x3 # Very solid. Regression's over, I guess!
+  lying tricep extension:
+    25@10, 45@10
+    80@3x8 # Hell on triceps over the next two days.
+  deadlift:
+    135, 225, 275@3, 315@1, 365@1, 405@1
+    450@1xf # Right hand opened about halfway up.
+
+2012-09-26 (Wednesday) # lifting channel meetup at Gold's!
+  weight: 175.0
+  squat:
+    45, 135, 225@3, 275@1
+    315@2x5 # Surprisingly easy.
+  press:
+    45, 75, 95@3, 115@1
+    140@3x5 # Tough.
+  pullups:
+    12@0
+
+2012-09-24 (Monday)
+  weight: 175.0
+  squat:
+    45, 135, 225, 275@3, 315@1, 365@1
+    405@5x5 # 1s easy. 3s difficult: 3s1r way on toes.
+  bench:
+    45, 95, 115, 135@3, 165@1, 185@1
+    212.5@1x5 # First three reps extremely solid, then rapid falloff.
+    212.5@1x4 # Stopped -- 4r too diffucult.
+    212.5@3x3 # Triples appear to be alright.
+      # Right shoulder feeling raw the next day.
+  calf raise: # During rest for bench.
+    135@8, 225@8
+    315@3x8 # Pretty much did nothing.
+
+# Solicited advice from KSC on progressing squat:
+# "Go to 450 for 5 singles. Progress 5 lbs per week for 6-8 weeks using
+# 5 singles across. When you feel close to a stall, switch back to 445
+# and try a 5RM. You'll get it. Also, gain about 25 lbs for fuck's sake."
+
+2012-09-21 (Friday)
+  weight: 173.4
+  squat:
+    45, 135, 225, 275@3, 315@1, 365@1, 405@1
+    445@1x4f # 4th a bit high, tried to go extra-low on 5th, failed right
+             # at the bottom, no strength. Possible loss of hamstring tension.
+  press:
+    45, 75, 95@3, 115@1, 135@1, 150@1
+    165@2x3 # 1s3r zero velocity. 2s easier than 1s.
+    165@2x2f # Did some push presses for the 3rd reps.
+    145@1x6
+  deadlift:
+    135, 225, 275@3, 315@1, 365@1, 405@1
+    445@1x1 # Not bad, but tired from squats.
+  bb hammer curl:
+    55@8
+    82.5@3x8 # last rep felt like the end.
+
+2012-09-19 (Wednesday)
+  weight: 174.0 # Started drinking more milk as of yesterday.
+  squat:
+    45, 135, 225@3, 275@1
+    295@2x5 # Knees very tender afterward.
+  bench:
+    45, 95, 115, 135, 155@1
+    190@3x5 # Easier than usual.
+  bb hammer curl:
+    55@8
+    80@3x8
+    80@1x7f, 80@1x5 # Just for fun.
+
+2012-09-17 (Monday) # First day with the cooling glove -- hell yea.
+  weight: 174.2
+  squat: # Lowered on advice from Blice, who did some reading. ~91% of 445.
+    45, 135, 225, 275@3, 315@1, 365@1
+    405@5x5 # Extremely difficult. 4s5r a death grind; 5s5r lower back weak.
+            # Slightly harder than 415@5x5. Residual soreness from DLs?
+            # Cooling glove does not appear to affect squats.
+  press:
+    45, 75, 95@3, 115@1, 135@1, 150@1
+    160@6x3 # Used glove: every set felt exactly the same as the first (!).
+    140@1x7f # Awesome.
+      # Results from glove match data from Stanford, which tested pushups,
+      # pullups, and bench press, all upper body exercises. Squats can likely
+      # therefore be improved by a cold footbath.
+
+# Thanks to Blice, we looked at Practical Programming again for advice on
+# TM stalls -- the Monday-Monday, Friday-Friday progress lines are only
+# for starting TM. Stalling likely indicates too much of a Monday stressor,
+# providing insufficient recovery for Friday. Dropping back on Monday
+# squats and having them increase at a slower rate might solve it. Taking data.
+
+2012-09-14 (Friday)
+  weight: 172.0
+  squat:
+    45, 135, 225, 275@3, 315@1, 365@1, 405@1
+    445@1x2f # Gym owners turned off Pantera, put on some pop/techno mix
+             # right as I grabbed the bar. Adrenaline went to zero.
+    445@1x3  # Not bad.
+  bench: # vol:7625. Assuming a ~210 5RM. Trying BradPitt's progression.
+    45, 95, 115, 135, 165, 185
+    210@1x3f # Probably tired from Wednesday dips. Or from extended warmup.
+    190@1x5
+    190@1x4f
+    190@2x3f
+    190@1x2f
+    185@1x2f # Well, hopefully all that volume did something. Total 7930.
+  deadlift: # Yet again, haven't deadlifted in about a month. No good.
+    135, 225, 275@3, 315@1, 365@1, 405@1
+    405@2x1 # Not bad. Traps sore the next day. Been a while.
+
+2012-09-12 (Wednesday)
+  weight: 173.4
+  squat:
+    45, 135, 225@3, 275@1
+    295@2x5 # Better than usual.
+  press:
+    45, 75, 95@3, 115@1
+    140@3x5 # Medium difficulty.
+  bb hammer curl:
+    55@8
+    77.5@3x8 # No spinal pain this time.
+  dip:
+    0@15 # Started getting some shoulder pain.
+    65@3x5 # Easier than the warmup.
+
+2012-09-10 (Monday)
+  weight: 172.0
+  squat:
+    45, 135, 225, 275@3, 315@1, 365@1
+    415@5x5 # 1s OK, 2s hard. 3s easier than last week's.
+            # Not sore from this the day after, for the first time.
+  bench: # vol:5105. Can keep an arch by using a towel for friction!
+    45, 95, 115, 135@3, 165@1, 185@1
+    215@1x4 # Effectively to failure. Regressed. First 3 reps felt great.
+    215@2x3 # About the limit.
+    185@1x5 # Backoff.
+  tricep pulldown:
+    55@8
+    70@2x8, 100@1x8 # Doesn't hurt if I start high.
+
+# No lifting Friday -- rapid onset of fever, migraine, full-body soreness
+# (including facial/eye muscles) on Thursday night, persisting until the
+# next morning. Couldn't walk or think, just lay in bed, in pain and groggy.
+# It passed rapidly mid-Friday. Bite mark on shoulder, so maybe a spider.
+# It's Saturday now and all symptoms are fully gone.
+
+2012-09-05 (Wednesday)
+  weight: 174.0
+  squat:
+    45, 135, 225@3, 275@1
+    295@2x5 # Doing less weight was working perfectly well, so dropping back.
+  bench: # Experimenting with closer grip.
+    45, 95, 115, 135, 155@1
+    190@3x5 # Heavy, but OK. Closer grip helps slightly.
+  dip:
+    0@20
+    60@3x5 # Not bad.
+  bb hammer curl: # Using a special ~35lb bar.
+    55@8
+    75@3x8 # Some pain in lower spine.
+
+2012-09-03 (Monday)
+  weight: 173.2 # 172.2 yesterday
+  squat:
+    45, 135, 225, 275@3, 315@1, 365@1
+    415@5x5 # 2s5r lost all velocity; 3s5r was about as difficult as possible.
+            # 4s surprisingly easy -- focused only on not leaning forward,
+            # using master cue. 5s easy, but 5s5r a bit above parallel.
+  press:
+    45, 75, 95@3, 115@1, 135@1, 150@1 # Extremely hard starting from 135.
+    160@1x1f # Huge regression, last time was 3x3, 1x2. From squats? Shoulder?
+    135@1x5f
+
+# Going to try close-grip bench from now on.
+# Note that bw was 172.2 on Friday morning.
+
+2012-08-31 (Friday)
+  weight: 174.2
+  squat:
+    45, 135, 225, 275@3, 315@1, 365@1, 405@1
+    440@1x5 # Not bad.
+  bench:
+    45, 95, 115, 135@3, 165@2, 185@1, 205@1
+    225@1x2f # Tried despite shoulder pain -- felt a huge warm rush in left
+      # shoulder on the 3rd rep. Stopped benching there.
+      # More painful the next day. Should do close-grip benching.
+  power clean:
+    95@5, 115@3, 135@3, 145@1
+    # Failed 155 a bunch of times
+    135@1x4
+
+# Current injuries: tendinitis in both arms, painful left shoulder,
+# constantly sore upper back on the right side, occasional knee pain.
+
+2012-08-29 (Wednesday)
+  weight: 173.2
+  squat:
+    45, 135, 225@3, 275@1
+    315@2x5 # Right knee very tender after. Pretty painful. Hollow.
+  press:
+    45, 75, 95@3, 115@1
+    135@3x5 # Huge pain in both forearms during/after. Tendinitis.
+
+# Left arm is just totally fucked up. Shoulder hurts fairly badly,
+# and the forearm is painful to the extent that gripping hurts.
+# I blame maxing on volume bench.
+
+2012-08-27 (Monday)
+  weight: 174.8
+  squat:
+    45^2, 135, 225, 275@3, 315@1, 365@1
+    410@5x5 # Reset back to get 5RMs.
+      # Figured out the cause of previous failure: in an effort to get
+      # guaranteed below-parallel depth, I would occasionally relax hamstrings
+      # at the bottom. This kills hip drive and overloads the quads.
+      # To fix this, I took a wider stance. This made the set harder,
+      # but all reps were below parallel, and hip drive was acceptable.
+      # Adductors are noticeably more worn than usual.
+  bench:
+    45, 95, 115, 135@3, 165@1, 185@1
+    210@5x5 # Actually got this! Set 1 went up easier than normal.
+      # Counting last rep, but it was completed with my legs flailing.
+  # Tried to do tricep pushdowns on a recommendation from BradPitt,
+  # but even just 40lbs caused huge pain in left elbow during the set.
+
+2012-08-24 (Friday)
+  weight: 173.6
+  squat:
+    45^2, 135, 225, 275@3, 315@1, 365@1, 405@1
+    445@1x4f # Meant to reconfirm 5RM. Appears to have regressed.
+      # This could have possibly been forced up, but it feels like I gave up.
+      # 3rd rep paused completely midway, then was raised chest-up.
+      # This doesn't really make sense with a 460 3RM...
+  press:
+    45, 75, 95@3, 115@1, 135@1 # Need more warmup.
+    160@3x3, 160@1x2f # bb curls interfering (forearm splints). Damn hard.
+    140@1x5f # Backoff.
+
+# Goal: 495 1RM squat at competition on 2012-11-03. 10 weeks out.
+# (California Men's Open 181lb Squat record is only 485.)
+# Assuming same proprtions as now: 490 2RM, 485 3RM, 470 5RM.
+# Current 5RM is 445, so 25lbs off. +5/wk for 5 weeks.
+# Will be very difficult. Need to also keep bodyweight < 181.
+
+2012-08-22 (Wednesday)
+  weight: 173.8
+  bench: # Done first due to equipment availability.
+    45, 95, 115, 135, 155@1
+    185@3x5 # Back to 90% of 5x5. Felt heavy.
+  squat:
+    45^2, 135, 225@3, 275@1
+    315@2x5 # Higher since failed Monday. Very easy.
+  dip:
+    0@20 # Warmup from Bill Starr.
+    55@3x5 # Not too heavy.
+  barbell curl:
+    45@10, 65@5
+    75@2x5 # Still gives sharp pain in forearm, but it's manageable.
+    75@1x8 # About to failure.
+
+2012-08-20 (Monday)
+  weight: 174.6
+  squat:
+    45^2, 135, 225, 275@3, 315@1, 365@1, 405@1
+    430@2x5  # 1s5r way too forward. Overstressed lower back. 2s5r high.
+    430@1x3f # Fell forward. Combination of several issues:
+             # 1) Trying to look down on all reps -- chest didn't rise.
+             # 2) Trying to sit back more and go deeper -- bigger rebound.
+             # The combination launched me forward at the lowest point,
+             # which put a huge stress on lower back, causing failure.
+    430@1xf  # Lower back fried from failure. No ascent.
+  press:
+    45, 75, 95@3, 115@1, 135@1
+    155@6x3 # Difficult pressing farther from mirror. 2s hard. 7.5 min rest.
+  hammer curl:
+    20@10, 30@3
+    52.5@3x8 # Feels closer to a row than a curl, honestly.
+
+2012-08-17 (Friday)
+  weight: 173.8
+  squat:
+    45^2, 135, 225, 275@3, 315@1, 365@1, 405@1
+    460@1x3 # Easy. Could have probably done more, but was geared for 3RM.
+  bench:
+    45, 95, 115, 135@3, 165@2, 185@1, 205@1
+    227.5@1x2f # Really don't know what to do with bench.
+  deadlift: # Haven't deadlifted in over a month.
+    135, 225, 275@3, 315@1, 365@1, 405@1
+    445@1x1 # Tried once -- couldn't pull from floor.
+            # Immediately tried again, and it went up with great difficulty.
+            # Upper back very sore (from Wed. presses, I think).
+  lying tricep extension:
+    25@10, 45@10
+    77.5@3x8
+
+2012-08-15 (Wednesday)
+  weight: 175.0
+  squat:
+    45^2, 135, 185, 225@1
+    285@2x5 # Some pain on right side of left knee.
+  press:
+    45, 75, 95@3, 115@1
+    140@3x5 # Probably too heavy for a recovery day.
+  hammer curl:
+    20@10, 30@3
+    # Stopped after warmup: arms felt heavy.
+
+2012-08-13 (Monday)
+  weight: 174.6
+  squat:
+    45^2, 135, 225, 275@3, 315@1, 365@1, 405@1
+    425@5x5 # Damn hard.
+  bench:
+    45, 95, 115, 135@3, 165@1, 185@1
+    207.5@4x5
+    207.5@1x4f # Strength issue. Rested sufficiently. Keeps happening.
+  hammer curl:
+    20@10, 30@3
+    50@3x10
+
+2012-08-10 (Friday)
+  weight: 173.2
+  squat:
+    45^2, 135, 225, 275@3, 315@1, 365@1, 405@1
+    455@1x3f # Form off on 3rd, went forward. Strength wasn't there anyway.
+    455@1x1 # Extremely heavy.
+    455@1xf # Form OK, just no strength left.
+      # So at this point it's 455x3, 450x4, and 445x5 was damn difficult.
+      # Should reset back down a bit and work up with clean 5s.
+  press:
+    45, 75, 95@3, 115@1, 135@1
+    155@1 # Not difficult.
+    160@1 # Slightly more difficult, but still OK. Possible 3RM.
+    165@1 # Felt like the limit.
+    170@1 # Got it up unevenly, but finished. But at the top, the rubber plate
+          # became caught on a bolt sticking out of the power rack -- when I
+          # tried to put it down, the right side stayed up, and I overloaded
+          # my left wrist. Stopped lifting at that point.
+          # Don't press inside the rack.
+
+2012-08-08 (Wednesday)
+  weight: 172.6
+  squat:
+    45^2, 135, 185, 225@1
+    285@2x5 # Very easy. I think nutrition was extra-good this week.
+  bench:
+    45, 95, 115, 135, 155@1, 185@1
+    200@3x5 # Tough.
+  dip:
+    25, 35
+    45@3x5 # Damn hard. Some reps too low. Hoping this will help press.
+
+2012-08-06 (Monday)
+  weight: 174.6
+  squat: # Focused on driving hips the entire time. No chest up.
+    45^2, 135, 225, 275@3, 315@1, 365@1, 405@1
+    420@5x5 # 12 mins rest is good. Some reps in 4th set a bit high.
+            # Not too difficult, but the last rep was too forward.
+            # Saved it, so plenty of residual strength.
+  press:
+    45, 75, 95@3, 115@1, 135@1
+    150@8x3 # Got all reps. Ride 8x3 for a while (Bill Starr).
+  lying tricep extension:
+    25@10, 45@10
+    75@3x10 # 2nd set tough. 3rd OK after 7.5 mins rest.
+
+2012-08-03 (Friday)
+  weight: 172.6
+  squat:
+    45^2, 135, 225, 275@3, 315@1, 365@1, 405@1 # Harder than usual.
+    450@1x4 # Last rep lost all hip drive. Extremely difficult to finish.
+    450@1x1 # Equally difficult to the previous 4th rep, after 7.5 mins rest.
+  bench: # Focus on traps and lats.
+    45, 95, 115, 135@3, 165@2, 185@1, 205@1
+    225@1x1 # Tried for 5, got 1! Likely just dead from squats.
+  rack pull:
+    135, 225, 275@3, 315@1, 365@1, 405@1
+    455@1x1 # Alright, but grip was opening.
+    465@1x1 # Grip opened, but it held in fingers.
+
+2012-08-01 (Wednesday)
+  weight: 173.2
+  squat:
+    45^2, 135, 185, 225@1
+    275@2x5 # Still extremely tired from Monday. Worried about Friday.
+  press:
+    45, 75, 95@3, 115@1
+    135@3x5 # Used a narrower, shoulder-width grip. Shoots up from the bottom.
+            # This is great!
+  hammer curl:
+    20@10, 25@10, 30@3
+    47.5@3x10
+
+# Found stretch marks in armpits on both sides from LTEs.
+# Going to hold off on them for a while. Shame.
+
+2012-07-30 (Monday)
+  weight: 172.8
+  squat:
+    45^2, 135, 225, 275@3, 315@1, 365@1
+    415@5x5 # THIS WAS VERY DIFFICULT.
+            # Needed 12 mins rest between sets; 10 wasn't enough.
+            # All 5th reps heavy except final set, which was perfect.
+            # A strange tingling throughout upper back between sets.
+  bench:
+    45, 95, 115, 135@3, 165@1, 185@1
+    205@4x5 # Going down to hit 5x5 cleanly.
+    205@1x4f # But I didn't. It's just damn heavy. Maybe Smolov time?
+
+2012-07-27 (Friday)
+  weight: 171.8
+  squat:
+    45^2, 135, 225, 275@3, 315@1, 365@1, 405@1
+    445@1x5 # Butterflies in stomach for an hour before the lift.
+            # Went away as I went through the psyching-up process.
+            # Very clean reps, good depth on all.
+            # 4 and 5 extremely slow and difficult. Better than last week's.
+  press:
+    45, 75, 95@3, 115@1, 135@1
+    155@1x3f # Did 2 push presses after that. Isn't this very low compared to Monday's? Hm.
+  # No DLs -- very tired, plus did grip work yesterday.
+  lying tricep extension:
+    25@10, 45@10
+    72.5@3x10 # Finally getting tough.
+  hammer curl:
+    20@10, 25@10, 30@3
+    45@3x10
+  sled pull:
+    45@100, 90@100, 135@100, 180@100
+    225@5x100 # Tough enough. Hard on calves.
+
+2012-07-25 (Wednesday)
+  weight: 171.6
+  squat:
+    45^2, 135, 185, 225@1
+    275@2x5
+  bench:
+    45, 95, 115, 135@3, 155@1, 175@1
+    197.5@3x5 # Some pain in left shoulder right before lifting.
+              # Pretty tough, surprisingly.
+  lying tricep extension:
+    25@10, 45@10
+    70@3x10 # Appears to exacerbate shoulder pain after the lift.
+
+2012-07-23 (Monday)
+  weight: 171.6
+  squat:
+    45^2, 135, 225, 275@3, 315@1, 365@1
+    410@5x5 # Button on the inseam of my shorts cut the hell out of
+            # my leg on the second set. Thought I burst some vessel.
+            # Otherwise, not that bad. Next week should be fine.
+  press:
+    45, 75, 95@3, 115@1, 130@1
+    150@5x5 # 5th rep on 1st set very hard. Later 5th reps push presses.
+  lying tricep extension:
+    25@10, 45@10
+    67.5@3x10 # This is a fun little exercise.
+
+2012-07-20 (Friday)
+  weight: 172.0
+  squat:
+    45^2, 135, 225, 275@3, 315@1, 365@1, 405@1
+    440@1x5 # Last rep completely stalled halfway up.
+            # Forced it up, but blood pressure was critical.
+  bench:
+    45, 95, 115, 135@3, 165@1, 185@1, 205@1
+    225@1x3f # Guess I actually have to think about programming.
+    185@1x5  # Immediately after. So tank wasn't empty.
+  rack pull: # A bit above the knee, unfortunately. Just grip work.
+    135, 225, 275@3, 315@1, 365@1, 405@1, 455@1
+    495@f # Unexpected -- couldn't lift it. Failure in grip. Need grip work.
+    315@2 # Held until grip failure -- about 7-10 seconds.
+  lying tricep extension:
+    25@10, 45@10
+    65@3x10 # Very easy this time.
+  hammer curl:
+    20@12, 25@12, 30@3
+    42.5@3x12 # Easy.
+  sled pull: # Walking, not sprinting.
+    45@100, 90@100, 135@100 # Feet, obviously.
+    180@8x100 # Pretty easy, although heart rate went crazy.
+
+2012-07-18 (Wednesday)
+  weight: 170.6
+  squat:
+    45^2, 135, 185, 225@1
+    275@2x5
+  press:
+    45, 75, 95@3, 115@1
+    135@3x5 # All reps without bounce. 5th reps very difficult.
+  hammer curl:
+    20@12, 25@12, 30@3
+    40@3x12
+
+2012-07-16 (Monday)
+  weight: 171.2
+  squat:
+    45^2, 135, 225, 275@3, 315@1, 365@1
+    405@5x5 # Surprisingly easy. Good form, verified. Not even sore after.
+  bench:
+    45, 95, 115, 135@3, 165@1, 185@1
+    207.5@3x5 # Very heavy. Might need a reset.
+    207.5@2x4f
+
+2012-07-13 (Friday)
+  weight: 169.4
+  squat:
+    45^2, 135^2, 185, 225, 275@3, 315@1, 385@1 # Maybe 365, 405 would be better.
+    435@1x5 # Extremely hard. 5-10 secs between last reps. Last very slow.
+  press:
+    45, 75, 95@3, 115@1, 135@1
+    155@1x2f # Did 3 push-presses after this.
+    135@1x2f # Just tired from chins, I guess.
+      # It might be useful to restart from a lower number, and
+      # not bounce at the bottom.
+  lying tricep extension: # Since I failed the presses, have some fun.
+    25@10, 45@10, 55@10
+    60@3x10 # Damn sore from this through Monday.
+      # Hits different part of tricep (the back part) than bench.
+  sled pull: # Sprints.
+    45@100'
+    90@8x100' # Fell from exhaustion on the 7th set.
+      # Looks like this is a good substitute for hill running.
+
+2012-07-11 (Wednesday)
+  weight: 171.4
+  squat:
+    45^2, 135, 185, 225@1
+    275@2x5
+  bench:
+    45, 95, 115, 135@3, 155@1, 175@1 # Sufficient warmup.
+    195@3x5
+  chins:
+    45@2x5 # Some left elbow pain; left out a set.
+
+2012-07-09 (Monday)
+  weight: 172.0
+  squat:
+    45^2, 135, 185, 225, 275@3, 315@1, 365@1
+    400@5x5 # Tiring.
+  press:
+    45, 75, 95@3, 115@1, 130@1
+    147.5@5x5 # Last reps on 2nd and 3rd sets were push presses.
+
+2012-07-06 (Friday)
+  weight: 171.4
+  squat:
+    45^2, 135^2, 185, 225, 275@3, 315@1, 385@1
+    430@1x5 # Singlet permits greater ROM. Belt was interfering with shorts.
+            # Obviously heavy, but good reps. Forward on 4th, making 5th hard.
+  bench:
+    45, 95, 115, 135@3, 165@1, 185@1
+    225@1x3 # Planned 220@1x3, thought 225@1x1 sounded more fun, got 3 reps.
+            # Surprisingly easy. All reps quite fast.
+  deadlift:
+    135, 225, 275@3, 315@1, 365@1, 405@1
+    470@1xf # Too tired.
+  barbell curl:
+    45@10, 55@10
+    65@3x10 # Arm pain was lower, so did this instead of hammer curls.
+
+2012-07-04 (Wednesday)
+  weight: 169.6 # Mild drinking last night; insufficient milk.
+  squat:
+    45^2, 135, 185, 225@1
+    265@2x5
+  press:
+    45, 75, 95@3, 115@1, 130@1
+    140@3x5
+  # No curling: left elbow acting up.
+
+2012-07-02 (Monday)
+  weight: 170.6
+  squat:
+    45^2, 135, 185, 225, 275@3, 315@1, 365@1
+    395@5x5 # Unsore throughout. Not even all that tired/heavy. Weight gain!
+  bench:
+    45, 95, 115, 135@3, 165@1, 185@1
+    205@4x5, 205@1x4F # 10 mins rest before last set, so just heavy.
+                      # 1st and 2nd sets were extremely easy.
+
+2012-06-29 (Friday)
+  weight: 169.2
+  squat:
+    45^2, 135^2, 185, 225, 275@3, 315@1, 365@1
+    425@1x5 # Extremely heavy. Warmup was hard. Reps probably slightly high,
+            # but it's really hard to tell at that blood pressure.
+  press:
+    45, 75, 95@3, 115@1, 135@1 # Shoulders cracking on early reps.
+    152.5@1x4, 152.5@1x1 # OK. Just heavy.
+  deadlift:
+    135, 225, 275@3, 315@1, 365@1, 405@1
+    465@1x1 # Perfect. Changes since last time:
+            # 1. Kept bar over mid-foot. 2. Started with knee extension.
+  hammer curl:
+    22.5@12, 27.5@12, 32.5@3
+    37.5@3x12 # Hammer curls are pretty silly.
+
+2012-06-27 (Wednesday)
+  weight: 169.4
+  squat:
+    45^2, 135, 185, 225@1
+    265@2x5 # Soreness / dull pain on left side of left knee during reps.
+  bench:
+    45, 95, 115, 135@3, 155@1
+    192.5@3x5 # First set tough in delts/tris. Slow. Needs more warmup.
+              # Right side is rising more quickly than left.
+  hammer curl:
+    22.5@12, 27.5@12
+    35@3x12 # Alright.
+
+2012-06-25 (Monday) # Occasional pain in lower back last night and today.
+  weight: 169.4
+  squat:
+    45^2, 135, 185, 225, 275@3, 315@1, 365@1 # Pain in left knee on 225.
+    390@5x5 # Very strong finish despite soreness & pain. 10 mins rest.
+            # All reps confirmed below parallel, although right shoulder dips.
+  press:
+    45, 75, 95@3, 115@1, 130@1
+    145@5x5
+
+2012-06-22 (Friday)
+  weight: 168.2
+  squat:
+    45^2, 135^2, 185, 225, 275@3, 315@1, 365@1
+    420@1x5 # Not too bad. Friend told me all reps except last looked at
+            # or very slightly above parallel. Last was definitely below.
+  bench:
+    45, 95, 115, 135@3, 165@1, 185@1
+    217.5@1x3 # Went for a 4th but the retard spotter started curling the
+              # bar during the ascent for no particular reason.
+  deadlift:
+    135, 225, 275@3, 315@1, 365@1, 405@1
+    # This was strange. Tried 470, couldn't get it off the ground, even
+    # though not too long ago I got 475. OK, so I tried 455, couldn't get
+    # that off the ground either. Then I /retried/ 405, and /that/ wouldn't
+    # budge as well! Back angle too flat? Need to use more legs?
+    # Bring SS next time and make sure that form is good.
+    405@1x1
+
+2012-06-20 (Wednesday)
+  weight: 169.2
+  squat:
+    45^2, 135, 185, 225@1
+    265@2x5 # Taking it a bit lighter this week. Sorer from Monday than usual.
+  press:
+    45, 75, 95@3, 115@1
+    137.5@3x5 # Tough. Didn't wear belt.
+  hammer curl:
+    22.5@12, 27.5@12
+    32.5@3x12 # Hard to do this without involving shoulder too much.
+
+2012-06-18 (Monday)
+  weight: 169.2
+  squat:
+    45^2, 135, 185, 225, 275@3, 315@1, 365@1
+    385@5x5 # Heavy, but not exhausted at the end at all. Tons of energy!
+            # Lower back really sore, though. Took 10 minutes to get better.
+  bench:
+    45, 95, 115, 135@3, 165@1, 185@1
+    202.5@5x5 # Last rep very close to failure. Perfect weight.
+
+2012-06-15 (Friday)
+  weight: 168.2
+  squat:
+    45^2, 135^2, 185, 225, 275@3, 315@1, 365@1
+    415@1x5 # Extremely tired today. Thought I couldn't complete warmup.
+            # 5RM was really damn difficult.
+  press:
+    45, 75, 95@3, 115@1, 135@1
+    150@1x4, 150@1x2 # Also heavy.
+  # No deadlifts: tired.
+
+2012-06-13 (Wednesday)
+  weight: 167.0 # Weird. Ate a lot yesterday.
+  bench: # Gym very crowded; got access to this first.
+    45, 95, 115, 135@3, 155@1
+    190@3x5 # Pretty tough.
+  squat:
+    45^2, 135, 185, 225@1
+    275@2x5 # Felt very heavy.
+  # No chins/curling -- arms dead from bench. Don't want to push it.
+
+2012-06-11 (Monday)
+  weight: 168.4
+  squat:
+    45^2, 135^2, 185, 225, 275@3, 315@1, 355@1
+    380@5x5 # Heavy, but a solid victory.
+  press:
+    45, 75, 95@3, 115@1, 130@1 # Good warmup.
+    142.5@1x5
+    142.5@1x4 # Whoops. Changed gaze position, and the bar wound up doing
+              # some weird circular rotation thing at the bottom.
+              # I'm too used to looking into the mirror.
+    142.5@3x5 # Looked at mirror: rest of the sets were fine.
+
+2012-06-08 (Friday)
+  weight: 167.8
+  squat:
+    45^2, 135^2, 185, 225, 275@3, 315@1, 365@1
+    410@1x5 # Possibly high on last 2 reps.
+  bench:
+    45, 95, 115, 135@3, 165@1, 185@1 # Arm pain from previous curls.
+    215@1x3 # Got it easy. Maybe 4th, but didn't trust spotter.
+  deadlift:
+    135, 225, 275@3, 315@1, 365@1, 405@1
+    475@1x1 # Couldn't hold it at the top, but it got there. Needs redoing.
+
+2012-06-06 (Wednesday)
+  weight: 167.8
+  squat:
+    45^2, 135, 185, 225@1
+    265@2x5 # Good.
+  press:
+    45, 75, 95@3, 115@1
+    135@3x5 # Surprisingly light! Didn't even stay tight.
+  preacher curl:
+    45, 65
+    90@3x5 # Sharp pain in mid-forearm at top of each rep.
+
+2012-06-04 (Monday)
+  weight: 168.8
+  squat:
+    45^2, 135^2, 185, 225, 275@3, 315@1, 355@1
+    375@5x5 # Not too bad.
+  bench:
+    45, 95, 115, 135@3, 165@1, 185@1
+    200@5x5 # Nearly failed.
+
+2012-06-01 (Friday)
+  weight: 166.6
+  squat:
+    45^2, 135^2, 185, 225, 275@3, 315@1, 365@1
+    405@1x4f, 405@1x1 # Went too low, missed bounce.
+      # Not too difficult, all-in-all. Way easier than Monday's.
+  press:
+    45, 75, 95, 115@1, 135@1 # Did 5 instead of 3 on 95 accidentally.
+    147.5@1x4f, 147.5@1x1 # Just heavy, not too bad.
+  deadlift:
+    135, 225, 275@3, 315@1, 365@1, (405@1)
+    435@1x1 # Just kept adding 10lbs until failure. Lots of time on my hands.
+    445@1x1
+    455@1x1
+    465@1x1 # Didn't fail, but felt like the limit. Stopped. +40lbs to 1RM!
+
+2012-05-30 (Wednesday)
+  weight: 167.8
+  squat:
+    45^2, 135, 185
+    245@2x5 # Alright. Not much different from 225.
+  bench:
+    45, 95, 115, 135@3, 155@1
+    187.5@3x5 # Very easy.
+  preacher curl:
+    45, 65
+    87.5@2x5, 87.5@1x6f
+
+2012-05-28 (Monday) # Memorial Day.
+  weight: 168.6 # Oh boy.
+  squat:
+    45^2, 135^2, 185, 225, 275@3, 315@1, 355@1 # Very sore after warmup.
+    375@3x5 # Extremely difficult; nearly to failure. Form breakdown.
+  press: # Dropping down -- last 140@5x5 missed a Friday. Maybe it's crucial.
+    45, 75, 95@3, 115@1
+    140@5x5 # First set extremely hard; last sets the best.
+      # I got better at switching to mainly back muscles as the sets went on.
+  preacher curl:
+    25@10, 45, 65
+      # Forearms weak from presses; stopped after warmup.
+
+2012-05-24 (Thursday)
+  weight: 167.6
+  bench:
+    45, 95, 115, 135@3, 165@1, 185@1
+    197.5@5x5 # Not difficult.
+  deadlift:
+    135, 225, 275@3, 315@1, 365@1
+    425@1x1 # Heavy.
+  preacher curl:
+    25@10, 45, 65
+    85@3x5 # Close to failure.
+
+2012-05-22 (Tuesday)
+  weight: 166.6
+  # No squats: Tired and training is messed up this week anyway.
+  press:
+    45, 75, 95@3, 115@1
+    142.5@2x5, 142.5@2x4F, 142.5@1x3, 142.5@1x2F
+    # Kept favoring left side. Left would go up, right would stay in place.
+  preacher curl:
+    25@10, 45, 65
+    80@2x5, 80@1x7F
+
+# No training Monday: SNSD concert.
+
+2012-05-18 (Friday)
+  weight: 167.0
+  squat:
+    45^2, 135^2, 185, 225, 275@3, 315@1, 365@1
+    415@1x3F, 415@1x2 # Knees kept going forward. Extremely hot in gym.
+  bench:
+    45, 95, 115, 135@3, 165@1, 185@1
+    210@1x4 # +5 instead of +2.5. Tried for 3. Worked :)
+  deadlift:
+    135, 225, 275@3, 315@1, 365@1
+    415@1x1 # Easy.
+
+2012-05-16 (Wednesday)
+  weight: 166.6
+  squat:
+    45^2, 135, 185
+    245@2x5 # Alright. Not much different from 225.
+  press:
+    45, 75, 95@3
+    132.5@3x5 # Tough. Gym was very hot and I took little rest.
+
+2012-05-14 (Monday)
+  weight: 166.6
+  squat: # Deloading way down to take it easy for a while.
+    45^2, 135^2, 185, 225, 275@3, 315@1, 355@1
+    380@4x5 # Good weight. Tough.
+  bench:
+    45, 95, 115, 135@3, 155@1
+    195@5x5
+  preacher curl:
+    25@10, 45, 65
+    75@2x5, 75@10F # No pain! Awesome.
+
+2012-05-11 (Friday)
+  weight: 165.4
+  squat:
+    45^2, 135^2, 185, 225, 275@3, 315@1, 365@1
+    430@2, 430@1F, 430@F
+      # Extremely tired all day today, for no obvious reason.
+      # Warmup was extremely difficult, starting at 225 -- I honestly
+      # was not expecting to get any reps of 430 whatsoever.
+      # Calling it a day after second failure.
+  # Completely exhausted. No more training today.
+
+2012-05-09 (Wednesday)
+  weight: 166.6
+  squat:
+    45^2, 135, 185
+    225@2x5
+  bench:
+    45, 95, 115, 135@3, 155@1
+    185@3x5
+  chins:
+    60@2x5, 60@1x4 # Tough; didn't make last rep. Left elbow v. unhappy.
+
+2012-05-07 (Monday)
+  weight: 166.6
+  squat:
+    45^2, 135^2, 185, 225, 275@3, 315@1, 355@1
+    395@2, 395@3x5, 395@3 # Bounced off safety on 3rd rep, causing failure.
+      # Kept volume constant. Very difficult. Lots of rest.
+  press:
+    45, 75, 95@3, 115@1
+    140@5x5 # Tough, but increasing will be fine.
+
+2012-05-04 (Friday)
+  weight: 166.2
+  squat:
+    45^2, 135^2, 185, 225, 275@3, 315@1, 365@1
+    425@2, 425@1F, 425@2 # Failed 2x2 due to being a little bit forward.
+      # Tolerance for deviations in form is extremely low.
+  bench:
+    45, 95, 115, 135@3, 165@1
+    205@1x5 # Tried 4, got 5. Guy said ROM was too high -- aim lower on torso.
+    165@1x8 # Backoff set. Just right.
+  deadlift:
+    225@5, 275@3, 315@1, 365@1
+    415@1x1 # Very nearly up, but grip slipped near the top.
+      # Was holding it with hook grip.
+    415@1x1 # Finished easily, no problems. Not even hard.
+      # Holding with thumbs gribbing index + middle fingers. Much stronger.
+
+2012-05-02 (Wednesday)
+  weight: 166.2
+  squat:
+    45^2, 135, 185
+    225@2x5 # Lower back unhappy.
+  press:
+    45, 75, 95@3
+    130@3x5 # Left elbow pained.
+
+2012-04-30 (Monday)
+  weight: 167.2
+  squat:
+    45^2, 135^2, 185, 225, 275@3, 315@1, 355@1
+    390@4x5 # Lower back really not happy. Good form. Looked up though.
+  bench:
+    45, 95, 115, 135@3, 155@1
+    192.5@5x5 # Minor pain in left elbow starting from warmup. Not heavy.
+
+2012-04-27 (Friday)
+  weight: 165.4
+  squat:
+    45^2, 135^2, 185, 225, 275@3, 315@1, 355@1
+    420@1F, 420@2x2 # Failed second rep: bar position too forward. Rest OK.
+  press:
+    45, 75, 95@3, 115@1
+    145@1x4, 145@1x1 # OK, just heavy.
+    100@1x10 # Backoff
+
+2012-04-25 (Wednesday)
+  weight: 165.4
+  squat:
+    45, 135, 185
+    225@2x5 # Very easy. No knee pain! Could have done much more, but rest day.
+  bench:
+    45, 95, 115, 135@3, 155@1
+    185@3x5 # Put on the wrong weight. Should have been 180. Hard.
+  chins:
+    57.5@3x5 # Tough.
+
+2012-04-23 (Monday)
+  weight: 167.0
+  squat:
+    45^2, 135^2, 185, 225, 275@3, 315@1, 355@1
+    385@4x5 # Easier than last time. First 3 reps always good; last 2 tough.
+  press:
+    45, 75, 95@3, 115@1
+    137.5@5x5 # Difficult.
+
+# Vacation; no lifting.
+
+2012-04-18 (Wednesday)
+  weight: 165.6
+  bench:
+    45, 95, 115, 135@3, 155@1
+    190@5x5 # Got it, but hand hurt.
+
+# Sliced hand open on Sunday night. Can't lift without great pain.
+
+2012-04-13 (Friday)
+  weight: 167.4
+  squat:
+    45^2, 135^2, 185, 225, 275@3, 315@1, 355@1
+    420@1x3, 420@1x2 # No problems, just heavy. Felt good.
+  press:
+    45, 75, 95@5, 115@1
+    142.5@1x4, 142.5@1x1 # Likewise.
+    95@1x8 # Backoff.
+
+2012-04-11 (Wednesday)
+  weight: 167.0
+  squat:
+    45, 135, 185
+    225@2x5 # Wrapped; no pain.
+  bench:
+    45, 95, 115, 135@3
+    177.5@3x5 # Didn't advance weight due to pain in left elbow. Light.
+  chins:
+    55@3x5 # Pretty hard. Last rep was dubious.
+
+2012-04-09 (Monday)
+  weight: 166.2
+  squat:
+    45^2, 135^2, 185, 225, 275@3, 315@1, 355@1
+    385@4x5 # EXTREMELY difficult. Shivers, cold sweat, nausea, mild vomiting.
+  press:
+    45, 75, 95@3, 115@1
+    135@5x5 # Easy.
+
+2012-04-06 (Friday)
+  weight: 165.2
+  squat:
+    45^2, 135^2, 185, 225, 275@3, 315@1, 355@1
+    415@1x4, 415@1x1 # New goal is to hit 5 reps on Fridays in any way.
+      # Looked down, used master cue. Form very good; no more goodmornings.
+  bench:
+    45, 95, 115, 135@3, 165@1
+    202.5@1x4 # Felt easier than last time, but still didn't get the last rep.
+    165@1x8 # Backoff set.
+  power clean:
+    145@5x3
+
+2012-04-04 (Wednesday)
+  weight: 166.2
+  squat:
+    45^2, 135, 185
+    225@2x5 # Lower back extremely sore: this was difficult to hold.
+  press:
+    45, 75, 95@3
+    125@3x5
+  # No other exercises, to spare lower back.
+  # Working hypothesis is that weakness is from leaning forward a bit Monday.
+
+2012-04-02 (Monday)
+  weight: 166.2
+  squat:
+    45^2, 135^2, 185, 225, 275@3, 315@1, 355@1
+    380@4x5 # Very difficult. Lower back weak.
+  bench:
+    45, 95, 115, 135@3, 155@1
+    187.5@5x5 # Took lots of rest, but no problem.
+  # No deadlifts -- lower back already sucks enough from the squats.
+
+2012-03-30 (Friday) # Felt very sick in the morning. Lifted anyway.
+  weight: 165.0
+  squat:
+    45^2, 135^2, 185, 225, 275@3, 315@1, 355@1
+    410@1x3 # Failure in lower back.
+  press:
+    45, 75, 95@5, 115@1 # Accidentally did 5 instead of 3 on 95.
+    140@1x5 # Solid.
+  power clean:
+    135@5x3 # Decent.
+
+2012-03-28 (Wednesday)
+  weight: 165.4
+  squat:
+    45^2, 135, 185, 225@2
+    270@2x5 # Right knee acting up. Wear wraps?
+  bench:
+    45, 95, 115, 135@3
+    177.5@3x5
+  back extension:
+    0@5x10
+  hammer curl:
+    45@3x5 # Almost no rest between sets. Feels harder on shoulder than bicep.
+
+2012-03-26 (Monday)
+  weight: 164.6
+  squat:
+    45^2, 135^2, 185, 225, 275@3, 315@1
+    375@4x5 # Difficult but no worries about completion.
+  press:
+    45, 75, 95@3, 115@1
+    132.5@5x5 # Alright.
+  deadlift:
+    135, 185, 225, 275@3
+    340@1x5 # Heavy.
+
+2012-03-23 (Friday) # Rest week.
+  weight: 164.0
+  squat:
+    45^2, 135, 185, 225, 275@3
+    315@1x5
+  press:
+    45, 75, 95@3, 115@1
+    135@1x5
+  hammer curl:
+    42.5@3x5
+
+2012-03-21 (Wednesday) # Rest week.
+  weight: 164.8
+  squat:
+    45^2, 135, 185, 225@2
+    265@2x5
+  bench:
+    45, 95, 115, 135@3
+    175@3x5
+  chins:
+    55@3x5
+
+2012-03-19 (Monday)
+  weight: 164.8
+  squat:
+    45^2, 135^2, 185, 225, 275@3, 315@1, 355@1
+    # Stopped here. 355 was extremely difficult.
+    # Bad migraine, diarrhea, tiredness.
+    # Going to take a very light, restful week.
+    # Will redo 410 next week.
+  
+2012-03-18 (Sunday):
+  Rock climbing for three hours. Forearms and fingers tired.
+
+2012-03-16 (Friday)
+  weight: 167.8 # Taken after dinner instead of in the morning.
+  squat:
+    45^2, 135^2, 185, 225, 275@3, 315@1, 355@1
+    410@1x5 # Not too bad.
+  press:
+    45, 75, 95@3, 115@1
+    140@1x5 # Last was a push press; messed up breathing pattern.
+    140@1x2 # To make sure the last rep really counted.
+  hammer curl:
+    40@3x5
+
+2012-03-14 (Wednesday)
+  weight: 164.0
+  squat:
+    45^2, 135, 185, 225@3 # Accidentally did a 3rd rep again.
+    265@2x5 # Crippling soreness between sets.
+            # Limping during training. Felt OK by the end.
+  bench:
+    45, 95, 115, 135@3
+    172.5@3x5
+  hammer curl:
+    37.5@3x8
+
+2012-03-12 (Monday)
+  weight: 165.6
+  squat:
+    45^2, 135^2, 185, 225, 275@3, 315@1
+    375@4x5 # Extremely difficult. Probably low sleep. Needs more warmup.
+  press:
+    45, 75, 95@3, 115@1
+    132.5@5x5 # Challenging. Not too slow, though.
+  deadlift:
+    135, 185, 225, 275@3
+    335@1x5 # Tough, but no pain!
+
+2012-03-09 (Friday)
+  weight: 164.4
+  squat:
+    45^2, 135^2, 185, 225, 275@3, 315@1, 355@1 # Extra warmup helped.
+    405@1x5 # Expected 3; got 5. Not difficult at all. That's 4plate!
+  bench:
+    45, 95, 115, 135@3, 165@1
+    202.5@1x4 # Expected 4; failed 5th. That's OK.
+  hammer curl:
+    37.5@3x5
+
+2012-03-07 (Wednesday)
+  weight: 163.4
+  squat:
+    45^2, 135, 185, 225@3 # Accidentally did a 3rd rep again.
+    265@2x5 # Pretty OK. Knees feel a bit raw.
+  press:
+    45, 75, 95
+    120@3x5 # Easy. Kept weight down to see hammer curl interference.
+            # Deltoids were sore, but that wasn't a problem.
+
+2012-03-05 (Monday)
+  weight: 164.2
+  squat:
+    45^2, 135^2, 185, 225, 275@3, 315@1
+    370@4x5 # Could have done a fifth set, but not important.
+            # Heavy but not challenging.
+  bench:
+    45, 95, 115, 135
+    187.5@5x5 # Difficult. Needs more warmup also.
+  hammer curl:
+    25@10
+    30@2x10, 30@1x14
+
+2012-03-02 (Friday)
+  weight: 164.0
+  squat:
+    45^2, 135^2, 185, 225, 275@3, 315@2
+    400@1x5 # Very difficult, but form was excellent. Focused on lower back.
+            # Fifth rep was one of the slowest reps I've ever done.
+            # Extremely close to failure.
+  press:
+    45, 75, 95@3, 115@1
+    137.5@1x5 # Fairly easy!
+
+2012-02-29 (Wednesday)
+  weight: 164.6
+  squat:
+    45^2, 135, 185, 225@3 # Wanted 225@2, but got carried away.
+    265@2x5 # Easy, but the soreness thereafter made me unable to walk.
+  bench:
+    45, 95, 115, 135@3
+    170@3x5 # Heavy but OK. Could possibly have done 180 max.
+
+# Legs extremely sore, to the point of being painful.
+# Possibly abductors?
+
+2012-02-27 (Monday)
+  weight: 164.8
+  squat:
+    45^2, 135^2, 185, 225, 275@3, 315@1
+    365@4x5 # Trying 4x5. Still extremely difficult.
+            # Sides of quads extremely tired.
+  press:
+    45, 75, 95@3, 115@1
+    130@5x5 # Heavy, but OK.
+
+2012-02-24 (Friday)
+  weight: 165.0
+  squat:
+    45^2, 135^2, 185, 225, 275@3, 315@2
+    400@1x4 # Failed 5th rep -- quad strength.
+  press:
+    45, 75, 95@3, 115@1
+    137.5@1x4 # Failed 5th rep -- no idea.
+  # Some fucking jackhammer woke me up two hours early;
+  # I only got about 5 hours of sleep. Going to re-do this week.
+  # Maybe with lighter squats on Monday, 4x5.
+
+2012-02-22 (Wednesday)
+  weight: 163.8
+  squat:
+    45^2, 135, 185
+    255@2x5
+  bench:
+    45, 95, 115, 135@3
+    170@3x5 # Not very easy.
+  chins:
+    52.5@3x5 # Easy.
+  # No back extensions: wasn't feeling excited by the idea.
+
+2012-02-20 (Monday)
+  weight: 165.2
+  squat:
+    45^2, 135^2, 185, 225, 275@3, 315@1
+    365@5x5 # Very difficult, probably because gym A/C was off.
+  press:
+    45, 75, 95@3, 115@1
+    127.5@5x5 # Easy.
+
+2012-02-17 (Friday) # First day with squat shoes (2012 Rogue Weightlifting).
+  weight: 164.0
+  squat:
+    45^2, 135^2, 185, 225, 275@3, 315@2
+    395@1x5 # Not bad.
+  bench:
+    45, 95, 115, 135
+    200@1x4 # Failed 3/4ths of the way up on last rep -- tricep strength.
+
+2012-02-15 (Wednesday)
+  weight: 164.8
+  squat:
+    45^2, 135, 185
+    255@2x5 # Lower back weaker than normal. Don't DL on Mondays.
+  press:
+    45, 75, 95
+    120@3x5
+  back extension:
+    0@5x10
+
+2012-02-13 (Monday)
+  weight: 162.8 # Still higher than last Monday.
+  squat:
+    45^2, 135^2, 185, 225, 275@3, 315@1
+    360@5x5 # Pretty tough.
+  bench:
+    45, 95, 115, 135
+    185@5x5 # Last rep extremely hard.
+  deadlift:
+    135, 185, 225, 275@3, 315@1
+    365@1x3 # Sharp groin pain. Stopped.
+
+2012-02-10 (Friday)
+  weight: 164.8
+  squat:
+    45^2, 135^2, 185, 225, 275@3, 315@2
+    390@1x5 # Solid; easier than 385 (because of weight gain?).
+  press:
+    45, 75, 95@3, 115@1
+    135@1x5 # Solid; very little slowdown.
+  power clean:
+    125@5x3 # One really good rep. Most mediocre.
+  preacher curl:
+    65@3x5 # OK with tendinitis.
+
+2012-02-08 (Wednesday)
+  weight: 164.4
+  squat:
+    45^2, 135, 185
+    255@2x5
+  bench:
+    45, 95, 115, 135
+    175@3x5 # Difficult. Probably too high for a recovery day.
+  back extension:
+    0@5x10
+
+2012-02-06 (Monday)
+  weight: 162.0 # Oh boy.
+  squat:
+    45^2, 135^2, 185, 225, 275@3, 315@1
+    355@5x5 # Not particularly difficult.
+  press:
+    45, 75, 95
+    125@5x5
+  # Decided not to deadlift to see effect on Friday.
+  hammer db curl:
+    30@3x5 # Apparently doesn't aggro tendinitis.
+
+2012-02-03 (Friday)
+  weight: 163.4
+  squat:
+    45^2, 135^2, 185, 225, 275@3, 315@2
+    385@1x5 # Extremely close to failure (lower back strength).
+  bench:
+    45, 95, 115, 135
+    195@1x5 # Last rep was a struggle.
+
+2012-02-01 (Wednesday)
+  weight: 163.8
+  squat:
+    45^2, 135, 185
+    255@2x5
+  press:
+    45, 75, 95
+    120@3x5
+  chins:
+    50@3x5
+  back extension:
+    0@5x10
+
+2012-01-30 (Monday)
+  weight: 164.0
+  squat:
+    45^2, 135^2, 185, 225, 275@3, 315@1
+    350@5x5 # Still fairly easy.
+  bench:
+    45, 95, 115, 135
+    170@1x5 # Apparently I can't count when there are cute girls around.
+    180@5x5 # +5. Easy.
+  deadlift:
+    135, 185, 225, 275@5 # 275 should have been 3, but I was focused on form.
+    315@1x5 # Hard after squats. Also some asshole stole my chalk.
+
+2012-01-27 (Friday)
+  weight: 163.8
+  squat:
+    45^2, 135^2, 185, 225, 275@3, 315@2
+    380@1x5 # Extremely heavy, but knees OK. Was feeling weak today.
+  press:
+    45, 75, 95
+    132.5@1x5 # Solid. Last rep very slow. Note +5lbs two times in a row!
+  # Skipped power cleans: tendinitis got nasty.
+
+2012-01-25 (Wednesday)
+  weight: 163.0
+  squat:
+    45^2, 135, 185
+    255@2x5 # Tough. Right knee not pleased.
+  bench:
+    45, 95, 115, 135
+    160@3x5 # Hard.
+  # No chins -- playing it safe with tendinitis.
+  back extension:
+    0@5x10 # Extremely easy. Finally no terrible soreness afterward!
+
+2012-01-23 (Monday)
+  weight: 163.4 # Poor sleep.
+  squat:
+    45^2, 135^2, 185, 225, 275@3, 315@1
+    345@5x5 # Surprisingly easy. No big deal.
+  press:
+    45, 75, 95
+    122.5@5x5 # Wore belt this time: helped a lot. Easy.
+  deadlift:
+    135, 185, 225, 275@3
+    315@1x5
+    365@1x2 # Still had some energy left. Played it safe.
+  # Hannah is cute. Great squat form.
+  # Invited to USAPL competition in LA in a month.
+  # DB hammer curls apparently don't trigger tendinitis, for future reference.
+
+2012-01-20 (Friday)
+  weight: 164.0
+  squat:
+    45^2, 135^2, 185, 225, 275@3, 315@2
+    375@1x5 # Extremely heavy.
+  bench:
+    45, 95, 115, 135
+    190@1x5 # Easy.
+  power clean:
+    120@5x3 # Form needs work. Keeping elbows in seems to correct bent arms.
+
+2012-01-18 (Wednesday)
+  weight: 162.6
+  squat:
+    45, 135, 185
+    255@2x5
+  press:
+    45, 75, 95
+    117.5@3x5 # Tough.
+  chins:
+    47.5@3x5 # Easy.
+  back extension:
+    0@5x10 # Still extremely sore after, but unweighted is probably sufficient.
+
+2012-01-16 (Monday)
+  weight: 163.2 # Chinese buffet works.
+  squat:
+    45, 135, 185, 225, 275
+    340@5x5 # Heavy, but solid reps. Medication interfered: very drowsy.
+  bench:
+    45, 95, 115, 135
+    175@5x5 # No problem whatsoever. Bench going up too cautiously?
+  curl:
+    45, 55
+    75@3x5 # Tendonitis.
+
+2012-01-13 (Friday)
+  weight: 160.8
+  squat:
+    45^2, 135^2, 185, 225, 275@3, 315@2 # Lighter warmup. Still good.
+    370@1x5 # Poor bounce, but solid. Last rep tough. Back unfazed.
+  press:
+    45, 75, 95
+    127.5@1x5 # No problem. Last rep slow.
+  power clean:
+    115@5x3 # Each set left a strange tingle in lower traps. Easy. Form better.
+
+2012-01-11 (Wednesday)
+  weight: 160.2
+  squat:
+    45, 135, 185
+    255@2x5
+  bench:
+    45, 95, 115
+    155@3x5
+  chins:
+    45@3x5
+  back extension:
+    15@5x10
+
+# On losartan 25mg. No side-effects this time!
+
+2012-01-09 (Monday)
+  weight: 160.8
+  squat: # Retrying 370 this week. With interfering meds.
+    45, 135, 185, 225, 275
+    335@5x5 # 5th set the best. Grabbed quickly; 1-2 sec pause between reps.
+  press:
+    45, 75, 95
+    120@1x5 # Took a bit wider grip. OK so far. Using SS:BBT3 form.
+    120@1x4 # Almost got a 5th rep.
+    120@1x4 # Tried taking more rest. Guess not.
+    120@1x5 # Kept heels together. Worked! Huh.
+    120@1x4 # Could have gotten it with a bit more intensity.
+    120@1x5 # Five again! Form problems earlier?
+    120@1x4 # Just tired at this point. Volume is probably enough.
+  # No DL: will go on Losartan this week; taking it easy.
+  # No curls: tendinitis needs to cool off more.
+
+2012-01-06 (Friday)
+  weight: 160.6 
+  squat:
+    45, 135, 185, 225, 275, 315
+    370@1x4 # Failed 5th rep. Unsurprising due to extremely low sleep
+            # and failed Monday 5x5 due to medication.
+            # Should repeat Monday 330 and judge from there.
+  bench:
+    45, 95, 115, 135
+    187.5@1x5 # Should have been 190, but dropped back after squats.
+              # Better to reconfirm than fail. Not too difficult.
+
+# Apparently lisinopril makes me unable to sleep, along with an assortment
+# of other enjoyable ailments. Switching to losartan 25mg. Next Tuesday.
+
+2012-01-03 (Tuesday) # Gym closed Monday, so only 2x this week for spacing.
+                     # Very low sleep the previous night due to doctor appt.
+  weight: 160.8
+  squat:
+    45, 135, 185, 225, 275
+    335@4x5 # Medication interfered. Cold sweat, drowsy, double vision.
+            # Stopped squatting at that point. Not good.
+  bench:
+    45, 95, 115, 135
+    172.5@5x5 # Completed, but was very drowsy during it.
+  curl:
+    45, 55
+    70@3x5 # Light enough to not be affected by drowsiness.
+           # Tendonitis is back (caused by squats).
+
+# On lisinopril, 10mg daily.
+# Causes drowsiness. Will interfere with lifting.
+
+2011-12-28 (Wednesday) # Closed M&F, so doing volume day now.
+  weight: 160.4 # Got up to 164.5 over the holidays, then back down again.
+  squat:
+    45, 135, 185, 225, 275
+    335@5x5 # Reconfirming. Wow, this was difficult. Really damn hard.
+  press:
+    45, 75, 95
+    117.5@5x5 # No problem.
+  # No deadlift: squats /killed/.
+  curl:
+    45
+    65@3x5 # No tendon pain! Wider grip.
+
+# Forgot training clothes on Tuesday.
+# Google closed Monday and Friday, so wasted week.
+# Holiday break: can't train.
+
+2011-12-16 (Friday)
+  weight: 161.8
+  squat:
+    45, 135, 185, 225, 275, 315
+    370@1x5 # Easier than 365. No problem.
+  press:
+    45, 75, 95
+    122.5@1x6, 122.5@2x5, 122.5@1x4
+      # Tried adding 5lbs to press, expecting to get 4 reps.
+      # Instead got 6, then kept adding.
+      # This suggests press is stronger than realized. Need 5x5 increase.
+  deadlift:
+    135, 185, 225
+    275@1x5 # Beat up from squats; stopped here (rounding).
+
+2011-12-14 (Wednesday)
+  weight: 162.4
+  squat:
+    45, 135, 185
+    255@2x5
+  bench:
+    45, 75, 95, 115
+    152.5@3x5 # 0.9*170(Monday)
+  chins:
+    45@3x5
+  back extension:
+    15@5x10
+
+2011-12-12 (Monday)
+  weight: 162.4
+  squat:
+    45, 135, 185, 225, 275
+    335@5x5 # Tough. Fifth set was the best: no rest between reps.
+  press:
+    45, 75, 95
+    112.5@5x5 # Easy.
+  # Deadlifts moved to Friday (before the forced week off).
+
+2011-12-09 (Friday)
+  weight: 163.0
+  squat:
+    45, 135, 185, 225, 275, 315
+    365@1x5 # Last rep was extremely difficult. Nearly failed. Rounding.
+  bench:
+    45, 95, 115, 135
+    187.5@1x5 # Alright.
+  power clean:
+    135@3x3 # Too difficult. One good rep out of the bunch.
+            # Need to drop weight and re-learn form -- pulling with arms.
+
+2011-12-07 (Wednesday)
+  weight: 161.0
+  squat:
+    45, 135, 185
+    255@2x5 # About 70% of planned friday 5RM. Felt good. Hamstrings sorest.
+  press:
+    45, 75
+    107.5@3x5 # 5x5 -2.5lbs. Very easy. Felt good.
+  chins:
+    40@3x8 # Reconfirming. Reconfirmed. 3x5 with higher weight, maybe?
+  # No back extension: I want lower back to be unsore for Friday.
+
+2011-12-05 (Monday)
+  weight: 160.6
+  squat:
+    45, 135, 185, 225, 275
+    332.5@5x5 # Easier than last time, even with higher weight.
+  bench:
+    45, 95, 115, 135
+    170@5x5 # No problem. Didn't even use a spotter.
+  deadlift:
+    135, 185, 225, 275, 315
+    365@1x5 # Lower back weak from squats.
+
+2011-12-02 (Friday)
+  weight: 161.4
+  # Still sick. Can't breathe fully, so no point to trying squats.
+  # Did some light work just to feel better.
+  dips:
+    0@1x12, 0@1x10, 0@1x8
+  chins:
+    0@1x12, 0@1x10, 0@1x8
+
+2011-11-30 (Wednesday)
+  weight: 160.8 # Augh!
+  # I have been ill. Something with my throat.
+  # Skipped training in favor of rest.
+
+2011-11-28 (Monday) # Redoing workout from last Monday.
+  weight: 161.8 # Needs to start going up again.
+  squat:
+    45, 135, 185, 225, 275
+    330@5x5 # Extremely difficult. Not enough protein over rest?
+            # It was very hot in the gym; maybe that factored in.
+  press:
+    45, 75
+    110@5x5 # Would entail 122.5 on Friday. Not hard, but heavy.
+  # No curls: still didn't heal from last time. Felt it during presses.
+  # No deadlift: taking it easy. Already tired enough.
+
+2011-11-21 (Monday)
+  # Google is closed for Thanksgiving on Wednesday and Friday.
+  # Today should be hard enough that I don't feel bad about missing sessions.
+  weight: 162.6
+  squat:
+    45, 135, 185, 225, 275, 315
+    330@5x5 # Tiring but never heavy.
+  press:
+    45, 75
+    107.5@6x5 # Way too easy. Could have done even more.
+  curl:
+    45, 55
+    70@3x5 # Left forearm gets bone pain near top of ROM. Need to add slowly.
+  deadlift:
+    135, 185, 225, 255, 315
+    370@1x3, 370@1x1 # 30 seconds rest between 3rd and 4th. Tired from squats.
+                     # Hips gave up first. Just tired.
+
+2011-11-18 (Friday)
+  weight: 161.8
+  squat:
+    45, 135, 185, 225, 275
+    360@1x5 # Extremely difficult. Not squatting Wednesday worked better.
+  bench:
+    45, 95, 115, 135
+    190@1x4 # Was feeling good; thought I could do 1x5.
+    140@1x6 # Back-off.
+            # For the future: reset Valsalva between each rep.
+  power clean:
+    135@5x3 # Some moderately OK reps at the end.
+
+2011-11-16 (Wednesday)
+  weight: 161.8
+  squat:
+    45, 135, 185, 225
+    260@2x5 # Felt extremely difficult. Still tired from Monday.
+  press:
+    45, 75
+    102.5@3x5 # Very hard. Back still weak from deadlifts.
+              # 100@3x5 would have been better.
+  chins:
+    40@3x8 # No problem.
+  back extension:
+    10@5x10 # Needed a long rest afterward, but no problem.
+
+2011-11-14 (Monday)
+  weight: 161.0
+  squat:
+    45, 135, 185, 255
+    325@5x5 # Nothing special.
+  bench:
+    45, 95, 115, 135
+    167.5@5x5 # Not too hard, but not as easy as the last press 5x5.
+  curl:
+    45, 55
+    65@3x8 # Should do 3x5. This seems like a good place for curls.
+           # No bone pain anymore! This is great.
+  deadlift:
+    135, 185, 225, 255, 315
+    365@1x5 # Tried again. Was much easier this time. No groin pain.
+
+2011-11-11 (Friday)
+  weight: 160.8 # Whatever. It'll work out.
+  squat:
+    45, 135, 185, 225, 275
+    355@1x5 # Felt extremely relaxing. 5RM is probably ~365.
+      # The belt is actually fine -- it needed to be one notch looser.
+      # Feels great and doesn't affect ROM whatsoever now.
+  press:
+    45, 75
+    117.5@1x5 # Very easy.
+  power clean:
+    120@5x3 # Very easy. What a great day :)
+
+2011-11-09 (Wednesday) # Biked to gym, but didn't train.
+  # I either have an illness or my CNS is depressed. It would be a bad idea
+  # to train today. I realize that I haven't deloaded in a very long time:
+  # going to take Wednesday and possibly Friday off (or light).
+  # Probably going to work from home tomorrow also. It's quite bad.
+
+2011-11-07 (Monday) # Belt finally arrived. It's too large, but the pain
+                    # can mostly be ignored. Need 3" belt.
+  weight: 161.4 # Not so great.
+  squat:
+    45, 135, 185, 225, 275
+    320@5x5 # No problem. Belt was cutting into abs/hips.
+  press: # Conservatively reducing 5RM for Friday to 115.
+    45, 75
+    105@5x5 # Significantly easy. Didn't even bother taking full rest.
+  deadlift:
+    135, 185, 225, 255, 315
+    365@1x5 # Oh my that was difficult. Groin pain on last two reps.
+
+2011-11-04 (Friday)
+  weight: 162.4
+  squat:
+    45, 135, 185, 225, 275
+    350@1x5 # Very hard.
+  bench:
+    45, 95, 115, 135
+    187.5@1x3 # Bad regression from last time. Going to try 5x5.
+  power clean:
+    110@5x3 # No problem. Form is getting better.
+
+2011-11-02 (Wednesday) # First TM rest day. Felt great.
+  weight: 164.6
+  squat:
+    45, 135, 185
+    255@2x5 # 80% of Monday's.
+  press:
+    45, 75
+    110@3x5 # Just making sure it didn't regress too badly.
+  back extension:
+    0@1x10, 25@1x10, 0@1x10, 25@1x10, 0@1x10
+    # Back extension used to leave me really sore, so I'm being safe.
+  chins:
+    40@3x8 # Wow! This was _extremely_ easy after not doing them Monday.
+           # I think that means that chins are intermediate. Will stay 3x8.
+
+2011-10-31 (Monday) # Switching to Texas Method.
+  weight: 164.4
+  squat:
+    45, 135, 185, 225
+    315@5x5 # Not difficult, but tiring.
+  bench:
+    45, 95, 115, 135
+    185@2x5; 185@1x4 # Failed last rep. Should just do 5x5 volume.
+  deadlift:
+    135, 185, 225, 255, 315
+    355@1x5 # Apparently DL went up by just squatting.
+
+# At this point I switched to the Texas Method, for the most part, as described
+# in http://www.t-nation.com/free_online_article/most_recent/the_texas_method.
+
+2011-10-28 (Friday) # Still pretty sore from front squats.
+  weight: 163.4
+  squat:
+    45, 135, 195, 235, 255
+    345@3x5
+  bench:
+    45, 85, 105, 135
+    182.5@3x5
+  chins:
+    37.5@3x8
+
+2011-10-26 (Wednesday)
+  weight: 162.0
+  front squat:
+    45, 95, 135
+    155@3x5
+    185@5x5 # Just for fun.
+  press:
+    45, 75
+    115@3x4 # Fifth rep couldn't be done even as a push press.
+  power clean:
+    105@5x3 # Some reps were good. Last was best.
+            # Need to work on not arm pulling.
+            # And on not catching with my breastbone.
+
+2011-10-24 (Monday)
+  weight: 162.6
+  squat:
+    45, 135, 195, 235, 255
+    340@3x5 # First set had terrible form, but the rest was OK.
+  bench:
+    45, 85, 105, 135
+    180@3x5 # Skipping press alternation to focus on bench. Easy.
+  pullups:
+    0@1x11, 25@2x7 # Need to work on pullups.
+
+2011-10-21 (Friday)
+  weight: 162.0 # Guess; forgot to measure in the morning.
+  squat:
+    45, 135, 185, 225, 245
+    335@3x5 # Not too bad. 5RM is probably 345-350.
+  bench:
+    45, 85, 105, 135
+    177.5@3x5 # Easy with sufficient rest. Finally using 1.25lbs plates.
+  chins:
+    37.5@3x8 # Failed last rep again.
+
+2011-10-19 (Wednesday) # Extremely tired today.
+  weight: 161.8 
+  squat:
+    45, 135, 185, 225, 245
+    285@3x5 # This was really hard.
+  press:
+    45, 75, 120, 117.5
+    115@2x3 # Severe regression, probably from tiredness.
+  power clean:
+    45@12x7 # Or something equally ridiculous, while learning.
+    95@5x3 # Completely exhausted afterward.
+
+2011-10-17 (Monday)
+  weight: 161.6
+  squat:
+    45, 135, 185, 225, 245
+    330@3x5
+  bench:
+    45, 85, 105, 135
+    175@3x5
+  chins:
+    37.5@3x8
+
+2011-10-14 (Friday)
+  weight: 161.4
+  squat:
+    45, 135, 185, 225, 245
+    325@3x5 # Tough.
+  press:
+    45, 75
+    120@3x5 # Works with a slight bounce at the bottom. I'm OK with that.
+  chins:
+    35@3x8 # Pretty easy.
+
+2011-10-12 (Wednesday)
+  weight: 161.2
+  squat:
+    45, 135, 185, 225
+    255@3x5 # Pretty tired from last time.
+  bench:
+    45, 85, 105, 135
+    175@3x5 # Rushed last set due to spotter; failed last rep.
+  deadlift:
+    135, 185, 225, 255
+    335@1x5
+
+2011-10-10 (Monday)
+  weight: 161.8
+  squat:
+    45, 135, 185, 245
+    320@3x5
+  press:
+    45, 75
+    115@3x5 # Failed 120. 115 was easy.
+  chins:
+    32.5@3x8
+
+2011-10-07 (Friday)
+  weight: 161.4
+  squat:
+    45, 135, 185, 225
+    315@3x5 # This was hard because it repeated Wednesday for fun.
+  bench:
+    45, 85, 105, 135
+    170@3x5 # Close to failure.
+  chins:
+    30@3x8 # Not bad.
+
+2011-10-05 (Wednesday)
+  weight: 162.4
+  squat:
+    45, 135, 185, 225
+    315@3x5 # Tough, but completed.
+  press:
+    45, 75
+    115@3x5 # Not too hard.
+  deadlift:
+    135, 185, 225 # Lower back sore from squats.
+
+2011-10-03 (Monday)
+  weight: 161.8
+  squat:
+    45, 135, 185, 225
+    310@3x5 # Extremely solid.
+  bench:
+    45, 85, 105, 135
+    165@3x5 # No spotter, no problem. :)
+  # No chins: arms still need rest. Best to be safe.
+
+2011-09-30 (Friday)
+  weight: 160.4
+  squat:
+    45, 135, 185, 225
+    305@3x5
+  press:
+    45, 75
+    110@3x5
+  chins:
+    30@2x8 # Arms very painful.
+
+2011-09-28 (Wednesday)
+  weight: 160.2
+  squat:
+    45, 135, 185, 225
+    295@3x5
+  lying triceps extension:
+    45, 65
+    90@1x5 # Hurt.
+  deadlift: # It's been a month.
+    135, 185, 225, 255
+    315@1x5 # Easy. Mixed grip.
+
+2011-09-26 (Monday)
+  weight: 158.6
+  squat:
+    45, 135, 185, 225
+    285@3x5 # Still not bad. A little tough.
+  press:
+    45, 75
+    105@3x5 # Very easy.
+  # Nothing else -- arms still sore from Friday.
+
+2011-09-23 (Friday) # Had to take time off: all-hands; pittsburgh.
+  weight: 158.2
+  squat:
+    45, 135, 185, 225
+    275@3x5 # Not too bad for two weeks off.
+  lying triceps extension:
+    45, 65
+    85@3x5 # augh, sore.
+  chins:
+    25@3x8 # easy.
+
+2011-09-04 (Monday)
+  weight: 157.6
+  squat:
+    45, 135, 185, 225
+    295@3x5
+  press:
+    45, 75
+    110@3x5
+  chins:
+    30@3x8
+
+2011-09-01 (Thursday) # First day at Google's gym.
+  weight: 157.8
+  squat:
+    45, 135, 185, 225
+    285@3x5 # Very heavy. Tried 305; couldn't do 2.
+  press:
+    45, 75
+    105@3x5 # Tried 115; too heavy.
+  chins:
+    25@3x8 # Pretty hard. No weighted belt; held a dumbbell.
+
+2011-08-23 (Tuesday)
+  weight: 160.0
+  squat:
+    45, 135, 195, 245
+    245@3x5 # Nice and light.
+  press:
+    45, 75
+    117.5@1x4, 117.5@1x5, 117.5@1x3 # Deltoids.
+  deadlift:
+    135, 185, 225, 255
+    335@1x2 # Back was totally fine. Hard on quads.
+
+2011-08-21 (Sunday) # Just going to take an easy week.
+  weight: 161.8
+  squat:
+    45, 135, 195, 245
+    320@1x5; 225@2x5 # Completely exhausted from last time.
+  bench:
+    45, 85, 105, 135
+    177.5@2x5, 177.5@1x4 # Close, but completely exhausted from last time.
+  chins:
+    40@2x5; 40@1x7 # last to failure. Completely exhausted from last time.
+
+2011-08-18 (Thursday)
+  weight: 162.0
+  squat:
+    45, 135, 185, 225
+    315@3x5 # :)
+  press:
+    45, 75
+    115@3x5 # Got it cleanly.
+  chins:
+    40@3x8 # Only got 6 on last set.
+
+2011-08-16 (Tuesday)
+  weight: 160.0
+  squat:
+    45, 135, 185, 225
+    285@3x5 # Felt heavy. Finished strongly though.
+  bench:
+    45, 85, 105, 135
+    175@3x5
+  deadlift:
+    135, 185, 225, 255
+    325@1x5
+
+2011-08-14 (Sunday)
+  weight: 159.8
+  squat:
+    45, 135, 185, 245
+    310@3x5
+  press:
+    45, 75
+    112.5@3x5
+  chins:
+    37.5@3x8
+
+2011-08-11 (Thursday)
+  weight: 160.0 # better.
+  squat:
+    45, 135, 185, 225
+    305@3x5
+  bench:
+    45, 85, 105, 135
+    172.5@3x5 # Solidly completed. No difficulty.
+  chins:
+    35@3x8 # Solidly completed. No difficulty.
+
+2011-08-09 (Tuesday)
+  weight: 161.2 #wtf
+  squat:
+    45, 135, 185, 225
+    285@3x5
+  press:
+    45, 75
+    110@3x5 # Done with perfect form. Restart from here.
+  deadlift:
+    135, 185, 225, 255
+    315@1x5 # With chalk! With bumper plates!
+
+2011-08-07 (Sunday) # First day at Overtime Fitness, a small gym.
+  weight: 158.6
+  squat:
+    45, 135, 185, 225
+    300@3x5
+  bench: 
+    45, 105, 135
+    172.5@2x5; 172.5@1x3 # Alas.
+  chins:
+    32.5@3x8
+
+2011-08-04 (Thursday) # Went to Gold's. Rules: no chalk, no deadlifting. :\
+  weight: 157
+  squat:
+    45, 135, 185, 225
+    295@3x5 # Resetting due to time off.
+  press:
+    45, 75
+    115@3x5 # Very difficult. Needed to bounce at bottom a bit.
+  chins:
+    30@3x8 # No problem.
+
+2011-07-30 (Saturday)
+  weight: 156.2 # Had no dinner. After eating, about 158.
+  squat:
+    45, 135, 185, 225
+    305@2x5 # Shitty gym; don't want to increase.
+    305@1x3 # Not getting enough protein. Extremely hard. Went down.
+  bench: 
+    45, 85, 105, 135
+    170@3x5 # Tried 175; failed. Went down again.
+  chins:
+    0, 25@3x8 # Barely finished. Everything went down since the move.
+
+2011-07-27 (Wednesday) # Went early in morning. No A/C. Really horrible.
+  weight: 159
+  squat:
+    45, 135, 185, 225
+    285@3x5
+  press:
+    45, 75
+    115@3x5 # tried 120, failed. 115 was very difficult.
+  deadlift:
+    135, 185, 225, 255
+    315@1x3 # Non-circular plates. No chalk. Ow.
+
+2011-07-25 (Monday) # 24 Hour Fitness SuperSport
+  weight: 159
+  squat:
+    45, 135, 185, 225
+    305@3x5
+  bench: 
+    45, 85, 105, 135
+    172.5@3x5
+  chins:
+    0@3x12 # No weighted dip belt.
+
+2011-07-22 (Friday)
+  weight: 159.5
+  squat: 
+    45, 135, 185, 225
+    300@3x5 # FUCK. YES.
+  press:
+    45, 75
+    117.5@3x5 # Last rep took a good 7 seconds to get up.
+  pullups:
+    27.5@2x8 # Only two sets -- pullups after presses seem counter-productive.
+
+2011-07-20 (Wednesday)
+  weight: 159.5
+  squat:
+    45, 135, 185, 225
+    265@3x5 # Taking 90% on Wednesdays to go heavy on DL.
+  bench:
+    45, 85, 105, 135
+    170@3x5 # Last set with spotter for the first time. Not too bad.
+  deadlift:
+    135, 185, 225, 255
+    325@1x5 # Heavy. Mostly in obliques. Legs not tired at all.
+
+2011-07-18 (Monday)
+  weight: 159.5
+  squat:
+    45, 135, 185, 225
+    295@3x5
+  press:
+    45, 75
+    115@3x5 # Finally completed without major difficulty.
+  chins:
+    0, 32.5@3x8 # Note weight gain in the meantime. Definitely stronger.
+
+2011-07-15 (Friday)
+  weight: 157.5
+  squat:
+    45, 135, 185, 225
+    290@3x5 # Very hard. 10 min break before final set.
+  bench:
+    45, 85, 105, 125
+    167.5@3x5
+  pullups:
+    25@3x8
+
+2011-07-13 (Wednesday)
+  weight: 157.5
+  squat: 
+    45, 135, 185, 225
+    285@3x5 # Extremely difficult. Threw up in mouth 3x after final set.
+  press:
+    45, 75
+    115@1x3, 95@2x5, 105@1x5 # Probably fatigue from squats.
+  barbell row:
+    45, 115
+    155@3x5 # Not too bad, but probably too much back involvement.
+
+2011-07-11 (Monday)
+  weight: 156.5
+  squat:
+    45, 135, 185, 225
+    280@3x5 # Heavy, but no trouble.
+  bench:
+    45, 85, 105, 125
+    165@3x5 # Heavy, and almost trouble.
+  chins:
+    0, 30@3x8 # No problem.
+  # Tried to curl, but long-term left arm pain suggested otherwise.
+
+2011-07-09 (Saturday)
+  weight: 158
+  squat:
+    45, 135, 155, 185, 225 # Good progression.
+    275@3x5 # Holy shit, this was extremely easy. Resetting helped.
+  press:
+    45, 45, 75
+    115@2x5; 115@1x3 # Grip is incorrect; weight is too far back on wrist.
+                     # Needs fixing. Fast.
+  deadlift:
+    135, 185, 205, 255
+    315@1x5 # Even with tendinitis in left arm! Was pretty hard. Hook grip.
+
+2011-07-07 (Thursday)
+  weight: 157
+  squat:
+    45, 85, 135, 155, 185, 225
+    265@3x5
+  bench:
+    45, 85, 105, 125
+    160@3x5 # Extremely easy. Removing dips was the answer.
+  pullups:
+    10@3x8
+  back extension:
+    45@3x8 # No problem, but it's difficult to do anything afterward.
+  curl:
+    45, 70@3x8 # Shit, that should have been 3x5. OH WELL
+
+2011-07-05 (Tuesday) # No gym yesterday due to holiday.
+  weight: 157
+  squat:
+    45, 85, 135, 155, 185, 225
+    255@3x5
+  press:
+    45, 45, 75
+    112.5@3x5
+  barbell row:
+    45, 85, 115
+    145@3x5
+  chins:
+    0, 25@3x8
+
+2011-07-01 (Friday)
+  weight: 156
+  squat:
+    45, 85, 135, 155, 185, 225
+    280@2x5, 280@1x4 # far too heavy to complete, even with 10 mins rest.
+                     # took 15 minutes after this until I could walk normally.
+  bench:
+    45, 85, 105, 125
+    155@3x5 # reset for the hell of it.
+  pullups:
+    0lbs, 3xfailure
+    10, 8, 6 # stopped at 10.
+  curl:
+    45, 65@3x5 # start off easy.
+
+2011-06-29 (Wednesday)
+  weight: 156.5
+  squat:
+    45, 85, 135, 155, 185, 225
+    275@3x5
+  press:
+    45, 45, 75
+    110@3x5 # Using stricter form now: bending at hip with flexed glutes.
+  deadlift:
+    135, 155, 185, 205, 235
+    315@1x1 # 1RM. Tried for second, didn't work at all. Not bad though.
+    225@1x3
+
+2011-06-26 (Sunday) # Last day of membership at Premier.
+  weight: 155
+  squat:
+    45, 85, 135, 155, 185, 215
+    270@3x5 # Not too hard. I was worried.
+  bench:
+    45, 85, 105, 125
+    170@1x4 # Failed 5th rep. Left wrist killing me, so stopped.
+  chins:
+    25@1x8, 25@1x7, 20@1x4
+    # Upper body was totally shot today. I couldn't complete a single
+    # pull-up after these chins. Going to need more rest.
+  back extension:
+    35@3x8 # No pain!
+
+2011-06-24 (Friday) # Couldn't go Thursday: roads flooded.
+  weight: 155
+  squat:
+    45, 45, 80, 135, 135, 185, 205
+    265@3x5 # ATG last rep.
+  press:
+    45, 45, 75
+    112.5@2x5, 112.5@1x4 # failed last rep. pretty good though.
+  barbell row: # means pendlay row, but rippetoe uses this name.
+    45, 65, 85, 95, 115, 135, 155, 135@3x5
+  dips:
+    30lbs, 3xfailure
+    11, 10, 7 # prev: 10, 8, 6
+  hammer curl:
+    25@1x8, 30@2x8, 25@1x8
+
+2011-06-21 (Tuesday) # Still ill, but getting better.
+  weight: 154
+  squat:
+    45, 85, 125, 155, 185, 205
+    260@3x5
+  bench:
+    45, 85, 105, 125
+    165@3x5 # Tried 170; couldn't complete.
+  chins:
+    20lbs, 3xfailure
+    10, 5, 5 # Not so great.
+
+2011-06-18 (Friday) # Motorcycle courses + travel unavailability.
+  weight: 153
+  squat:
+    45, 85, 125, 155, 185
+    235@3x6 # Resetting to a bit over 90% to get over plateau.
+  press:
+    45, 45, 75
+    110@3x5 # FUCK YEA, FINALLY.
+  deadlift:
+    135, 155, 185, 205, 235
+    295@1x5 # Very easy.
+  dips:
+    0lbs, 3xfailure # Check form.
+    15, 14, 9
+  zottman curl:
+    30@1x8, 30@1x6, 25@1x6 # Generally tired.
+
+2011-06-13 (Monday)
+  weight: 156
+  squat:
+    45, 85, 125, 155, 185, 205
+    255@3x5
+  bench:
+    45, 85, 105, 125
+    165@3x5
+  chins:
+    20lbs, 3xfailure
+    9, 7, 5
+  zottman curl:
+    20@1x12, 25@3x8
+
+2011-06-10 (Friday)
+  weight: 154
+  squat:
+    45, 85, 125, 155, 185, 205
+    255@3x5 # Extremely difficult. Last rep, complete stop for 5s mid-path up.
+  press:
+    45, 45, 75
+    105@3x5 # Success! Finally.
+  deadlift:
+    135, 155, 185, 205, 235
+    295@1x5 # Failed 5th rep, probably because some guy started staring.
+  dips:
+    30lbs, 3xfailure
+    10, 8, 6 # Went down, probably due to DL tiredness.
+
+2011-06-08 (Wednesday) # Back from vacation.
+  weight: 153
+  squat:
+    45, 85, 125, 155, 185
+    250@3x5 # Resulted in hamstring DOMS. ???
+  bench:
+    45, 85, 105, 125
+    160@3x5
+  chins:
+    20lbs, 3xfailure
+    6, 7, 5 # Whoa, that sucked. More supination these days.
+  back extension
+    25@3x10
+
+2011-06-02 (Thursday)
+  weight: 155
+  squat:
+    45, 85, 125, 155, 185
+    245@3x5 # Close call, but felt good. 250 is probably the end.
+  press:
+    45, 45, 75
+    100@3x5 # Easy. Insufficient warmup previously.
+  dips:
+    30lbs, 3xfailure
+    11, 10, 6
+  power cleans:
+    45, 95
+    95@5x3
+  bb bodyweight rows:
+    3x8 # Getting better. Can complete now.
+
+2011-05-31 (Tuesday)
+  weight: 154
+  squat:
+    45, 85, 125, 155, 185
+    240@3x5 # Awesome; not too heavy.
+  bench:
+    45, 85, 105, 125
+    155@3x5 # Pretty meh; no strain.
+  chins:
+    0lbs, 3xfailure # All the gym's weighted belts disappeared.
+    15, 10, 10 # Now waiting 5 minutes between sets; thanks, Rippletits.
+  bb bodyweight rows:
+    3x8 # Can only do about 5 with full ROM.
+  # No back extension: uncomfortably sore and would like to walk.
+
+2011-05-29 (Sunday) # Tired from yesterday. A bit mediocre.
+  weight: 154
+  squat:
+    45, 85, 125, 155, 185
+    235@3x5 # Tough. Especially last rep.
+  press:
+    45, 75
+    95@3x5 # Easy.
+  deadlift:
+    135, 175, 205
+    225@1x5 # Tried 265 -- too tired from yesterday. Totally worn.
+
+2011-05-28 (Saturday) # Free PT session to check form, so doing many things.
+  weight: 152
+  squat: # random stuff to correct form
+  deadlift: # random stuff to correct form
+  power cleans: # random stuff to correct form
+  # Tired at the end; sweating buckets. No particularly heavy lifts though.
+
+2011-05-26 (Thursday) # First day at Premier Fitness.
+  weight: 152
+  squat:
+    45, 85, 115, 145
+    230@3x5 # Very slow ascent.
+  bench:
+    45, 85, 115
+    150@3x5 # Too easy.
+  chins:
+    35lbs, 3xfailure
+    8, 5, 2
+  back extension:
+    25@3x10
+  dips:
+    35lbs, 3xfailure
+    9, 5, 4
+
+2011-05-24 (Tuesday) # Went to YMCA. Poor equipment.
+  weight: 154
+  squat:
+    45, 85, 115, 145
+    225@3x5 # Extremely easy; not tired after.
+  press:
+    45, 75
+    95@3x5
+  # Uh, other equipment was lacking.
+
+2011-05-14 (Saturday)
+  weight: 154
+  deadlift: # Done first due to equipment availability
+    135, 175, 205
+    275@1x5
+  squat:
+    45, 85, 115, 145
+    215@3x5 # Very hard. But done.
+  # no OHP: deadlifts killed back.
+  dips:
+    35lbs, 3xfailure
+    12, 6, 5
+
+2011-05-12 (Thursday)
+  weight: 153
+  squat:
+    45, 85, 115, 145
+    210@3x5
+  bench:
+    45, 85, 115
+    155@3x5 # Pretty tough.
+  back extension:
+    25@3x10
+
+2011-05-10 (Tuesday) # 4 hours sleep, hungover, still went.
+  weight: 150
+  squat:
+    45, 85, 105, 135,
+    205@3x5 # Not bad.
+  press:
+    45, 75
+    100@3x5 # Tried 105, completed 1 set, couldn't lift after.
+  power cleans:
+    95@5x3
+  dips:
+    35lbs, 3xfailure
+    11, 6, 4
+
+2011-05-08 (Sunday)
+  weight: 151
+  squat:
+    45, 85, 115, 145,
+    195@3x5 # Yeaaaaaah
+  bench:
+    45, 85, 115
+    150@3x5 # Kind of shaky, but no problems completing.
+  back extension:
+    25@3x10
+  chins:
+    40lbs, 3xfailure
+    9, 4, 5
+
+2011-05-06 (Friday)
+  weight: 151
+  squat:
+    45, 85, 105, 135,
+    185@3x5
+  press:
+    45, 75
+    100@3x5
+  deadlift:
+    135, 205
+    265@1x5
+  dips:
+    30lbs, 3xfailure
+    15, 6, 5
+
+2011-05-04 (Wednesday)
+  weight: 150
+  squat:
+    45, 85, 105, 135,
+    175@3x5 # No problem. Boxers ripped again, sigh.
+  bench:
+    45, 85, 115
+    145@3x5 # Right shoulder pain.
+  leg curl:
+    115@4x12
+  leg extension:
+    115@3x12
+  chins:
+    40lbs, 3xfailure
+    8, 5, 3
+  back extension:
+    25@3x10
+
+2011-05-02 (Monday)
+  weight: 151
+  squat:
+    45, 85, 105, 135,
+    170@3x5 # right inner thigh still painful.
+  press:
+    45, 75
+    100@3x5 # Failed last rep of last set.
+  deadlift:
+    135, 185 # Still sore. Can't exert.
+  dips:
+    30lbs, 3xfailure
+    11, 7, 5
+
+2011-04-30 (Saturday) # Never drink on Thursdays, kids.
+  weight: 150
+  squat:
+    45, 85, 105, 135,
+    165@3x5 # No problem. Except boxers ripped.
+  bench:
+    45, 85, 115
+    145@3x5
+  chins:
+    40lbs, 3xfailure
+    7, 4, 3
+  back extension:
+    35@3x12 # Haha, ow.
+
+2011-04-27 (Wednesday)
+  weight: 149
+  squat:
+    45, 85, 105,
+    135@3x5 # Yep, still painful.
+  press:
+    45, 75
+    95@3x5 # Finished. Not too bad.
+  deadlift:
+    135, 205
+    255@1x5 # Hell yeah.
+  dips:
+    30lbs, 3xfailure
+    10, 5, 4
+
+2011-04-25 (Monday)
+  weight: 148
+  squat:
+    45, 85
+    135@3x5 # Right leg still painful, goddamnit.
+  bench:
+    45, 75, 105
+    140@3x5 # Easy. Got form down.
+  chins:
+    30lbs, 3xfailure
+    9, 4, 4
+  back extension:
+    35@3x10 
+  preacher curl:
+    45@3x8
+
+2011-04-22 (Friday) # No squats. Letting right leg heal. Being unstupid.
+  weight: 150
+  leg curl:
+    95@3x10
+  press:
+    45, 55, 75
+    95@3x5 # Could only complete 3 reps on the last set.
+  deadlift:
+    135, 205
+    255@1x3 # Grip failed on the fourth rep. Tasted salty.
+  dips:
+    30lbs, 3xfailure
+    10, 6, 5
+  preacher curl:
+    45@4x12
+
+2011-04-20 (Wednesday) # Pretty sucky workout. Wasn't feeling it.
+  weight: 150
+  squat:
+    45, 85, 135
+    175@3x5 # OK, right leg is definitely pulled now.
+  bench:
+    45, 65, 85, 105
+    140@3x5 # Failed last rep of last set.
+  chins:
+    30lbs, 3xfailure
+    7
+  back extension:
+    0
+    25@3x10 
+  preacher curl:
+    45@3x8
+
+2011-04-18 (Monday) # Too much weekend excitement; didn't meet diet.
+  weight: 147
+  squat:
+    45, 85, 135
+    175@3x5 # Very slow and painful ascent, but completed.
+  press:
+    45, 55, 75
+    90@3x5 # tried 95, failed. Could barely complete 90.
+  deadlift:
+    135, 185
+    235@1x5 # Worried about weekend losses, but beasted the lift.
+  dips:
+    30lbs, 3xfailure
+    10, 4, 2
+
+2011-04-15 (Friday) # Really want to deadlift, so changing B day slightly.
+  weight: 147
+  squat:
+    45, 85, 135
+    165@3x5
+  bench:
+    45, 65, 85, 105
+    135@3x5
+  chins: # did early because deadlift was taken by a guy doing 3 stations
+    30lbs, 1xfailure
+    7
+  deadlift:
+    135, 185
+    235@1x5
+  preacher curl:
+    45@4x8
+
+2011-04-13 (Wednesday) # competition on Friday: trying to keep legs happy.
+  weight: 147
+  press:
+    45, 55, 65
+    90@3x5
+  barbell rows:
+    45, 65
+    95@4x8
+  dips:
+    20lbs, 3xfailure
+    12, 6, 5
+
+2011-04-11 (Monday) # finally back home :)
+  weight: 147
+  squat: # fuck yes
+    45, 65, 85, 115
+    155@3x5 # couldn't squat for two weeks prior due to knee pain.
+            # knee hurt 7 hours after, but is fine the next day.
+            # pretty bad DOMS in quads and hamstrings.
+  bench:
+    45, 65, 85, 105
+    130@3x5
+  chins:
+    20lbs, 3xfailure
+    10, 5, 4
+  back extension:
+    0
+    25@3x10 
+  preacher curl:
+    45@3x8
+
+2011-03-31 (Thursday) # traveling Friday: can't go then.
+  weight: 145
+  press:
+    45, 55, 65
+    85@3x5
+  barbell rows:
+    45, 65
+    95@3x8 # probably shouldn't do right before a deadlift.
+  deadlift:
+    135, 185
+    225@1x5 # whoo
+  dips:
+    20lbs, 3xfailure
+    8, 5, 5
+
+2011-03-30 (Wednesday)
+  weight: 145
+  bench:
+    45, 65, 85, 105
+    125@3x5
+  back extension:
+    0
+    25@3x10 # Ensuring that soreness goes away. Felt OK.
+  chins:
+    20lbs, 3xfailure
+    8, 6, 3 # used smith machine; couldn't go fully down.
+  preacher curl:
+    45@3x8 # straight bar, not ez-curl. chins hit biceps harder.
+  leg curl: # since can't squat. no knee pain with leg curls.
+    80
+    110@3x5
+
+2011-03-28 (Monday)
+  # Left knee has some fibrous tissue damage.
+  # Doctor recommends to only squat twice a week, but only
+  # when it heals. Leg exercises temporarily removed; will reset later.
+  # Eventually will deload squats on Wednesdays.
+  weight: 144
+  press:
+    45, 55, 65
+    80@3x5
+  barbell rows:
+    45, 55, 65, 75
+    85@3x8 # lower back still sore from back extensions on friday.
+  dips:
+    3xfailure
+    17, 8, 5 # woo, 17! A few months ago I couldn't do one. Need dip belt.
+
+2011-03-25 (Friday)
+  weight: 143
+  warmup: 9 minutes jogging @ 5.2mph
+  squat:
+    45, 65, 105, 125
+    155@3x5 # fuck yeah
+  bench:
+    45, 65, 75, 95
+    120@3x5
+  back extension:
+    0, 25
+    35@3x12 # immense pain
+  chins:
+    3xfailure
+    16, 7, 3 # pain from back extension
+  preacher curl:
+    45
+    55@3x8
+
+2011-03-23 (Wednesday)
+  weight: 141
+  warmup: 8 minutes jogging @ 5.2mph
+  squat:
+    45, 65, 85, 125
+    150@3x5 # knee pain.
+  press:
+    45, 45, 55
+    75@3x5
+  barbell rows:
+    45, 55, 65, 75, 85,
+    95@3x8
+  deadlift:
+    95, 135, 165
+    205@1x5
+  dips:
+    3xfailure
+    12, 10, 10
+
+2011-03-21 (Monday)
+  weight: 139
+  warmup: 8 minutes jogging @ 5.2mph
+  squat:
+    45, 65, 85, 125
+    150@3x5 # tried 155; failed on 2nd rep of 2nd set; deloaded to 150.
+  bench:
+    45, 55, 65, 85
+    115@3x5
+  back extension:
+    0, 25
+    35@3x10
+  chins:
+    3xfailure
+    16, 7, 5
+  curl:
+    45, 45, 65
+    65@3x5
+
+2011-03-18 (Friday)
+  weight: 138
+  warmup: 7 minutes jogging @ 5.2mph
+  squat:
+    45, 65, 85, 115
+    145@3x5
+  press:
+    45, 45, 55
+    70@3x5
+  deadlift:
+    95, 115, 135
+    180@1x5
+  dips:
+    3xfailure
+    10, 8, 8
+
+2011-03-16 (Wednesday)
+  weight: 139
+  warmup: 6 minutes jogging @ 5.2mph
+  squat:
+    45, 65, 85, 105
+    135@3x5
+  bench:
+    45, 55, 65, 85
+    105@3x5
+  back extension:
+    0, 25
+    35@3x10
+  chins:
+    to failure
+    17, 5, 4
+  curl:
+    45, 65
+    75@3x5
+
+2011-03-14 (Monday)
+  weight: 139
+  warmup: 6 minutes light jogging
+  squat:
+    45, 65, 85, 100
+    115@1x5
+  press:
+    45, 55
+    65@3x5 # barely made last set: good weight
+  deadlift:
+    95, 115
+    135@1x5 # SS instructed to not exceed 135.
