@@ -21,12 +21,8 @@ class Lift:
         self.name = name
         self.sets = []
 
-    def addset(self, s):
-        self.sets.append(s)
-
     def addsets(self, slist):
-        for s in slist:
-            self.addset(s)
+        self.sets += slist
 
 
 class TrainingSession:
@@ -180,7 +176,3 @@ def import_exlog(filename):
 if __name__ == '__main__':
     import sys
     exlog = import_exlog(sys.argv[1])
-    
-    for session in exlog:
-        for lift in session.lifts:
-            print(lift.name)
