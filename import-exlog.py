@@ -5,6 +5,36 @@ import datetime
 import sys
 
 
+PercentageTable = [
+    [100.00, 97.80, 95.50, 93.90, 92.20, 90.70, 89.20, 87.80], # 1 rep
+    [95.50, 93.90, 92.20, 90.70, 89.20, 87.80, 86.30, 85.00], # 2 reps
+    [92.20, 90.70, 89.20, 87.80, 86.30, 85.00, 83.70, 82.40], # 3 reps
+    [89.20, 87.80, 86.30, 85.00, 83.70, 82.40, 81.10, 79.90], # 4 reps
+    [86.30, 85.00, 83.70, 82.40, 81.10, 79.90, 78.60, 77.40], # 5 reps
+    [83.70, 82.40, 81.10, 79.90, 78.60, 77.40, 76.20, 75.10], # 6 reps
+    [81.10, 79.90, 78.60, 77.40, 76.20, 75.10, 73.90, 72.30], # 7 reps
+    [78.60, 77.40, 76.20, 75.10, 73.90, 72.30, 70.70, 69.40], # 8 reps
+]
+
+
+def percentage(reps, rpe):
+    if rpe == 10.0: return PercentageTable[reps - 1][0]
+    if rpe == 9.5:  return PercentageTable[reps - 1][1]
+    if rpe == 9.0:  return PercentageTable[reps - 1][2]
+    if rpe == 8.5:  return PercentageTable[reps - 1][3]
+    if rpe == 8.0:  return PercentageTable[reps - 1][4]
+    if rpe == 7.5:  return PercentageTable[reps - 1][5]
+    if rpe == 7.0:  return PercentageTable[reps - 1][6]
+    if rpe == 6.5:  return PercentageTable[reps - 1][7]
+    return 0.0
+
+
+def calc_weight(e1rm, reps, rpe):
+    # weight / percentage(reps, rpe) * 100 = e1rm
+    # weight = e1rm / 100 * percentage(reps, rpe);
+    return e1rm / 100 * percentage(reps, rpe)
+
+
 #####################################################################
 
 
@@ -15,6 +45,20 @@ class Set:
         self.rpe = int(rpe)
         self.failure = bool(failure)
 
+    def e1rm(self):
+        factor = percentage(self.reps, self.rpe)
+
+        # Use the Tuchscherer chart.
+        if factor > 0:
+            return self.weight / factor * 100
+
+        # If RPEs are missing or the chart is inadequate, don't mislead.
+        return 0.0
+
+    # For cases that the RPE chart doesn't cover, we have the Wendler formula.
+    def wendler(self):
+        return self.weight + (self.weight * self.reps / 30)
+
 
 class Lift:
     def __init__(self, name):
@@ -23,6 +67,31 @@ class Lift:
 
     def addsets(self, slist):
         self.sets += slist
+
+    # Get a list of non-warmup, actual training sets.
+    def __get_heavysets(self):
+        # Only include the top 20% of weights.
+        topweight = max([0] + list(map(lambda x: x.weight, self.sets)))
+        cutoff = topweight * 0.8
+        return filter(lambda x: x.weight >= cutoff, self.sets)
+
+    def e1rm(self):
+        return max([0] + list(map(lambda x: x.e1rm(), self.__get_heavysets())))
+
+    def wendler(self):
+        return max([0] + list(map(lambda x: x.wendler(), self.__get_heavysets())))
+
+    def volume(self):
+        volume = 0
+        for s in self.__get_heavysets():
+            volume += s.reps
+        return volume
+
+    def tonnage(self):
+        tonnage = 0
+        for s in self.__get_heavysets():
+            tonnage += (s.weight * s.reps)
+        return tonnage
 
 
 class TrainingSession:
@@ -42,7 +111,7 @@ class TrainingSession:
 
 
 def from_kg(x):
-    return x * 2.205
+    return x * 2.20462262
 
 
 def error(text):
@@ -176,3 +245,7 @@ def import_exlog(filename):
 if __name__ == '__main__':
     import sys
     exlog = import_exlog(sys.argv[1])
+
+    for session in exlog:
+        for lift in session.lifts:
+            print(lift.name + " " + str(lift.tonnage()))
