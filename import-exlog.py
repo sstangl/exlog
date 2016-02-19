@@ -241,6 +241,11 @@ def import_exlog(filename):
                 maybeweight = line.split(':')[1].strip()
                 if maybeweight:
                     session.setbodyweight(float(maybeweight))
+
+            # The earliest entries do some jogging for warmup.
+            elif name == "warmup":
+                continue
+
             else:
                 lift = Lift(name)
                 session.addlift(lift)
