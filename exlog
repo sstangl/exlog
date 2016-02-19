@@ -1,6 +1,836 @@
 #!/bin/cat
 # vim: syntax=python ts=2 tw=79 et sw=2 sts=2:
 
+2015-05-17 (Sunday)
+  ab wheel:
+    0x75 # in 7 minutes (taking it easy due to meet)
+  chins:
+    0x5x4 # Taking it easy -- upper back tired from Friday.
+  prowler:
+    360x8 # 15:105. Harder than normal.
+
+# No training on Saturday: BBBC beach party
+
+2015-05-15 (Friday)
+  weight: 194.6
+  squat:
+    20kgx10x2, 135, 225, 315x3, 405x1, 455x1, 495x1
+    535x1@8 # Have to push this week.
+    579x1@10 # Actually was very strong, and back was tight, but knees
+             # traveled forward a little after the bounce (1/4th through
+             # the ascent?). Then had to stop pushing to bring it back
+             # over midline.
+    540x2@9 # Pretty loose. Bad pathing. Back rounding?
+    240kgx2@9
+    230kgx2@10 # Lower back rounded + bar slanted.
+               # Sarah kept asking "What happened?"
+  paused bench:
+    20kgx10x2, 70kg, 90kg, 120kgx3, 140kgx1@6
+    150kgx1@7
+    155kgx1@8
+    160kgx1@9
+    155kgx2@9
+    150kgx2@9
+    147.5kgx2@8 # Whatever, good enough.
+  pendlay row:
+    135, 185, 215x4@6
+    225x4@6
+    245x4@7.5
+    255x4@8
+    265x4@(8.5,9)
+    245x4@9
+
+2015-05-13 (Wednesday)
+  weight: 195.0
+  ghd crunch:
+    15x80 # in 8 minutes, feet higher than normal
+  chins:
+    0x45 # in 8 minutes: 7,5,5, then all 4s, 30s rest
+  prowler:
+    360x8 # 15:105. In reality 10-12 seconds pushing, 5 seconds turning.
+
+2015-05-12 (Tuesday) # Feeling tired.
+  weight: 195.0
+  deadlift:
+    75kgx5x2, 125kg, 175kgx3, 195kgx1, 225kgx1 # Feels tough.
+    240kgx1@8.5
+    250kgx1@9 # Well, that sucks. Significantly down, probably from chain squats
+              # yesterday. Not happy with that trade.
+    240kgx2@8 # Added straps. Too easy...
+    245kgx2@9
+    240kgx2@9
+    235kgx2@9
+    230kgx2@9 # Well, OK.
+  close-grip floor press:
+    45x10x2, 135, 185, 225x3, 255x2@6
+    275x2@7
+    285x2@8
+    300x2@8
+    315x2@9
+    300x2@(8.5,9)
+  beltless squat:
+    45x10x2, 135, 225, 315x4, 405x4@6
+    435x4@7.5
+    445x4@8 # Really beating up lower back.
+    455x4@9 # Goddamn that sucks
+    435x4@8 # But lower back unhappy, so stopping.
+
+2015-05-11 (Monday)
+  weight: 196.8
+  chain squat: # Chain weight not specified, just guessing.
+    45x10x2, 135, 225, 315x3, 405x1
+    405+40x2@6
+    455+40x2@7
+    475+40x2@7.5
+    495+40x2@9.5 # Difficult because keep passing gas after 1st
+    475+40x2@9
+    455+40x2@(8.5,8,8.5) # Better pathing on 2nd. Stopping to not overdo it.
+  pin bench:
+    20kgx10x2, 70kg, 90kg, 110kgx3
+    130kgx2@6
+    140kgx2@7
+    145kgx2@8
+    150kgx2@8
+    155kgx2@9.5
+    150kgx2@9
+    145kgx2@(8.5,9)
+  beltless press:
+    20kgx10x2, 40kg, 60kg, 70kgx4@5
+    75kgx4@7
+    80kgx4@8
+    82.5kgx3f # Hm.
+    75kgx4@(8,9) # Done. Taking too long and back hurting.
+
+2015-05-09 (Saturday)
+  weight: 195.2
+  ab wheel:
+    0x86 # in 8 minutes, 0 from toes
+  chest-supported row:
+    125x55 # in 8 minutes, 10+(5*9)
+  prowler:
+    360x8 # 15:105. Much easier than W. Did I take too little rest then?
+
+2015-05-08 (Friday)
+  weight: 196.8
+  squat:
+    45x10x2, 135, 225, 315x3, 405x1 # VERY fast today.
+    495x1@6.5
+    525x1@7.5
+    550x1@8 # Fell forward a little.
+    575x1@8.5 # Actually very easy... Didn't fall forward, so I could push
+              # the whole way. Probably could do 600 today plausibly.
+    545x2@8.5 # Sloppier forrm, but tired. Everything 10min rest.
+    535x2@(8,9.5) # Falling forward a little. Getting real tired.
+    525x2@9
+  paused bench:
+    45x10x2, 135, 185, 225, 275x3, 315x1@6
+    330x1@8
+    345x1@8
+    355x1@9 # "Smooth as butter" says Mark.
+    340x2@9 # Misgrooved into rack on 2nd.
+    330x2@(8,8.5)
+    325x1@8.5
+    320x1@8 # But tough on shoulders.
+  beltless paused deadlift:
+    135, 225, 315x3, 405x3@5
+    455x3@7, 475x3@8, 495x3@9
+    475x3@9 # Fucked up callouses. Very tough on lower + mid back.
+            # Much harder than other variants.
+
+# No training Thursday -- stretched & rolled.
+
+2015-05-06 (Wednesday)
+  weight: 196.0
+  ghd crunch:
+    15x82 # in 8 minutes
+  chins:
+    0x44 # in 8 minutes
+  prowler:
+    360x8 # 15:105. Much harder! But now some sprints 10-12s.
+          # Closer to right ratio, though.
+
+2015-05-05 (Tuesday)
+  weight: 197.0
+  deadlift: # Eleiko bar
+    75x5x2, 125kg, 175kgx3 # Hurts fingers. Damn bar!
+    205kgx1
+    225kgx1@6
+    240kgx1@7
+    252.5kgx1@8
+    262.5kgx1@9 # Wow! PR!
+    252.5kgx2@10 # Grindy, + mild rebend. Guess I was tired from the top single.
+    240kgx1f # Eleiko bar doesn't work for doubles.
+    230kgx2@8 # w/straps
+    230kgx2@(8,8.5,9) # Really feeling it in glutes. Straps not working right.
+  bench:
+    20kgx10x2, 60kg, 90kg, 110kg
+    130kgx3@6
+    140kgx3@6
+    150kgx3@7.5
+    155kgx3@8
+    160kgx3@10 # Shoulder moving.
+    152.5kgx3@9.5
+    147.5kgx3@9
+  303 tempo squat:
+    45x10x2, 135, 225, 315
+    385x4@7
+    405x4@8
+    425x4@9
+    405x4@(8,9)
+
+2015-05-04 (Monday)
+  weight: 196.0
+  2-count beltless paused squat: # in yellow jackets
+    45x10x2, 135x5x2, 225, 315x3, 365x3 # Pain superior to right patella.
+    405x3@7
+    425x3@8.5
+    435x3@9
+    415x3@(8,9)
+  2-count paused bench:
+    20kgx10x2, 70kg, 100kgx3, 120kgx3
+    130kgx3@7
+    137.5kgx3@8
+    145kgx3@8.5
+    148.5kgx3@9.5
+    140kgx3@(8,9)
+  beltless press:
+    20kgx10x2, 40kg, 50kg
+    70kgx4@6
+    75kgx4@7
+    80kgx4@8
+    82.5kgx4@9
+    80kgx4@9
+    77.5kgx4@(8,8,9)
+
+2015-05-02 (Saturday)
+  weight: 198.0
+  ab wheel:
+    0x90 # in 8 minutes, 0 from toes.
+  chest-supported row:
+    125x48 # in 8 minutes
+  prowler:
+    370x6 # 15:140, really should be 15:120 or so.
+
+2015-05-01 (Friday)
+  weight: 195.2
+  1-inch deficit deadlift: # beltless
+    70kgx5x2, 120kg, 170kgx3
+    200kgx3@6
+    210kgx3@8
+    220kgx3@8
+    230kgx3@8.5 # Was going to say 9, but Sarah says 8...
+    235kgx3@9 # With the "gun in my face" definition of 9
+  chain bench:
+    20kgx10x2, 75kg, 95kg, 95kg+42x3
+    125kg+42x3@6
+    135kg+42x3@7
+    142.5kg+42x3@9 # Right shoulder pronated on 2nd.
+  beltless squat:
+    45x10x2, 135x6, 225x6, 315x6
+    365x6@6
+    385x6@6
+    405x6@7
+    425x6@8
+    445x6@10 # Knees hurt at top of patella. Hips better, less pain. From sloppy.
+             # Need to work on keeping back up. On video: knees knocking
+             # forward at bottom, calves relaxing, bar goes forward on ascent.
+             # Minor compartment syndrome in lower back.
+
+2015-04-30 (Thursday)
+  chain squat:
+    20kgx10x2, 70kg, 120kg, 150kgx3, 170kgx3, 190kgx1
+    190kg+42x3@6.5
+    200kg+42x3@7
+    210kg+42x3@9
+    220kg+42x2@10 # Very shitty today. Even with chains, still very low.
+  bench:
+    20kgx10x2, 60kg, 100kgx6
+    115kgx6@6
+    120kgx6@5 # Went quicker, no rest at top.
+    140kgx6@8
+    145kgx6@9
+  press:
+    45x10x2, 95, 115x6, 135x6@6, 155x6@6
+    160x6@7
+    165x6@8
+    170x6@9
+
+2015-04-29 (Wednesday)
+  weight: 195.0
+  ghd crunch:
+    15x70 # in 8 minutes, sets of 10. Very hard -- abs very exhausted.
+          # Reached failure on last set. Legs/feet higher than normal.
+  chins:
+    0x40 # in 8 minutes, in sets of 5.
+  prowler:
+    370x6 # 20:140, in 14 minutes. Distance takes 12-15s if trying.
+
+2015-04-28 (Tuesday)
+  deadlift:
+    70kgx5x2, 120kg, 170kgx3, 190kgx1, 220kgx1
+    240kgx1@7.5 # Maybe 8?
+    232.5kgx3@7.5 # 10m rest
+    237.5kgx3@8
+    245kgx3@9 # Weird. Guess I misjudged the single.
+  close-grip floor press:
+    45x10x2, 135, 185, 225x3@5
+    255x3@6
+    265x3@7
+    277.5x3@8
+    290x3@9
+  2-inch deficit sldl: # beltless off 2" deficit
+    135x6, 225x6, 315x6
+    375x6@6
+    390x6@7
+    405x6@7.5
+    425x6@8.5 # Good enough.
+
+2015-04-27 (Monday) # Low stress week.
+  weight: 197.2
+  squat:
+    20kgx10x2, 70kg, 120kg, 140kgx3, 170kgx1, 190kgx1
+    220kgx1@6
+    240kgx1@8 # Shitty form, falling forward.
+    230kgx3@9 # Mostly stopped pitching forward. 3rd lost drive.
+  paused bench:
+    20kgx10x2, 70kg, 90kg, 120kgx3, 130kgx1, 140kgx1@6
+    155kgx1@7.5
+    147.5kgx3@7.5
+    152.5kgx3@9
+  pin bench:
+    120kgx3@6
+    125kgx3@6
+    130kgx3@7
+    137.5kgx3@7.5
+    145kgx3@9
+
+2015-04-25 (Saturday)
+  weight: 196.2
+  ab wheel:
+    0x75 # in 8 minutes, 0 from toes
+  chest-supported row:
+    115x55 # in 8 minutes
+  prowler: # indoors!
+    370x6 # 20:140 in 14, most 15s.
+
+2015-04-24 (Friday)
+  weight: 196.2
+  chain deadlift: # beltless
+    70kgx5x2, 120kgx5, 170kgx3, 170kg+39x2
+    190kg+39x2@6
+    220kg+39x2@7.5
+    235kg+39x2@8.5
+    240kg+39x2@9
+    230kg+39x2@9 # Tough!
+    220kg+39x2@9
+  2-board bench:
+    45x10x2, 135, 185, 225x3, 275x2
+    315x2@5
+    355x2@7
+    370x2@7.5
+    385x2@9
+    370x2@8.5
+    365x2@8.5
+    355x2@(7.5,8,8,9)
+  303 tempo squat: # beltless
+    45x10x2, 135, 225, 315
+    365x5@7
+    385x5@(8,8.5,9) # Urgh.
+
+2015-04-23 (Thursday)
+  weight: 196.8
+  2-count paused squat: # w/belt
+    45x10x2, 135, 225, 315x3, 365x2
+    405x2@8
+    425x2@9
+    445x2@10 # Kept hoping it would get easier...
+    405x2@(8,8.5,9)
+    385x2@(7.5,8,8,8.5,9)
+  slingshot bench:
+    45x10x2, 135, 185, 225x3, 275x3, 315x2
+    355x2@7
+    375x2@8
+    385x2@9 # Good form. Not scary.
+    375x2@9
+    365x2@(8.5,9)
+    355x2@(8.5,7,8) # Goes better if I try to push faster. Left shoulder beat up.
+  press: # beltless
+    45x10x2, 95, 115, 135, 155x5@7
+    165x5@(8,8.5,9)
+
+2015-04-22 (Wednesday)
+  weight: 196.6
+  ghd crunch:
+    10x93 # in 8 minutes
+  chins:
+    0x39 # in 8 minutes
+  prowler:
+    290x6 # 20:140 in 14 minutes, last sprint in 12s. Zero death.
+
+2015-04-21 (Tuesday)
+  deadlift:
+    70kgx5x2, 120kg, 170kgx3, 190kgx1
+    220kgx1@7
+    245kgx1@9
+    225kgx3@8.5
+    220kgx3@9
+    215kgx3@(8,9.5)
+    210kgx3@(8.5,9)
+  close-grip bench:
+    45x10x2, 135, 185, 225
+    245x5@6
+    275x5@8 # But right shoulder pronating on every rep.
+    265x5@8 # w/ slight pause
+    265x5@(8,8.5,9)
+  pendlay row:
+    135, 185
+    205x5@7
+    225x5@(8,7,9) # with a lot of back help.
+
+2015-04-20 (Monday)
+  weight: 196.6
+  squat:
+    45x10x2, 135, 225, 315x3, 405x1, 455x1, 495x1
+    525x1@8 # High. Trying to avoid hip pain.
+    525x1@9 # About the same speed as the 575 last week.
+    495x3@9 # Definitely right weight...
+    475x3@(8.5,8) # last rep high
+    475x3@9 # Just shift form. Hip flexors hurt.
+    455x3@(7.5,8,9)
+  paused bench:
+    45x10x2, 135, 185, 225, 255x3, 285x2
+    142.5kgx1@6
+    155kgx1@8.5
+    148.5kgx3@8.5
+    145kgx3@8
+    145kgx3@9 # Right shoulder shrugging.
+    140kgx3@(8,8,9) # Left foot slipped.
+  2-count paused bench:
+    130kgx2@7
+    135kgx2@8
+    140kgx2@9
+    135kgx2@(8,9)
+    130kgx2@9
+
+2015-04-18 (Saturday)
+  weight: 195.6
+  ab wheel:
+    0x85 # in 8 minutes, first 5 from toes.
+  lat pulldown:
+    140x55 # in 8 minutes.
+  prowler:
+    280x6 # 20:140. Fast (15s usually) but tiring. Need to go longer distance.
+
+2015-04-17 (Friday)
+  weight: 195.2
+  2 inch deficit deadlift: # beltless
+    135x5x2, 225, 315x3, 405x1
+    445x3@7
+    475x3@8
+    495x3@9 # ~10 minute rests: Sarah
+    470x3@(8,8,8,8.5,8,9) # Beat the back up.
+  bench:
+    45x10x2, 135, 185, 225
+    255x5@6
+    275x5@6
+    295x5@7
+    315x5@(8,8.5,10) # Right shoulder pronating on every rep, according to Sarah.
+  safety bar squat:
+    40+35kgx5, 80+35kgx5
+    120kg+35kgx5@7
+    130kg+35kgx5@(8,8,8.5,8.5,9)
+
+2015-04-16 (Thursday)
+  weight: 194.6
+  pin squat: # beltless
+    20kgx10x2, 70kg, 120kg
+    150kgx3@7
+    170kgx3@7.5
+    180kgx3@8
+    190kgx3@8
+    195kgx3@9
+    185kgx3@9 # Well, OK. Was honestly a 9, and took ~7m rest.
+  chain bench:
+    20kgx10x2, 70kg, 90kg, 120kgx3
+    120kg+48x3@7
+    130kg+48x3@8
+    140kg+48x3@9.5
+    127.5kg+48x3@(8,8.5,9)
+  press: # beltless
+    45x10x2, 95, 115, 135x5@5
+    155x5@6.5
+    165x5@7.5
+    170x5@(8.5,8.5,8,9) # 5min rest.
+
+2015-04-15 (Wednesday)
+  ghd crunch:
+    10x90 # in 8 minutes (mostly tens)
+  chins:
+    0x43 # in 8 minutes, mostly in 5s (last one 3)
+  prowler:
+    270x6 # 20:140. Tiring.
+
+2015-04-14 (Tuesday)
+  weight: 195.0
+  deadlift:
+    70kg, 120kg, 170kgx3, 200kgx1, 220kgx1@6.5 # Some brachioradialis strain.
+    240kgx1@9 # Grip opening.
+    250kgx1@8.5 # Much better. Fast.
+    252.5kgx1@9
+    230kgx3@8.5
+    225kgx3@(8,9)
+    222.5kgx3@9 # Phantom smell of ammonia.
+  3-ct paused bench:
+    20kgx10x2, 60kg, 100kgx3@5
+    117.5kgx3@6
+    135kgx3@8
+    140kgx3@8.5
+    142.5kgx3@9.5
+    135kgx3@9
+    132.5kgx3@(8,9) # Flaring up some elbow tendinitis. Exciting.
+  block sldl: # beltless, 3.5" block
+    135, 225, 315x5@5
+    350x5@7
+    375x5@7
+    395x5@(8,8,9)
+
+2015-04-13 (Monday)
+  weight: 195.6
+  squat:
+    45x10x2, 135, 225, 315x3, 405x1, 455x1, 495x1, 535x1
+    565x1@8 # Fast, but still borderline depth and quadded. Misload.
+    575x1@9 # Clearly to depth, but more sticky. Awesome!
+    540x1@10 # Focused so much on going deep that I fell forward.
+    525x3@10 # ~10 minute rests.
+    505x3@(8.5,9.5) # Exciting.
+  paused bench:
+    45x10x2, 135, 185, 100kgx3, 120kgx2, 140kgx1
+    150kgx1@8
+    158.5kgx1@9
+    145kgx3@8.5
+    140kgx3@(7.5,8,8,8,8.5,9) # Left foot slipped on 2s.
+  pin bench:
+    130kgx3@6.5
+    135kgx3@7
+    140kgx3@8
+    145kgx3@9
+    140kgx3@9
+    137.5kgx3@(8,9)
+
+2015-04-11 (Saturday)
+  ab wheel:
+    0x70 # in 8 minutes. Inner elbows + neck hurting badly. First 6 reps from toes.
+  lat pulldown:
+    125x62 # in 8 minutes.
+  prowler:
+    220x6 # 20:140. Went faster. A little tough. Too little weight.
+  # No arms -- biceps & brachioradiales & inner elbows hurt. Neck too.
+
+2015-04-10 (Friday)
+  weight: 196.2
+  chain deadlift:
+    70kgx5@2, 120kg, 170kgx3, 170kg+35kgx2
+    190kg+35x2@5
+    220kg+35x2@8
+    230kg+35x2@9 # Upper back rounding, lower back starting to give.
+    220kg+35x2@8.5
+    220kg+35x2@9 # Strained left side of neck on last rep. Some head pain.
+  2-board bench:
+    45x10x2, 135, 185, 225x3, 275x2@4
+    315x2@6
+    335x2@6.5
+    355x2@7
+    375x2@9
+    355x2@(8,8.5,8) # Pain under left elbow; stopping.
+  303 tempo squat: # beltless
+    45x10x2, 135, 225, 315x5@6
+    365x5@7
+    380x5@(8,9) # Well that ended quickly.
+
+2015-04-09 (Thursday)
+  weight: 196.0
+  2-ct paused squat: # w/belt
+    45x10x2, 135, 225, 315x3, 365x2
+    405x2@7
+    425x2@8
+    445x2@9.5
+    420x2@(8,9)
+  slingshot bench:
+    45x10x2, 135, 185, 225, 275x3, 315x2@5
+    335x2@6.5
+    355x2@7
+    370x2@8.5
+    380x2@9 # Scary. Lots of shoulder.
+    360x2@(8.5,9)
+  press: # beltless
+    45x20, 95, 115, 135
+    155x5@7
+    167.5x5@(8,9) # Well, that was quick.
+
+2015-04-08 (Wednesday)
+  weight: 194.0
+  ghd crunch:
+    0x120 # in 8 minutes, half in 20s, half in 10s.
+  chins:
+    0x40 # in 8 minutes. Right posterior delt hurts.
+  rower:
+    8x6 # 20:140. Tough. Legs got tired.
+  bb curl:
+    80x46 # in 8 minutes.
+  french press:
+    77.5x38 # in 8 minutes. Tired!
+
+2015-04-07 (Tuesday)
+  weight: 196.0
+  deadlift:
+    70kgx5x2, 120kg, 140kgx3, 170kgx2, 190kgx1, 220kgx1
+    237.5kgx1@7
+    247.5kgx1@8.5 # Kind of fast, but upper back caved.
+    238.5kgx1@10 # Failed thrice -- kept throwing up.
+    235kgx3@9
+    222.5kgx3@(8,8.5,9) # Pretty sure I'm trying to curl the bar on the ascent.
+  close-grip bench:
+    45x10x2, 135, 185, 225
+    245x5@6
+    270x5@7
+    282.5x5@(8,9) # Well, that was fast.
+
+2015-04-06 (Monday)
+  weight: 196.4
+  squat:
+    45x10x2, 135, 225, 315x3, 405x1, 455x1, 495x1 # Heavy on back, fast up.
+    525x1@6.5
+    560x1@8 # All-time PR!
+    535x3@9 # Sloppy form, 3rd the best.
+    525x3@9.5
+    505x3@(8.5,9) # Sharp pain on top of left patella after.
+  paused bench:
+    45x10x2, 135, 185, 225x3, 255x2, 285x1
+    140kgx1@6
+    152.5kgx1@8 # On the easy side.
+    147.5kgx3@9
+    143.5kgx3@9
+    140kgx3@(8,8.5,9)
+  2-ct paused bench:
+    132.5kgx2@7
+    136kgx2@8
+    140kgx2@9
+    135kgx2@9
+    132.5kgx2@(8,7.5,8.5)
+
+2015-04-04 (Saturday)
+  weight: 194.4
+  ab wheel: # from knees
+    0x97 # in 8 minutes (with interruptions from Sarah...)
+  lat pulldown:
+    115x80 # in 8 minutes, not particularly strict
+  prowler:
+    300x6 # 20:140 in 14 minutes. Last one sprinted in 10s.
+          # Others were walks -- not tiring, much less death than normal.
+  barbell curl:
+    75x58 # in 8 minutes.
+  french press:
+    72.5x58 # in 8 minutes.
+
+2015-04-03 (Friday) # Forearms sore
+  weight: 195.0
+  3 inch deficit deadlift:
+    70kgx5x2, 120kg, 140kg, 170kgx3
+    190kgx3@6
+    200kgx3@7
+    210kgx3@8
+    225kgx3@9
+    210kgx3@(8,9)
+  3-ct paused bench:
+    45x10x2, 135, 185, 225x3, 245x3@5, 265x3@5
+    285x3@7
+    300x3@8
+    315x3@9 # Right shoulder on 3r.
+    307.5x2f@10 # Sarah forgot to count on last one, and I held it for too long.
+    # Right shoulder hurts too much -- stopping.
+  safety bar squat: # beltless
+    77, 77+90, 185+32, 225+32x5@5
+    255+32x5@6
+    275+32x5@6
+    295+32x5@7
+    310+32x5@(8,8.5,8,8.5,9) # This kills the erector spinae.
+
+2015-04-02 (Thursday)
+  weight: 194.4
+  pin squat:
+    55x5x2, 145, 235, 325x3@6, 345x3@6 # Feels terrible. Knees hurt.
+    365x3@6
+    385x3@7
+    405x3@9 # Breathed out at bottom of 3r.
+    425x3@9
+    400x3@(8,8.5,8,9)
+  bench + chains:
+    45x10x2, 135, 185, 225x3 # Tough. Right shoulder tight.
+    225+80x3@6
+    245+80x3@8 # BUT right shoulder shrugging excessively, very bad.
+               # Dropping weight and trying again.
+    225x3@6 # Tried without chains, a little better control.
+    225+40x3@5 # Better shoulder.
+    245+40x3@6
+    265+40x3@7
+    280+40x3@8.5
+    265+40x3@8
+    265+40x3@8.5 # Shoulder not getting better, stopping.
+  press: # Beltless
+    45x10x2, 95, 115, 135
+    155x5@7
+    165x5@(8,8,8.5,8.5,9)
+
+2015-04-01 (Wednesday)
+  weight: 193.2
+  ghd crunch:
+    0x110 # in 8 minutes, last rep almost failed, mostly in tens.
+  chins:
+    0x40 # in 8 minutes, 10 in first set, rest in triples or so.
+  prowler:
+    290x6 # 20:140. Last in 15s. Uh, tough.
+  barbell curl:
+    75x50 # Death, mostly in anterior delt.
+  french press:
+    72.5x50
+
+2015-03-31 (Tuesday) # Tight lower back.
+  weight: 195.0
+  deadlift:
+    70kg, 90kg, 120kg, 140kgx3, 170kgx2, 200kgx1
+    220kgx1@6.5
+    235kgx1@7.5
+    240kgx1@7.5 # Keep throwing up at bottom.
+    245kgx1@8 # A very strong rep! Fast. Great form.
+    237.5kgx3@9
+    232.5kgx3@9
+    225kgx3@9 # Forearms sore...
+  tng bench:
+    20kgx10, 70kg, 90kg, 120kgx3
+    127.5kgx5@6
+    132.5kgx5@7.5
+    135kgx5@(8,8.5,9)
+  sldl: # off 3" block, beltless.
+    135, 225, 275, 315x5@5
+    345x5@7
+    365x5@(8,8,8,8,9)
+
+2015-03-30 (Monday) # Specialization Block. Yellow Jacket knee sleeves!
+  weight: 193.6
+  squat:
+    45x10x2, 135, 225, 315x3, 405x1, 455x1, 495x1
+    535x1@7
+    550x1@8 # Pretty fast - adductor pain. ~12 minute rest: Sarah upset.
+    520x3@8
+    535x3@9.5 # Very slow around sticking point.
+    515x3@8.5
+    515x3@9
+    500x3@9
+  paused bench:
+    45x10x2, 60kg, 100kg, 120kgx3, 140kgx1
+    155kgx1@8.5 # Listened to Mark, who said 6-7.
+    160kgx1@10 # Should not have listened to Mark.
+    145kgx3@8.5
+    147.5kgx3@9
+    142.5x3@8.5
+    140kgx3@9
+  pin bench:
+    100kgx3@5
+    120kgx3@6
+    127.5kgx3@7
+    135kgx3@8
+    140kgx3@9
+    137.5kgx3@9
+    135kgx3@8
+    135kgx3@9
+    132.5kgx3@9 # 4 HOURS! GODDAMN.
+
+2015-03-28 (Saturday)
+  weight: 195.2
+  ab wheel: # From knees
+    0x100 # in 8 minutes
+  lat pulldown:
+    105x84 # in 8 minutes
+  prowler:
+    280x6 # 20:140 in 14 minutes. Tough. Last one took a lot out of me.
+    # Hitting distance in ~15s.
+  cable curl:
+    45x66 # in 8 minutes.
+  tricep pushdown:
+    47.5x80 # in 8 minutes. Tricep too light. Lifter needs milk, badly!
+
+2015-03-26 (Thursday)
+  weight: 193.6
+  deadlift: # Eleiko bar.
+    70kgx5x2, 120kg, 140kgx4, 170kgx2, 190kgx1
+    210kgx1@6, 220kgx1@6.5, 230kgxf, 230kgx1@7 # Lower back rounded on the failed set.
+    240kgx1@7.5 # Switching to a power bar + straps: Eleiko chewed up enough.
+    220kgx4@8, 227.5kgx4@9
+  2-ct paused bench:
+    45x10x2, 135, 185x4, 225x4, 245x4@5
+    265x4@7, 275x4@8, 285x4@8.5, 295x4@8 # Arched better?
+    305x3f # Good arch, worse leg drive? Tired?
+  2-ct paused squat:
+    45x10x2, 135, 225, 315x3
+    365x4@7, 385x4@8, 405x4@9
+    # Down from last time ~20lbs, but in 3rd position.
+
+2015-03-25 (Wednesday)
+  weight: 193.8
+  ghd crunch:
+    0x100 # in 8 minutes, mostly in tens.
+  chins:
+    0x41 # in 8 minutes, mostly in triples.
+  prowler:
+    270x6 # 20:140 in 14 minutes. Last set sprinted full distance in 12s.
+  cable curl:
+    45x70 # in 8 minutes.
+  french press:
+    67.5x60 # in 8 minutes.
+
+2015-03-24 (Tuesday)
+  weight: 193.8
+  paused bench:
+    45x10x2, 75kg, 90kg, 120kgx3, 130kgx2
+    140kgx1@6, 150kgx1@7.5 # On the easy side.
+    136kgx4@8, 140kgx4@9
+  303 tempo squat:
+    45x10x2, 135, 225, 315, 365x5@5.5
+    395x5@7, 410x5@8 # No compartment syndrome!
+  close-grip bench:
+    45x10x2, 135, 185, 225, 245x5@6
+    265x4@7, 275x5@8 # Very soft 8... possibly a 7.
+
+2015-03-23 (Monday) # "Lower Stress"
+  weight: 193.8
+  squat:
+    45x10x2, 135, 225, 315x1, 405x1, 455x1, 495x1 # Right knee pain.
+    525x1@7.5, 475x4@8, 500x4@9
+    # Last set clearly a 9, great! 1-2r great, 3-4r came forward.
+  slingshot bench:
+    45x10x2, 135, 225x4, 275x4@5 # Right knee pain.
+    305x4@6, 330x4@7, 340x4@8, 350x4@9
+  press:
+    45x10x2, 95, 115, 135
+    155x5@7, 160x5@7, 165x5@8 # Tough without belt.
+
+2015-03-22 (Sunday)
+  weight: 193.6
+  ab wheel:
+    0x83 # in 7 minutes
+  lat pulldown:
+    105x74 # in 7 minutes, mostly in groups of 5
+  rower:
+    7x6 # 20:120. OK endurance-wise, but back tight.
+  cable curl:
+    37.5x60 # in 7 minutes
+  tricep pushdown:
+    37.5x60 # in 7 minutes
+
+###############################################
+# TODO: DATA STILL NEEDS TO BE ENTERED HERE
+###############################################
+
 2013-09-21 (Saturday) # Sick + Press Volume
   weight: 189.0
   press:

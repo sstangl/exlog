@@ -111,7 +111,20 @@ class TrainingSession:
 
 
 def from_kg(x):
-    return x * 2.20462262
+    return float(x) * 2.20462262
+
+
+def weight2float(x):
+    # Used for chain notation.
+    if "+" in x:
+        sum = 0
+        for k in x.split('+'):
+            sum += weight2float(k)
+        return sum
+
+    if "kg" in x:
+        return from_kg(x.replace("kg",""))
+    return float(x)
 
 
 def error(text):
@@ -135,7 +148,7 @@ def makesets(text):
 
     # If nothing special is noted, then it's probably a warmup set of 5.
     if xcount == 0:
-        return [Set(float(text), 5)]
+        return [Set(weight2float(text), 5)]
 
     # Single set, maybe with RPE or failure.
     if xcount == 1 and not '(' in text:
@@ -157,7 +170,7 @@ def makesets(text):
         if not reps:
             reps = 0
 
-        return [Set(float(weight), int(reps), rpe, failure)]
+        return [Set(weight2float(weight), int(reps), rpe, failure)]
 
     # Multiple sets with individual notation.
     # With failure: 225x(5,5,4f)
@@ -180,7 +193,7 @@ def makesets(text):
         # List is across RPE.
         if text[-1] == '@':
             [weight, reps] = text[0:-1].split('x')
-            return [Set(float(weight), int(reps), int(x)) for x in parens]
+            return [Set(weight2float(weight), int(reps), float(x)) for x in parens]
 
     # Multiple sets across without RPE.
     # Failure is still sometimes denoted by "325x3fx3". Then all sets failed.
@@ -189,7 +202,7 @@ def makesets(text):
         text = text.replace('f', '')
 
         [weight, reps, nsets] = text.split('x')
-        return [Set(float(weight), int(reps), 0, failure) for x in nsets]
+        return [Set(weight2float(weight), int(reps), 0, failure) for x in nsets]
 
     error("Could not parse sets: " + text)
 
