@@ -57,7 +57,11 @@ class Set:
 
     # For cases that the RPE chart doesn't cover, we have the Wendler formula.
     def wendler(self):
-        return self.weight + (self.weight * self.reps / 30)
+        if self.reps == 0:
+            return 0.0
+        if self.reps == 1:
+            return self.weight
+        return self.weight + ((self.weight * self.reps) / 30)
 
 
 class Lift:
@@ -75,6 +79,7 @@ class Lift:
         cutoff = topweight * 0.8
         return filter(lambda x: x.weight >= cutoff, self.sets)
 
+    # TODO: Should trust higher RPEs more.
     def e1rm(self):
         return max([0] + list(map(lambda x: x.e1rm(), self.__get_heavysets())))
 
@@ -266,4 +271,4 @@ if __name__ == '__main__':
 
     for session in exlog:
         for lift in session.lifts:
-            print(lift.name + " " + str(lift.e1rm()))
+            print(lift.name + " " + str(lift.e1rm() or lift.wendler()))
