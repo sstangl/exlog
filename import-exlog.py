@@ -42,7 +42,7 @@ class Set:
     def __init__(self, weight, reps, rpe=0, failure=False):
         self.weight = float(weight)
         self.reps = int(reps)
-        self.rpe = int(rpe)
+        self.rpe = float(rpe)
         self.failure = bool(failure)
 
     def e1rm(self):
@@ -161,7 +161,7 @@ def makesets(text):
         rpe = 0
         if '@' in lowertext:
             [lowertext, rpestr] = lowertext.split('@')
-            rpe = int(rpe)
+            rpe = float(rpestr)
 
         # Remaining string should just be weight x reps.
         [weight, reps] = lowertext.split('x')
@@ -266,4 +266,4 @@ if __name__ == '__main__':
 
     for session in exlog:
         for lift in session.lifts:
-            print(lift.name + " " + str(lift.tonnage()))
+            print(lift.name + " " + str(lift.e1rm()))
