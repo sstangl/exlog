@@ -5,6 +5,11 @@ import datetime
 import sys
 
 
+def error(text):
+    print("Error: " + text)
+    sys.exit(1)
+
+
 PercentageTable = [
     [100.00, 97.80, 95.50, 93.90, 92.20, 90.70, 89.20, 87.80], # 1 rep
     [95.50, 93.90, 92.20, 90.70, 89.20, 87.80, 86.30, 85.00], # 2 reps
@@ -44,6 +49,11 @@ class Set:
         self.reps = int(reps)
         self.rpe = float(rpe)
         self.failure = bool(failure)
+
+        if self.reps < 0:
+            error("Negative reps")
+        if self.reps == 0 and not self.failure:
+            error("Invalid set: no reps done and no failure.")
 
     def e1rm(self):
         factor = percentage(self.reps, self.rpe)
@@ -130,11 +140,6 @@ def weight2float(x):
     if "kg" in x:
         return from_kg(x.replace("kg",""))
     return float(x)
-
-
-def error(text):
-    print("Error: " + text)
-    sys.exit(1)
 
 
 # Returns the number of 2-space tabs on the line.
