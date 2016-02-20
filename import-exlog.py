@@ -192,7 +192,14 @@ def makesets(text):
             for k in parens:
                 failure = 'f' in k
                 reps = k.replace('f', '')
-                sets.append(Set(float(weight), int(reps), 0, failure))
+                rpe = 0.0
+
+                # A set can have individual RPE notation:
+                # 45x(1,2,3,4@9)
+                if '@' in reps:
+                    [reps, rpe] = reps.split('@')
+
+                sets.append(Set(float(weight), int(reps), float(rpe), failure))
             return sets
 
         # List is across RPE.
