@@ -2,6 +2,134 @@
 # vim: syntax=python ts=2 tw=79 et sw=2 sts=2:
 # license: CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
 
+2015-07-13 (Monday)
+  weight: 196.2
+  squat:
+    45x10x2, 135, 225, 315x3, 405x1, 455x1, 495x1@6.5
+    525x1@8.5 # Fell forward a little.
+    545x1@9 # ATG, hamstrings completely let go at bottom. Still got it up. Not good.
+    515x3@9
+    500x3@8 # Falling forward a bit.
+    500x3@9 # Loose hamstrings a little on 3r.
+  bench:
+    45x10x2, 135, 185, 225x3, 275x3@7
+    305x3@7.5
+    325x3@8.5
+    345x3@8.5 # Good enough
+    345x3@9 # Tough on left shoulder!
+    325x3@8 # Agh left shoulder so tight on all 1rs.
+  clean high pull: # "look like an idiot"
+    95x3x2, 135x3
+    185x3@7
+    195x3@8
+    205x3@7 # Weak!
+    225x3@(7,7) # I don't think RPE works here since I can just pull lower...
+  db press:
+    70x8@10
+    50x8x3
+
+2015-07-11 (Saturday)
+  weight: 196.2
+  ab roller: # from toes
+    0x3x5
+  chinups:
+    0x(10,8,8)
+  calf raise:
+    30x10x3
+  prowler:
+    270x8 # 10:60
+
+2015-07-10 (Friday)
+  weight: 196.4
+  squat w/wraps:
+    20kgx10x2, 70kg, 120kg, 170kgx3, 200kgx1
+    215kgx5@(6.5,6.5) # Good RPE, but still felt hard -- back very fatigued.
+  floor press:
+    45x10x2, 135, 185, 225x3, 255x1
+    275x5@(7,7,8)
+  sldl off 2-inch blocks:
+    70kgx5x2, 120kg, 160kg
+    205kgx5@5.5
+    225kgx5@7.5
+  preacher curl:
+    15+45x12x4
+
+2015-07-09 (Thursday) # Deload deadlift
+  deadlift:
+    70kgx5x2, 120kg, 170kgx3
+    205kgx5@(8,7.5) # 1s grip slipping. Some right knee pain.
+  front squat w/wraps:
+    135, 225x3, 275x5@6
+    295x5@6.5
+    315x5@7.5 # Some reps high. Held CA-style.
+  press:
+    95, 115, 135, 155x1
+    165x5@(6.5,8.5,8)
+  cable row:
+    140x12x4
+
+2015-07-08 (Wednesday)
+  ab wheel: # from knees
+    0x100 # in 8 minutes.
+  prowler:
+    270x8 # 10:60.
+
+2015-07-07 (Tuesday)
+  weight: 195.4
+  2-count paused beltless high-bar squat:
+    45x10x2, 135, 225, 315x3
+    365x5@(7.5,7)
+  paused bench:
+    45x10x2, 135, 185, 225x3, 255x1
+    275x5@(6.5,6,6) # Too light?
+  2-count paused beltless deadlift:
+    70kgx5x2, 120kg, 180kgx5@(7.5,6.5)
+  preacher curl:
+    15+40x12x4 # Slow. Tough. On purpose.
+  face pull:
+    42.5x20x2
+
+2015-07-06 (Monday) # Deload Week.
+  weight: 197.0
+  squat:
+    45x10x2, 135, 225, 315x3, 405x1 # Left adductor hurts.
+    435x5@(6,7,7) # ~75%
+  close-grip bench:
+    45x10x2, 135, 185, 225x3, 255x1
+    275x5@(7,7,7) # ~75%
+  2-inch deficit deadlift:
+    70kg, 120kg, 160kgx3
+    425x5@(7,7) # But tough.
+
+2015-07-03 (Friday)
+  weight: 197.0
+  squat w/wraps:
+    20kgx10x2, 70kg, 120kg, 170kgx3, 200kgx1, 220kgx1
+    235kgx4@(9,10) # ~84%. Supposed to do a 3rd set but knee pain all over.
+                   # First set high, second lower but falling forward.
+    235kgx3f # Tried to go lower but wound up falling forward.
+             # Strained neck -- skipping slingshot bench ~385 because
+             # triceps failed yesterday, Sarah won't spot it, and neck
+             # strained a bit from dropping the squat. NO MORE WRAPS PLEASE.
+             # Tired. Constantly depressed. Coffee doesn't help.
+  pendlay row:
+    135, 185, 225x3, 245x1
+    265x4@(9.5,9.5,9) # Totally cheated. Much too heavy.
+
+2015-07-02 (Thursday)
+  weight: 195.4
+  deadlift:
+    70kgx5x2, 120kgx, 170kgx3
+    235kgx3@(9.5,9.5,9) # ~86%. Last one reset between each.
+                        # Problem was mostly not throwing up. 10m rest
+  beltless squat:
+    45x10, 135, 225, 315x3, 405x1
+    455x4@(9,8,8.5) # ~87%. 10m rest. Back hosed.
+  beltless press:
+    45x10x2, 95, 115, 135x3, 155x1, 175x1
+    185x3f # ~84%. Back just too tired.
+    180x4@(9,10,9.5) # Depressed and sweated-through.
+
 2015-07-01 (Wednesday)
   weight: 195.2
   ab roller: # from knees
