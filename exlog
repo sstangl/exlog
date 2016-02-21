@@ -2,6 +2,608 @@
 # vim: syntax=python ts=2 tw=79 et sw=2 sts=2:
 # license: CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
 
+2015-11-13 (Friday) # 11AM -- Sarah flight.
+  pin squat sleeveless beltless:
+    20kgx10x2, 70kg, 120kgx3, 140kgx3
+    170kgx3@7, 180kgx3@8, 190kgx3@(9,9.5)
+  db press:
+    25x10x2, 35, 45, 60x5@6
+    70x3@7, 75x3@8, 80x1f # Can't balance it.
+    75x3@8 # Welp. DBs are terrible!
+  romanian deadlift w/straps:
+    135, 225, 315x4, 365x4
+    405x7@7, 425x7@7 445x7@7, 465x7@8.5 # Lower back rounding on last. Tough!
+
+2015-11-12 (Thursday) # Training @ 1PM -- Sarah's car repair.
+  weight: 192.2 # Dehydrated?
+  paused bench:
+    20kgx10x2, 60kg, 80kg, 100kg, 120kgx3, 140kgx1, 150kgx1
+    155kgx1@7.5 # Hard to keep tight on the way down.
+    140kgx4@9 # Too heavy, shouldn't do 5@10.
+    130kgx5@(8,7) # Well, pretty shitty. Not terrible pain though,
+                  # but upper back vertebrae hurt.
+  deadlift:
+    70kgx5x2, 120kg, 170kgx3, 200kgx1, 220kgx1
+    240kgx1@7.5, 250kgx1@9 # Tough.
+    220kgx5@(8,8,9)
+  press:
+    20kgx10x2, 40kg, 50kg, 60kg
+    70kgx7@6.5, 72.5kgx7@8, 75kgx7@9
+
+2015-11-09 (Monday)
+  weight: 198.4
+  squat:
+    45x10x2, 135, 225, 315x3, 405x1, 455x1, 495x1
+    545x1@7.5
+    485x5@(8,8,8.5)
+  press:
+    45x10x2, 95, 115, 135, 155x1, 175x1
+    180x3@6.5, 185x3@8, 190x3@8, 195x3@8.5, 200x3@8.5
+  swiss bar press: # bar + collars ~= 45
+    95x6, 115x7
+    135x7@6, 155x6@7.5, 160x7@8, 165x7@(9,9) # A little crampy in pecs.
+
+2015-11-06 (Friday)
+  2-count paused deadlift beltless:
+    70kgx5x2, 120kgx4, 170kgx2, 200kgx1, 220kgx1
+    235kgx1@8, 220kgx4@(8.5,10,9) # Grip problem 2s. Straps 3s.
+  close-grip bench:
+    20kgx10x2, 50kg, 70kg, 90kg # Hurts and not getting better. Doing press instead.
+  press:
+    45x10x2, 95, 115, 135, 155x1, 175x1, 185x1
+    195x1@8.5
+    177.5x4@8, 180x4@7.5, 185x4@8.5
+  chins:
+    0x(8,6,6)
+  face pull:
+    32.5x10x3 # Right shoulder clicking.
+
+2015-11-05 (Thursday)
+  squat:
+    45x10x2, 135, 225, 315x3, 405x1, 455x1, 495x1
+    545x1@8 # Sarah says maybe high, but got bounce, so who knows.
+    510x4@8.5, 515x4@(9.5,9.5)
+  # Skipping bench to tomorrow to let shoulder maybe feel better ??
+  press:
+    45x10x2, 95, 115, 135, 155x3
+    170x6@(8,7.5,9,9) # Right trap (anteriorish?) pain at toppish.
+
+2015-11-03 (Tuesday)
+  deadlift:
+    70kgx5x2, 120kg, 170kgx3, 200kgx1, 220kgx1, 240kgx1@8
+    250kgx1@8
+    228.5kgx4@7, 232.5kgx4@(8.5,9,9,9) # Straps on 2s. 10m rest.
+  db incline bench:
+    25x8, 45x6, 60x4
+    75x6@(7,7,8,8)
+  pendlay row: # Rushing!
+    135, 185, 225x3
+    240x6@(8,7.5,8.5,8) # 5m rest.
+
+2015-11-02 (Monday)
+  weight: 199.0
+  squat:
+    45x10x2, 135, 225, 315x3, 405x1, 455x1, 495x1
+    540x1@7.5
+    495x4@(7.5,8,8.5,9.5,8.5) # Good bounce on last set.
+  paused bench: # Right shoulder pain!
+    45x10x2, 135x5x2, 185, 225x3, 255x1, 275x1, 315x1 # Tucking too much?
+    335x1, 355x1@8.5
+    325x4@(7.5,8,8.5,9,9.5) # Pain 1s. Some anterior tendon.
+    # Have to let go at bottom. Hurts less if head lifts off bench at bottom...
+    # and shoulders roll forward.
+  2-count paused bench:
+    315x4@(9,9.5,10) # Too hard.
+
+2015-10-30 (Friday)
+  chain deadlift:
+    70kgx5x2, 120kg, 120kg+80x3, 170kg+80x1, 190kg+80x1
+    220kg+80x1@9 # Much worse than last week.
+    210kg+80x4@(9,8,10,9.5) # Added straps on 2s. 3s grip totally gave out even w/straps.
+    # Having a friction problem when the bar gets 1/4 up thighs.
+    # Did not enjoy this.
+
+2015-10-29 (Thursday)
+  weight: 200.8
+  squat:
+    45x10x2, 135, 225, 315x3, 405x1, 455x1, 495x1
+    540x1@8
+    505x4@(9,9.5,9.5,10)
+  bench:
+    45x10x2, 135x5x2, 185, 225x3, 275x1, 315x1 # Right shoulder pain. Bicep tendon?
+    340x1, 370x1@8.5 # pec/bicep tendon pain
+    340x4@8, 345x4@9.5, 340x4@9 # Right side much weaker.
+    # Stopping here for sake of shoulder.
+  press:
+    45x10x2, 95, 115, 135
+    160x8@(8,9,9,10)
+
+2015-10-28 (Wednesday)
+  weight: 200.2
+  pendlay row:
+    135, 185, 225x8@(8,8.5,9,9.5)
+
+2015-10-27 (Tuesday) # Got Engaged =)
+  deadlift:
+    70kgx5x2, 120kg, 170kgx3, 200kgx1, 220kgx1
+    240kgx1@7, 250kgx1@8
+    225kgx5@(8.5,9,9.5), 220kgx5@(9.5,9.5) # Left hamstring feels more pressure. 10-15m rest.
+  db incline bench:
+    20x8, 25x8, 45x8@6
+    60x8@7, 70x8@(8,8.5,9,8)
+  # Postponing rows to tomorrow due to time & headache.
+
+2015-10-26 (Monday)
+  squat:
+    45x10x2, 135, 225, 315x3, 405x1, 455x1, 495x1
+    535x1@8
+    475x5@(7.5,8,9.5,9.5,9.5) # Leaned over more on 3s.
+  paused bench:
+    45x10x2, 135, 185, 225x3, 275x1, 315x1
+    335x1@7 # 3rd finger on ring hurts less.
+    310x5@(7.5,8,8.5,9,9)
+  2-count paused bench:
+    315x4@(9,9,10,10) # No pain though!
+
+2015-10-23 (Friday)
+  chain deadlift beltless:
+    70kgx5x2, 120kg, 120kg+80x3, 170kg+80x1, 190kg+80x1
+    220kg+80x1@8
+    205kg+80x5@(9,9,10) # 10m rest
+  chain bench:
+    45x10x2, 135, 185, 225x3, 225+40x3, 255+40x1, 275+40x1
+    295+40x1@6, 315+40x1@7.5
+    295+40x5@7.5, 305+40x5@(9,9)
+
+2015-10-22 (Thursday)
+  squat:
+    45x10x2, 135, 225, 315x3, 405x1, 455x1, 495x1
+    535x1@8
+    485x5@(8.5,9,9.5) # Great bounces. Slow and controlled.
+  bench:
+    20kgx10x2, 70kg, 90kg, 105kgx3, 120kgx1, 140kgx1, 155kgx1 # Right shoulder very tight.
+    170kgx1@8.5
+    150kgx5@(8.5,9,9.5) # Not painful but weak.
+  press:
+    20kgx10x2 # Right shoulder pain at top.
+    40kg, 50kg, 60kg
+    72.5kgx8@(8,8.5,9,9.5)
+
+2015-10-20 (Tuesday) # THROAT FEELS SICK. EVERYTHING IS HEAVY
+  deadlift:
+    70kgx5x2, 120kg, 170kgx3, 200kgx1, 220kgx1
+    240kgx1@8 # Down 12kg from target...
+    252.5kgx1@9 # Damn. Right forearm feeling tendony.
+    220kgx5@(8,8.5,9,9.5,10) # ~10 b/w sets.
+  press:
+    45x10x2, 95, 115, 135
+    155x8@(7.5,8,9,9)
+  romanian deadlift:
+    135, 225, 315x3, 355x8@6
+    365x8@(6.5,6), 385x8@7
+
+2015-10-19 (Monday)
+  squat:
+    45x10x2, 135, 225, 315x3, 405x1, 455x1, 495x1
+    530x1@8
+    465x5@(7.5,8,7.5,9.5,9.5) # 5s4r took step forward with left foot.
+  paused bench:
+    45x10x2, 135 # Bad right shoulder pain.
+    135 # Better tuck at bottom, stops rolling forward. Much less pain.
+    185, 225x3, 275x1, 315x1@7 # Hurts at top & bottom.
+    335x1@7 # If not for pain.
+    305x5@(7.5,8,7.5,8,9.5) # 1s right side weaker due to constant stretching.
+                            # 4s better. Aim for dip right above sternum.
+  chins:
+    0x5x3 # For shoulder/elbow rehab.
+  # Skipping S-B1 Slingshot Bench due to pain.
+  lateral raise:
+    20x10x3 # ez but pump
+
+2015-10-16 (Friday)
+  beltless chain deadlift:
+    70kgx5x2, 120kg, 120kg+80x3 # 25 minute break for Sarah
+    170kg+80x1, 190kg+80x1
+    200kg+80x5@(9,8) # Tough on grip and lower back.
+    205kg+80x5@8.5 # Well, OK. 10m rest.
+  chain bench:
+    45x10x2 # Bad right shoulder pain.
+    135, 185, 225, 225+40x3, 275+40x1
+    315+40x4f # Sarah said shoulder moving on every rep. Didn't feel it move.
+              # but it hurt a moderate amount. Stopped.
+
+2015-10-15 (Thursday)
+  weight: 198.8
+  squat:
+    45x10x2, 135, 225, 315x3, 405x1, 455x1
+    475x5@(9,9.5,8.5) # Last set went lower -- better bounce?
+  bench:
+    20kgx10x2, 70kgx5x2 # Right shoulder pain.
+    90kg, 120kgx3, 140kgx1
+    155kgx5@(9,9.5,10) # Right shoulder pain.
+  press:
+    45x10x2, 95 # OH BOY, RIGHT SHOULDER
+    115, 135x11@7.5, 140x11@(8.5,8,9.5) # All from bottom.
+
+2015-10-13 (Tuesday) # Everything sore, even abs.
+  deadlift:
+    70kgx5x2, 120kg, 170kgx3
+    195kgx6@6
+    205kgx6@7
+    215kgx6@(8,8.5,9,10)
+  press:
+    45x10x2, 95, 115
+    135x11@7, 145x11@(8.5,9,8.5,9.5) # Started bouncing on 3s.
+  beltless romanian deadlift:
+    135x5x2, 225, 315x11@7
+    335x11@(7.5,8,9) # Very hard on poor lower back!
+
+2015-10-12 (Monday)
+  weight: 196.6
+  squat:
+    45x10x2, 135, 225, 315x3, 405x1
+    430x6@6.5, 445x6@(7.5,8,9,9.5,9) # 10-15m rest. Feels like prowler.
+  paused bench:
+    45x10, 135, 185, 225x3, 275x1 # Tired from squats.
+    300x6@(8.5,9,8,8.5,9,10) # 7-10m rest.
+  slingshot bench:
+    335x5@7, 365x5@4f
+    335x5@8
+
+2015-10-09 (Friday) # Deadlift 1RM Test
+  deadlift:
+    70kgx5x2, 120kgx4, 170kgx2, 220kgx1, 240kgx1 # Not easy.
+    260kgx1@9
+    270kgx1@9
+    277.5kgx1@10 # 12lb PR!! Grip barely held at top, started slipping,
+                 # but was locked out for a little while. Eleiko bar.
+                 # Hamstrings a little crampy. Very fast off ground.
+
+2015-10-08 (Thursday) # Bench 1RM Test
+  paused bench:
+    20kgx10x2, 70kg, 90kgx3, 120kgx2, 140kgx1, 150kgx1
+    162.5kgx1@8
+    170kgx1@8.5 # Holy shit, previous 1RM! Great!
+    180kgx1@9 # 20lb PR!
+    184kgx1@10 # 30lb PR! 4plate!! =) 9.75 really... not a death grind.
+
+2015-10-06 (Tuesday) # Squat 1RM Test
+  weight: 195.6
+  squat:
+    20kgx10x2, 70kg, 120kgx4, 170kgx3, 220kgx1, 235kgx1
+    245kgx1@8
+    255kgx1@9
+    265.5kgx1@10 # = 6plate squat! But much harder than the previous 579 (from way back..).
+                 # So maybe not enough squat volume? Death grind.
+
+2015-10-02 (Friday)
+  beltless deadlift:
+    70kgx5x2, 120kg, 170kgx3, 220kgx1
+    240kgx1@7.5
+    250kgx1@8.5
+    250kgx2@7.5
+    260kgxf # Felt pain in lower back at bottom: stopped.
+    250kgx2@9.5
+  3-count paused bench:
+    45x10x2, 135, 185x3, 225x2, 275x1
+    315x1@7, 335x1@9
+    315x2@8, 325x2@9
+
+2015-10-01 (Thursday) # No Coffee / Last Squats
+  weight: 195.0
+  squat:
+    20kgx10x2, 70kg, 120kg, 170kgx3, 195kgx1, 220kgx1 # Fast this time! Narrower stance.
+    240kgx1@7.5, 250kgx1@8.5
+    245kgx2@(9,9.5) # Slow. Tired.
+  bench:
+    20kgx10x2, 70kg, 90kg, 120kgx3, 140kgx1
+    155kgx1@6.5 # Maybe?
+    170kgx1@8
+    170kgx2@(8,9) # Tried 1s. Tired 2s.
+  press:
+    20kgx10x2, 40kg, 50kg, 60kg, 70kgx3, 80kgx1, 85kgx1
+    90kgx3f # =(
+    85kgx4@(8.5,9) # From bottom.
+
+2015-09-29 (Tuesday) # Early for Esperanto!
+  deadlift:
+    70kgx5x2, 120kg, 170kgx3, 200kgx1, 220kgx1, 250kgx1 # Had to try
+    270kgx1@9.5 # Different belt (BBBC's). Mid-back rounded. Grip OK.
+    260kgx2@(9,10) # Used straps. Basically beltless though >_>
+  close-grip bench:
+    45x10x2, 135x5x2, 185, 225x3, 275x1, 315x1
+    325x4@(8.5,9,10) # Ow, right shoulder!
+  romanian deadlift:
+    135, 225, 315x4, 405x3
+    475x4@(8.5,8,8.5)
+
+2015-09-28 (Monday) # Last peak week
+  squat:
+    20kgx10x2, 70kg, 120kg, 170kgx3, 195kgx1, 220kgx1 # Kind of slow. @6?
+    240kgx1@8, 260kgx1@9 # Slow and had to catch balance out of bounce, but fast after.
+    240kgx2@(9,8) # Very slow. Wobbling at bottom.
+                  # On 2s, took a narrower stance. Roughly shoulder-width.
+                  # Did not fall forward, and never lost hip drive!
+  paused bench:
+    20kgx10x2, 70kgx4, 90kgx4, 120kgx3, 140kgx1
+    # Right shoulder pain at bottom all day son
+    155kgx1@7.5
+    170kgx1@8 # Very nice! but not doing more due to shoulder.
+    170kgx2@(9,10)
+  pin bench:
+    315x1@6, 345x1@7.5
+    345x2@8, 365x2@10 # Oh boy, tough!
+
+2015-09-25 (Friday)
+  weight: 196.0
+  chain deadlift:
+    135, 135+80, 225+80x3, 315+80x1
+    455+80x3@8 # Mostly from grip... Adding straps.
+    475+80x3@8
+    495+80x3@9 # Kind of hurts hips. Left foot hurt badly just before.
+  chain bench:
+    20kgx10x2, 70kg, 90kgx3, 120kgx3
+    120kg+80x1@6.5, 130kg+80x1@7, 145kg+80x1@8
+    130kg+80x3@7.5, 135kg+80x3@(8.5,10) # Right lat flared.
+  pendlay row:
+    135, 185, 225x3, 245x4@8
+    265x4@(9,9) # Last one with cheating. Probably too heavy.
+
+2015-09-24 (Thursday)
+  2-count paused squat:
+    45x10x2, 135, 225, 315x3, 365x1, 405x1, 430x1@7
+    455x1@8.5 # Hard to tell RPE.
+    425x3@7.5, 445x3@9.5, 425x3@8 # Mostly just hard on mid and lower back...
+  bench:
+    20kgx10x2, 70kg, 90kg, 120kgx3, 140kgx1
+    150kgx1@7, 160kgx1@7 # but right shoulder hurt + right lat sore.
+    170kgx1@8 # Nice! No shoulder movement but still hurt after.
+    162.5kgx3@(9,10,10)
+  close-grip bench:
+    145kgx4@8, 147.5kgx4@(9,10) # Last rep went down then saved it. Not too painful, but...
+
+2015-09-22 (Tuesday) # Back feels a little hurt by ribs.
+  weight: 193.8
+  deadlift:
+    70kgx5x2, 120kg, 170kgx3, 220kgx1, 240kgx1@7.5
+    255kgx1@8, 265kgx1@8.5 # Very fast! Concentrated.
+    250kgx3@(9,9,9.5) # With straps.
+  wide-grip bench:
+    20kgx10x2, 70kg, 90kg
+    120kgx5@7
+    140kgx4@7
+    155kgx4@(8.5,9,9.5) # Lower back feels like cramping or pre-herniation.
+                        # Hurts to put any pressure on back (standing, sitting up...)
+  # Skipping squat -- back too painful. Will be hard to get home.
+  # Was suppsoed to be (@9)x4x3 DB lunges.
+
+2015-09-21 (Monday)
+  weight: 194.6
+  squat:
+    45x10x2, 135, 225, 315x3, 365x2, 405x1, 455x1, 495x1
+    525x1@8, 560x1@9 # Slow, though...
+    515x3@(9,9.5,10)
+  paused bench:
+    20kgx10x2, 60kg, 80kg, 100kgx3, 120kgx1, 140kgx1, 150kgx1
+    160kgx1@7.5 # Maybe?
+    167.5kgx1@8.5
+    157.5kgx3@(8.5,9,9.5) # Right shoulder OK until the 2nd set here.
+  2-count paused bench:
+    147.5kgx1@7.5
+    142.5kgx3@8
+    145kgx3@(8,8)
+
+# No lifting Friday.
+
+2015-09-17 (Thursday)
+  chain squat:
+    20kgx10x2, 70kg, 120kg, 120kg+80x3, 170kg+80x1
+    190kg+80x5@7
+    200kg+80x5@7
+  bench:
+    20kgx10x2, 70kg, 90kg, 120kgx2, 130kgx1
+    142.5kgx5@6.5
+    150kgx5@(7.5,7.5)
+  romanian deadlift: # at home
+    45x10, 135, 225, 315x3
+    385x7@(6,6.5) # Going down far enough? No idea.
+
+2015-09-15 (Tuesday)
+  paused bench:
+    45x10x2, 135, 185, 225x3, 255x1, 275x1, 295x1, 305x1
+    315x5@7.5, 320x5@7.5
+  deadlift:
+    70kgx5x2, 120kg, 170kgx3, 200kgx1, 220kgx1
+    227.5kgx5@7
+    235kgx4f # Grip couldn't hold.
+    235kgx1@9.5 # Difficulty again due to grip. ~1m rest.
+  close-grip bench:
+    45x10x2, 135, 225
+    275x7@(7.5,6.5)
+  safety-bar squat beltless:
+    30kgx10x2, 75kgx5, 115kgx5
+    135kgx7@7, 140kgx7@6 # lol
+    # Trivial on legs, mostly hard on upper back. Not even hard, just endurance.
+
+2015-09-14 (Monday) # Deload Week
+  squat:
+    45x10x2, 135, 225, 315x3, 365x1, 405x1, 455x1
+    475x5@(8,8)
+  chain bench:
+    20kgx10x2, 70kg, 90kg, 90kg+80x3
+    120kg+80x5@7.5
+    125kg+80x5@8
+  press:
+    20kgx10x2, 40kg, 50kg, 60kg, 70kgx3
+    76kgx7@(8,7)
+
+2015-09-12 (Saturday)
+  chins:
+    0x10x3
+
+2015-09-11 (Friday)
+  weight: 194.4
+  slingshot bench: # red one, not the normal blue
+    20kgx10x2, 70kg, 90kg, 120kgx3, 140kgx1
+    160kgx4@8
+    167.5kgx4@8
+    175kgx4@(9,10) # Tons of right shoulder soreness after each set.
+  beltless squat:
+    45x10x2, 135, 225, 315x3, 365x3 # Tired
+    405x6@7, 425x6@(8,8.5,9)
+  sldl:
+    70kgx5x2, 120kg, 170kgx3
+    185kgx6@7, 195kgx6@7 # adding straps
+    205kgx6@(8,9)
+
+2015-09-10 (Thursday)
+  deadlift:
+    70kgx5x2, 120kg, 170kgx3, 200kgx1, 220kgx1, 240kgx1
+    260kgx1@9
+    230kgx3@(6.5) # Too easy
+    235kgx3@(7,7.5,7.5,8,8.5,9,9.5) # No straps!
+  bench:
+    20kgx10x2, 70kg, 90kg, 120kgx3, 130kgx1, 140kgx1
+    150kgx4@8
+    152.5kgx4@(8.5,8.5,9) # Right shoulder pain after each set.
+  close-grip bench:
+    125kgx6@6.5
+    130kgx6@(8,8.5,9.5)
+
+2015-09-08 (Tuesday)
+  paused bench:
+    45x10x2, 135, 185, 225x3, 275x1, 315x1, 335x1
+    355x1@8
+    322.5x3@(7,7,7.5,8,8,8,8,8)
+  pin squat:
+    45x10x2, 135, 225, 315x3, 365x1, 405x1
+    445x4@(9,10,10) # Lowered pins by an inch for 2s. More vertical back for 3s.
+    445x2f # Bar jumped forward on pins when set down. Couldn't lift from that position.
+  feet-up bench:
+    135, 225
+    245x6@7, 255x6@7, 265x6@7, 275x6@8
+
+2015-09-07 (Monday)
+  weight: 196.0
+  squat:
+    45x10x2, 135, 225, 315x3, 405x1, 455x1, 495x1
+    535x1@8.5 # Back tired.
+    480x3@(7,7.5,7.5,8,8,9,9,10)
+  pin bench:
+    45x10x2, 135, 185, 225x4, 275x2, 295x1
+    305x4@8, 315x4@(8.5,9,8.5)
+  2-inch deficit deadlift:
+    70kgx5, 120kgx5, 170kgx3, 190kgx1
+    210kgx4@(8.5,8.5,9,10)
+
+2015-09-04 (Friday)
+  3-count paused bench:
+    45x10x2, 135, 185, 225x3, 255x1
+    275x4@7
+    285x4@(8,9,8,9,9.5)
+  beltless squat:
+    45x10x2, 135, 225, 315x3, 365x2
+    405x6@(8,8,9.5,9)
+  sldl:
+    135, 225, 315x3, 365x1
+    405x6@(8,8,9,9) # Very tired lower back.
+
+2015-09-03 (Thursday)
+  weight: 196.4
+  deadlift:
+    135x5x2, 225, 315x3, 405x1, 455x1, 495x1
+    547.5x1@7
+    575x1@8.5
+    495x4@(7.5,8,7.5,7.5,8.5,9)
+  bench:
+    45x10x2, 135, 185, 225x3, 255x1, 275x1, 300x1
+    320x4@7.5
+    325x4@(8.5,8,8,9.5)
+  close-grip bench:
+    275x6@(7,8,7.5,9)
+
+2015-09-01 (Tuesday)
+  paused bench:
+    45x10x2, 135, 185, 225x3, 275x1, 295x1, 315x1, 335x1
+    355x1@8.5
+    305x4@(7,7,7.5)
+    315x4@(7.5,8.5,9) # Right side going up more slowly
+  pin squat:
+    45x10x2, 135, 225, 315x4, 365x4@6
+    405x4@7, 425x4@(8,8.5,9,9.5)
+  feet-up bench:
+    135, 185
+    225x8@(7.5,6)
+    245x8@(8,9) # Right pec one rep from cramping.
+
+2015-08-31 (Monday) # With Kevin in NY!
+  squat:
+    45x10x2, 135, 225, 315x3, 365x1, 405x1, 455x1, 495x1
+    535x1@8
+    470x4@(8,7,10,8.5,9.5,10)
+  pin bench: # although I didn't have pins, so I just precariously relaxed at the bottom.
+    45x10x2, 135, 185, 225, 255x3, 275x1
+    285x4@7
+    295x4@(8,9.5,9,10) # Right shoulder doing that strange motion again.
+  2-inch deficit deadlift:
+    135x5x2, 225, 315x3, 405x4@7
+    445x4@7, 465x4@9, 445x4@(8,8) # Tough due to non-round plates.
+
+2015-08-28 (Friday)
+  3-count paused bench:
+    45x10x2, 135, 185x4, 225x4, 255x4
+    275x4@7.5
+    280x4@(8,8.5,8,9)
+  db lunge:
+    0x8, 35x8, 75x8@(7,7,8,7)
+  pendlay row:
+    135, 225x8@(8,8,9,9)
+
+2015-08-27 (Thursday)
+  deadlift:
+    70kgx5x2, 120kg, 170kgx3, 220kgx1, 240kgx1@8
+    252.5kgx1@8.5
+    210kgx5@(6.5,7,7,7,8,8.5,7.5)
+  bench:
+    45x10x2, 135, 185, 225x3, 275x1
+    295x2 # Right shoulder irritated as always.
+    315x4@(7.5,7.5,7.5,7.5,8)
+  press: # w/belt due to motorcycle
+    45x10x2, 95, 115, 135
+    157.5x8@7
+    160x8@(7.5,9,10)
+
+2015-08-26 (Wednesday)
+  stationary bike:
+    0x7 # 20:140, same resistance as last week
+
+2015-08-25 (Tuesday)
+  weight: 195.8
+  paused bench:
+    20kgx10x2, 70kg, 90kg, 120kgx3, 140kgx1, 150kgx1
+    160kgx1@8 # then -15%
+    137.5kgx5@(7,7,7,8,7.5,8,9)
+  paused squat:
+    45x10x2, 135, 225, 315x3, 365x2
+    405x4@(8,9,8.5,9,10)
+  wide-grip bench:
+    135x8, 225x8@5
+    255x8@7, 265x8@7
+    275x8@(8,10) # Right pec pre-cramping (almost)
+
+2015-08-24 (Monday)
+  weight: 195.6
+  squat:
+    45x10x2, 135, 225, 315x3, 365x1, 405x1, 455x1, 495x1
+    525x1@7.5
+    455x5@(7,7.5,7,8,7.5,7.5,10) # lol last set. 7-12 rest.
+  2-count paused bench:
+    45x10x2, 135, 185, 225x3, 255x1, 275x1
+    295x4@(7,8,8,8.5,9) # 1s paused too short.
+  2-count paused deadlift:
+    70kgx5x2, 120kg, 170kgx1, 190kgx1
+    205kgx4@(7.5,8,9,9,9.5) # 4 hours!
+
 2015-08-21 (Friday)
   squat w/wraps:
     45x10x2, 135, 225, 315x3, 365x1, 405x1, 445x4@6.5

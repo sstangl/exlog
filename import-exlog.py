@@ -23,6 +23,9 @@ PercentageTable = [
 
 
 def percentage(reps, rpe):
+    if reps > 8: # TODO: Fill out the chart more.
+        return 0.0
+
     if rpe == 10.0: return PercentageTable[reps - 1][0]
     if rpe == 9.5:  return PercentageTable[reps - 1][1]
     if rpe == 9.0:  return PercentageTable[reps - 1][2]
