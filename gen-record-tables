@@ -1,0 +1,80 @@
+#!/usr/bin/env python3
+# vim: syntax=python ts=4 et sw=4 sts=4:
+
+# Generates a list of rep records.
+
+import logparse
+
+sessions = logparse.parse("exlog")
+
+def make_initial_records():
+    return [ # (weight, rpe, date) lists.
+        [0, 0, 0], # 1
+        [0, 0, 0], # 2
+        [0, 0, 0], # 3
+        [0, 0, 0], # 4
+        [0, 0, 0], # 5
+        [0, 0, 0], # 6
+        [0, 0, 0], # 7
+        [0, 0, 0], # 8
+    ]
+weight_idx = 0
+rpe_idx = 1
+date_idx = 2
+
+# List of lifts tracked.
+lifts = ["squat", "paused bench", "press", "deadlift"]
+records = [make_initial_records() for x in lifts]
+
+def maybe_update_record(session, lift, set):
+    global lifts
+    global records
+    global weight_idx
+    global rpe_idx
+    global date_idx
+
+    if lift.name not in lifts:
+        return
+    if set.reps == 0 or set.reps > 8:
+        return
+
+    record = records[lifts.index(lift.name)][set.reps-1]
+
+    if set.weight < record[weight_idx]:
+        return
+    if set.weight == record[weight_idx] and set.rpe >= record[rpe_idx]:
+        return
+
+    record[weight_idx] = set.weight
+    record[rpe_idx] = set.rpe
+    record[date_idx] = session.date
+
+def floatstr(f):
+    return "%0.1f" % f
+
+def make_lift_str(record, reps):
+    weight = "%0.1f" % record[weight_idx]
+
+    if float("%0.0f" % record[rpe_idx]) == float("%0.1f" % record[rpe_idx]):
+        rpe = "%0.0f" % record[rpe_idx]
+    else:
+        rpe = "%0.1f" % record[rpe_idx]
+
+    date = str(record[date_idx])
+
+    return str(reps) + ":\t" + weight + "\t@" + rpe + "\t" + date
+
+# Populate the records table.
+for session in sessions:
+    for lift in session.lifts:
+        for set in lift.sets:
+            maybe_update_record(session, lift, set)
+
+# Pretty-print the resulting tables.
+for i in range(0, len(lifts)):
+    print(lifts[i])
+
+    liftrecords = records[i]
+    for j in range(0, len(liftrecords)):
+        record = liftrecords[j]
+        print("  " + make_lift_str(record, j+1))

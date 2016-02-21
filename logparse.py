@@ -232,7 +232,8 @@ def makesets(text):
     error("Could not parse sets: " + text)
 
 
-def import_exlog(filename):
+# Main log parser function.
+def parse(filename):
 
     # Open the file and remove all comments.
     with open(filename) as fd:
@@ -286,8 +287,7 @@ def import_exlog(filename):
 
 
 if __name__ == '__main__':
-    import sys
-    exlog = import_exlog(sys.argv[1])
+    exlog = parse(sys.argv[1])
 
     for session in exlog:
         for lift in session.lifts:
