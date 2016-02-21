@@ -91,7 +91,7 @@ class Lift:
         self.sets += slist
 
     # Get a list of non-warmup, actual training sets.
-    def __get_heavysets(self):
+    def get_worksets(self):
         # Only include the top 20% of weights.
         topweight = max([0] + list(map(lambda x: x.weight, self.sets)))
         cutoff = topweight * 0.8
@@ -99,20 +99,20 @@ class Lift:
 
     # TODO: Should trust higher RPEs more.
     def e1rm(self):
-        return max([0] + list(map(lambda x: x.e1rm(), self.__get_heavysets())))
+        return max([0] + list(map(lambda x: x.e1rm(), self.get_worksets())))
 
     def wendler(self):
-        return max([0] + list(map(lambda x: x.wendler(), self.__get_heavysets())))
+        return max([0] + list(map(lambda x: x.wendler(), self.get_worksets())))
 
     def volume(self):
         volume = 0
-        for s in self.__get_heavysets():
+        for s in self.get_worksets():
             volume += s.reps
         return volume
 
     def tonnage(self):
         tonnage = 0
-        for s in self.__get_heavysets():
+        for s in self.get_worksets():
             tonnage += (s.weight * s.reps)
         return tonnage
 
@@ -128,6 +128,9 @@ class TrainingSession:
 
     def addlift(self, l):
         self.lifts.append(l)
+
+    def getlift(self, name):
+        return list(filter(lambda x : x.name == name, self.lifts))
 
 
 #####################################################################

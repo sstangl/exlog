@@ -1,0 +1,174 @@
+#!/usr/bin/env python3
+# vim: syntax=python ts=4 et sw=4 sts=4:
+
+# Generates CSV files for use with graphviz.
+
+import argparse
+import logparse
+import sys
+
+
+# Parse arguments.
+parser = argparse.ArgumentParser()
+parser.add_argument('lift')
+parser.add_argument('period', help='take from specified time period',
+                    choices=['daily', 'weekly', 'monthly'])
+parser.add_argument('data', help='output this on the y-axis',
+                    choices=['e1rm', 'volume', 'tonnage'])
+args = parser.parse_args()
+
+
+#####################################################################
+
+
+class WeeklyIterator:
+    def __init__(self, sessions):
+        self.sessions = sessions
+
+    def __iter__(self):
+        self.idx = 0
+        return self
+
+    # Whether the two given dates are in the same training week.
+    # A training week is Sunday through Saturday (inclusive).
+    def __sameweek(self, a, b):
+        # Canonicalize each date according to the last Sunday.
+        # isoweekday() gives 1 for Monday, 7 for Sunday.
+        # So in terms of mapping how much to subtract:
+        #  isoweekday -> subtract_amount
+        #  [1,2,3,4,5,6,7] -> [1,2,3,4,5,6,0]
+        subtract_amount_a = a.isoweekday() % 7
+        subtract_amount_b = b.isoweekday() % 7
+
+        week_a = a.toordinal() - subtract_amount_a
+        week_b = b.toordinal() - subtract_amount_b
+
+        return week_a == week_b
+
+    def __next__(self):
+        if self.idx >= len(self.sessions):
+            raise StopIteration
+
+        # Generate a list of sessions from here until Saturday (inclusive).
+        # In terms of weekday(), Saturday is a return value of 6.
+        startdate = self.sessions[self.idx].date
+        acc = []
+
+        for i in range(self.idx, len(self.sessions)):
+            if self.__sameweek(startdate, self.sessions[i].date):
+                acc.append(self.sessions[i])
+            else:
+                break
+
+        self.idx += len(acc)
+        return acc
+
+
+def lift_e1rm_daily(liftname):
+    arr = []
+    for session in sessions:
+        lifts = session.getlift(liftname)
+        e1rm = max([0] + list(map(lambda x: x.e1rm(), lifts)))
+        if e1rm > 0:
+            arr.append([session.date, e1rm])
+    return arr
+
+
+# Max E1RM over the entire week (Sun-Sat).
+def lift_e1rm_weekly(liftname):
+    arr = []
+    for week in WeeklyIterator(sessions):
+        e1rm = 0
+        for session in week:
+            lifts = session.getlift(liftname)
+            e1rm = max([e1rm] + list(map(lambda x: x.e1rm(), lifts)))
+
+        if e1rm > 0:
+            date = week[-1].date # Use the end date.
+            arr.append([date, e1rm])
+    return arr
+        
+
+def lift_volume_daily(liftname):
+    arr = []
+    for session in sessions:
+        volume = 0
+        for lift in session.getlift(liftname):
+            for set in lift.get_worksets():
+                volume += set.reps
+        if volume > 0:
+            arr.append([session.date, volume])
+    return arr 
+
+
+def lift_volume_weekly(liftname):
+    arr = []
+    for week in WeeklyIterator(sessions):
+        volume = 0
+        for session in week:
+            for lift in session.getlift(liftname):
+                for set in lift.get_worksets():
+                    volume += set.reps
+        if volume > 0:
+            date = week[-1].date # Use the end date.
+            arr.append([date, volume])
+    return arr
+
+
+def lift_tonnage_daily(liftname):
+    arr = []
+    for session in sessions:
+        lifts = session.getlift(liftname)
+        tonnage = 0
+        for lift in lifts:
+            for set in lift.get_worksets():
+                tonnage += (set.weight * set.reps)
+        if tonnage > 0:
+            arr.append([session.date, tonnage])
+    return arr 
+
+
+def lift_tonnage_weekly(liftname):
+    arr = []
+    for week in WeeklyIterator(sessions):
+        tonnage = 0
+        for session in week:
+            for lift in session.getlift(liftname):
+                for set in lift.get_worksets():
+                    tonnage += set.weight * set.reps
+        if tonnage > 0:
+            date = week[-1].date # Use the end date.
+            arr.append([date, tonnage ])
+    return arr
+
+
+#####################################################################
+
+
+def print_csv(csvarr):
+    for row in csvarr:
+        print(', '.join(map(str, row)))
+
+
+#####################################################################
+
+
+sessions = logparse.parse('exlog')
+
+if args.period == "daily" and args.data == "e1rm":
+    print_csv(lift_e1rm_daily(args.lift))
+
+elif args.period == "daily" and args.data == "volume":
+    print_csv(lift_volume_daily(args.lift))
+
+elif args.period == "daily" and args.data == "tonnage":
+    print_csv(lift_tonnage_daily(args.lift))
+
+elif args.period == "weekly" and args.data == "e1rm":
+    print_csv(lift_e1rm_weekly(args.lift))
+
+elif args.period == "weekly" and args.data == "volume":
+    print_csv(lift_volume_weekly(args.lift))
+
+elif args.period == "weekly" and args.data == "tonnage":
+    print_csv(lift_tonnage_weekly(args.lift))
