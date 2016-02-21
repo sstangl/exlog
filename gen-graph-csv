@@ -12,7 +12,7 @@ import sys
 parser = argparse.ArgumentParser()
 parser.add_argument('lift')
 parser.add_argument('period', help='take from specified time period',
-                    choices=['daily', 'weekly', 'monthly'])
+                    choices=['daily', 'weekly'])
 parser.add_argument('data', help='output this on the y-axis',
                     choices=['e1rm', 'volume', 'tonnage'])
 args = parser.parse_args()
