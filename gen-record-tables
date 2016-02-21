@@ -49,9 +49,6 @@ def maybe_update_record(session, lift, set):
     record[rpe_idx] = set.rpe
     record[date_idx] = session.date
 
-def floatstr(f):
-    return "%0.1f" % f
-
 def make_lift_str(record, reps):
     weight = "%0.1f" % record[weight_idx]
 
