@@ -2,6 +2,224 @@
 # vim: syntax=python ts=2 tw=79 et sw=2 sts=2:
 # license: CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
 
+2015-12-21 (Monday)
+  deadlift: # In slippers, because Sarah using my shoes.
+    70kgx5x2, 120kg, 170kgx3, 200kgx1, 220kgx1
+    240kgx1@7.5, 250kgx1@8
+    227.5kgx4@(8,8.5,9,8,9) # Mostly hard on hands -- that shit hurts!
+  bench:
+    45x10x2, 135, 185, 225x4, 275x3
+    300x7@(8,9,10,10) # Getting a little crampy on 2s.
+  chest-supported row:
+    45x10, 90, 135, 160x7@(7,8,9,8)
+
+2015-12-20 (Sunday) # Developmental block.
+  squat:
+    45x10x2, 135, 225, 315x3, 405x1, 455x1, 495x1 # Back still not recovered from Thurs.
+    535x1@8
+    485x4@(8,9.5,8.5,9,10) # Apparently need 10-12 minutes.
+  paused bench:
+    20kgx10x2, 70kg, 90kg, 120kgx3, 140kgx1
+    150kgx1@7, 160kgx1@7.5
+    147.5kgx4@(8,8,8,8.5,8.5)
+  303 tempo bench:
+    108.5kgx5@6, 115kgx5@7, 120kgx5@8, 125kgx5@10, 122.5kgx4f # Sudden drop.
+
+2015-12-17 (Thursday)
+  1-inch deficit deadlift beltless:
+    70kgx5x2, 120kg, 170kgx3, 200kgx1, 220kgx1
+    240kgx1@8.5
+    220kgx4@(9,9) # Egads, the lower back. And left lower ribs. Agh!
+  3-count paused bench:
+    45x10x2, 135, 185, 225, 275x2
+    315x1@7, 335x1@8
+    315x4@10, 305x4@9
+  wide-grip pullups:
+    0x5x5 # All very easy.
+
+2015-12-16 (Wednesday)
+  beltless pin squat:
+    45x10x2, 135, 225, 315x3, 365x2, 405x1
+    445x1@8
+    405x4@(8.5,9) # Pretty much entirely in lower back.
+  bench:
+    45x10x2, 135, 185, 225, 275x3, 315x1
+    335x1@7, 355x1@8
+    320x4@8, 330x4@8
+  beltless press:
+    45x10x2, 95, 115, 135
+    155x7@7, 160x7@7.5 # Hm. Undershot everything today. Guess I'm back to normal!
+
+2015-12-14 (Monday)
+  deadlift:
+    70kgx5x2, 120kg, 170kgx3, 200kgx1, 220kgx1
+    240kgx1@7, 250kgx1@8
+    225kgx5@(8.5,9.5) # Fast off ground, tough at lockout.
+  feet-up bench:
+    20kgx10x2, 70kg, 90kgx7@7
+    100kgx7@6, 110kgx7@(8,7)
+  romanian deadlift: # w/straps
+    135, 225x7, 315x7@6, 365x7@(7,7)
+
+2015-12-13 (Sunday) # Refresh after week off due to Mozilla
+  weight: 198.8
+  squat:
+    45x10x2, 135, 225, 315x3, 405x1, 455x1
+    495x1 # Fell forward badly, right knee quad tendon pain.
+    495x1 # Better.
+    535x1@8 # Strength there, but no push. CNS deconditioned?
+    485x5@9.5, 480x5@9 # 15m rest. Badly out of shape! Just from one week!
+  paused bench:
+    45x10x2, 135, 185, 225, 275x3, 315x1 # Slow but not tiring.
+    335x1@7 # No pain.
+    345x1@8
+    315x5@(8,9) # Sarah says right shoulder rolling forward on last 2 reps. Damnit!
+  press:
+    45x10x2, 95, 115, 135, 155x3, 175x1 # Tough! Haven't pressed in a while.
+    185x1@7, 195x1@8.5
+    175x4@(9,8)
+
+# Forced week off due to a Mozilla work week in Orlando Disneyworld.
+# Unsurprisingly, Disneyworld does not have any iron gyms.
+
+2015-12-04 (Friday) # Late night 24HR Fitness in Sacramento! Sarah's meet tomorrow.
+  1-inch deficit deadlift beltless: # w/straps due to no chalk
+    135x5x2, 225, 315x3, 405x1, 455x1
+    495x3@8 # But grip slipping.
+    505x3@(8.5,9)
+  3-count paused bench:
+    45x10, 135, 185, 225x3, 275x1, 295x1
+    315x3@9.5 # Very scary due to grip slipping outward: no chalk, no knurling.
+    305x3@(9,10) # Lowered weight for safety.
+
+2015-12-03 (Thursday)
+  beltless pin squat:
+    20kgx10x2, 60kg, 100kg, 140kgx3, 180kgx1
+    190kgx3@8, 195kgx3@8.5, 200kgx3@9 # PR
+  swiss bar bench:
+    20kgx10x2, 60kgx5x2, 80kg, 100kgx3, 120kgx1, 130kgx1
+    135kgx3@(8.5,9,9.5)
+  pullups:
+    0x8@(8,8), 0x7@8
+
+2015-12-01 (Tuesday)
+  deadlift:
+    70kgx5x2, 120kg, 170kgx3, 200kgx1, 220kgx1, 240kgx1
+    252.5kgx1@8
+    242.5kgx3@8, 247.5kgx3@(9,10) # 3s very, very hard at lockout.
+                                  # Used legs to get it moving.
+  303 tempo bench:
+    45x10x2, 135, 185
+    225x7@(8,7,7)
+
+2015-11-30 (Monday) # Tired / No Energy
+  squat:
+    45x10x2, 135, 225, 315x3, 405x1, 455x1, 495x1, 525x1
+    555x1@8
+    535x3@10, 525x3@10, 515x3@10 # 1s VERY slow. No speed today!
+                                 # CNS so, so exhausted.
+  paused bench:
+    45x10x3, 135, 185, 225x3, 255x2, 285x1, 315x1, 335x1
+    355x1@8.5 # Right side weaker.
+    335x3@(9,9,9) # Doesn't hurt much, but very weak.
+  chest-supported row:
+    90, 135x3, 180x3@8, 205x3@(9,8), 215x3@10 # Pretty cheated.
+
+2015-11-27 (Friday)
+  2-count paused deadlift:
+    70kgx5x3, 120kg, 150kgx3, 170kgx2, 200kgx1 # Pretty tough on lower back.
+    221kgx4@(9.5,10,10) # Lower back is not the happiest. Straps on 3s.
+                        # Ankaŭ, mi estas malfeliĉa pro nenia kialo.
+  pendlay row:
+    70kgx5x2, 90kg, 110kgx3
+    123.5kgx4@(10,10,10) # Pretty cheated and clearly too heavy but FUN!
+
+2015-11-26 (Thursday) # Thanksgiving!
+  2-count paused squat:
+    45x10x2, 135, 225, 315x3, 365x2, 405x1, 425x1
+    450x4@(9,10,10)
+  swiss bar bench:
+    20kgx10x2, 60kg, 80kg, 100kgx3, 120kgx1
+    127.5kgx4@(9,9,10)
+  pullups:
+    0x7@(7,8.5,10)
+
+2015-11-24 (Tuesday)
+  deadlift:
+    70kgx5x2, 120kg, 170kgx3, 200kgx1, 220kgx1, 240kgx1
+    252.5kgx1@8.5
+    242.5kgx3@(9,9,9.5,10) # Left hamstring giving out... butt moving up too fast.
+  303 tempo bench:
+    45x10x2, 135, 187x7
+    225x7@(8,8,8) # 1s pecs almost cramping; 2s lowered with lats.
+  snatch-grip deadlift: # ow my balls redux
+    150kgx7@(7,6,7)
+
+2015-11-23 (Monday)
+  squat:
+    45x10x2, 135, 225, 315x3, 405x1, 455x1, 495x1
+    525x1@7, 555x1@8
+    535x3@9
+    535x2f # Emily started squatting 3ft in front of me, occluding the focus point,
+           # so I lost my visual frame of reference and fell forward.
+    535x3@(9.5,10)
+  paused bench:
+    45x10x2, 135, 185, 225x3, 275x1, 315x1 # No pain!!!
+    335x1@7.5, 360x1@8.5 # Something clicked in right shoulder and hurt.
+    345x3@(9.5), 340x3@(9,9.5,10) # Not really painful, but tight.
+                                  # Neck hurts from being pressed into bench.
+  chest-supported row:
+    45, 90, 135
+    180x4@7.5, 190x4@8.5, 200x4@(9,10)
+
+2015-11-20 (Friday)
+  2-count paused deadlift:
+    70kgx5x2, 120kg, 150kgx3, 170kgx2, 200kgx1
+    215kgx5@(9,9.5,10)
+  pendlay row:
+    70kgx5x2, 90kg, 110kgx3
+    120kgx5@(9,10,10) # 2,3s a little cheated.
+
+2015-11-19 (Thursday)
+  2-count paused squat:
+    45x10x3, 135x2, 225, 315x3, 405x1
+    435x5@(9,10,9.5)
+  swiss bar bench:
+    20kgx10x2, 60kg, 80kg, 100kg
+    120kgx5@(8.5,8,8.5) # Right pec insertion hurts (3/10). Hard to keep back tight
+                        # due to awkward pathing. Less pain on 2s! Squeezed traps
+                        # and focused on pushing lat/scapulae forward into ribcage.
+  pullups:
+    0x6@(8,7.5,10) # That dropoff. HUGE lat stretch on both sides! Oh my! Only on 1s.
+
+2015-11-17 (Tuesday) # Lower back very tired.
+  deadlift:
+    70kg, 120kg, 150kgx3, 170kgx1, 200kgx1, 220kgx1
+    240kgx1@7, 250kgx1@8.5
+    227.5kgx4@(8,8.5,8,8) # ??? Sarah says bar angled with right side lower. She's right.
+  v-grip pulldown:
+    90x5@7, 110x6, 150x6@7
+    170x6@7 # Hurts to hold, though...
+    180x6@(7,7,8,9)
+  snatch-grip deadlift: # ow my balls
+    120kgx6@7, 130kgx6@7, 150kgx6@(8,6) # Can't lock out due to anatomy.
+
+2015-11-16 (Monday)
+  weight: 198.4
+  squat:
+    45x10x2, 135, 225, 315x3, 405x1, 455x1, 495x1
+    550x1@7.5 # Very smooth & controlled.
+    500x4@(8,8.5,9,9)
+  paused bench:
+    45x10x2, 135, 185, 225x3, 275x2, 315x1
+    # Less pain by a lot -- setting up Dan-style, on traps.
+    335x1@7, 355x1@8 # Little pain! Very good!
+    320x4@(7.5,7.5), 325x4@(8,9)
+  chest-supported row:
+    30, 50, 90
+    115x5@6.5, 135x5@7
+    160x5@8, 170x5@(9,9.5)
+
 2015-11-13 (Friday) # 11AM -- Sarah flight.
   pin squat sleeveless beltless:
     20kgx10x2, 70kg, 120kgx3, 140kgx3
@@ -12,7 +230,7 @@
     75x3@8 # Welp. DBs are terrible!
   romanian deadlift w/straps:
     135, 225, 315x4, 365x4
-    405x7@7, 425x7@7 445x7@7, 465x7@8.5 # Lower back rounding on last. Tough!
+    405x7@7, 425x7@7, 445x7@7, 465x7@8.5 # Lower back rounding on last. Tough!
 
 2015-11-12 (Thursday) # Training @ 1PM -- Sarah's car repair.
   weight: 192.2 # Dehydrated?
