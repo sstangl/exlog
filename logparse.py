@@ -118,14 +118,15 @@ class Lift:
         return sum(map(lambda x: x.weight * x.reps, self.get_worksets()))
 
     def fatigue(self):
-        e1rm = self.e1rm()
-        if e1rm == 0:
+        best_e1rm = self.e1rm()
+        if best_e1rm == 0:
             return 0
         # Compare to the most recent set that had an e1rm.
         for i in range(len(self.sets), 0, -1):
-            fatigue = self.sets[i-1].fatigue(e1rm)
-            if fatigue > 0:
-                return fatigue
+            e1rm = self.sets[i-1].e1rm()
+            if e1rm == 0:
+                continue
+            return self.sets[i-1].fatigue(best_e1rm)
         return 0
 
 
