@@ -176,6 +176,28 @@ def lift_repranges_daily():
     return arr
 
 
+def lift_repranges_weekly():
+    arr = []
+    for week in WeeklyIterator(sessions):
+        ranges = [0,0,0,0] # 1, 2-3, 4-6, 7+
+        for session in week:
+            for lift in filter(liftmatches, session.lifts):
+                for set in lift.get_worksets():
+                    if set.reps == 0:
+                        continue
+                    if set.reps == 1:
+                        ranges[0] += 1
+                    elif set.reps <= 3:
+                        ranges[1] += 1
+                    elif set.reps <= 6:
+                        ranges[2] += 1
+                    else:
+                        ranges[3] += 1
+        if sum(ranges) > 0:
+            arr.append([session.date, ranges])
+    return arr
+
+
 def lift_fatigue_daily():
     arr = []
     for session in sessions:
@@ -241,6 +263,9 @@ elif args.period == "weekly" and args.data == "volume":
 
 elif args.period == "weekly" and args.data == "tonnage":
     print_csv(lift_tonnage_weekly())
+
+elif args.period == "weekly" and args.data == "repranges":
+    print_csv(lift_repranges_weekly())
 
 elif args.period == "weekly" and args.data == "fatigue":
     print_csv(lift_fatigue_weekly())
