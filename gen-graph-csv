@@ -4,6 +4,7 @@
 # Generates CSV files for use with graphviz.
 
 import argparse
+import liftdb
 import logparse
 import sys
 
@@ -15,10 +16,23 @@ parser.add_argument('period', help='take from specified time period',
                     choices=['daily', 'weekly'])
 parser.add_argument('data', help='output this on the y-axis',
                     choices=['e1rm', 'volume', 'tonnage'])
+parser.add_argument('-i', '--include-related', help='include related lifts in calculations',
+                    action="store_true")
 args = parser.parse_args()
 
 
+if args.data == "e1rm" and args.include_related:
+    sys.exit(" Error: --include-related does not make sense with e1rm.")
+
+
 #####################################################################
+
+
+# Whether the lift matches the script arguments. Used for filtering.
+def liftmatches(lift):
+    if args.include_related and liftdb.related(args.lift, lift.name):
+        return True
+    return args.lift == lift.name
 
 
 class WeeklyIterator:
@@ -64,10 +78,10 @@ class WeeklyIterator:
         return acc
 
 
-def lift_e1rm_daily(liftname):
+def lift_e1rm_daily():
     arr = []
     for session in sessions:
-        lifts = session.getlift(liftname)
+        lifts = filter(liftmatches, session.lifts)
         e1rm = max([0] + list(map(lambda x: x.e1rm(), lifts)))
         if e1rm > 0:
             arr.append([session.date, e1rm])
@@ -75,12 +89,12 @@ def lift_e1rm_daily(liftname):
 
 
 # Max E1RM over the entire week (Sun-Sat).
-def lift_e1rm_weekly(liftname):
+def lift_e1rm_weekly():
     arr = []
     for week in WeeklyIterator(sessions):
         e1rm = 0
         for session in week:
-            lifts = session.getlift(liftname)
+            lifts = filter(liftmatches, session.lifts)
             e1rm = max([e1rm] + list(map(lambda x: x.e1rm(), lifts)))
 
         if e1rm > 0:
@@ -89,11 +103,11 @@ def lift_e1rm_weekly(liftname):
     return arr
         
 
-def lift_volume_daily(liftname):
+def lift_volume_daily():
     arr = []
     for session in sessions:
         volume = 0
-        for lift in session.getlift(liftname):
+        for lift in filter(liftmatches, session.lifts):
             for set in lift.get_worksets():
                 volume += set.reps
         if volume > 0:
@@ -101,12 +115,12 @@ def lift_volume_daily(liftname):
     return arr 
 
 
-def lift_volume_weekly(liftname):
+def lift_volume_weekly():
     arr = []
     for week in WeeklyIterator(sessions):
         volume = 0
         for session in week:
-            for lift in session.getlift(liftname):
+            for lift in filter(liftmatches, session.lifts):
                 for set in lift.get_worksets():
                     volume += set.reps
         if volume > 0:
@@ -115,12 +129,11 @@ def lift_volume_weekly(liftname):
     return arr
 
 
-def lift_tonnage_daily(liftname):
+def lift_tonnage_daily():
     arr = []
     for session in sessions:
-        lifts = session.getlift(liftname)
         tonnage = 0
-        for lift in lifts:
+        for lift in filter(liftmatches, session.lifts):
             for set in lift.get_worksets():
                 tonnage += (set.weight * set.reps)
         if tonnage > 0:
@@ -128,12 +141,12 @@ def lift_tonnage_daily(liftname):
     return arr 
 
 
-def lift_tonnage_weekly(liftname):
+def lift_tonnage_weekly():
     arr = []
     for week in WeeklyIterator(sessions):
         tonnage = 0
         for session in week:
-            for lift in session.getlift(liftname):
+            for lift in filter(liftmatches, session.lifts):
                 for set in lift.get_worksets():
                     tonnage += set.weight * set.reps
         if tonnage > 0:
@@ -156,19 +169,19 @@ def print_csv(csvarr):
 sessions = logparse.parse('exlog')
 
 if args.period == "daily" and args.data == "e1rm":
-    print_csv(lift_e1rm_daily(args.lift))
+    print_csv(lift_e1rm_daily())
 
 elif args.period == "daily" and args.data == "volume":
-    print_csv(lift_volume_daily(args.lift))
+    print_csv(lift_volume_daily())
 
 elif args.period == "daily" and args.data == "tonnage":
-    print_csv(lift_tonnage_daily(args.lift))
+    print_csv(lift_tonnage_daily())
 
 elif args.period == "weekly" and args.data == "e1rm":
-    print_csv(lift_e1rm_weekly(args.lift))
+    print_csv(lift_e1rm_weekly())
 
 elif args.period == "weekly" and args.data == "volume":
-    print_csv(lift_volume_weekly(args.lift))
+    print_csv(lift_volume_weekly())
 
 elif args.period == "weekly" and args.data == "tonnage":
-    print_csv(lift_tonnage_weekly(args.lift))
+    print_csv(lift_tonnage_weekly())
