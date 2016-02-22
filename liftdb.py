@@ -1,0 +1,197 @@
+#!/usr/bin/env python3
+# vim: syntax=python ts=4 et sw=4 sts=4:
+
+# This file encodes some knowledge about what the various lifts are.
+# The purpose is to be able to answer questions like:
+#  "How much fatigue carryover is there from SLDL to squat?"
+# Since most fatigue is systemic, a rough analysis based on bodypart should suffice.
+# Thinking about lifts in terms of bodyparts is usually a big mistake in terms
+# of planning progression, but it should make sense in terms of planning fatigue.
+
+from enum import Enum
+
+class LiftType(Enum):
+    # Squat and Deadlift affect each other directly.
+    squat = 0
+    deadlift = 1
+
+    # Bench and Press affect each other directly.
+    bench = 2
+    press = 3
+
+    bro = 4
+    conditioning = 5
+
+
+liftdb = {
+    # Main lifts:
+    "squat": LiftType.squat,
+    "deadlift": LiftType.deadlift,
+    "paused bench": LiftType.bench,
+    "press": LiftType.press,
+
+    # Accessories primarily affecting squat.
+    "2-count paused high-bar squat": LiftType.squat,
+    "2-count paused squat": LiftType.squat,
+    "3-count paused squat": LiftType.squat,
+    "2-count squat paused at sticking point": LiftType.squat,
+    "303 tempo leg press": LiftType.squat,
+    "303 tempo squat": LiftType.squat,
+    "chain squat": LiftType.squat,
+    "db lunges": LiftType.squat,
+    "leg extension": LiftType.squat,
+    "leg press": LiftType.squat,
+    "front squat": LiftType.squat,
+    "goodmorning": LiftType.squat,
+    "hack squat": LiftType.squat,
+    "high-bar squat": LiftType.squat,
+    "paused high-bar squat": LiftType.squat,
+    "paused squat": LiftType.squat,
+    "pin squat": LiftType.squat,
+    "safety bar squat": LiftType.squat,
+    "squat w/wraps": LiftType.squat,
+
+    # Accessories primarily affecting deadlift.
+    "1-inch deficit deadlift": LiftType.deadlift,
+    "1.5-inch deficit deadlift": LiftType.deadlift,
+    "2-count paused deadlift": LiftType.deadlift,
+    "2-inch deficit deadlift": LiftType.deadlift,
+    "2-inch deficit sldl": LiftType.deadlift,
+    "3-inch deficit deadlift": LiftType.deadlift,
+    "303 tempo sldl": LiftType.deadlift,
+    "barbell row": LiftType.deadlift,
+    "back extension": LiftType.deadlift,
+    "bb bodyweight rows": LiftType.deadlift,
+    "block pull": LiftType.deadlift,
+    "block sldl": LiftType.deadlift,
+    "chain deadlift": LiftType.deadlift,
+    "deficit deadlift": LiftType.deadlift,
+    "fat bar deadlift": LiftType.deadlift,
+    "ghr": LiftType.deadlift,
+    "leg curl": LiftType.deadlift,
+    "high pull": LiftType.deadlift,
+    "paused deadlift": LiftType.deadlift,
+    "pendlay row": LiftType.deadlift,
+    "power clean": LiftType.deadlift,
+    "power snatch": LiftType.deadlift,
+    "rack pull": LiftType.deadlift,
+    "romanian deadlift": LiftType.deadlift,
+    "sldl": LiftType.deadlift,
+    "sldl off 2-inch blocks": LiftType.deadlift,
+    "snatch-grip deadlift": LiftType.deadlift,
+    "sumo block pulls": LiftType.deadlift,
+    "sumo deadlift": LiftType.deadlift,
+
+    # Accessories primarily affecting bench.
+    "1-board paused bench": LiftType.bench,
+    "2-board bench": LiftType.bench,
+    "3-board bench": LiftType.bench,
+    "2-count paused bench": LiftType.bench,
+    "3-count paused bench": LiftType.bench,
+    "303 tempo bench": LiftType.bench,
+    "bench": LiftType.bench,
+    "cable row": LiftType.bench,
+    "chest-supported row": LiftType.bench,
+    "chain bench": LiftType.bench,
+    "chins": LiftType.bench,
+    "close-grip bench": LiftType.bench,
+    "close-grip floor press": LiftType.bench,
+    "db bench": LiftType.bench,
+    "face pull": LiftType.bench,
+    "feet-up bench": LiftType.bench,
+    "floor press": LiftType.bench,
+    "flyes": LiftType.bench,
+    "lat pulldown": LiftType.bench,
+    "lying tricep extension": LiftType.bench,
+    "neutral grip chins": LiftType.bench,
+    "paused close-grip bench": LiftType.bench,
+    "paused close-grip floor press": LiftType.bench,
+    "pin bench": LiftType.bench,
+    "seated row": LiftType.bench,
+    "slingshot bench": LiftType.bench,
+    "speed bench": LiftType.bench,
+    "swiss bar bench": LiftType.bench,
+    "tricep pulldown": LiftType.bench,
+    "tricep pushdown": LiftType.bench,
+    "v-grip pulldown": LiftType.bench,
+    "wide-grip bench": LiftType.bench,
+
+    # Accessories primarily affecting press.
+    "db incline bench": LiftType.press,
+    "db press": LiftType.press,
+    "dips": LiftType.press,
+    "french press": LiftType.press,
+    "klokov press": LiftType.press,
+    "medial delt raise": LiftType.press,
+    "pullups": LiftType.press,
+    "seated db press": LiftType.press,
+    "strict press": LiftType.press,
+    "swiss bar press": LiftType.press,
+    "wide-grip pullups": LiftType.press,
+
+    # Accessories that serve no direct main lift purpose.
+    "cable curl": LiftType.bro,
+    "calf raise": LiftType.bro,
+    "curl": LiftType.bro,
+    "db curl": LiftType.bro,
+    "forearm twist": LiftType.bro,
+    "ghd crunch": LiftType.bro,
+    "hammer curl": LiftType.bro,
+    "lateral raise": LiftType.bro,
+    "leg raise": LiftType.bro,
+    "nordic curl": LiftType.bro,
+    "preacher curl": LiftType.bro,
+    "situps on decline bench": LiftType.bro,
+    "swiss bar hammer curl": LiftType.bro,
+    "wrist curl": LiftType.bro,
+    "zottman curl": LiftType.bro,
+
+    # Accessories that are for conditioning.
+    "ab roller": LiftType.conditioning,
+    "prowler": LiftType.conditioning,
+    "rower": LiftType.conditioning,
+    "sled pull": LiftType.conditioning,
+    "stationary bike": LiftType.conditioning,
+}
+
+
+def __gettype(liftname):
+    # Remove some designations that don't matter for typing.
+    liftname = liftname.replace('beltless','')
+    liftname = liftname.replace('sleeveless','')
+    liftname = liftname.replace('w/wraps','')
+    liftname = liftname.replace('w/straps','')
+
+    liftname = liftname.replace('  ',' ').strip()
+    if not liftname in liftdb:
+        return None
+    return liftdb[liftname]
+
+
+# Two lifts are related if fatigue has high carryover between them.
+def related(a, b):
+    atype = __gettype(a)
+    btype = __gettype(b)
+    
+    if atype == btype:
+        return True
+
+    def squatdeadtype(t):
+        return t == LiftType.squat or t == LiftType.deadlift
+    def benchpresstype(t):
+        return t == LiftType.bench or t == LiftType.press
+
+    if squatdeadtype(atype) and squatdeadtype(btype):
+        return True
+    return benchpresstype(atype) and benchpresstype(btype)
+
+
+# If run as a script, make sure that the entirety of exlog is handled.
+if __name__ == '__main__':
+    import logparse
+    sessions = logparse.parse('exlog')
+
+    for session in sessions:
+        for lift in session.lifts:
+            if __gettype(lift.name) == None:
+                print("Missing: " + lift.name)
