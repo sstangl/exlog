@@ -1,4 +1,6 @@
-csv: csv-data
+all: csv graphs
+
+csv: csv-data exlog
 	./gen-graph-csv squat daily e1rm > csv-data/squat-daily-e1rm.csv
 	./gen-graph-csv deadlift daily e1rm > csv-data/deadlift-daily-e1rm.csv
 	./gen-graph-csv "paused bench" daily e1rm > csv-data/pbench-daily-e1rm.csv
@@ -18,10 +20,13 @@ csv: csv-data
 	./gen-graph-csv deadlift weekly tonnage > csv-data/deadlift-weekly-tonnage.csv
 	./gen-graph-csv "paused bench" weekly tonnage > csv-data/pbench-weekly-tonnage.csv
 
-
 csv-data:
 	mkdir csv-data
+
+graphs: csv
+	$(MAKE) -C graphs
 
 clean:
 	rm -rf __pycache__
 	rm -rf csv-data
+	$(MAKE) -C graphs clean
