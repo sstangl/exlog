@@ -84,9 +84,10 @@ class Set:
     # Compared to the specified E1RM, how much fatigue did this set demonstrate?
     # Numbers returned are in units of "fatigue percents".
     def fatigue(self, best_e1rm):
-        if best_e1rm == 0:
+        set_e1rm = self.e1rm()
+        if set_e1rm == 0 or best_e1rm == 0:
             return 0
-        return (1 - (self.e1rm() / best_e1rm)) * 100
+        return (1 - (set_e1rm / best_e1rm)) * 100
 
 class Lift:
     def __init__(self, name):
@@ -120,7 +121,12 @@ class Lift:
         e1rm = self.e1rm()
         if e1rm == 0:
             return 0
-        return max(0, self.sets[-1].fatigue(e1rm))
+        # Compare to the most recent set that had an e1rm.
+        for i in range(len(self.sets), 0, -1):
+            fatigue = self.sets[i-1].fatigue(e1rm)
+            if fatigue > 0:
+                return fatigue
+        return 0
 
 
 class TrainingSession:
