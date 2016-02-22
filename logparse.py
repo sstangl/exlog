@@ -241,7 +241,7 @@ def makesets(text):
         text = text.replace('f', '')
 
         [weight, reps, nsets] = text.split('x')
-        return [Set(weight2float(weight), int(reps), 0, failure) for x in nsets]
+        return [Set(weight2float(weight), int(reps), 0, failure) for x in range(0,int(nsets))]
 
     error("Could not parse sets: " + text)
 

@@ -3046,7 +3046,7 @@
 
 2013-09-17 (Tuesday) # CMU Bench
   bench:
-    45x15x2 95, 135, 185, 205x4, 225x2, 245x1
+    45x15x2, 95, 135, 185, 205x4, 225x2, 245x1
     267.5x4x2 # 1s tough. No leg drive: ground actually wet. ~@7.5
     267.5x3fx2 # 2s about the same. 3s3f: spotter pulled out of arch.
                # 4s 3f: felt better than 3s, but lost arch.
