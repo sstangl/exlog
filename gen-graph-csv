@@ -15,7 +15,7 @@ parser.add_argument('lift')
 parser.add_argument('period', help='take from specified time period',
                     choices=['daily', 'weekly'])
 parser.add_argument('data', help='output this on the y-axis',
-                    choices=['e1rm', 'volume', 'tonnage'])
+                    choices=['e1rm', 'volume', 'tonnage', 'fatigue'])
 parser.add_argument('-i', '--include-related', help='include related lifts in calculations',
                     action="store_true")
 args = parser.parse_args()
@@ -155,6 +155,35 @@ def lift_tonnage_weekly():
     return arr
 
 
+def lift_fatigue_daily():
+    arr = []
+    for session in sessions:
+        fatigue = 0
+
+        # Fatigue is directly cumulative between lifts in a session.
+        for lift in filter(liftmatches, session.lifts):
+            fatigue += lift.fatigue()
+
+        if fatigue > 0:
+            arr.append([session.date, fatigue])
+    return arr
+
+
+def lift_fatigue_weekly():
+    arr = []
+    for week in WeeklyIterator(sessions):
+        fatigue = 0
+        for session in week:
+            # This metric is a little arbitrary: total recovery needed.
+            for lift in filter(liftmatches, session.lifts):
+                fatigue += lift.fatigue()
+
+        if fatigue > 0:
+            date = week[-1].date # Use the end date.
+            arr.append([date, fatigue])
+    return arr
+
+
 #####################################################################
 
 
@@ -177,6 +206,9 @@ elif args.period == "daily" and args.data == "volume":
 elif args.period == "daily" and args.data == "tonnage":
     print_csv(lift_tonnage_daily())
 
+elif args.period == "daily" and args.data == "fatigue":
+    print_csv(lift_fatigue_daily())
+
 elif args.period == "weekly" and args.data == "e1rm":
     print_csv(lift_e1rm_weekly())
 
@@ -185,3 +217,6 @@ elif args.period == "weekly" and args.data == "volume":
 
 elif args.period == "weekly" and args.data == "tonnage":
     print_csv(lift_tonnage_weekly())
+
+elif args.period == "weekly" and args.data == "fatigue":
+    print_csv(lift_fatigue_weekly())

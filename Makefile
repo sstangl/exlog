@@ -33,6 +33,12 @@ related-csv:
 	./gen-graph-csv -i squat weekly tonnage > csv-data/squat-weekly-tonnage-related.csv
 	./gen-graph-csv -i deadlift weekly tonnage > csv-data/deadlift-weekly-tonnage-related.csv
 	./gen-graph-csv -i "paused bench" weekly tonnage > csv-data/pbench-weekly-tonnage-related.csv
+	./gen-graph-csv -i squat daily fatigue > csv-data/squat-daily-fatigue-related.csv
+	./gen-graph-csv -i deadlift daily fatigue > csv-data/deadlift-daily-fatigue-related.csv
+	./gen-graph-csv -i "paused bench" daily fatigue > csv-data/pbench-daily-fatigue-related.csv
+	./gen-graph-csv -i squat weekly fatigue > csv-data/squat-weekly-fatigue-related.csv
+	./gen-graph-csv -i deadlift weekly fatigue > csv-data/deadlift-weekly-fatigue-related.csv
+	./gen-graph-csv -i "paused bench" weekly fatigue > csv-data/pbench-weekly-fatigue-related.csv
 
 
 csv-data:

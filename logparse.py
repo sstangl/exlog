@@ -81,6 +81,12 @@ class Set:
             return self.weight
         return self.weight + ((self.weight * self.reps) / 30)
 
+    # Compared to the specified E1RM, how much fatigue did this set demonstrate?
+    # Numbers returned are in units of "fatigue percents".
+    def fatigue(self, best_e1rm):
+        if best_e1rm == 0:
+            return 0
+        return (1 - (self.e1rm() / best_e1rm)) * 100
 
 class Lift:
     def __init__(self, name):
@@ -105,16 +111,16 @@ class Lift:
         return max([0] + list(map(lambda x: x.wendler(), self.get_worksets())))
 
     def volume(self):
-        volume = 0
-        for s in self.get_worksets():
-            volume += s.reps
-        return volume
+        return sum(map(lambda x: x.reps, self.get_worksets()))
 
     def tonnage(self):
-        tonnage = 0
-        for s in self.get_worksets():
-            tonnage += (s.weight * s.reps)
-        return tonnage
+        return sum(map(lambda x: x.weight * x.reps, self.get_worksets()))
+
+    def fatigue(self):
+        e1rm = self.e1rm()
+        if e1rm == 0:
+            return 0
+        return max(0, self.sets[-1].fatigue(e1rm))
 
 
 class TrainingSession:
@@ -128,9 +134,6 @@ class TrainingSession:
 
     def addlift(self, l):
         self.lifts.append(l)
-
-    def getlift(self, name):
-        return list(filter(lambda x : x.name == name, self.lifts))
 
 
 #####################################################################
