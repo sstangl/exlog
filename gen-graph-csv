@@ -4,10 +4,11 @@
 # Generates CSV files for use with graphviz.
 
 import argparse
-import liftdb
-import logparse
 import sys
 
+import liftdb
+import logparse
+from common import *
 
 # Parse arguments.
 parser = argparse.ArgumentParser()

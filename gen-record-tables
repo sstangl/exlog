@@ -4,6 +4,7 @@
 # Generates a list of rep records.
 
 import logparse
+from common import *
 
 sessions = logparse.parse("exlog")
 
