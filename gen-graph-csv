@@ -82,8 +82,7 @@ class WeeklyIterator:
 def lift_e1rm_daily():
     arr = []
     for session in sessions:
-        lifts = filter(liftmatches, session.lifts)
-        e1rm = max([0] + list(map(lambda x: x.e1rm(), lifts)))
+        e1rm = session.e1rm(liftmatches)
         if e1rm > 0:
             arr.append([session.date, e1rm])
     return arr
@@ -93,11 +92,7 @@ def lift_e1rm_daily():
 def lift_e1rm_weekly():
     arr = []
     for week in WeeklyIterator(sessions):
-        e1rm = 0
-        for session in week:
-            lifts = filter(liftmatches, session.lifts)
-            e1rm = max([e1rm] + list(map(lambda x: x.e1rm(), lifts)))
-
+        e1rm = max([0] + list(map(lambda x: x.e1rm(liftmatches), week)))
         if e1rm > 0:
             date = week[-1].date # Use the end date.
             arr.append([date, e1rm])
@@ -107,10 +102,7 @@ def lift_e1rm_weekly():
 def lift_volume_daily():
     arr = []
     for session in sessions:
-        volume = 0
-        for lift in filter(liftmatches, session.lifts):
-            for set in lift.get_worksets():
-                volume += set.reps
+        volume = session.volume(liftmatches)
         if volume > 0:
             arr.append([session.date, volume])
     return arr 
@@ -119,11 +111,7 @@ def lift_volume_daily():
 def lift_volume_weekly():
     arr = []
     for week in WeeklyIterator(sessions):
-        volume = 0
-        for session in week:
-            for lift in filter(liftmatches, session.lifts):
-                for set in lift.get_worksets():
-                    volume += set.reps
+        volume = sum(s.volume(liftmatches) for s in week)
         if volume > 0:
             date = week[-1].date # Use the end date.
             arr.append([date, volume])
@@ -133,10 +121,7 @@ def lift_volume_weekly():
 def lift_tonnage_daily():
     arr = []
     for session in sessions:
-        tonnage = 0
-        for lift in filter(liftmatches, session.lifts):
-            for set in lift.get_worksets():
-                tonnage += (set.weight * set.reps)
+        tonnage = session.tonnage(liftmatches)
         if tonnage > 0:
             arr.append([session.date, tonnage])
     return arr 
@@ -145,11 +130,7 @@ def lift_tonnage_daily():
 def lift_tonnage_weekly():
     arr = []
     for week in WeeklyIterator(sessions):
-        tonnage = 0
-        for session in week:
-            for lift in filter(liftmatches, session.lifts):
-                for set in lift.get_worksets():
-                    tonnage += set.weight * set.reps
+        tonnage = sum(s.tonnage(liftmatches) for s in week)
         if tonnage > 0:
             date = week[-1].date # Use the end date.
             arr.append([date, tonnage ])

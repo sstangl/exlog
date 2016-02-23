@@ -137,3 +137,15 @@ class TrainingSession:
 
     def addlift(self, l):
         self.lifts.append(l)
+
+    def e1rm(self, matchfn):
+        lifts = filter(matchfn, self.lifts)
+        return max([0] + list(map(Lift.e1rm, lifts)))
+
+    def volume(self, matchfn):
+        lifts = filter(matchfn, self.lifts)
+        return sum(x.volume() for x in lifts)
+
+    def tonnage(self, matchfn):
+        lifts = filter(matchfn, self.lifts)
+        return sum(x.tonnage() for x in lifts)
