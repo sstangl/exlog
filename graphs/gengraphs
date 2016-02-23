@@ -3,5 +3,6 @@
 # This has the advantage over the Makefile of just skipping any broken scripts.
 
 ls -1 *.gp | while read i; do
+	echo ${i}
 	gnuplot ${i}
 done

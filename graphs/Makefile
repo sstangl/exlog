@@ -1,6 +1,6 @@
 all: graphs
 
-graphs:
+graphs: key
 	./gengraphs
 
 key:
