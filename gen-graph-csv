@@ -36,6 +36,36 @@ def liftmatches(lift):
     return args.lift == lift.name
 
 
+# Handles the case of multiple training sessions on the same day,
+# but really just exists so that the code between daily/weekly
+# uses the same types and the same interface.
+class DailyIterator:
+    def __init__(self, sessions):
+        self.sessions = sessions
+
+    def __iter__(self):
+        self.idx = 0
+        return self
+
+    def __sameday(self, a, b):
+        return a.toordinal() == b.toordinal()
+
+    def __next__(self):
+        if self.idx >= len(self.sessions):
+            raise StopIteration
+
+        startdate = self.sessions[self.idx].date
+        acc = []
+        for i in range(self.idx, len(self.sessions)):
+            if self.__sameday(startdate, self.sessions[i].date):
+                acc.append(self.sessions[i])
+            else:
+                break
+
+        self.idx += len(acc)
+        return acc
+
+
 class WeeklyIterator:
     def __init__(self, sessions):
         self.sessions = sessions
@@ -52,12 +82,8 @@ class WeeklyIterator:
         # So in terms of mapping how much to subtract:
         #  isoweekday -> subtract_amount
         #  [1,2,3,4,5,6,7] -> [1,2,3,4,5,6,0]
-        subtract_amount_a = a.isoweekday() % 7
-        subtract_amount_b = b.isoweekday() % 7
-
-        week_a = a.toordinal() - subtract_amount_a
-        week_b = b.toordinal() - subtract_amount_b
-
+        week_a = a.toordinal() - (a.isoweekday() % 7)
+        week_b = b.toordinal() - (b.isoweekday() % 7)
         return week_a == week_b
 
     def __next__(self):
@@ -79,90 +105,44 @@ class WeeklyIterator:
         return acc
 
 
-def lift_e1rm_daily():
+# Return a single date as representative of the list of dates.
+# For choosing a date on which to mark weekly volume, etc.
+def canonical_date(sessionlist):
+    return sessionlist[-1].date
+
+
+def lift_e1rm(iterator):
     arr = []
-    for session in sessions:
-        e1rm = session.e1rm(liftmatches)
+    for period in iterator(sessions):
+        e1rm = max([0] + list(map(lambda x: x.e1rm(liftmatches), period)))
         if e1rm > 0:
-            arr.append([session.date, e1rm])
+            arr.append([canonical_date(period), e1rm])
     return arr
 
 
-# Max E1RM over the entire week (Sun-Sat).
-def lift_e1rm_weekly():
+def lift_volume(iterator):
     arr = []
-    for week in WeeklyIterator(sessions):
-        e1rm = max([0] + list(map(lambda x: x.e1rm(liftmatches), week)))
-        if e1rm > 0:
-            date = week[-1].date # Use the end date.
-            arr.append([date, e1rm])
-    return arr
-        
-
-def lift_volume_daily():
-    arr = []
-    for session in sessions:
-        volume = session.volume(liftmatches)
+    for period in iterator(sessions):
+        volume = sum(s.volume(liftmatches) for s in period)
         if volume > 0:
-            arr.append([session.date, volume])
-    return arr 
-
-
-def lift_volume_weekly():
-    arr = []
-    for week in WeeklyIterator(sessions):
-        volume = sum(s.volume(liftmatches) for s in week)
-        if volume > 0:
-            date = week[-1].date # Use the end date.
-            arr.append([date, volume])
+            arr.append([canonical_date(period), volume])
     return arr
 
 
-def lift_tonnage_daily():
+def lift_tonnage(iterator):
     arr = []
-    for session in sessions:
-        tonnage = session.tonnage(liftmatches)
+    for period in iterator(sessions):
+        tonnage = sum(s.tonnage(liftmatches) for s in period)
         if tonnage > 0:
-            arr.append([session.date, tonnage])
-    return arr 
-
-
-def lift_tonnage_weekly():
-    arr = []
-    for week in WeeklyIterator(sessions):
-        tonnage = sum(s.tonnage(liftmatches) for s in week)
-        if tonnage > 0:
-            date = week[-1].date # Use the end date.
-            arr.append([date, tonnage ])
+            arr.append([canonical_date(period), tonnage])
     return arr
 
 
-def lift_repranges_daily():
+def lift_repranges(iterator):
     arr = []
-    for session in sessions:
+    for period in iterator(sessions):
         ranges = [0,0,0,0] # 1, 2-3, 4-6, 7+
-        for lift in filter(liftmatches, session.lifts):
-            for set in lift.get_worksets():
-                if set.reps == 0:
-                    continue
-                if set.reps == 1:
-                    ranges[0] += 1
-                elif set.reps <= 3:
-                    ranges[1] += 1
-                elif set.reps <= 6:
-                    ranges[2] += 1
-                else:
-                    ranges[3] += 1
-        if sum(ranges) > 0:
-            arr.append([session.date, ranges])
-    return arr
-
-
-def lift_repranges_weekly():
-    arr = []
-    for week in WeeklyIterator(sessions):
-        ranges = [0,0,0,0] # 1, 2-3, 4-6, 7+
-        for session in week:
+        for session in period:
             for lift in filter(liftmatches, session.lifts):
                 for set in lift.get_worksets():
                     if set.reps == 0:
@@ -176,36 +156,21 @@ def lift_repranges_weekly():
                     else:
                         ranges[3] += 1
         if sum(ranges) > 0:
-            arr.append([session.date, ranges])
+            arr.append([canonical_date(period), ranges])
     return arr
 
 
-def lift_fatigue_daily():
+def lift_fatigue(iterator):
     arr = []
-    for session in sessions:
+    for period in WeeklyIterator(sessions):
         fatigue = 0
-
-        # Fatigue is directly cumulative between lifts in a session.
-        for lift in filter(liftmatches, session.lifts):
-            fatigue += lift.fatigue()
-
-        if fatigue > 0:
-            arr.append([session.date, fatigue])
-    return arr
-
-
-def lift_fatigue_weekly():
-    arr = []
-    for week in WeeklyIterator(sessions):
-        fatigue = 0
-        for session in week:
+        for session in period:
             # This metric is a little arbitrary: total recovery needed.
             for lift in filter(liftmatches, session.lifts):
                 fatigue += lift.fatigue()
 
         if fatigue > 0:
-            date = week[-1].date # Use the end date.
-            arr.append([date, fatigue])
+            arr.append([canonical_date(period), fatigue])
     return arr
 
 
@@ -222,32 +187,20 @@ def print_csv(csvarr):
 
 sessions = logparse.parse('exlog')
 
-if args.period == "daily" and args.data == "e1rm":
-    print_csv(lift_e1rm_daily())
+if args.period == "daily":
+    iterator = DailyIterator
+elif args.period == "weekly":
+    iterator = WeeklyIterator
 
-elif args.period == "daily" and args.data == "volume":
-    print_csv(lift_volume_daily())
+if args.data == "e1rm":
+    data = lift_e1rm(iterator)
+elif args.data == "volume":
+    data = lift_volume(iterator)
+elif args.data == "tonnage":
+    data = lift_tonnage(iterator)
+elif args.data == "repranges":
+    data = lift_repranges(iterator)
+elif args.data == "fatigue":
+    data = lift_fatigue(iterator)
 
-elif args.period == "daily" and args.data == "tonnage":
-    print_csv(lift_tonnage_daily())
-
-elif args.period == "daily" and args.data == "repranges":
-    print_csv(lift_repranges_daily())
-
-elif args.period == "daily" and args.data == "fatigue":
-    print_csv(lift_fatigue_daily())
-
-elif args.period == "weekly" and args.data == "e1rm":
-    print_csv(lift_e1rm_weekly())
-
-elif args.period == "weekly" and args.data == "volume":
-    print_csv(lift_volume_weekly())
-
-elif args.period == "weekly" and args.data == "tonnage":
-    print_csv(lift_tonnage_weekly())
-
-elif args.period == "weekly" and args.data == "repranges":
-    print_csv(lift_repranges_weekly())
-
-elif args.period == "weekly" and args.data == "fatigue":
-    print_csv(lift_fatigue_weekly())
+print_csv(data)
