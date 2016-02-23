@@ -1,0 +1,7 @@
+#!/usr/bin/bash
+# Runs gnuplot on all the gp scripts.
+# This has the advantage over the Makefile of just skipping any broken scripts.
+
+ls -1 *.gp | while read i; do
+	gnuplot ${i}
+done

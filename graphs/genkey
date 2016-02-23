@@ -1,0 +1,9 @@
+#!/usr/bin/bash
+# Extracts key information from the CSV data files.
+# Used to avoid hardcoding changing indices in GNUPlot scripts.
+
+cd ../csv-data
+
+ls -1 *.csv | head -n 1 | while read i; do
+	grep "#" ${i} | sed "s/#//g" > gnuplot.key
+done

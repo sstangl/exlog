@@ -1,53 +1,34 @@
-all: csv related-csv graphs
+CSVDIR = csv-data
 
-csv: csv-data exlog
-	./gen-graph-csv squat daily e1rm > csv-data/squat-daily-e1rm.csv
-	./gen-graph-csv deadlift daily e1rm > csv-data/deadlift-daily-e1rm.csv
-	./gen-graph-csv "paused bench" daily e1rm > csv-data/pbench-daily-e1rm.csv
-	./gen-graph-csv squat daily volume > csv-data/squat-daily-volume.csv
-	./gen-graph-csv deadlift daily volume > csv-data/deadlift-daily-volume.csv
-	./gen-graph-csv "paused bench" daily volume > csv-data/pbench-daily-volume.csv
-	./gen-graph-csv squat daily tonnage > csv-data/squat-daily-tonnage.csv
-	./gen-graph-csv deadlift daily tonnage > csv-data/deadlift-daily-tonnage.csv
-	./gen-graph-csv "paused bench" daily tonnage > csv-data/pbench-daily-tonnage.csv
-	./gen-graph-csv squat weekly e1rm > csv-data/squat-weekly-e1rm.csv
-	./gen-graph-csv deadlift weekly e1rm > csv-data/deadlift-weekly-e1rm.csv
-	./gen-graph-csv "paused bench" weekly e1rm > csv-data/pbench-weekly-e1rm.csv
-	./gen-graph-csv squat weekly volume > csv-data/squat-weekly-volume.csv
-	./gen-graph-csv deadlift weekly volume > csv-data/deadlift-weekly-volume.csv
-	./gen-graph-csv "paused bench" weekly volume > csv-data/pbench-weekly-volume.csv
-	./gen-graph-csv squat weekly tonnage > csv-data/squat-weekly-tonnage.csv
-	./gen-graph-csv deadlift weekly tonnage > csv-data/deadlift-weekly-tonnage.csv
-	./gen-graph-csv "paused bench" weekly tonnage > csv-data/pbench-weekly-tonnage.csv
+all: csv csv-related graphs
 
-related-csv:
-	./gen-graph-csv -i squat daily volume > csv-data/squat-daily-volume-related.csv
-	./gen-graph-csv -i deadlift daily volume > csv-data/deadlift-daily-volume-related.csv
-	./gen-graph-csv -i "paused bench" daily volume > csv-data/pbench-daily-volume-related.csv
-	./gen-graph-csv -i squat daily tonnage > csv-data/squat-daily-tonnage-related.csv
-	./gen-graph-csv -i deadlift daily tonnage > csv-data/deadlift-daily-tonnage-related.csv
-	./gen-graph-csv -i "paused bench" daily tonnage > csv-data/pbench-daily-tonnage-related.csv
-	./gen-graph-csv -i squat weekly volume > csv-data/squat-weekly-volume-related.csv
-	./gen-graph-csv -i deadlift weekly volume > csv-data/deadlift-weekly-volume-related.csv
-	./gen-graph-csv -i "paused bench" weekly volume > csv-data/pbench-weekly-volume-related.csv
-	./gen-graph-csv -i squat weekly tonnage > csv-data/squat-weekly-tonnage-related.csv
-	./gen-graph-csv -i deadlift weekly tonnage > csv-data/deadlift-weekly-tonnage-related.csv
-	./gen-graph-csv -i "paused bench" weekly tonnage > csv-data/pbench-weekly-tonnage-related.csv
-	./gen-graph-csv -i squat daily fatigue > csv-data/squat-daily-fatigue-related.csv
-	./gen-graph-csv -i deadlift daily fatigue > csv-data/deadlift-daily-fatigue-related.csv
-	./gen-graph-csv -i "paused bench" daily fatigue > csv-data/pbench-daily-fatigue-related.csv
-	./gen-graph-csv -i squat weekly fatigue > csv-data/squat-weekly-fatigue-related.csv
-	./gen-graph-csv -i deadlift weekly fatigue > csv-data/deadlift-weekly-fatigue-related.csv
-	./gen-graph-csv -i "paused bench" weekly fatigue > csv-data/pbench-weekly-fatigue-related.csv
+csv: $(CSVDIR) exlog
+	./gen-graph-csv squat daily all > $(CSVDIR)/squat-daily.csv
+	./gen-graph-csv deadlift daily all > $(CSVDIR)/deadlift-daily.csv
+	./gen-graph-csv press daily all > $(CSVDIR)/press-daily.csv
+	./gen-graph-csv "paused bench" daily all > $(CSVDIR)/pbench-daily.csv
+	./gen-graph-csv squat weekly all > $(CSVDIR)/squat-weekly.csv
+	./gen-graph-csv deadlift weekly all > $(CSVDIR)/deadlift-weekly.csv
+	./gen-graph-csv press weekly all > $(CSVDIR)/press-weekly.csv
+	./gen-graph-csv "paused bench" weekly all > $(CSVDIR)/pbench-weekly.csv
 
+csv-related: $(CSVDIR) exlog
+	./gen-graph-csv -i squat daily all > $(CSVDIR)/squat-related-daily.csv
+	./gen-graph-csv -i deadlift daily all > $(CSVDIR)/deadlift-related-daily.csv
+	./gen-graph-csv -i press daily all > $(CSVDIR)/press-related-daily.csv
+	./gen-graph-csv -i "paused bench" daily all > $(CSVDIR)/pbench-related-daily.csv
+	./gen-graph-csv -i squat weekly all > $(CSVDIR)/squat-related-weekly.csv
+	./gen-graph-csv -i deadlift weekly all > $(CSVDIR)/deadlift-related-weekly.csv
+	./gen-graph-csv -i press weekly all > $(CSVDIR)/press-related-weekly.csv
+	./gen-graph-csv -i "paused bench" weekly all > $(CSVDIR)/pbench-related-weekly.csv
 
-csv-data:
-	mkdir csv-data
+$(CSVDIR):
+	mkdir $(CSVDIR)
 
 graphs: csv
 	$(MAKE) -C graphs
 
 clean:
 	rm -rf __pycache__
-	rm -rf csv-data
+	rm -rf $(CSVDIR)
 	$(MAKE) -C graphs clean

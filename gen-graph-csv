@@ -16,14 +16,10 @@ parser.add_argument('lift')
 parser.add_argument('period', help='take from specified time period',
                     choices=['daily', 'weekly'])
 parser.add_argument('data', help='output this on the y-axis',
-                    choices=['e1rm', 'volume', 'tonnage', 'fatigue', 'repranges'])
+                    choices=['e1rm', 'volume', 'tonnage', 'fatigue', 'repranges', 'all'])
 parser.add_argument('-i', '--include-related', help='include related lifts in calculations',
                     action="store_true")
 args = parser.parse_args()
-
-
-if args.data == "e1rm" and args.include_related:
-    sys.exit(" Error: --include-related does not make sense with e1rm.")
 
 
 #####################################################################
@@ -182,6 +178,40 @@ def print_csv(csvarr):
         print(', '.join(map(str, row)).replace('[','').replace(']',''))
 
 
+# Given two arrays where the 0th index is the date and the rest are data,
+# with both arrays sorted descending by date, make a single array that
+# contains [date, ...left_data, ...right_data] for each date in dates(left,right).
+def zip_csv(left, right):
+    acc = []
+    default = ''
+    lndata = len(left[0]) - 1
+    rndata = len(right[0]) - 1
+    li = 0
+    ri = 0
+    while li < len(left) and ri < len(right):
+        # Always output the greater date first. A date only occurs once.
+        if left[li][0] > right[ri][0]:
+            acc += [left[li] + [default for x in range(0,rndata)]]
+            li += 1
+        elif left[li][0] < right[ri][0]:
+            acc += [[right[ri][0]] + [default for x in range(0,lndata)] + right[ri][1:]]
+            ri += 1
+        else:
+            acc += [left[li] + right[ri][1:]]
+            li += 1
+            ri += 1
+
+    while li < len(left):
+        acc += [left[li] + [default for x in range(0,rndata)]]
+        li += 1
+
+    while ri < len(right):
+        acc += [[right[ri][0]] + [default for x in range(0,lndata)] + right[ri][1:]]
+        ri += 1
+
+    return acc
+
+
 #####################################################################
 
 
@@ -202,5 +232,29 @@ elif args.data == "repranges":
     data = lift_repranges(iterator)
 elif args.data == "fatigue":
     data = lift_fatigue(iterator)
+
+# Dump all of the data into one big CSV file, one column per datum.
+elif args.data == "all":
+    e1rm = lift_e1rm(iterator)
+    volume = lift_volume(iterator)
+    tonnage = lift_tonnage(iterator)
+    repranges = lift_repranges(iterator)
+    fatigue = lift_fatigue(iterator)
+
+    data = e1rm
+    for x in [volume, tonnage, repranges, fatigue]:
+        data = zip_csv(data, x)
+
+    # Before printing the CSV, output some variables for use by gnuplot
+    # into the header. Accessible with some minor text processing.
+    print("#date = 1")
+    print("#e1rm = 2")
+    print("#volume = 3")
+    print("#tonnage = 4")
+    print("#reprange1 = 5")
+    print("#reprange3 = 6")
+    print("#reprange5 = 7")
+    print("#reprange8 = 8")
+    print("#fatigue = 9")
 
 print_csv(data)
