@@ -96,7 +96,7 @@ class Lift:
     # Get a list of non-warmup, actual training sets.
     def get_worksets(self):
         # Lifts that track RPE track them for every set.
-        highrpe = filter(lambda x: x.rpe >= 7.0, self.sets)
+        highrpe = list(filter(lambda x: x.rpe >= 7.0, self.sets))
         if len(highrpe) > 0:
             return highrpe
 
@@ -147,6 +147,10 @@ class TrainingSession:
     def e1rm(self, matchfn):
         lifts = filter(matchfn, self.lifts)
         return max([0] + list(map(Lift.e1rm, lifts)))
+
+    def wendler(self, matchfn):
+        lifts = filter(matchfn, self.lifts)
+        return max([0] + list(map(Lift.wendler, lifts)))
 
     def volume(self, matchfn):
         lifts = filter(matchfn, self.lifts)

@@ -16,7 +16,7 @@ parser.add_argument('lift')
 parser.add_argument('period', help='take from specified time period',
                     choices=['daily', 'weekly'])
 parser.add_argument('data', help='output this on the y-axis',
-                    choices=['e1rm', 'volume', 'tonnage', 'fatigue', 'repranges', 'all'])
+                    choices=['e1rm', 'volume', 'tonnage', 'fatigue', 'repranges', 'wendler', 'all'])
 parser.add_argument('-i', '--include-related', help='include related lifts in calculations',
                     action="store_true")
 args = parser.parse_args()
@@ -170,6 +170,15 @@ def lift_fatigue(iterator):
     return arr
 
 
+def lift_wendler(iterator):
+    arr = []
+    for period in iterator(sessions):
+        wendler = max([0] + list(map(lambda x: x.wendler(liftmatches), period)))
+        if wendler > 0:
+            arr.append([canonical_date(period), wendler])
+    return arr
+
+
 #####################################################################
 
 
@@ -240,9 +249,10 @@ elif args.data == "all":
     tonnage = lift_tonnage(iterator)
     repranges = lift_repranges(iterator)
     fatigue = lift_fatigue(iterator)
+    wendler = lift_wendler(iterator)
 
     data = e1rm
-    for x in [volume, tonnage, repranges, fatigue]:
+    for x in [volume, tonnage, repranges, fatigue, wendler]:
         data = zip_csv(data, x)
 
     # Before printing the CSV, output some variables for use by gnuplot
@@ -256,5 +266,6 @@ elif args.data == "all":
     print("#reprange5 = 7")
     print("#reprange8 = 8")
     print("#fatigue = 9")
+    print("#wendler = 10")
 
 print_csv(data)
