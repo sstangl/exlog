@@ -156,6 +156,26 @@ def lift_repranges(iterator):
     return arr
 
 
+def lift_rperanges(iterator):
+    arr = []
+    for period in iterator(sessions):
+        ranges = [0,0,0,0] # 6.5-7, 7.5-8, 8.5-9, 9.5-10
+        for session in period:
+            for lift in filter(liftmatches, session.lifts):
+                for set in lift.get_worksets():
+                    if set.rpe >= 6.5 and set.rpe < 7.5:
+                        ranges[0] += 1
+                    elif set.rpe >= 7.5 and set.rpe < 8.5:
+                        ranges[1] += 1
+                    elif set.rpe >= 8.5 and set.rpe < 9.5:
+                        ranges[2] += 1
+                    elif set.rpe >= 9.5:
+                        ranges[3] += 1
+        if sum(ranges) > 0:
+            arr.append([canonical_date(period), ranges])
+    return arr
+
+
 def lift_fatigue(iterator):
     arr = []
     for period in WeeklyIterator(sessions):
@@ -250,9 +270,10 @@ elif args.data == "all":
     repranges = lift_repranges(iterator)
     fatigue = lift_fatigue(iterator)
     wendler = lift_wendler(iterator)
+    rperanges = lift_rperanges(iterator)
 
     data = e1rm
-    for x in [volume, tonnage, repranges, fatigue, wendler]:
+    for x in [volume, tonnage, repranges, fatigue, wendler, rperanges]:
         data = zip_csv(data, x)
 
     # Before printing the CSV, output some variables for use by gnuplot
@@ -267,5 +288,9 @@ elif args.data == "all":
     print("#reprange8 = 8")
     print("#fatigue = 9")
     print("#wendler = 10")
+    print("#rperange7 = 11")
+    print("#rperange8 = 12")
+    print("#rperange9 = 13")
+    print("#rperange10 = 14")
 
 print_csv(data)
