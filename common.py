@@ -95,9 +95,15 @@ class Lift:
 
     # Get a list of non-warmup, actual training sets.
     def get_worksets(self):
-        # Only include the top 20% of weights.
+        # Lifts that track RPE track them for every set.
+        highrpe = filter(lambda x: x.rpe >= 7.0, self.sets)
+        if len(highrpe) > 0:
+            return highrpe
+
+        # If this is one of the earlier lifts that didn't track RPE,
+        # just take some of the heaviest sets of what's present.
         topweight = max([0] + list(map(lambda x: x.weight, self.sets)))
-        cutoff = topweight * 0.8
+        cutoff = topweight * 0.85
         return filter(lambda x: x.weight >= cutoff, self.sets)
 
     # TODO: Should trust higher RPEs more.
