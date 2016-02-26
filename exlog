@@ -2,6 +2,19 @@
 # vim: syntax=python ts=2 tw=79 et sw=2 sts=2:
 # license: CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
 
+2016-02-25 (Thursday) # Mom Appendix Surgery
+  weight: 201.0
+  high-bar squat:
+    45x10x2, 135, 225, 315x3, 365x3
+    405x5@6.5
+    405x6@(7,7.5,8,8.5,8,9) # 6-7m rest
+  press:
+    45x10x2, 95, 115, 135, 155x3, 175x1
+    190x1@6.5, 200x1@7, 210x1@8.5 # Big hip.
+    185x5@(7,7,8,8,8,8.5,7,8,8.5,9)
+  chins:
+    0x10@10, 0x6@8, 0x6@8.5
+
 2016-02-23 (Tuesday)
   weight: 199.4
   deadlift:
