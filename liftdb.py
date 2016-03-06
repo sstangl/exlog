@@ -155,7 +155,7 @@ liftdb = {
 }
 
 
-def __gettype(liftname):
+def gettype(liftname):
     # Remove some designations that don't matter for typing.
     liftname = liftname.replace('beltless','')
     liftname = liftname.replace('sleeveless','')
@@ -170,8 +170,8 @@ def __gettype(liftname):
 
 # Two lifts are related if fatigue has high carryover between them.
 def related(a, b):
-    atype = __gettype(a)
-    btype = __gettype(b)
+    atype = gettype(a)
+    btype = gettype(b)
     
     if atype == btype:
         return True
@@ -193,5 +193,5 @@ if __name__ == '__main__':
 
     for session in sessions:
         for lift in session.lifts:
-            if __gettype(lift.name) == None:
+            if gettype(lift.name) == None:
                 print("Missing: " + lift.name)
