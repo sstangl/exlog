@@ -130,6 +130,7 @@ liftdb = {
     "wide-grip pullups": LiftType.press,
 
     # Accessories that serve no direct main lift purpose.
+    "303 tempo preacher curl": LiftType.bro,
     "cable curl": LiftType.bro,
     "calf raise": LiftType.bro,
     "curl": LiftType.bro,
@@ -147,6 +148,7 @@ liftdb = {
     "zottman curl": LiftType.bro,
 
     # Accessories that are for conditioning.
+    "120bpm walking": LiftType.conditioning,
     "ab roller": LiftType.conditioning,
     "prowler": LiftType.conditioning,
     "rower": LiftType.conditioning,

@@ -2,6 +2,82 @@
 # vim: syntax=python ts=2 tw=79 et sw=2 sts=2:
 # license: CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
 
+2016-03-15 (Tuesday)
+  weight: 201.2
+  deadlift: # power bar
+    70kgx5x3, 120kg, 170kgx3, 200kgx1, 220kgx1
+    240kgx1@7
+    225kgx3@6.5, 230kgx3@(7.5,7.5,8,8.5)
+  press:
+    45x10x2, 95, 115, 135, 155x3, 175x1
+    190x4@7, 200x4@8, 207.5x4@8.5
+    200x4@(8,8.5,9)
+
+2016-03-14 (Monday)
+  squat: # Widened stance a bit to look more like SS form -- not quite, though.
+    45x10x2, 135x5x2, 225, 315x3, 405x1, 455x1, 495x1 # Slow & quadded.
+    535x1@7 # Right knee pain. Argh!
+    505x3@(7.5,7,7.5,7.5,8,9) # Pretty slow. 10m first 3, 5m second 3.
+  paused bench:
+    45x10x2, 135, 185, 225, 275x3, 315x1, 335x1
+    355x1@7.5 # Maybe a 7?
+    335x3@6, 345x3@(7,8,8,8.5,9)
+
+2016-03-12 (Saturday)
+  paused close-grip floor press:
+    45x10x2, 135x8, 185x8
+    225x8@6, 235x8@(7,7.5,8,8,9) # 5m rest.
+  lat pulldown:
+    125x12x3 # Soreness on Sunday, but fine for Monday.
+  lying tricep extension:
+    10+50x12x3 # ~5RPE. No interference this time.
+
+2016-03-11 (Friday)
+  3-inch deficit deadlift beltless:
+    135x5x2, 225, 315x3, 365x2
+    385x6@6, 405x6@6, 425x6@(7,7.5,8,8.5) # Mostly tough on mid-back. Held up.
+  bench:
+    45x10x2, 135, 185, 225, 275x3, 315x3 # Left pec tight at bottom.
+    330x6@(8.5,9)
+    315x6@(8.5,9) # Right shoulder.
+  303 tempo leg press:
+    90x8, 180x8@(8,7), 230x8@(7,9) # Right patella tendon pain.
+
+2016-03-10 (Thursday) # Forgot Rehbands.
+  press:
+    45x10x2, 95, 115, 135, 155x3, 175x1, 185x1
+    190x5@6.5, 196x5@8, 202.5x5@9
+    196x5@8.5, 190x5@(8,8.5,8,9) # 5m rest.
+  squat w/wraps: # not particularly tight
+    45x10x2, 135, 225, 315x3, 405x1
+    465x6@(7.5,7,8) # 10m rest.
+    # Very hard on lower back above hip, esp. right side.
+    # Stopping early to not KO back. RPE looks low but it's very difficult!
+
+2016-03-08 (Tuesday) # Tired hamstrings.
+  weight: 202.6
+  deadlift: # power bar
+    70kgx5x2, 120kg, 170kgx3, 200kgx1
+    210kgx5@7.5, 215kgx5@7.5, 220kgx5@9
+    215kgx5@9.5, 210kgx5@9 # Tough on hamstrings & grip.
+  press:
+    45x10x2, 95, 115, 135, 155x3, 175x2
+    185x6@(7,8,8.5,9) # ~5m rest. Tired triceps.
+
+2016-03-07 (Monday) # Right knee tendinitis.
+  squat:
+    45x10x2, 135, 225, 315x3, 405x1, 455x1 # No heavy single to avoid knee pain.
+    465x5@7, 480x5@7.5, 495x5@9 # 4th rep much faster than 5th.
+    480x5@(8,9), 465x5@8.5 # Spine mid-back getting pinched a little now and then, scary.
+  paused bench:
+    45x10x2, 135, 185, 225, 275x3 # Left pec hurts at bottom for some reason.
+    310x5@7, 320x5@8, 330x5@9.5 # Legit pauses.
+    320x5@8.5, 310x5@(8,9.5) # Good form, keeping shoulders closer to toes.
+                             # Left collarbone tendons feel ultra-fatigued.
+                             # And too much rest! 8-10.
+  face pull:
+    32.5x20x3
+
 2016-03-05 (Saturday) # Not eating enough? Triceps very sore.
   weight: 201.8
   paused close-grip floor press:
