@@ -147,7 +147,7 @@ def parse(filename):
             if name == "weight":
                 maybeweight = line.split(':')[1].strip()
                 if maybeweight:
-                    session.setbodyweight(float(maybeweight))
+                    session.setbodyweight(weight2float(maybeweight))
 
             # The earliest entries do some jogging for warmup.
             elif name == "warmup":
