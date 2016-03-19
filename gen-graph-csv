@@ -16,7 +16,7 @@ parser.add_argument('-l', '--lift', help='specific lift on which to filter')
 parser.add_argument('period', help='take from specified time period',
                     choices=['daily', 'weekly'])
 parser.add_argument('data', help='output this on the y-axis',
-                    choices=['e1rm', 'volume', 'tonnage', 'fatigue', 'repranges', 'wendler', 'typevolume', 'all'])
+                    choices=['e1rm', 'volume', 'tonnage', 'fatigue', 'repranges', 'wendler', 'typevolume', 'bodyweight', 'all'])
 parser.add_argument('-i', '--include-related', help='include related lifts in calculations',
                     action="store_true")
 args = parser.parse_args()
@@ -216,6 +216,16 @@ def lift_typevolume(iterator):
     return arr
 
 
+def bodyweight(iterator):
+    arr = []
+    for period in iterator(sessions):
+        weights = list(filter(lambda x: x > 0, [session.bodyweight for session in period]))
+        if len(weights) > 0:
+            average = sum(weights)/len(weights)
+            arr.append([canonical_date(period), average])
+    return arr
+
+
 #####################################################################
 
 
@@ -280,6 +290,8 @@ elif args.data == "fatigue":
     data = lift_fatigue(iterator)
 elif args.data == "typevolume":
     data = lift_typevolume(iterator)
+elif args.data == "bodyweight":
+    data = bodyweight(iterator)
 
 # Dump all of the data into one big CSV file, one column per datum.
 elif args.data == "all":
