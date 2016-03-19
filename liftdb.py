@@ -54,7 +54,8 @@ liftdb = {
     # Accessories primarily affecting deadlift.
     "1-inch deficit deadlift": LiftType.deadlift,
     "1.5-inch deficit deadlift": LiftType.deadlift,
-    "2-count paused deadlift": LiftType.deadlift,
+    "2-count paused-off-floor deadlift": LiftType.deadlift,
+    "2-count paused-at-knees deadlift": LiftType.deadlift,
     "2-inch deficit deadlift": LiftType.deadlift,
     "2-inch deficit sldl": LiftType.deadlift,
     "3-inch deficit deadlift": LiftType.deadlift,

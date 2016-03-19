@@ -540,7 +540,7 @@
     335x1@8, 315x4@(9,9,10) # Long pause on 4r last set.
 
 2016-01-01 (Friday) # Not so good, compare to 11-27.
-  2-count paused deadlift beltless:
+  2-count paused-off-floor deadlift beltless:
     70kgx5x2, 120kg, 170kgx3
     180kgx3@6.5, 200kgx3@7, 210kgx3@8, 220kgx3@(9,9.5)
     # Lower back rounding maybe. Cut one set to avoid injury. Overextension?
@@ -587,7 +587,7 @@
     295x3@7, 310x3@8, 325x3@(9,9.5,10)
 
 2015-12-24 (Thursday) # 24HR in NY, early morning, no coffee
-  2-count paused deadlift: # w/straps because 24hr knurling
+  2-count paused-off-floor deadlift: # w/straps because 24hr knurling
     135x5x2, 225, 315x3, 405x1
     425x5@9 # Way down (should have been @7), because have to chase bar between each rep.
     425x5@(9.5,10) # Left side of back hurt from bar bouncing around at bottom. Feels tight.
@@ -735,7 +735,7 @@
     90, 135x3, 180x3@8, 205x3@(9,8), 215x3@10 # Pretty cheated.
 
 2015-11-27 (Friday)
-  2-count paused deadlift:
+  2-count paused-off-floor deadlift:
     70kgx5x3, 120kg, 150kgx3, 170kgx2, 200kgx1 # Pretty tough on lower back.
     221kgx4@(9.5,10,10) # Lower back is not the happiest. Straps on 3s.
                         # Ankaŭ, mi estas malfeliĉa pro nenia kialo.
@@ -782,7 +782,7 @@
     180x4@7.5, 190x4@8.5, 200x4@(9,10)
 
 2015-11-20 (Friday)
-  2-count paused deadlift:
+  2-count paused-off-floor deadlift:
     70kgx5x2, 120kg, 150kgx3, 170kgx2, 200kgx1
     215kgx5@(9,9.5,10)
   pendlay row:
@@ -871,7 +871,7 @@
     135x7@6, 155x6@7.5, 160x7@8, 165x7@(9,9) # A little crampy in pecs.
 
 2015-11-06 (Friday)
-  2-count paused deadlift beltless:
+  2-count paused-off-floor deadlift beltless:
     70kgx5x2, 120kgx4, 170kgx2, 200kgx1, 220kgx1
     235kgx1@8, 220kgx4@(8.5,10,9) # Grip problem 2s. Straps 3s.
   close-grip bench:
@@ -1427,7 +1427,7 @@
   2-count paused bench:
     45x10x2, 135, 185, 225x3, 255x1, 275x1
     295x4@(7,8,8,8.5,9) # 1s paused too short.
-  2-count paused deadlift:
+  2-count paused-off-floor deadlift:
     70kgx5x2, 120kg, 170kgx1, 190kgx1
     205kgx4@(7.5,8,9,9,9.5) # 4 hours!
 
@@ -1471,7 +1471,7 @@
     20kgx10x2, 70kg, 90kg, 110kgx3, 130kgx1
     137.5kgx4@7
     145kgx4@(8,9,9.5,10)
-  2-count paused deadlift beltless:
+  2-count paused-off-floor deadlift beltless:
     70kgx5x2, 120kg, 160kgx4, 190kgx4@6
     200kgx4@7, 210kgx4@8.5
     205kgx4@(8.5,8.5,9)
@@ -1881,7 +1881,7 @@
   paused bench:
     45x10x2, 135, 185, 225x3, 255x1
     275x5@(6.5,6,6) # Too light?
-  2-count paused beltless deadlift:
+  2-count paused-off-floor deadlift beltless:
     70kgx5x2, 120kg, 180kgx5@(7.5,6.5)
   preacher curl:
     15+40x12x4 # Slow. Tough. On purpose.
@@ -2010,7 +2010,7 @@
   close-grip bench:
     20kgx10x2, 70kg, 90kgx3, 100kgx1, 120kgx1
     137.5kgx5@(8.5,9,9.5,10) # ~5 min rest.
-  2-count paused deadlift:
+  2-count paused-off-floor deadlift:
     70kg, 120kgx4, 170kgx2
     202.5kgx4@(9,8,9) # Should have been tomorrow.
 
@@ -2274,7 +2274,7 @@
 
 2015-05-29 (Friday)
   weight: 196.0
-  2-count beltless paused deadlift:
+  2-count paused-off-floor deadlift beltless:
     70kgx5x2, 120kg, 170kgx5@6
     190kgx5@7
     205kgx5@8.5
@@ -2509,7 +2509,7 @@
     330x2@(8,8.5)
     325x1@8.5
     320x1@8 # But tough on shoulders.
-  beltless paused deadlift:
+  2-count paused-off-floor deadlift beltless:
     135, 225, 315x3, 405x3@5
     455x3@7, 475x3@8, 495x3@9
     475x3@9 # Fucked up callouses. Very tough on lower + mid back.
