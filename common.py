@@ -21,9 +21,10 @@ PercentageTable = [
 ]
 
 
-def percentage(reps, rpe):
-    # Too many reps to accurately predict RPE or E1RM.
-    if reps > 12:
+# Not used, but kept around for future error checking.
+def percentage_tabular(reps, rpe):
+    # Insufficient reps to accurately predict RPE or E1RM.
+    if reps > 12 or reps < 1:
         return 0.0
 
     if rpe == 10.0: return PercentageTable[reps - 1][0]
@@ -36,6 +37,45 @@ def percentage(reps, rpe):
     if rpe == 6.5:  return PercentageTable[reps - 1][7]
     if rpe == 6.0:  return PercentageTable[reps - 1][8]
     return 0.0
+
+
+# This is the above chart expressed as a piecewise function.
+# This enables using a larger set of real numbers for RPEs, like 8.75.
+def percentage(reps, rpe):
+    # No prediction if failure occurred, or if RPE is unreasonably low.
+    if reps < 1 or rpe < 4:
+        return 0
+
+    # Handle the obvious case early to avoid error margins.
+    if reps == 1 and rpe == 10:
+        return 100
+
+    # x is defined such that 1@10 = 0, 1@9 = 1, 1@8 = 2, etc.
+    # By definition of RPE, then also:
+    #  2@10 = 1@9 = 1
+    #  3@10 = 2@9 = 1@8 = 2
+    # And so on. That pattern gives the equation below.
+    x = (10 + (reps - 1)) - rpe
+
+    # The logic breaks down for super-high numbers,
+    # and it's too hard to extrapolate an E1RM from super-high-rep sets anyway.
+    if x >= 16:
+        return 0
+
+    intersection = 2.92
+
+    # The highest values follow a quadratic.
+    # Parameters were resolved via GNUPlot and match extremely closely.
+    if x <= intersection:
+        a = 0.347619
+        b = -4.60714
+        c = 99.9667
+        return a*x*x + b*x + c
+
+    # Otherwise it's just a line, since Tuchscherer just guessed.
+    m = -2.64249
+    b = 97.0955
+    return m*x + b
 
 
 def calc_weight(e1rm, reps, rpe):
