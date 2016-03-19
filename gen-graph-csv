@@ -12,7 +12,7 @@ from common import *
 
 # Parse arguments.
 parser = argparse.ArgumentParser()
-parser.add_argument('lift')
+parser.add_argument('-l', '--lift', help='specific lift on which to filter')
 parser.add_argument('period', help='take from specified time period',
                     choices=['daily', 'weekly'])
 parser.add_argument('data', help='output this on the y-axis',
@@ -27,6 +27,8 @@ args = parser.parse_args()
 
 # Whether the lift matches the script arguments. Used for filtering.
 def liftmatches(lift):
+    if not args.lift:
+        return True
     if args.include_related and liftdb.related(args.lift, lift.name):
         return True
     return args.lift == lift.name

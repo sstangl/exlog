@@ -3,24 +3,24 @@ CSVDIR = csv-data
 all: csv csv-related graphs
 
 csv: $(CSVDIR) exlog
-	./gen-graph-csv squat daily all > $(CSVDIR)/squat-daily.csv
-	./gen-graph-csv deadlift daily all > $(CSVDIR)/deadlift-daily.csv
-	./gen-graph-csv press daily all > $(CSVDIR)/press-daily.csv
-	./gen-graph-csv "paused bench" daily all > $(CSVDIR)/pbench-daily.csv
-	./gen-graph-csv squat weekly all > $(CSVDIR)/squat-weekly.csv
-	./gen-graph-csv deadlift weekly all > $(CSVDIR)/deadlift-weekly.csv
-	./gen-graph-csv press weekly all > $(CSVDIR)/press-weekly.csv
-	./gen-graph-csv "paused bench" weekly all > $(CSVDIR)/pbench-weekly.csv
+	./gen-graph-csv daily all -l squat > $(CSVDIR)/squat-daily.csv
+	./gen-graph-csv daily all -l deadlift > $(CSVDIR)/deadlift-daily.csv
+	./gen-graph-csv daily all -l press > $(CSVDIR)/press-daily.csv
+	./gen-graph-csv daily all -l "paused bench" > $(CSVDIR)/pbench-daily.csv
+	./gen-graph-csv weekly all -l squat > $(CSVDIR)/squat-weekly.csv
+	./gen-graph-csv weekly all -l deadlift > $(CSVDIR)/deadlift-weekly.csv
+	./gen-graph-csv weekly all -l press > $(CSVDIR)/press-weekly.csv
+	./gen-graph-csv weekly all -l "paused bench" > $(CSVDIR)/pbench-weekly.csv
 
 csv-related: $(CSVDIR) exlog
-	./gen-graph-csv -i squat daily all > $(CSVDIR)/squat-related-daily.csv
-	./gen-graph-csv -i deadlift daily all > $(CSVDIR)/deadlift-related-daily.csv
-	./gen-graph-csv -i press daily all > $(CSVDIR)/press-related-daily.csv
-	./gen-graph-csv -i "paused bench" daily all > $(CSVDIR)/pbench-related-daily.csv
-	./gen-graph-csv -i squat weekly all > $(CSVDIR)/squat-related-weekly.csv
-	./gen-graph-csv -i deadlift weekly all > $(CSVDIR)/deadlift-related-weekly.csv
-	./gen-graph-csv -i press weekly all > $(CSVDIR)/press-related-weekly.csv
-	./gen-graph-csv -i "paused bench" weekly all > $(CSVDIR)/pbench-related-weekly.csv
+	./gen-graph-csv daily all -i -l squat > $(CSVDIR)/squat-related-daily.csv
+	./gen-graph-csv daily all -i -l deadlift > $(CSVDIR)/deadlift-related-daily.csv
+	./gen-graph-csv daily all -i -l press > $(CSVDIR)/press-related-daily.csv
+	./gen-graph-csv daily all -i -l "paused bench" > $(CSVDIR)/pbench-related-daily.csv
+	./gen-graph-csv weekly all -i -l squat > $(CSVDIR)/squat-related-weekly.csv
+	./gen-graph-csv weekly all -i -l deadlift > $(CSVDIR)/deadlift-related-weekly.csv
+	./gen-graph-csv weekly all -i -l press > $(CSVDIR)/press-related-weekly.csv
+	./gen-graph-csv weekly all -i -l "paused bench" > $(CSVDIR)/pbench-related-weekly.csv
 
 $(CSVDIR):
 	mkdir $(CSVDIR)
