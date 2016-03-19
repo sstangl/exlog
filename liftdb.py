@@ -49,6 +49,7 @@ liftdb = {
     "paused squat": LiftType.squat,
     "pin squat": LiftType.squat,
     "safety bar squat": LiftType.squat,
+    "snatch balance": LiftType.squat,
     "squat w/wraps": LiftType.squat,
 
     # Accessories primarily affecting deadlift.
@@ -74,6 +75,7 @@ liftdb = {
     "paused deadlift": LiftType.deadlift,
     "pendlay row": LiftType.deadlift,
     "power clean": LiftType.deadlift,
+    "power shrug": LiftType.deadlift,
     "power snatch": LiftType.deadlift,
     "rack pull": LiftType.deadlift,
     "romanian deadlift": LiftType.deadlift,
