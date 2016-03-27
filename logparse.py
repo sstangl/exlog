@@ -93,6 +93,8 @@ def makesets(text):
                 if '@' in reps:
                     [reps, rpe] = reps.split('@')
 
+                if reps == '':
+                    reps = 0
                 sets.append(Set(float(weight), int(reps), float(rpe), failure))
             return sets
 

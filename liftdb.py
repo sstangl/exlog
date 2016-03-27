@@ -70,6 +70,7 @@ liftdb = {
     "deficit deadlift": LiftType.deadlift,
     "fat bar deadlift": LiftType.deadlift,
     "ghr": LiftType.deadlift,
+    "halting deadlift": LiftType.deadlift,
     "leg curl": LiftType.deadlift,
     "high pull": LiftType.deadlift,
     "paused deadlift": LiftType.deadlift,
