@@ -37,6 +37,7 @@ liftdb = {
     "2-count squat paused at sticking point": LiftType.squat,
     "303 tempo leg press": LiftType.squat,
     "303 tempo squat": LiftType.squat,
+    "bottom-2/3rd squat": LiftType.squat,
     "chain squat": LiftType.squat,
     "db lunges": LiftType.squat,
     "leg extension": LiftType.squat,
@@ -121,6 +122,7 @@ liftdb = {
     "wide-grip bench": LiftType.bench,
 
     # Accessories primarily affecting press.
+    "band pulldown": LiftType.press,
     "db incline bench": LiftType.press,
     "db press": LiftType.press,
     "dips": LiftType.press,
