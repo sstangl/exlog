@@ -125,6 +125,7 @@ liftdb = {
     "db press": LiftType.press,
     "dips": LiftType.press,
     "french press": LiftType.press,
+    "paused halting press": LiftType.press,
     "klokov press": LiftType.press,
     "medial delt raise": LiftType.press,
     "pullups": LiftType.press,
