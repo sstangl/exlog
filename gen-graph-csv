@@ -16,7 +16,7 @@ parser.add_argument('-l', '--lift', help='specific lift on which to filter')
 parser.add_argument('period', help='take from specified time period',
                     choices=['daily', 'weekly'])
 parser.add_argument('data', help='output this on the y-axis',
-                    choices=['e1rm', 'volume', 'tonnage', 'fatigue', 'repranges', 'wendler', 'typevolume', 'bodyweight', 'all'])
+                    choices=['e1rm', 'volume', 'tonnage', 'fatigue', 'repranges', 'epley', 'typevolume', 'bodyweight', 'all'])
 parser.add_argument('-i', '--include-related', help='include related lifts in calculations',
                     action="store_true")
 args = parser.parse_args()
@@ -192,12 +192,12 @@ def lift_fatigue(iterator):
     return arr
 
 
-def lift_wendler(iterator):
+def lift_epley(iterator):
     arr = []
     for period in iterator(sessions):
-        wendler = max([0] + list(map(lambda x: x.wendler(liftmatches), period)))
-        if wendler > 0:
-            arr.append([canonical_date(period), wendler])
+        epley = max([0] + list(map(lambda x: x.epley(liftmatches), period)))
+        if epley > 0:
+            arr.append([canonical_date(period), epley])
     return arr
 
 
@@ -300,12 +300,12 @@ elif args.data == "all":
     tonnage = lift_tonnage(iterator)
     repranges = lift_repranges(iterator)
     fatigue = lift_fatigue(iterator)
-    wendler = lift_wendler(iterator)
+    epley = lift_epley(iterator)
     rperanges = lift_rperanges(iterator)
     typevolume = lift_typevolume(iterator)
 
     data = e1rm
-    for x in [volume, tonnage, repranges, fatigue, wendler, rperanges, typevolume]:
+    for x in [volume, tonnage, repranges, fatigue, epley, rperanges, typevolume]:
         data = zip_csv(data, x)
 
     # Before printing the CSV, output some variables for use by gnuplot
@@ -319,7 +319,7 @@ elif args.data == "all":
     print("#reprange5 = 7")
     print("#reprange8 = 8")
     print("#fatigue = 9")
-    print("#wendler = 10")
+    print("#epley = 10")
     print("#rperange7 = 11")
     print("#rperange8 = 12")
     print("#rperange9 = 13")

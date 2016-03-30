@@ -176,4 +176,4 @@ if __name__ == '__main__':
 
     for session in exlog:
         for lift in session.lifts:
-            print(lift.name + " " + str(lift.e1rm() or lift.wendler()))
+            print(lift.name + " " + str(lift.e1rm() or lift.epley()))

@@ -109,8 +109,8 @@ class Set:
         # If RPEs are missing or the chart is inadequate, don't mislead.
         return 0.0
 
-    # For cases that the RPE chart doesn't cover, we have the Wendler formula.
-    def wendler(self):
+    # For cases that the RPE chart doesn't cover, we have the Epley formula.
+    def epley(self):
         if self.reps == 0:
             return 0.0
         if self.reps == 1:
@@ -150,8 +150,8 @@ class Lift:
     def e1rm(self):
         return max([0] + list(map(lambda x: x.e1rm(), self.get_worksets())))
 
-    def wendler(self):
-        return max([0] + list(map(lambda x: x.wendler(), self.get_worksets())))
+    def epley(self):
+        return max([0] + list(map(lambda x: x.epley(), self.get_worksets())))
 
     def volume(self):
         return sum(map(lambda x: x.reps, self.get_worksets()))
@@ -188,9 +188,9 @@ class TrainingSession:
         lifts = filter(matchfn, self.lifts)
         return max([0] + list(map(Lift.e1rm, lifts)))
 
-    def wendler(self, matchfn):
+    def epley(self, matchfn):
         lifts = filter(matchfn, self.lifts)
-        return max([0] + list(map(Lift.wendler, lifts)))
+        return max([0] + list(map(Lift.epley, lifts)))
 
     def volume(self, matchfn):
         lifts = filter(matchfn, self.lifts)
