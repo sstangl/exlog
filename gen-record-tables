@@ -5,6 +5,7 @@
 
 import logparse
 from common import *
+import sys
 
 sessions = logparse.parse("exlog")
 
@@ -24,7 +25,11 @@ rpe_idx = 1
 date_idx = 2
 
 # List of lifts tracked.
-lifts = ["squat", "paused bench", "press", "deadlift"]
+if len(sys.argv) == 1:
+    lifts = ["squat", "paused bench", "press", "deadlift"]
+else:
+    lifts = sys.argv[1:]
+
 records = [make_initial_records() for x in lifts]
 
 def maybe_update_record(session, lift, set):
