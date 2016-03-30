@@ -1,8 +1,8 @@
 CSVDIR = csv-data
 
-all: csv-main csv-related graphs
+all: csv graphs
 
-csv: csv-main csv-related csv-misc
+csv: csv-main csv-accessory csv-related csv-misc
 
 csv-main: $(CSVDIR) exlog
 	./gen-graph-csv daily all -l squat > $(CSVDIR)/squat-daily.csv
@@ -13,6 +13,10 @@ csv-main: $(CSVDIR) exlog
 	./gen-graph-csv weekly all -l deadlift > $(CSVDIR)/deadlift-weekly.csv
 	./gen-graph-csv weekly all -l press > $(CSVDIR)/press-weekly.csv
 	./gen-graph-csv weekly all -l "paused bench" > $(CSVDIR)/pbench-weekly.csv
+
+csv-accessory: $(CSVDIR) exlog
+	./gen-graph-csv daily all -l bench > $(CSVDIR)/tngbench-daily.csv
+	./gen-graph-csv weekly all -l bench > $(CSVDIR)/tngbench-weekly.csv
 
 csv-related: $(CSVDIR) exlog
 	./gen-graph-csv daily all -i -l squat > $(CSVDIR)/squat-related-daily.csv
