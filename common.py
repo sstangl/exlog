@@ -55,7 +55,7 @@ def percentage(reps, rpe):
     #  2@10 = 1@9 = 1
     #  3@10 = 2@9 = 1@8 = 2
     # And so on. That pattern gives the equation below.
-    x = (10 + (reps - 1)) - rpe
+    x = (10 - rpe) + (reps - 1)
 
     # The logic breaks down for super-high numbers,
     # and it's too hard to extrapolate an E1RM from super-high-rep sets anyway.
