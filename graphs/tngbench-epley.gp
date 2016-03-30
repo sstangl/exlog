@@ -9,7 +9,7 @@ set style fill solid 0.25 border
 
 set y2tics
 
-set title "Press Epley"
+set title "TnG Bench Epley"
 
 plot \
      csvdir."tngbench-weekly.csv" using date:epley with lines ls 1 title "tng bench week epley",\
