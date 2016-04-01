@@ -1521,7 +1521,7 @@
 
 2015-08-26 (Wednesday)
   stationary bike:
-    0x7 # 20:140, same resistance as last week
+    0x7 # 20:100, same resistance as last week
 
 2015-08-25 (Tuesday)
   weight: 195.8
@@ -1583,7 +1583,7 @@
 
 2015-08-19 (Wednesday)
   stationary bike:
-    0x6 # 20:140. 2 turns from max resistance. Hitting quad failure.
+    0x6 # 20:100. 2 turns from max resistance. Hitting quad failure.
 
 2015-08-18 (Tuesday)
   paused bench:
@@ -2760,7 +2760,7 @@
   chins:
     0x40 # in 8 minutes, in sets of 5.
   prowler:
-    370x6 # 20:140, in 14 minutes. Distance takes 12-15s if trying.
+    370x6 # 20:100, in 14 minutes. Distance takes 12-15s if trying.
 
 2015-04-28 (Tuesday)
   deadlift:
@@ -2808,7 +2808,7 @@
   chest-supported row:
     115x55 # in 8 minutes
   prowler: # indoors!
-    370x6 # 20:140 in 14, most 15s.
+    370x6 # 20:100 in 14, most 15s.
 
 2015-04-24 (Friday)
   weight: 196.2
@@ -2862,7 +2862,7 @@
   chins:
     0x39 # in 8 minutes
   prowler:
-    290x6 # 20:140 in 14 minutes, last sprint in 12s. Zero death.
+    290x6 # 20:100 in 14 minutes, last sprint in 12s. Zero death.
 
 2015-04-21 (Tuesday)
   deadlift:
@@ -2916,7 +2916,7 @@
   lat pulldown:
     140x55 # in 8 minutes.
   prowler:
-    280x6 # 20:140. Fast (15s usually) but tiring. Need to go longer distance.
+    280x6 # 20:100. Fast (15s usually) but tiring. Need to go longer distance.
 
 2015-04-17 (Friday)
   weight: 195.2
@@ -2965,7 +2965,7 @@
   chins:
     0x43 # in 8 minutes, mostly in 5s (last one 3)
   prowler:
-    270x6 # 20:140. Tiring.
+    270x6 # 20:100. Tiring.
 
 2015-04-14 (Tuesday)
   weight: 195.0
@@ -3020,7 +3020,7 @@
   lat pulldown:
     125x62 # in 8 minutes.
   prowler:
-    220x6 # 20:140. Went faster. A little tough. Too little weight.
+    220x6 # 20:100. Went faster. A little tough. Too little weight.
   # No arms -- biceps & brachioradiales & inner elbows hurt. Neck too.
 
 2015-04-10 (Friday)
@@ -3071,7 +3071,7 @@
   chins:
     0x40 # in 8 minutes. Right posterior delt hurts.
   rower:
-    8x6 # 20:140. Tough. Legs got tired.
+    8x6 # 20:100. Tough. Legs got tired.
   curl:
     80x46 # in 8 minutes.
   french press:
@@ -3122,7 +3122,7 @@
   lat pulldown:
     115x80 # in 8 minutes, not particularly strict
   prowler:
-    300x6 # 20:140 in 14 minutes. Last one sprinted in 10s.
+    300x6 # 20:100 in 14 minutes. Last one sprinted in 10s.
           # Others were walks -- not tiring, much less death than normal.
   curl:
     75x58 # in 8 minutes.
@@ -3185,7 +3185,7 @@
   chins:
     0x40 # in 8 minutes, 10 in first set, rest in triples or so.
   prowler:
-    290x6 # 20:140. Last in 15s. Uh, tough.
+    290x6 # 20:100. Last in 15s. Uh, tough.
   curl:
     75x50 # Death, mostly in anterior delt.
   french press:
@@ -3249,7 +3249,7 @@
   lat pulldown:
     105x84 # in 8 minutes
   prowler:
-    280x6 # 20:140 in 14 minutes. Tough. Last one took a lot out of me.
+    280x6 # 20:100 in 14 minutes. Tough. Last one took a lot out of me.
     # Hitting distance in ~15s.
   cable curl:
     45x66 # in 8 minutes.
@@ -3279,7 +3279,7 @@
   chins:
     0x41 # in 8 minutes, mostly in triples.
   prowler:
-    270x6 # 20:140 in 14 minutes. Last set sprinted full distance in 12s.
+    270x6 # 20:100 in 14 minutes. Last set sprinted full distance in 12s.
   cable curl:
     45x70 # in 8 minutes.
   french press:
@@ -3327,6 +3327,276 @@
 ###############################################
 # TODO: DATA STILL NEEDS TO BE ENTERED HERE
 ###############################################
+
+2014-08-05 (Tuesday)
+  weight: 201.8
+  press:
+    45x10x2, 95, 115, 135, 155x3, 175x1, 185x1
+    190x5x3 # Tough. Zero knee bend.
+  chins:
+    0x5x3
+
+2014-08-04 (Monday)
+  weight: 201.8
+  squat:
+    45x10x2, 135, 225, 275x3, 315x3, 365x2, 405x1, 455x1
+    480x5x5
+  ghr:
+    0x10x3 # Tiring.
+
+2014-08-03 (Sunday) # Men BBBC Meet (Helping)
+  weight: 203.0
+  bench:
+    45x10x2, 135, 185, 225x3, 265x1, 295x1
+    307.5x5x3 # With shoulder pain from Thursday.
+              # Failed 3s: too much pain and too late in the day. Very tired.
+
+2014-08-02 (Saturday) # SARAH BBBC MEET!
+  rower:
+    7x7 # 20:100 solid effort on first 5.
+  # Messed up diet during meet + dinner out.
+
+2014-08-01 (Friday) # Brandon Lilly Watching For Some Reason
+  weight: 201.8
+  squat:
+    45x10x2, 135, 225, 275x3, 315x3, 365x2, 405x1, 445x1, 475x1
+    510x5
+  deadlift:
+    135, 225, 315x3, 365x1, 405x1
+    460x5 # ~30s between reps, so not really one set.
+
+2014-07-31 (Thursday)
+  weight: 202.4
+  bench:
+    45x10x2, 135, 185, 225x3, 265x1, 295x1
+    337.5x3x3 # Rapid falloff in each set: first 2 reps strong, 3r very slow & grindy.
+              # Right shoulder pain -> from internal rotation mid-rep.
+
+2014-07-30 (Wednesday)
+  front squat:
+    45x5x2, 135, 185, 225
+    275x5x3 # Tough on upper back.
+  rower:
+    7x7 # 20:100 easy. Solid effort on first 4.
+  ghr:
+    0x10x3
+
+2014-07-29 (Tuesday)
+  weight: 202.4
+  press:
+    45x10x2, 95, 115, 135, 155x3, 175x1
+    189.0x5x3
+    140x10x5
+  curl:
+    45x10, 77.5x8x3
+
+2014-07-28 (Monday) # Squat Texas Method Start
+  squat:
+    45x10x2, 135, 225, 275x3, 315x1, 365x1, 405x1, 455x1
+    475x5x5 # Tough. Intense depression. Kept cervical spine neutral:
+            # stayed in hips more. Smoother.
+
+2014-07-27 (Sunday)
+  weight: 202.0
+  bench:
+    45x10x2, 135, 185, 225x3, 265x1, 295x1
+    305x5x5
+  pendlay row:
+    135, 185x3
+    215x5x3
+
+2014-07-26 (Saturday)
+  weight: 203.0
+  rower:
+    7x7 # 20:100. 5m warmup, 10m cooldown.
+
+2014-07-25 (Friday)
+  weight: 203.2
+  squat:
+    45x10x2, 135, 225, 275x3, 315x1, 365x1, 405x1, 455x1
+    505x5x3 # Obviously challenging but not too bad. Maybe even 515x5 in me.
+  deadlift:
+    225, 315x3, 365x1, 405x1
+    455x5 # Tough. Done as 3,1,1.
+
+2014-07-24 (Thursday)
+  weight: 202.4
+  bench:
+    45x10x2, 135, 185, 205, 225x3, 255x1, 275x1, 305x1
+    335x3x3 # Controlled. Not harder than last week's.
+  lying tricep extension:
+    65x10, 105x10x5 # I like sets across more.
+  curl:
+    45x10, 75x8x3
+  reverse curl:
+    45x10x3
+
+2014-07-23 (Wednesday)
+  weight: 202.4
+  squat:
+    45x10x2, 135, 225, 275x3, 315x3, 365x2
+    405x5x2 # Difficulty felt like 500. Phew!
+  rower:
+    7x7 # 20:100. 5m warmup, 10m cooldown.
+
+2014-07-22 (Tuesday)
+  weight: 202.4
+  press:
+    45x10x2, 95, 115, 135, 155x3, 175x1
+    188.0x5x3 # 1s again tough but strict. 2s much better.
+    135x10x5
+  curl:
+    45x8, 65x6, 75x8x3
+  reverse curl:
+    45x10x3 # Pulling on one vertebra.
+
+2014-07-21 (Monday)
+  weight: 201.2
+  squat:
+    45x10x2, 135, 225, 275x3, 315x3, 365x2, 405x1, 455x1
+    500x5x3 # 3rd set GREAT! Bouncy, energetic. 20m rest.
+  romanian deadlift:
+    135, 225, 315x3
+    345x6x3 # Too much lumbar rounding.
+
+2014-07-20 (Sunday)
+  bench:
+    45x10x2, 135, 185, 205, 225x3, 265x1, 295x1
+    302.5x5x5
+  pendlay row:
+    135, 185x3
+    210x5x3
+
+2014-07-18 (Friday)
+  weight: 204.6
+  squat:
+    45x10x2, 135, 225, 275x3, 315x3, 365x2, 405x1, 455x1
+    495x5x3 # 1s tough, 2s better, 3s same. Feels more like a conditioning struggle
+            # just holding the damn thing.
+  deadlift:
+    135, 225, 315x3, 365x1, 405x1
+    450x5 # Solid.
+
+2014-07-17 (Thursday)
+  weight: 204.0
+  bench:
+    45x10x2, 135, 185, 205, 225x3, 265x1, 295x1
+    332.5x3x3 # 1s very slow but controlled. 2s much faster. Better legs.
+              # 3s good but 2r bad pathing and hit too low.
+  lying tricep extension:
+    47.5x10x2 # Sarah's weight
+    105x10x3, 115x10@10 # Last rep benched. Too tired!
+  lateral raise:
+    15x10x3 # Killing traps.
+
+# Started working with Jordan Feigenbaum for nutrition.
+
+2014-07-16 (Wednesday) # Spine Hurting
+  squat:
+    45x10x2, 135, 225, 275x3, 315x3, 365x1, 405x1, 455x1
+    490x5x3 # Tough all-around.
+  ghr:
+    0x10x5 # Probably should add weight.
+
+2014-07-15 (Tuesday) # Energized Press
+  weight: 205.5
+  press:
+    45x10x2, 95, 115, 135, 155x3, 175x1
+    186.0x5x3 # Trying out new form with shoulders in external rotation,
+              # cued by touching adam's apple with bar at bottom.
+              # 1s tough, but very strict. 3s great. Ultra-strict. Good weight.
+    135x10x5 # No bounce. Ultra-strict. 5-7 min rest. To end.
+
+# Plan for press is to reset again given the new environment of BBBC
+# and progress 5s and 3s indepedently, with microloading and Joker sets.
+
+2014-07-14 (Monday) # VERY TIRED
+  weight: 204.4
+  squat:
+    45x10x2, 135, 225, 275x3, 315x3, 365x2, 405x1, 445x1
+    485x5x3 # Tough. Very tired. Not grindy, though.
+  # Injured spine at this point by elongating while rolling.
+  # Fixed hours later by hanging from a bar in the garage and twisting.
+  romanian deadlift:
+    335x6x3 # Something in left hamstring feels like it's going to give soon.
+
+2014-07-13 (Sunday) # TIRED
+  bench:
+    45x10x2, 135, 185, 205, 225x3, 245x1, 275x1
+    300x5x5 # Difficult.
+  pendlay row:
+    135, 205x5x3 # Not too bad!
+
+2014-07-11 (Friday) # Supple Leopard
+  squat:
+    45x10x2, 135, 225, 275x3, 315x3, 365x2, 405x1, 445x1
+    480x5x3 # Toes more forward, screwing feet into ground. Feels better than W's.
+            # 5rs not grindy. 3s much harder.
+  deadlift:
+    135, 225, 315x3, 365x1, 405x1
+    445x5 # Wider stance & grip, up to 1 min b/w reps.
+          # Felt not too terrible on lower back.
+
+2014-07-10 (Thursday) # Bench Intensity
+  bench:
+    45x10x2, 135, 185, 205, 225x3, 245x1, 275x1, 300x1
+    330x3x3 # 1s very solid. External rotation. 2s much harder. Back not level.
+  lying tricep extension:
+    55x10, 97.5x10, 102.5x10, 107.5x10, 112.5x10, 117.5x10@10
+  pendlay row:
+    135, 185x2
+    200x5x3
+
+2014-07-09 (Wednesday)
+  squat:
+    45x10x2, 135, 225, 275x3, 315x3, 365x2, 405x1, 445x1
+    475x5x3 # 5r also a little harder. Solid form.
+  ghr:
+    0x10x3
+
+2014-07-08 (Tuesday) # More Press Failure
+  press:
+    45x10x2, 95, 115, 135, 155x3, 175x1, 185x1, 195x1 # Labored & falling.
+    200x(4f,3f,3f) # Fuck it
+  lateral raise:
+    10x10, 15x10x3 # Tough on traps.
+
+2014-07-07 (Monday) # Creatine + BCAAs
+  weight: 204.4
+  squat:
+    45x10x2, 135, 225, 275x3, 315x3, 365x2, 405x1, 445x1
+    470x5x3 # 5r a little hard on all sets. Fast.
+  romanian deadlift:
+    135x6, 225x6, 320x6x3
+
+2014-07-06 (Sunday)
+  bench:
+    45x10x2, 135, 185, 205, 225x3, 245x1, 275x1
+    297.5x5x5 # Tough: right shoulder pain.
+  pendlay row:
+    135, 195x5x3
+
+2014-07-04 (Friday)
+  weight: 202.6
+  squat:
+    45x10x2, 135, 225, 275x3, 315x3, 365x2, 405x1, 425x1
+    465x5x3 # Tough. Too much rest before first set: Sarah squatting.
+            # 2s tried to move hips back and lost bounce.
+            # 3s focused on lowering hips and got great bounce on all, but fatigued.
+            # Also played DDR yesterday.
+  deadlift:
+    135, 225, 315x1, 365x1, 405x1
+    440x5 # Rounded lower back. Trouble fitting in belt.
+
+2014-07-03 (Thursday)
+  bench:
+    45x10x2, 135, 185, 205, 225x3, 245x1, 275x1, 295x1
+    327.5x3x3 # Good speed, but right shoulder hurting.
+              # Bar path suboptimal to avoid pain. Rolled shoulder after.
+  lying tricep extension:
+    15x10, 65 # Sarah measured: bar is 15, not 25.
+    95x10, 100x10, 105x10, 110x10, 115x10@10
+    # Sarah thinks all the effort is from the left side.
 
 2014-07-02 (Wednesday) # Better Sleep
   squat:

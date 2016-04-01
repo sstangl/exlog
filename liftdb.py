@@ -150,6 +150,7 @@ liftdb = {
     "leg raise": LiftType.bro,
     "nordic curl": LiftType.bro,
     "preacher curl": LiftType.bro,
+    "reverse curl": LiftType.bro,
     "situps on decline bench": LiftType.bro,
     "swiss bar hammer curl": LiftType.bro,
     "wrist curl": LiftType.bro,
