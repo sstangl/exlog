@@ -2,6 +2,19 @@
 # vim: syntax=python ts=2 tw=79 et sw=2 sts=2:
 # license: CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
 
+2016-04-01 (Friday)
+  weight: 203.8
+  snatch-grip deadlift beltless: # For SS forums.
+    135, 225, 315x3, 405x1
+    500x1@8 # Because of http://startingstrength.com/resources/forum/training/63971-race-500-pound-snatch-grip-deadlift-10.html
+  pin squat sleeveless: # Forgot sleeves at home.
+    45x10x2, 135, 225, 315x3, 405x1, 445x1
+    475x1@8, 455x3@8 # Right knee pain on ascent. Kept it slow.
+    435x3@(8,9) # Pin set a little above parallel. Next option way too low.
+  press:
+    45x10x2, 95, 135, 165x3, 185x1
+    200x5@(9,9,10) # Very down today. Haven't done 5s in a while, hey!
+
 2016-03-31 (Thursday) # DL Triple Test
   deadlift:
     70kgx5x2, 120kg, 170kgx3, 220kgx1, 242.5kgx1
