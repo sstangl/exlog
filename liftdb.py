@@ -61,6 +61,7 @@ liftdb = {
     "2-inch deficit deadlift": LiftType.deadlift,
     "2-inch deficit sldl": LiftType.deadlift,
     "3-inch deficit deadlift": LiftType.deadlift,
+    "6-inch block pull": LiftType.deadlift,
     "303 tempo sldl": LiftType.deadlift,
     "barbell row": LiftType.deadlift,
     "back extension": LiftType.deadlift,
@@ -80,6 +81,7 @@ liftdb = {
     "power shrug": LiftType.deadlift,
     "power snatch": LiftType.deadlift,
     "rack pull": LiftType.deadlift,
+    "reverse hyper": LiftType.deadlift,
     "romanian deadlift": LiftType.deadlift,
     "sldl": LiftType.deadlift,
     "sldl off 2-inch blocks": LiftType.deadlift,
@@ -121,6 +123,7 @@ liftdb = {
     "tricep pushdown": LiftType.bench,
     "v-grip pulldown": LiftType.bench,
     "wide-grip bench": LiftType.bench,
+    "wide-grip paused bench": LiftType.bench,
 
     # Accessories primarily affecting press.
     "band pulldown": LiftType.press,
@@ -132,6 +135,7 @@ liftdb = {
     "paused halting press": LiftType.press,
     "klokov press": LiftType.press,
     "medial delt raise": LiftType.press,
+    "pin press": LiftType.press,
     "pullups": LiftType.press,
     "push press": LiftType.press,
     "seated db press": LiftType.press,
