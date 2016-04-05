@@ -95,7 +95,7 @@ def makesets(text):
 
                 if reps == '':
                     reps = 0
-                sets.append(Set(float(weight), int(reps), float(rpe), failure))
+                sets.append(Set(weight2float(weight), int(reps), float(rpe), failure))
             return sets
 
         # List is across RPE.
