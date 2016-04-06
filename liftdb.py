@@ -60,6 +60,7 @@ liftdb = {
     "2-count paused-at-knees deadlift": LiftType.deadlift,
     "2-inch deficit deadlift": LiftType.deadlift,
     "2-inch deficit sldl": LiftType.deadlift,
+    "3-count paused-at-knees deadlift": LiftType.deadlift,
     "3-inch deficit deadlift": LiftType.deadlift,
     "6-inch block pull": LiftType.deadlift,
     "303 tempo sldl": LiftType.deadlift,
