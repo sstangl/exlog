@@ -6,7 +6,7 @@ set output "squat-vs-deadlift-e1rm.jpg"
 
 set y2tics
 
-set xrange ["2015-04-01":]
+set xrange [RPESTARTDATE:]
 
 plot \
      csvdir."deadlift-weekly.csv" using date:e1rm smooth csplines title "deadlift week e1rm",\

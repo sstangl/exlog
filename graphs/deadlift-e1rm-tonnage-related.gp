@@ -6,7 +6,7 @@ set output "deadlift-e1rm-tonnage-related.jpg"
 
 set y2tics
 
-set xrange ["2015-04-01":]
+set xrange [RPESTARTDATE:]
 
 plot csvdir."deadlift-weekly.csv" using date:e1rm smooth csplines title "deadlift week e1rm",\
      csvdir."deadlift-daily.csv" using date:e1rm title "deadlift daily e1rm",\

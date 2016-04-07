@@ -9,7 +9,7 @@ set style fill solid 0.25 border
 
 set y2tics
 
-set xrange ["2015-04-01":]
+set xrange [RPESTARTDATE:]
 
 set title "Squat E1RM vs RPE volume"
 
