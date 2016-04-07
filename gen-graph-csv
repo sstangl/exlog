@@ -288,6 +288,8 @@ elif args.data == "repranges":
     data = lift_repranges(iterator)
 elif args.data == "fatigue":
     data = lift_fatigue(iterator)
+elif args.data == "epley":
+    data = lift_epley(iterator)
 elif args.data == "typevolume":
     data = lift_typevolume(iterator)
 elif args.data == "bodyweight":
