@@ -113,9 +113,15 @@ class Set:
     def epley(self):
         if self.reps == 0:
             return 0.0
-        if self.reps == 1:
+
+        # Use RPE to include any reps not done.
+        reps = self.reps
+        if self.rpe:
+            reps += 10 - self.rpe
+
+        if reps == 1:
             return self.weight
-        return self.weight + ((self.weight * self.reps) / 30)
+        return self.weight + ((self.weight * reps) / 30)
 
     # Compared to the specified E1RM, how much fatigue did this set demonstrate?
     # Numbers returned are in units of "fatigue percents".
