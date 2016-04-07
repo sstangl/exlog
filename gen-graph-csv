@@ -154,7 +154,7 @@ def lift_repranges(iterator):
                     else:
                         ranges[3] += 1
         if sum(ranges) > 0:
-            arr.append([canonical_date(period), ranges])
+            arr.append([canonical_date(period)] + ranges)
     return arr
 
 
@@ -174,7 +174,7 @@ def lift_rperanges(iterator):
                     elif set.rpe >= 9.5:
                         ranges[3] += 1
         if sum(ranges) > 0:
-            arr.append([canonical_date(period), ranges])
+            arr.append([canonical_date(period)] + ranges)
     return arr
 
 
@@ -212,7 +212,7 @@ def lift_typevolume(iterator):
                 else:
                     ranges[1] += lift.volume()
         if sum(ranges) > 0:
-            arr.append([canonical_date(period), ranges])
+            arr.append([canonical_date(period)] + ranges)
     return arr
 
 
