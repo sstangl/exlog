@@ -142,7 +142,7 @@ class Lift:
     # Get a list of non-warmup, actual training sets.
     def get_worksets(self):
         # Lifts that track RPE track them for every set.
-        highrpe = list(filter(lambda x: x.rpe >= 7.0, self.sets))
+        highrpe = list(filter(lambda x: x.rpe >= 6.0, self.sets))
         if len(highrpe) > 0:
             return highrpe
 
