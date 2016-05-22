@@ -113,7 +113,7 @@
     315x5@(6,5), 365x5@6
     # To work on grip and get in some volume. Done this way to floor, can't
     # cheat, so it's like an SLDL with a very slow eccentric.
-  stationary bicycle:
+  stationary bike:
     10 # minutes @ 130bpm
 
 2016-05-06 (Friday)
@@ -129,7 +129,7 @@
     45x10x2, 135, 225, 315x3, 405x1, 455x1
     495x1@8
     475x3@(8.5,8.5,8.5) # ~10m rest. Mild tendon pain after. Long-paused 1s3r.
-  close-grip bench press:
+  close-grip bench:
     45x10x2, 135, 185, 225, 275x3
     320x5@(7,7.5,8.5,9)
   chins:
@@ -183,7 +183,7 @@
     45x10x2, 135, 225, 315x3, 405x1
     455x1, 495x1@8 # Crazy sinus pressure on ascent!
     455x4@(8.5,8,9) # Each set easier... last had longer pauses.
-  close-grip bench press:
+  close-grip bench:
     45x10x2, 135, 185, 225, 275x3
     310x6@(7,7,8,8.5)
   chins:
@@ -229,7 +229,7 @@
     45x10x2, 135, 225, 315x3, 405x1
     455x1@7, 495x1@8 # At least knees OK. Home setup is very nice!
     455x4@9, 445x4@(8,9)
-  close-grip bench press:
+  close-grip bench:
     45x10x2, 135, 185, 225, 275x3
     305x6@(6,7,8,8) # Zero shoulder pain on home bench! Very solid surface.
 
@@ -3846,7 +3846,7 @@
 
 2015-03-11 (Wednesday)
   weight: 191.0
-  ghr crunch:
+  ghd crunch:
     0x66 # AMRAP in 7 minutes.
   chins:
     0x38 # AMRAP in 7 minutes. Mostly in triples w/ stretch reflex.
@@ -3895,7 +3895,7 @@
     260x5@9, 255x5@9, 250x5@9.5
 
 2015-03-07 (Saturday)
-  ab wheel:
+  ab roller:
     0x60 # AMRAP in 7 minutes from knees.
   chest-supported row:
     70x62 # AMRAP in 7 minutes.
@@ -3968,7 +3968,7 @@
     117.5kgx3@(8,8,9), 113.5kgx3@(8,8,8,8,9) # 2 min rest before last.
 
 2015-02-28 (Saturday) # GPP
-  ab wheel:
+  ab roller:
     0x64 # AMRAP in 7 minutes from knees.
   chins:
     0x35 # AMRAP in 7 minutes. Tried a ladder: only got up to 4, then up to 3, then a smattering
@@ -4013,7 +4013,7 @@
 
 2015-02-25 (Wednesday) # Conditioning
   weight: 190.0
-  ab wheel:
+  ab roller:
     0x60 # AMRAP in 7 minutes from knees. Mostly felt in triceps like LTEs, abs fine.
          # Resting on lower abs (on reverse hyper) hurts a little.
   chins:
@@ -4153,7 +4153,7 @@
   weight: 192.8 # After breakfast.
   bench:
     20kgx10x2, 70kg, 90kg, 110kg, 120kgx3, 130kgx3 # Feels very light today.
-    141.0kgx4@(9,8.5,10,10,10,9.5) # Lower abs super sore from Friday ab wheel.
+    141.0kgx4@(9,8.5,10,10,10,9.5) # Lower abs super sore from Friday ab roller.
                                    # Hitting too low? Hard 2/3 of the way up. Sarah
                                    # says right shoulder pronated on 4s4r and 5s4r.
                                    # 6s much better: hit higher (mid-sternum)
@@ -4176,7 +4176,7 @@
   deadlift:
     135, 225, 315x3, 405x1
     445x5@9, 435x5@9, 425x5@8.5 # Last set strapless.
-  ab wheel: # Careful: DOMS affecting Sunday bench.
+  ab roller: # Careful: DOMS affecting Sunday bench.
     0x10 # From knees.
     0x5x2 # From toes. Mostly tough in lower back... probably doing it wrong.
 
@@ -8683,7 +8683,7 @@
   sumo deadlift: # Extremely tough on grip.
     135x5, 225x5, 275x5, 315x5, 365x4, 405x3
     455x3 # Surprisingly tough.
-  sumo block pulls:
+  sumo block pull:
     475x3x2 # First set ripped callus off right hand. Huge chunk missing.
   deficit deadlift:
     225x5, 315x3 # Grip dying.

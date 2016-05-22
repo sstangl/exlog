@@ -40,6 +40,7 @@ liftdb = {
     "bottom-2/3rd squat": LiftType.squat,
     "chain squat": LiftType.squat,
     "db lunges": LiftType.squat,
+    "dynamic effort squat": LiftType.squat,
     "leg extension": LiftType.squat,
     "leg press": LiftType.squat,
     "front squat": LiftType.squat,
@@ -63,6 +64,7 @@ liftdb = {
     "3-count paused-at-knees deadlift": LiftType.deadlift,
     "3-inch deficit deadlift": LiftType.deadlift,
     "6-inch block pull": LiftType.deadlift,
+    "303 tempo deadlift": LiftType.deadlift,
     "303 tempo sldl": LiftType.deadlift,
     "barbell row": LiftType.deadlift,
     "back extension": LiftType.deadlift,
@@ -74,8 +76,10 @@ liftdb = {
     "fat bar deadlift": LiftType.deadlift,
     "ghr": LiftType.deadlift,
     "halting deadlift": LiftType.deadlift,
+    "hip thrust": LiftType.deadlift,
     "leg curl": LiftType.deadlift,
     "high pull": LiftType.deadlift,
+    "kroc row": LiftType.deadlift,
     "paused deadlift": LiftType.deadlift,
     "pendlay row": LiftType.deadlift,
     "power clean": LiftType.deadlift,
@@ -84,21 +88,25 @@ liftdb = {
     "rack pull": LiftType.deadlift,
     "reverse hyper": LiftType.deadlift,
     "romanian deadlift": LiftType.deadlift,
+    "romanian deadlift to floor": LiftType.deadlift,
     "sldl": LiftType.deadlift,
     "sldl off 2-inch blocks": LiftType.deadlift,
     "snatch-grip deadlift": LiftType.deadlift,
-    "sumo block pulls": LiftType.deadlift,
+    "sumo block pull": LiftType.deadlift,
     "sumo deadlift": LiftType.deadlift,
 
     # Accessories primarily affecting bench.
     "1-board paused bench": LiftType.bench,
     "2-board bench": LiftType.bench,
     "3-board bench": LiftType.bench,
+    "2-board close-grip paused bench": LiftType.bench,
     "2-count paused bench": LiftType.bench,
     "3-count paused bench": LiftType.bench,
+    "3-board close-grip bench": LiftType.bench,
     "303 tempo bench": LiftType.bench,
     "bench": LiftType.bench,
     "cable row": LiftType.bench,
+    "cable french press": LiftType.bench,
     "chest-supported row": LiftType.bench,
     "chain bench": LiftType.bench,
     "chins": LiftType.bench,
@@ -115,6 +123,7 @@ liftdb = {
     "neutral grip chins": LiftType.bench,
     "paused close-grip bench": LiftType.bench,
     "paused close-grip floor press": LiftType.bench,
+    "paused wide-grip bench": LiftType.bench,
     "pin bench": LiftType.bench,
     "seated row": LiftType.bench,
     "slingshot bench": LiftType.bench,
@@ -140,6 +149,7 @@ liftdb = {
     "pullups": LiftType.press,
     "push press": LiftType.press,
     "seated db press": LiftType.press,
+    "smith machine seated press": LiftType.press,
     "strict press": LiftType.press,
     "swiss bar press": LiftType.press,
     "wide-grip pullups": LiftType.press,
@@ -157,6 +167,7 @@ liftdb = {
     "leg raise": LiftType.bro,
     "nordic curl": LiftType.bro,
     "preacher curl": LiftType.bro,
+    "preacher curl machine": LiftType.bro,
     "reverse curl": LiftType.bro,
     "situps on decline bench": LiftType.bro,
     "swiss bar hammer curl": LiftType.bro,
@@ -206,8 +217,14 @@ def related(a, b):
 
 # If run as a script, make sure that the entirety of exlog is handled.
 if __name__ == '__main__':
+    import sys
     import logparse
-    sessions = logparse.parse('exlog')
+
+    if len(sys.argv) != 2:
+        print(' Usage: %s logfile' % sys.argv[0], file=sys.stderr)
+        sys.exit(1)
+
+    sessions = logparse.parse(sys.argv[1])
 
     for session in sessions:
         for lift in session.lifts:
