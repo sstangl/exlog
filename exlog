@@ -2,6 +2,64 @@
 # vim: syntax=python ts=2 tw=79 et sw=2 sts=2:
 # license: CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
 
+2016-05-27 (Saturday)
+  weight: 204.6
+  farmers walk:
+    100x6 # gym length, roughly 60 feet, ~2min rest between. Mostly interesting on grip.
+  ab roller:
+    0x10x3 # From knees. Triceps and abs a little sore the next day, nothing bad.
+  lat pulldown:
+    95x10, 115x10x3
+
+2016-05-27 (Friday) # Last day of this higher-intensity ramp.
+  weight: 204.8
+  squat:
+    45x10x2, 135, 225, 315x3, 405x1, 455x1, 495x1
+    535x3@(8,7.5,8.5) # 1s pretty slow. Sinking into bottom.
+                      # 2s better ab bracing.
+                      # 3s very good form. Tight. Took time at top.
+  bench:
+    45x10x2, 135, 185, 225, 275x3, 315x1, 345x1
+    370x3@10, 345x3@(8,8.5) # Hoo boy! Smoked. Very down today.
+
+2016-05-26 (Thursday)
+  weight: 204.2
+  pin squat:
+    45x10x2, 135, 225, 315x3, 405x1, 455x1, 495x1
+    545x1@8.5 # Dang, nice!
+    525x2@(9,9,10) # 1s2r went forward at bottom.
+  2-count paused bench:
+    45x10x2, 135, 225, 275x3, 315x1, 335x1
+    375x1@9
+    345x3@(8.25,8.5,10) # 3s less rest (~5min).
+
+2016-05-24 (Tuesday)
+  weight: 201.4
+  deadlift:
+    70kgx5x2, 120kg, 170kgx3, 200kgx1, 220kgx1
+    240kgx1@7, 265kgx1@9 # Gross.
+    245x3@(7.5,8.5) # 2 sets enough. Tough!
+  squat: # SBDs.
+    45x10x2, 135, 225, 315x3, 405x1, 455x1, 495x1
+    525x3@9 # Too heavy! Abs suddenly very fatigued.
+    515x3@(8,9) # Very tough! Glutes fatigued: way less push than yesterday.
+  press:
+    45x10x2, 95, 115, 135, 155x3
+    165x7@7 # No hip.
+    170x7@(8,8.25) # Also no hip.
+
+2016-05-23 (Monday)
+  weight: 202.2 # After eating
+  squat:
+    45x10x2, 135, 225, 315x3, 405x1, 455x1, 495x1
+    545x1@7.5, 585x1@7.5, 615x1@9 # PR !!!
+    545x3@(7.5,7.5,7.5) # 10min rest. Only very minor knee pain after!
+  paused bench:
+    45x10x2, 135, 185, 225, 275x3, 315x1, 335x1
+    365x1@8, 390x1@9 # With belt. Back was hurting. Nice on abs.
+    365x3@(7.5,9.5,8.75) # Left shoulder getting beat up: feels heavier!
+                         # Extra long pause on 2s, oops.
+
 2016-05-21 (Saturday)
   weight: 205.2
   2-inch deficit deadlift:

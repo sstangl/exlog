@@ -177,6 +177,7 @@ liftdb = {
     # Accessories that are for conditioning.
     "120bpm walking": LiftType.conditioning,
     "ab roller": LiftType.conditioning,
+    "farmers walk": LiftType.conditioning,
     "prowler": LiftType.conditioning,
     "rower": LiftType.conditioning,
     "sled pull": LiftType.conditioning,
