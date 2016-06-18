@@ -2,7 +2,142 @@
 # vim: syntax=python ts=2 tw=79 et sw=2 sts=2:
 # license: CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
 
-2016-05-27 (Saturday)
+2016-06-14 (Tuesday) # In London, at "The Gym Way".
+  # This gym looks like it has barbells and plates, but the barbells are those
+  # huge hollow kind, that bend very easily and have no knurling. The gym also
+  # only had about ~600lbs of weight in total, for everyone. Best I could find.
+  # It was raining outside, being London, and I slipped on wet sidewalk.
+  # Knee appears bothered.
+  squat:
+    20kgx10x2, 70kgx5x2, 110kg, 150kgx3
+    # Manager says I may not load the bar any more than 190kg, so I guess that
+    # will have to do to keep up some strength. At least I can load up bench.
+    190kgx8@(8,7,7.5) # That's about it to not piss off the knee.
+                      # Hard on lower back at bottom. Too much sitting on planes.
+  paused bench:
+    20kgx10x2, 70kg, 90kg, 110kg, 130kgx3
+    150kgx5@(8,8,7.5) # 3s with handoff. Right side lagging behind! Keep hitting hook.
+  # Feeling beat up: probably a good stopping point! Work meeting soon.
+
+2016-06-11 (Saturday) # 2AM Wakeup, still preparing for London, oh boy.
+  farmers walk:
+    100x1, 140x1, 160x6 # Gym length and back, maybe 60 feet? Probably more.
+    # Brachioradiales like whoa.
+  swiss bar bench:
+    15kgx5x2, 55kg, 85kg, 105kg
+    122.5kgx5@(6,6), 127.5kgx5@(7,6)
+    127.5kgx10@9.5 # Guess that means RPEs were too conservative!
+  tricep pushdown:
+    55x10, 75x8@(6,7,6), 75x10@(6,7)
+
+2016-06-10 (Friday) # 3AM Wakeup, 10:30AM Training.
+  squat:
+    70kgx5x2, 120kg, 170kgx3, 200kgx1
+    212.5kgx6@(7,7.5,7) # Very minor right knee pain after each set.
+  6-inch block pull: # with straps
+    70kgx5x2, 120kg, 170kg, 220kgx3
+    240kgx3@6, 260kgx3@8
+    270kgx2@10 # Maybe could have done a 3rd, but felt back start to round.
+
+2016-06-09 (Thursday) # Low sleep: preparing for London trip.
+  weight: 202.4
+  2-count paused squat:
+    45x10x2, 135, 225, 315x3, 405x1
+    455x1@7, 495x1@8
+    415x5@(7,7.5,8)
+  close-grip bench:
+    45x10x2, 135, 185, 225, 275x3
+    315x5@(6,7,7,7.5)
+  chins:
+    0x(8,8,6)
+
+2016-06-08 (Wednesday) # At home, for fun.
+  wide-grip bench: # With a wider grip than normal: index on rings instead of 4th on rings.
+    45x10x2, 135x5x2, 185x8, 205x8
+    225x8@(5,5,5)
+
+2016-06-07 (Tuesday) # Left back mild spine pain: but not with belt.
+  weight: 201.6
+  deadlift:
+    70kgx5x2, 120kg, 170kgx3, 200kgx1, 220kgx1
+    240kgx1@7, 260kgx1@7.5
+    220kgx5@5, 225kgx5@(6,7) # Tough on lower-mid back.
+  squat: # rehbands
+    45x10x2, 135, 225, 315x3, 405x1
+    425x8@(7,7.5), 405x8@7 # Tired!
+  press:
+    45x10x2, 95, 115, 135, 155x3
+    185x6@(7,8,8.75) # Left shoulder pre-cramping. Augh!
+
+2016-06-06 (Monday) # Back tired from Friday.
+  weight: 202.4
+  squat:
+    45x10x2, 135, 225, 315x3, 405x1, 455x1, 495x1
+    545x1@7, 585x1@8 # Maybe cut a bit high? Good bounce.
+    475x5@(6,7,7.5) # 1s standing a long time at top after 3r, waiting for Emily to move.
+  paused bench:
+    45x10x2, 135, 185, 225, 275x3, 315x1, 335x1
+    365x1@8, 330x5@8 # Too much rest here: talking!
+    320x5@6, 330x5@(7.5,7) # Nice.
+
+2016-06-04 (Saturday) # After canvassing all morning.
+  swiss bar bench: # Bar weighs 35.
+    35x5x2, 125, 175, 215
+    265x5@(8,8,7) # Held it better on 3s: wrist at CoM.
+  reverse hyper: # just for a stretch
+    90x15, 180x15x3
+  tricep pushdown:
+    45x10, 75x8@(8,7.5,7,7,7) # Some tendon pain in left elbow. Less pain as sets went on.
+
+2016-06-03 (Friday)
+  squat:
+    45x10x2, 135, 225, 315x3, 405x1
+    455x6@(6.5,6.75,7) # Nice.
+  bench:
+    45x10x2, 135, 185, 225, 275x3
+    315x6@(7,6,7.5,9)
+  beltless sldl: # with straps
+    135x8x2, 225, 315x8@5
+    405x8@(8,7) # Crazy mid-upper back pump. Enough!
+
+2016-06-02 (Thursday) # Left shoulder pain in acromion process.
+  weight: 202.6
+  press:
+    45x10x2, 95, 115, 135, 155x3, 175x1, 185x1, 195x1, 205x1
+    215x1@7.5, 225x1@8.5 # Damn good!
+    185x6@(7,6.5,8,9) # 5m rest. Good hip.
+  2-count paused squat:
+    45x10x2, 135, 225, 315x3
+    405x5@(6.5,7,7.5)
+
+2016-05-31 (Tuesday) # Upper back tired from Pendlays.
+  deadlift:
+    70kgx5x2, 120kg, 170kgx3, 200kgx1, 220kgx1
+    240kgx1@7
+    220kgx5@(6,6,7) # Not fun.
+  close-grip bench:
+    20kgx10x2, 70kgx5x2, 90kgx8
+    110kgx8@5, 120kgx8@6, 130kgx8@8
+    120kgx8@(7.5,8.5)
+  chins:
+    0x(8,8,8) # Nice!
+  # No squats: lowering volume a little also.
+  # Song: Benny Banks - Bada Bing
+
+2016-05-30 (Monday) # Deload! Start of 5 Wees of Killing Time Through Honeymoon!
+  squat:
+    45x10x2, 135, 225, 315x3, 405x1, 455x1, 495x1 # Feels bad. 82 in gym. Can't focus.
+    545x1@7
+    455x5@(5,6,6.75) # Low rest ~5m. Not cooling down because of heat.
+                     # More knee pain due to form collapse.
+  paused bench:
+    45x10x2, 135, 185, 225, 275x3, 315x1, 335x1 # Minor left shoulder pain.
+    365x1@8.5 # Lost tightness at bottom. Longer pause.
+    325x5@(7,6.5,7)
+  pendlay row:
+    60kgx5x2, 80kg, 100kgx5@(6,7,7) # Honest!
+
+2016-05-28 (Saturday)
   weight: 204.6
   farmers walk:
     100x6 # gym length, roughly 60 feet, ~2min rest between. Mostly interesting on grip.
