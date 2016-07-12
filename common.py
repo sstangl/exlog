@@ -84,6 +84,10 @@ def calc_weight(e1rm, reps, rpe):
     return e1rm / 100 * percentage(reps, rpe)
 
 
+def calc_e1rm(weight, reps, rpe):
+    return weight / percentage(reps, rpe) * 100
+
+
 #####################################################################
 
 

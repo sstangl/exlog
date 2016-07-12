@@ -2,6 +2,88 @@
 # vim: syntax=python ts=2 tw=79 et sw=2 sts=2:
 # license: CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
 
+2016-07-11 (Monday)
+  weight: 202.4
+  squat:
+    45x10x2, 135, 225, 315x3, 405x1, 455x1, 495x1
+    545x1@7, 585x1@8 # It's back!
+    455x8@(7,8.5,9) # 10m before 2s, 15m before 3s. 1s felt in good shape.
+  paused bench:
+    45x10x2, 135, 185, 225, 275x3, 315x1
+    335x1@7, 365x1@7.5, 375x1@8 # USAPL-length pauses.
+    285x8@7, 295x5@(8,8.5)
+  close-grip bench:
+    305x6@(8,7,6.5), 315x6@8 # Nice. Avoiding full lockout avoids pec cramping.
+
+2016-07-09 (Saturday) # Started tracking macros again, same as old nutrition plan, ~3000kcal.
+  weight: 204.0
+  close-grip floor press:
+    45x10x2, 135x8, 185, 225
+    255x5@6, 265x6@6.5, 275x5@6.5, 285x5@7, 295x5@8.5
+  pendlay row:
+    60kgx10, 80kgx6
+    100kgx6@6, 105kgx6@(7,6), 110kgx6@7, 115kgx6@(8,9) # Getting legs involved.
+  prowler:
+    180x10 # About 5s on, 22 breaths off ~= 5:50. Not a great ratio.
+           # Need more weight to push longer. Tough on hamstrings.
+           # Calf insertion by knees very sore Sun/Mon. Didn't interfere with anything.
+  lat pulldown:
+    125x10, 140x10, 155x10@7.5
+
+2016-07-08 (Friday)
+  weight: 204.4
+  squat:
+    45x10x2, 135, 225x8, 315x6, 405x5
+    445x8@(8,8,9) # 10m rest.
+  bench: # real tired
+    45x10x2, 135, 185, 225
+    275x8@6, 295x8@6.5, 305x8@7, 315x8@8
+  beltless sldl:
+    135x10x2, 225x8, 315x8
+    405x8@(7.5,6), 425x8@8 # Toasty. 3 hours.
+
+2016-07-07 (Thursday) # Low back / top hip tight.
+  weight: 202.4
+  chain squat:
+    45x10x2, 135, 225, 225+80x3, 315+80x1, 365+80x1
+    405+80x6@6, 425+80x6@7, 445+80x6@8
+  swiss bar bench:
+    15kgx10x2, 60kgx6, 80kgx6, 100kgx6
+    110kgx6@6, 120kgx6@(7,6.5,6) # Good squeeze of chest.
+    125kgx6@(7,8.5)
+  press:
+    45x10x2, 95, 115, 135, 155x3, 175x1
+    185x6@8, 175x6@(7,9.5) # Argh.
+  chest-supported row:
+    45x10, 90x10@(5,6,7,8) # ~1m rest. For a pump in lats.
+
+2016-07-05 (Tuesday)
+  weight: 202.4
+  deadlift:
+    70kgx5x2, 120kg, 170kgx3, 200kgx1, 220kgx1
+    240kgx1@8, 260kgx1@9.5
+    200kgx8@(8,8,7.5) # With straps. 3s 15m rest & more stiff-legged.
+  bench:
+    45x10x2, 135, 185, 225, 275x3
+    305x6@6.5, 315x6@(7.5,8.5)
+  squat:
+    45x10x3, 135, 225, 315x3, 405x1
+    445x6@(7.5,8,8) # Chlorine smell after 1s. VERY tired!!
+
+2016-07-04 (Monday) # Start of Ramp for Boss of NorCal 3 (24 Sept)
+  weight: 202.2
+  squat:
+    45x10x2, 135x8, 225, 315x3, 405x1, 455x1, 495x1
+    545x1@8, 585x1@9.5 # Terrible: no bounce. Paused a little on ascent.
+    445x8@(8,7,7) # 1s first 5 OK then very tired. Stayed with tight quads.
+                  # 2s 10m rest, much easier.
+  paused bench:
+    20kgx10x2, 70kg, 90kgx3, 120kgx3, 140kgx1
+    150kgx1@7, 160kgx1@7.5, 165kgx1@8 # Tried with index on rings. Didn't like it.
+    125kgx8@6, 127.5kgx8@6.5, 130kgx8@7.5 # Good squeeze of whole shoulder.
+  close-grip bench:
+    140kgx6@(7,7,10) # 1s pre-cramping, ate a tablespoon of salt after.
+
 2016-07-01 (Friday) # Canada Day! Thai Massage Thursday.
   squat:
     45x10x2, 135, 225, 315x3, 405x1, 455x1
