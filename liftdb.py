@@ -150,6 +150,7 @@ liftdb = {
     "push press": LiftType.press,
     "seated db press": LiftType.press,
     "smith machine seated press": LiftType.press,
+    "seated press machine": LiftType.press,
     "strict press": LiftType.press,
     "swiss bar press": LiftType.press,
     "wide-grip pullups": LiftType.press,
