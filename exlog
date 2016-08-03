@@ -2,6 +2,159 @@
 # vim: syntax=python ts=2 tw=79 et sw=2 sts=2:
 # license: CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
 
+2016-08-02 (Tuesday)
+  weight: 203.4
+  deadlift:
+    70kgx5x2, 120kg, 170kgx3, 200kgx1, 220kgx1
+    240kgx1@7, 265kgx1@8.5 # Hamstring insertions into knees feeling tender.
+    227.5kgx5@(7,10) # Didn't use straps: grip giving out on 2s. Use straps!
+  6-inch block pull:
+    240kgx5@(7,8) # Starting to round lower back a little on 2s.
+  bench:
+    45x10x2, 135, 185, 225, 275x3, 315x1
+    345x5@(9,9), 335x5@(8) # Down from last week. Left shoulder tender.
+  squat:
+    45x10x2, 135, 225, 315x3, 405x1, 455x1 # Very fast & solid! Dan complimented form.
+    475x6@(7.5), 465x6@(7,7.5) # Tired! Long day.
+
+2016-08-01 (Monday)
+  weight: 203.2
+  squat:
+    45x10x2, 135, 225, 315x3, 405x1, 455x1, 495x1
+    545x1@7, 585x1@7.75 # Reracking 45lb plate, precariously perched 5lb plate above
+                        # hit me on the head and broke the nosepiece off my glasses.
+    505x5@6.5, 515x5@(7,8) # Nice. 10lbs off PR.
+  paused bench:
+    20kgx10x2, 70kg, 90kg, 120kgx3, 140kgx1
+    160kgx1@6, 167.5kgx1@7.5, 175kgx1@8 # Nice! With commands.
+    150kgx5@(8,7.5,8) # Less pause on 2s.
+  close-grip bench:
+    140kgx6@(8,8,8.5,9)
+
+2016-07-29 (Friday)
+  weight: 201.2 # Huh, still down.
+  squat: # Eleiko bar.
+    20kgx10x2, 70kg, 120kg, 170kgx3, 200kgx1
+    220kgx6@(7,8.5,8) # Dan says left knee is more forward, right knee is out,
+                      # and right shoulder is lower.
+  bench:
+    20kgx10x2, 70kg, 100kg, 120kgx3, 140kgx1
+    150kgx6@(7.5,8,7.5,7.5) # Right side lagging. Switched benches: right side fine.
+  2-inch deficit deadlift beltless:
+    135x5x2, 225, 315, 405x6@(6.5,7) # Back toasty: enough.
+    # Right side of lower back particularly tired.
+
+2016-07-28 (Thursday) # Back sore from block pulls.
+  weight: 201.2 # Surprisingly down...?
+  2-count paused squat:
+    45x10x2, 135, 225, 315x3, 405x1
+    425x5@(7.5,7.5,8) # Tough. Sore low back + left knee ache.
+  slingshot bench: # blue, XL
+    20kgx10x2, 70kg, 100kg, 120kgx3, 140kgx3
+    160kgx5@7, 170kgx5@(7,8,8)
+  press:
+    45x10x2, 95, 115, 135, 155x3
+    185x7@(7.5,8,9)
+
+2016-07-26 (Tuesday)
+  weight: 203.4
+  deadlift:
+    70kgx5x2, 120kg, 170kgx3, 200kgx1, 220kgx1
+    240kgx1@7, 260kgx1@8 # Upper back tired but OK.
+    220kgx6@7, 225kgx6@(7.75) # With straps.
+  6-inch block pull: # with straps
+    235kgx6@6, 245kgx6@9 # Intended to just be one set, but first too light.
+    # Mostly hard in lats, bracing for the pull. Sarah says last rep rounded
+    # lower back, but I didn't feel it.
+  bench:
+    45x10x2, 135, 185, 225, 275x3
+    320x7@(7.5,7.25,7.75,9) # Last set locked out after each rep. RHS failing first.
+  squat:
+    45x10x2, 135, 225, 315x3, 405x1 # Left knee pain at bottom on 315.
+    455x7@(7.5,8) # Cutting 3s: knee pain & low back tired from deads.
+                  # Minor LHS knee pain after 1s. Slow reps. No pain during.
+                  # Abs tired.
+
+2016-07-25 (Monday)
+  weight: 203.6
+  squat:
+    45x10x2, 135, 225, 315x3, 405x1, 455x1, 495x1 # Feels heavy on back.
+    545x1@7, 585x1@9 # Slow accent, but not hard...
+    485x6@(7,8,8.5) # Just no push today. Glute pain from cracking sacrum by squeezing butt.
+  paused bench:
+    45x10x2, 135, 185, 225, 275x3, 315x1
+    345x1@7, 365x1@8 # Sarah gave a long command.
+    375x1@8.5 # With Sarah's pause.
+    320x6@(7.25,8,8,9)
+  close-grip bench:
+    315x6@8.5 # Shoulder twisting: bar weird? Skipping.
+
+2016-07-23 (Saturday) # Feeling beat up.
+  weight: 204.0
+  pin press: # forehead level
+    45x10x2, 95, 115, 135, 155x4, 175x4
+    185x6@8, 195x6@8.5, 185x6@7
+  chest-supported row:
+    45x10, 90x10@(6,6.5,7,7.5)
+  stationary bike:
+    10 # minutes, 145bpm.
+
+2016-07-22 (Friday) # Mild tendinitis in right knee.
+  weight: 203.2
+  squat:
+    45x10x2, 135, 225, 315x3, 405x1, 455x1
+    475x6@(7.5,7,7.5)
+  bench:
+    45x10x2, 135, 185, 225, 275x3, 315x1
+    325x6@(7,7,8,9)
+  beltless sldl:
+    135x5x2, 225, 315, 405x3
+    425x8@(8,8,7.5) # No straps! Argh! Giving out in glutes first.
+
+2016-07-21 (Thursday)
+  weight: 202.4
+  press:
+    45x10x2, 95, 115, 135, 155x3, 175x1, 195x1, 205x1, 215x1
+    225x1@8.5 # Some pain at base of thumb on right hand.
+    190x6@(7,8,7.5,8.5)
+  2-count paused squat:
+    45x10x2, 135, 225, 315x3, 405x1, 455x1
+    495x1@7, 525x1@8, 545x1@8.5 # For a 3-count! VERY strong!
+    415x6@(7,7.5,10) # 3s6r 5-count. Phew!
+  3-count paused bench:
+    20kgx10x2, 70kg, 90kg
+    120kgx5@7.5, 125kgx5@7, 130kgx5@(8,8.5)
+
+2016-07-19 (Tuesday)
+  weight: 202.4
+  deadlift:
+    70kgx5x2, 120kg, 170kgx3, 200kgx1, 220kgx1
+    240kgx1@7, 260kgx1@8 # Much smoother than last week.
+    210kgx6@6 # Nice! No straps.
+    215kgx6@6.5 # With straps.
+    220kgx6@7.5 # Nice. With straps. No real specific fatigue location.
+  bench:
+    45x10x2, 135, 185, 225, 275x3
+    315x7@(7.5,7,7.5,7.5) # No lockouts -> no shoulder pain!
+  squat:
+    45x10x2, 135, 225, 315x3, 405x1
+    445x7@(7,8,9) # 3s6r fell forward. Scary! Abs very sore/tired on 1s.
+
+2016-07-18 (Monday)
+  weight: 204.4
+  squat:
+    45x10x2, 135, 225, 315x3, 405x1, 455x1, 495x1 # Beltless: No Sarah!
+    545x1@7.5 # Tough: quadded.
+    585x1@8.5 # OK, just maybe too low? Was OK.
+    475x6@(6.5,7.5,8) # Minor left knee tendon pain after 3s.
+  paused bench:
+    45x10x2, 135, 185, 225, 275x3, 315x1
+    335x1@7, 365x1@7.5, 375x1@8
+    305x6@6, 315x6@(7.5,8)
+  close-grip bench:
+    315x6@(7.5,8.5,9) # 1s a little shouldered on right. 3s no lockout: easier.
+                      # Right shoulder pain after each.
+
 # Nothing Saturday: need to recover!
 
 2016-07-15 (Friday) # 85 degrees in the gym, sweating after 135, close to passing out!
