@@ -2,6 +2,11 @@
 # vim: syntax=python ts=2 tw=79 et sw=2 sts=2:
 # license: CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
 
+2016-08-03 (Wednesday)
+  weight: 202.8
+  stationary bike: # HIIT
+    0x4 # 20:100. 2 turns from max resistance. 5th would have failed.
+
 2016-08-02 (Tuesday)
   weight: 203.4
   deadlift:
