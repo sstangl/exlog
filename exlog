@@ -2,6 +2,61 @@
 # vim: syntax=python ts=2 tw=79 et sw=2 sts=2:
 # license: CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
 
+2016-08-09 (Tuesday) # Better sleep. Redo yesterday's bench.
+  weight: 200.2
+  paused bench:
+    20kgx10x2, 70kg, 100kg, 120kgx3, 140kgx1, 150kgx1
+    165kgx1@7, 175kgx1@9 # With commands. Losing tightness at bottom. Some right shoulder tightness.
+    152.5kgx5@(7.5,8,8)
+  deadlift:
+    70kgx5x2, 120kg, 170kgx3, 200kgx1, 220kgx1
+    240kgx1@7, 260kgx1@8.5 # Left inner knee feeling tight. Pretty down...
+    232.5kgx5@(9.5,10) # Clearly unrecovered. 2s with straps. Just no good.
+  close-grip bench:
+    20kgx10x2, 70kg, 100kg
+    120kgx5@6, 130kgx5@6, 140kgx5@(7,8,8,9)
+    100kgx14@9 # Most not locked out. Pre-cramp in right pec.
+  # Skipping squat because deadlift was so bad.
+
+2016-08-08 (Monday) # Monolift / Very Poor Sleep Over Weekend.
+  weight: 201.6
+  squat:
+    20kgx10x2, 70kg, 120kg, 170kgx3, 200kgx1, 220kgx1
+    250kgx1@7.5, 270kgx1@10 # Complete pause on ascent. Felt in hamstrings.
+    237.5kgx5@(8,9), 235kgx5@8.5 # Pain in left hamstring knee attachment on 1s.
+      # Very bad push. Can't use much muscle at once. So tired. Cranky.
+  paused bench:
+    45x10x2, 135, 185, 225, 275x3 # Feels hard.. pec tendons tight & minor pain.
+    315x1 # Feet slipping due to wood floor with zero friction. Stopping.
+
+2016-08-05 (Friday)
+  weight: 202.2
+  squat:
+    45x10x2, 135, 225, 315x3, 405x1, 455x1, 495x1
+    515x5@(7.5,8,9) # Getting grindy. Tired.
+      # Left hamstring insertion into knee painful.
+  3-count paused bench:
+    45x10x2, 135, 185, 225
+    275x4@7.5, 280x4@7.5, 285x4@8, 290x4@8.5
+  2-count paused-off-floor deadlift beltless:
+    135x5x2, 225, 315x3
+    405x5@(7,6.5), 425x5@9 # Legs shaking, low back pumped.
+
+2016-08-04 (Thursday) # Tired legs and lower back.
+  weight: 202.2
+  2-count paused squat:
+    45x10x2, 135, 225, 315x3, 405x1, 455x1
+    495x1@7.5, 525x1@8.5, 545x1@9.25 # Nice.
+    435x5@(7,8), 445x5@8
+  slingshot bench:
+    45x10x2, 135, 185, 225, 275x3, 315x1
+    365x2@7 # Tough on shoulders. Heavy!
+    405x1@8, 425x1@9
+    380x5@(7.5,7.5,8.5)
+  press:
+    45x10x2, 95, 115, 135, 165x3
+    185x7@(7,8,9) # Poor lil triceps.
+
 2016-08-03 (Wednesday)
   weight: 202.8
   stationary bike: # HIIT
