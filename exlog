@@ -2,6 +2,46 @@
 # vim: syntax=python ts=2 tw=79 et sw=2 sts=2:
 # license: CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
 
+2016-08-26 (Friday)
+  weight: 201.8
+  squat:
+    20kgx10x2, 60kg, 100kg, 140kgx3, 185kgx1, 205kgx1, 225kgx1, 235kgx1
+    252.5kgx3@(7.5,8,9.5)
+  bench:
+    20kgx10x2, 70kg, 100kg, 120kgx3, 130kgx1, 140kgx1, 150kgx1
+    162.5kgx5@(7.5,7,8)
+  beltless halting deadlift:
+    70kgx5x2, 120kgx8, 170kgx5 # Add straps
+    200kgx5@6, 220kgx5@7 # Tough b/c beltless.
+
+2016-08-25 (Thursday)
+  weight: 202.8
+  2-count paused squat:
+    45x10x2, 135, 225, 315x3, 405x1, 455x1
+    485x3@(7.5,7.5,8.5)
+  slingshot bench:
+    45x10x2, 135, 185, 225, 275x3, 315x3, 365x1, 385x1
+    405x1@7, 425x1@8.5 # Minor right shoulder pain.
+    385x4@(8,7.5,8)
+  press:
+    45x10x2, 95, 115, 135, 155x3
+    175x7@(7,8.5) # Shoulders tired after slingshot.
+
+2016-08-23 (Tuesday)
+  weight: 200.8
+  deadlift:
+    70kgx5x2, 120kg, 170kgx3, 200kgx1, 220kgx1
+    240kgx3@6.5 # Left side in a little ditch, left hamstring a little hurt.
+  sldl:
+    220kgx5@8 # Sarah says it wasn't stiff-legged enough.
+    210kgx5@8 # Actual SLDL, with straps.
+  303 tempo bench:
+    45x10x2, 135, 185
+    225x5@6, 245x5@6, 275x5@7, 295x5@8 # Some minor back pain in one vertebra.
+  pendlay row:
+    135x5x2, 185, 225, 275x5@8 # With leg help. Not strict.
+    245x5@(8.5,8) # Strictish.
+
 2016-08-22 (Monday)
   weight: 201.8
   squat:
