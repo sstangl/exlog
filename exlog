@@ -2,6 +2,95 @@
 # vim: syntax=python ts=2 tw=79 et sw=2 sts=2:
 # license: CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
 
+2016-09-08 (Thursday)
+  weight: 201.4
+  2-count paused squat:
+    45x10x2, 135, 225, 315x3, 405x1, 455x1
+    505x3@(7.5,9,9) # 1s felt VERY comfy. Deep.
+  bench: # A little deload. Roughly following plan from last time I benched 405.
+    20kgx10, 70kg, 100kg, 120kgx3, 130kgx1, 140kgx1
+    150kgx5@6, 155kgx5@6 # Butt coming up -- but bench is squishy.
+  2-count paused bench:
+    150kgx5@(8,9) # Really good. 2s butt stayed low. Focused on squeezing pecs.
+
+2016-09-06 (Tuesday)
+  weight: 202.2
+  deadlift:
+    70kgx5x2, 120kg, 170kgx3, 200kgx1, 220kgx1
+    240kgx1@7, 260kgx1@8 # Pretty fast. A little under opener?
+    250kgx3@8 # Real good. Hamstrings surprised at being used.
+  sldl:
+    220kgx4@7, 225kgx4@7 # With straps. 2s accidentally with a loose belt.
+  close-grip bench: # Not feeling great, left side tired, shoulders beat up.
+    45x10x2, 135, 185, 225, 275x3, 315x1, 335x4@(7,8,10) # That got maximal real quick.
+
+2016-09-05 (Monday) # 3 Weeks Out.
+  weight: 201.8
+  squat:
+    20kgx10x2, 60kg, 100kg, 140kgx3, 185kgx1, 205kgx1, 225kgx1
+    250kgx1@7 # Not much bounce, though. Smooth.
+    270kgx1@8 # Wow, really fast! And Sarah filmed depth. Great. Good opener.
+    260kgx3@9 # Cut some depth on 2 and 3, felt like. Tough.
+    255kgx3@(8.5,8) # Last set all very tight at bottom, felt great! Very strong.
+  paused bench:
+    20kgx10x2, 70kg, 100kg, 120kgx3, 140kgx1, 150kgx1 # Butt keeps rising.
+    165kgx1@8, 175kgx1@9.5 # With commands. Ka-chunked, and afraid to use legs.
+    167.5kgx3@9.5 # Good but tough.
+    162.5kgx3@9 # Argh! Tough. Calling early.
+
+2016-09-03 (Saturday)
+  sldl:
+    70kgx5x3, 120kg, 170kg
+    190kgx5@7, 210kgx5@7.5 # Hip not feeling great, so OK for the moment. Not great volume.
+
+2016-09-02 (Friday)
+  weight: 201.6
+  squat:
+    20kgx10x2, 60kg, 100kg, 140kgx3, 185kgx1, 205kgx1, 225kgx1, 245kgx1
+    257.5kgx3@8.5, 252.5kgx3@(8.5,8) # Nice.
+  bench:
+    20kgx10x2, 70kg, 100kg, 120kgx3, 130kgx1, 140kgx1, 150kgx1, 160kgx1
+    167.5kgx3@(9,8,8) # Nice. 1s3r accidentally paused. 1r VERY fast.
+
+2016-09-01 (Thursday)
+  2-count paused squat: # Instead of pin: to avoid sudden knee loading.
+    45x10x2, 135, 225, 315x3, 405x1, 455x1 # Mid-back, left elbow, left ankle feeling bad.
+    495x3@(8,8.5,7.5)
+  chain bench:
+    45x10x2, 135, 185, 225, 225+80x3
+    275+80x5@6, 295+80x5@7.5, 305+80x5@9.5, 275+80x5@7.5
+  press:
+    45x10x2, 95, 115, 135, 155x6@6, 175x6@6.5
+    180x6@(8.5,8)
+
+2016-08-30 (Tuesday)
+  weight: 202.6
+  deadlift:
+    70kgx5x2, 120kg, 170kgx3, 200kgx1, 220kgx1
+    245kgx3@8.5 # Grip giving out. Left hamstring pain, right quad pain.
+  sldl:
+    212.5kgx5@(7.5,7) # With straps.
+  close-grip bench:
+    45x10x2, 135, 185, 225, 275, 315x1
+    325x5@(8,8.5,9)
+  chins:
+    0x5x3 # Pretty easy. Slow reps.
+
+2016-08-29 (Monday)
+  weight: 201.8
+  squat:
+    20kgx10x2, 60kg, 100kg, 140kgx3, 185kgx1, 205kgx1, 225kgx1
+    247.5kgx1@8, 267.5kgx1@8 # Real nice. Depth good (on video). But right knee hurts after.
+    255kgx3@8.5, 255kgx1f # Went a little lower, then came forward, but that caused lots of knee pain
+                          # and couldn't push. First rep high also.
+    250kgx3@7.5
+  paused bench:
+    20kgx10, 60kg, 100kg, 120kgx3, 140kgx1, 150kgx1
+    165kgx1@8, 175kgx1@9 # With commands. Right shoulder pain after every set.
+    162.5kgx3@(7.5,8,9) # Shoulder hurting less.
+  incline db press:
+    25x8x2, 45x8x2, 60x8x2
+
 2016-08-26 (Friday)
   weight: 201.8
   squat:
