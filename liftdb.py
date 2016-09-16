@@ -104,6 +104,7 @@ liftdb = {
     "3-count paused bench": LiftType.bench,
     "3-board close-grip bench": LiftType.bench,
     "303 tempo bench": LiftType.bench,
+    "303 tempo chins": LiftType.bench,
     "bench": LiftType.bench,
     "cable row": LiftType.bench,
     "cable french press": LiftType.bench,

@@ -2,6 +2,49 @@
 # vim: syntax=python ts=2 tw=79 et sw=2 sts=2:
 # license: CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
 
+2016-09-15 (Thursday)
+  weight: 201.0
+  2-count paused squat:
+    45x10x2, 135, 225, 315x3, 405x1, 455x1, 495x1
+    515x3@(8,8.5) # Both sets good. At end of 1s, spotter on right side lifted the bar,
+                  # shifting all the load onto my left side and re-injuring my back.
+  bench:
+    45x10x2, 135, 185, 225, 275x3, 315x1, 345x1, 365x1
+    385x1@8
+    375x2@(8,8)
+  303 tempo chins:
+    0x5x3
+
+2016-09-13 (Tuesday) # Back returned to same feeling as Monday start.
+  deadlift:
+    70kgx5x2, 120kg, 170kgx3, 200kgx1, 220kgx1, 240kgx1
+    260kgx2@9 # No straps. Nice! Back held up.
+  sldl:
+    230kgx4@8 # Some painful acid reflux or something. Straps.
+  close-grip bench:
+    45x10x2, 135, 185, 225, 275x3, 315x1
+    340x4@7, 345x4@(8.5,9.5)
+  pin bench:
+    345x2@7, 355x2@8.5 # Left pec still hurting, but not getting worse.
+
+2016-09-12 (Monday) # Last week of training.
+  weight: 202.0
+  squat:
+    20kgx10x2, 70kg, 100kg, 140kgx3, 185kgx1, 205kgx1, 225kgx1
+    250kgx1@7 # Feels heavy & slow, but Sarah says fast.
+    260kgx1@7.5 # Nice...
+    270kgx2@9 # Holy shit! Didn't try to go deep (good bounces) and Sarah filmed.
+              # Clear depth, marble test!
+    265kgx2@9 # 1r too deep, lost tension. Didn't feel like trying maximally...
+    260kgx2@8.5
+  # Tried to bench empty bar and mid-back seized up and continues hurting.
+  # Hurt getting off the bench. Couldn't walk. Pain felt in spine, maybe to the
+  # left. Bounced around on a ball for an hour. I think the damage was done by
+  # carring the kilo plates across the entire gym for the last three weeks.
+  paused bench:
+    20kgx10x2, 70kg, 100kg, 120kgx3, 140kgx1, 150kgx1, 160kgx1
+    170kgx2@(8,9,9) # Back held up. No pain during.
+
 2016-09-09 (Friday)
   weight: 201.4
   squat:
