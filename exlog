@@ -2,6 +2,111 @@
 # vim: syntax=python ts=2 tw=79 et sw=2 sts=2:
 # license: CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
 
+2016-10-01 (Saturday) # Sore upper/mid back.
+  press:
+    45x10x2, 95x8, 115x8
+    135x8@(6,5), 145x8@5, 155x8@6 # Bounced at bottom. Good enough.
+
+2016-09-30 (Friday)
+  weight: 200.4
+  beltless deadlift:
+    135x8x2, 225x8, 315x8
+    405x8@(6,6,6)
+  double-overhand deadlift hold:
+    225x30 # Seconds. Pretty tough. Maybe 5 more seconds in me.
+  bench:
+    45x10x2, 135x8, 225x8, 275x5
+    295x8@7, 305x8@8, 315x8@9.5
+    295x8@8.5
+    225x20@10 # PR! First 17 without stopping, not fully locked out.
+              # Failing first in right shoulder.
+  pendlay row:
+    135x10, 185x8
+    225x8@(8,8.5) # As if my back isn't beat up enough from CSR yesterday and deadlift today.
+
+2016-09-29 (Thursday)
+  weight: 199.6
+  2-count paused squat:
+    45x10x2, 135, 225, 315x3
+    405x6@(7,6.5,7.5)
+  press:
+    45x10x2, 95, 115, 135, 155x3
+    165x6@6, 170x6@6.5, 175x6@7, 180x6@8
+  2-count paused seated goodmorning: # In deadlift slippers.
+    45, 135, 225x6@(6,7,6) # Mostly beating up hips.
+  2-count paused chest-supported rows:
+    45x6, 90x6@(6,6,5) # Pretty easy. But lats very tired the next day.
+
+2016-09-27 (Tuesday) # Nothing really planned for this week, just getting in shape.
+  squat:
+    45x10x2, 135, 225, 315x3, 405x1
+    455x6@(6,6.5,5,6.5) # Nice.
+  paused bench:
+    45x10x2, 135, 225
+    275x6@4, 295x6@(6,6,6.5,7.5)
+  2-count paused seated goodmornings: # Held low-bar, safeties at 15.
+    135, 225, 275x5 # Can't call RPE: difficulty is from calves cramping.
+                    # Hip flexor extremely sore/tight after. Back doesn't care.
+
+2016-09-26 (Monday) # Could barely move Sunday, not great today.
+  weight: 202.4
+  sumo deadlift: # Just for a stretch.
+    135x5x2, 225, 315x5 # 100 degrees in the garage, too hot!
+
+2016-09-24 (Saturday) # USAPL Boss of Bosses 3!
+  weight: 199.6 # 90.5kg
+  squat:
+    20kgx10x2, 70kg, 120kg, 145kgx3, 185kgx1, 205kgx1, 225kgx1, 250kgx1, 260kgx1
+    270kgx1 # First attempt: CA state record (beating Ryan King's 267.5). Flew!
+    280kgx1 # Second attempt: CA state record!
+    285kgx1 # Third attempt: CA state record! Not too maximal, had ~290 in me.
+  paused bench:
+    20kgx10x2, 70kg, 100kg, 120kgx3, 140kgx1, 150kgx1, 162.5kgx1
+    172.5kgx1 # First attempt: Easy. Chosen for a good 2nd, going for Total record.
+    180kgx1 # Second attempt: also easy. Good for Total record (would only need 270kg DL).
+    185kgx1 # Third attempt: CA state record (beating Robbie Sardinia's 182.5). Flew! Motivated.
+  deadlift:
+    70kgx5x2, 120kg, 170kgx3, 200kgx1, 220kgx1, 240kgx1, 252.5kgx1 # Grip not feeling great.
+    265kgx1 # First attempt: CA state Total record (beating Ryan King's 732.5). OK.
+    272.5kgx1 # Second attempt: CA state Total record! Grip getting fatigued at down command.
+    277.5kgx1 # Third attempt: Easy on back, but grip barely holding on. Could have done 280.
+
+2016-09-21 (Wednesday) # Triples ~80%.
+  weight: 199.4
+  squat:
+    45x10x2, 135, 225, 315x3, 405x1, 455x1
+    495x3@(4,6,7) # ~5-7 min rest. Not bad, just poor conditioning.
+  paused bench:
+    45x10x2, 135, 185, 225, 275x3, 315x1
+    325x3@(7,5,5) # Tried on 2,3s.
+
+2016-09-19 (Monday) # Meet week!
+  weight: 198.6
+  squat:
+    20kgx10x2, 70kg, 120kg, 145kgx3, 185kgx1, 205kgx1, 225kgx1
+    250kgx1
+    260kgx1@7.5 # Maybe? Good enough, don't need to do 270 today.
+  paused bench:
+    20kgx10x2, 70kg, 100kg, 120kgx3, 140kgx1, 150kgx1, 160kgx1
+    170kgx1@8.5 # With Sarah-long pause.
+  deadlift:
+    70kgx5x2, 120kg, 170kgx3, 200kgx1, 220kgx1
+    240kgx1@6 # Last warmup, felt good.
+
+2016-09-16 (Friday)
+  weight: 201.0
+  squat:
+    20kgx10x2, 70kg, 120kgx4, 145kgx3, 185kgx1, 205kgx1, 225kgx1
+    250kgx1@7 # Feels heavy, and left back feeling bad.
+    260kgx1@7.5 # Back pain mostly just when unracking. Can probably be ignored.
+    270kgx2@8.75 # Came forward a bit: went maybe too low?
+  3-count paused bench:
+    45x10x2, 135, 225x3, 275x2, 315x1
+    335x1@8 # Jumped the rack command.
+    355x1@8
+    365x1@9 # Nice. Smooth.
+    345x2@8, 355x2@9 # Also smooth.
+
 2016-09-15 (Thursday)
   weight: 201.0
   2-count paused squat:
