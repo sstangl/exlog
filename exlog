@@ -2,6 +2,99 @@
 # vim: syntax=python ts=2 tw=79 et sw=2 sts=2:
 # license: CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
 
+2016-10-22 (Saturday)
+  weight: 204.2
+  paused seated press: # Stolen from Dan, in place of inclines.
+    45x10x2, 95x8, 115x8 # Tough!
+    135x6@(6,6,6.5) # Shoulders feel very tired. At end.
+
+2016-10-21 (Friday)
+  weight: 203.0
+  squat:
+    45x10x2, 135, 225, 315x3, 405x1, 455x1, 495x1
+    505x6@(7,8.5,8.5) # 2s6r lost tightness at bottom.
+  bench:
+    45x10x2, 135, 225, 275x3, 315x1
+    335x6@7, 340x6@(8.75,9,9.5)
+    275x12@10 # AMRAP
+  2-count paused-off-floor deadlift:
+    70kg, 120kg, 170kgx5@6
+    190kgx5@6, 200kgx5@7, 210kgx5@(8,10) # Last set add straps, long pauses on 5rs.
+
+2016-10-20 (Thursday) # Left ankle hurting all day.
+  weight: 203.4
+  press:
+    45x10x2, 95, 115, 135, 165x3, 185x1, 205x1
+    225x1@7.5, 230x1@8 # PR!
+    195x6@(8,8,8.5,9.5)
+  2-count paused squat:
+    45x10x2, 135, 225, 315x3, 405x1 # Back tired from press.
+    455x5@(8,8.5,8.5) # 3s5r 4sec pause.
+  slingshot bench: # Blue XL
+    45x10x2, 135, 225, 275x3, 315x3, 365x1
+    385x5@9 # 5lb PR, but +1.5 to RPE, so not great!
+    365x5@(7.5,7) # Nice. Fun!
+
+2016-10-18 (Tuesday)
+  deadlift:
+    70kgx5x2, 120kg, 170kgx3, 200kgx1, 220kgx1, 240kgx1
+    260kgx1@8.5
+    220kgx6@(7,8.5) # With straps. Hamstrings tired. 2s low back tired.
+  chain deadlift:
+    200kg+80x6@(7,6.5) # Tough on low back / hips, esp. on left.
+  1.5-inch deficit deadlift:
+    200kgx6@7 # No straps, hurt hands. Hips real beat up here.
+  close-grip bench:
+    45x10x2, 135, 185, 225, 275x3
+    315x6@(8.5,8,8.5,8) # Better if squeezed & taken seriously.
+  squat:
+    45x10x2, 135, 225, 315x3, 405x1, 455x1
+    475x6@(6.5,8,8.5) # Abs very tired.
+
+2016-10-17 (Monday)
+  weight: 201.4
+  squat:
+    45x10x2, 135, 225, 315x3, 405x1, 455x1, 495x1
+    555x1@7.5, 595x1@8.5
+    495x6@(7.5,7,7) # ~12m rest. Nice! Tiring!
+  paused bench:
+    45x10x2, 135, 225, 275x3, 315x1, 335x1
+    365x1@8 # Tried to incline bench it... cut out inclines.
+    385x1@9 # Right side much weaker/slower.
+    325x6@(8,7.5,8.5) # 1s butt came off bench. 2s still rose, but less.
+    245x15@10 # AMRAP
+
+2016-10-15 (Saturday)
+  incline bench: # Under 45deg
+    45x10x2, 95x10, 115x8, 135x8
+    155x8@6, 165x8@7, 175x8@8 # Little tough in right shoulder.
+  pendlay row:
+    60kgx5x2, 80kg, 95kg
+    110kgx8@9, 110kgx6@(8,9)
+
+2016-10-14 (Friday) # Low Back on Left Achy
+  weight: 202.4
+  squat:
+    45x10x2, 135, 225, 315x3, 405x3, 455x2
+    475x8@(8,9,10) # Tough but got it! Left knee a little unhappy.
+  bench:
+    45x10x2, 135, 225, 275x5, 315x3
+    325x8@8, 315x8@(8.5,9.75)
+  beltless sldl:
+    135x5x2, 225, 315x3 # Then add straps
+    405x8@6, 425x8@8 # Low back (on left) like whoa
+
+2016-10-13 (Thursday) # Right Erectors / Lat Tired.
+  2-count paused squat:
+    45x10x2, 135, 225, 315x3, 405x1
+    435x6@(8,9,9) # Part of left glute pretty tired for 2 days, still tired.
+  press:
+    45x10x2, 95, 115, 135, 155x3
+    167.5x8@6, 172.5x8@7, 177.5x8@7, 182.5x8@8.5, 187.5x8@9.75
+  # Skipping rows: back not great.
+  chins:
+    0x(9,8,7)
+
 2016-10-11 (Tuesday) # Feeling better.
   weight: 203.4
   beltless deadlift:
