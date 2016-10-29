@@ -2,6 +2,58 @@
 # vim: syntax=python ts=2 tw=79 et sw=2 sts=2:
 # license: CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
 
+2016-10-28 (Friday) # Clearly Post-Sickness: High Nasal Pressure During Squats
+  weight: 203.3
+  squat:
+    45x10x2, 135, 225, 315x3, 405x1, 455x1, 495x1 # Tough.
+    530x5@(8,8,9) # So clearly overtired & sick. Cold shivers between sets.
+  2-board bench:
+    45x10x2, 135, 225, 275x3, 315x1, 345x1
+    365x5@(8,7,9)
+  # Skip deadlifts: need extra recovery for deficit Wed night and from sickness.
+
+2016-10-27 (Thursday) # Very, very poor sleep due to Sarah being upset. Back tired.
+  weight: 205.0
+  2-count paused squat:
+    45x10x2, 135, 225, 315x3, 405x1, 455x1
+    475x4@(7,8.5,8) # 5-sec pause on 3s5r.
+  press:
+    45x10x2, 95, 115, 135, 155x3, 185x1, 205x1
+    225xf # From low sleep. No push.
+    215x1@8
+    200x5@(7.5,8,9.5)
+  # Skip bench: due to low sleep, top end way down. Would have been 2-board.
+
+2016-10-25 (Tuesday)
+  weight: 202.4
+  deadlift:
+    70kgx5x2, 120kg, 170kgx3, 200kgx1, 220kgx1
+    240kgx1@7, 265kgx1@8.75, 230kgx5@(7,7) # Stronger when "falling backwards" off floor.
+  chain deadlift:
+    210kg+80x5@(7.5,7) # Back toasty, especially right side.
+  1.5-inch deficit deadlift:
+    210kgx5@6.5 # With straps. Tried a rep without, but hands hurt too much.
+  3-count paused bench:
+    45x10x2, 135, 225, 275x3 # No pain on benches against the wall!
+    295x5@8.5, 300x5@9, 285x5@(8,9) # Pecs tired, not back.
+  squat:
+    45x10x2, 135, 225, 315x3, 405x1, 455x1, 495x1
+    505x5@(8,7,7) # First 3 very fast, then abs fatigued.
+
+2016-10-24 (Monday)
+  weight: 201.4
+  squat:
+    45x10x2, 135, 225, 315x3, 405x1, 455x1, 495x1
+    555x1@7.5, 600x1@9.5 # Tough.
+    525x5@(8,9,8) # Hips more forward 3s. Tough on low back, from deadlifts Friday.
+  paused bench:
+    45x10x2, 135, 225, 275x3, 315x1 # Chest very fatigued.
+    335x1, 365x1@7.5, 385x1@9 # Real shitty. Head came up a lot. Right shoulder pain.
+    335x5@9, 330x5@(8,8,9) # Sarah says right shoulder pronating 1s.
+      # Fixed by thinking about keeping whole upper torso rotated, not just scapula.
+  db bench:
+    40x12, 60x10, 70x10@(5,8) # Very slow last set, with pauses.
+
 2016-10-22 (Saturday)
   weight: 204.2
   paused seated press: # Stolen from Dan, in place of inclines.
