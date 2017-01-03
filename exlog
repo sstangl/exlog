@@ -2,6 +2,180 @@
 # vim: syntax=python ts=2 tw=79 et sw=2 sts=2:
 # license: CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
 
+2017-01-02 (Monday) # Right Knee Pain + Dead Tired + No Coffee
+  weight: 200.8
+  squat:
+    45x10x2, 135, 225, 315x3, 405x1, 455x1, 495x1
+    545x1@8 # Zero bounce.
+    585x1@10 # Almost pasued. Pretty shitty.
+    535x6@9 # Planned to do 3 but this went surprisingly well.
+    505x6@9.5 # Welp. Guess 3 weeks of volume are enough. Maybe stance was too wide?
+  paused bench:
+    45x10x2, 135, 225, 275x3, 315x1, 345x1, 365x1
+    385x1@8.5
+    335x4@(7,8,8,8.5,9) # Harder on right.
+
+2016-12-30 (Friday)
+  squat:
+    45x10x2, 135, 225, 315x3, 405x1, 455x1, 495x1
+    525x6@(8,8.75,9.5) # Ramping pain atshin under right knee.
+  bench:
+    45x10x2, 135, 225, 275x3, 315x1, 335x1 # I think before was too much in triceps.
+    355x6@(8,9,10), 315x6@(7.5,7) # 3s shouldered on right, thus the dropping.
+  sldl:
+    135x5x2, 225, 315x3, 405x1, 455x1
+    485x5@(7.5,7,7) # Forgot to hold last rep extra long =(
+  deadlift hold:
+    355x20x3 # Pretty tiring. A few seconds left.
+
+2016-12-29 (Thursday)
+  weight: 201.0
+  2-count paused squat:
+    45x10x2, 135, 225, 315x3, 405x1, 455x1
+    485x4@(9,8.5,9.5) # Need to start doing dropsets!
+  press:
+    45x10x2, 95, 115, 135, 165x3, 185x1
+    195x6@(8.5,8,9.5,10) # Urgh, getting real tired.
+
+2016-12-27 (Tuesday)
+  weight: 203.0
+  deadlift:
+    70kgx5x2, 120kg, 170kgx3, 200kgx1, 220kgx1, 250kgx1
+    270kgx1@8 # Nice! Tried.
+    235kgx6@(7.5,9) # Hamstrings and mid-back tired! With straps.
+  chain deadlift: # with straps
+    215kg+80x6@(9,8.5)
+  # Skipping deficits: back + hamstrings sufficiently dead. Upper back joined in.
+  close-grip bench:
+    45x10x2, 135, 225, 275x3, 315x1
+    330x6@(8.5,10) # Well... everything is dying.
+    330x4@(8,9,9.5) # Argh.
+  # No squats: clearly overloaded.
+
+2016-12-26 (Monday) # Residual sickness.
+  squat:
+    45x10x2, 135, 225, 315x3, 405x1, 455x1, 495x1
+    545x1@8 # Pretty slow and lots of strain in teeth on right side. Sinus pressure?
+    585x1@9 # Extreme pain in teeth, VERY distracting.
+    515x6@(8.5,8,9) # 3s lower back felt strained. Vertebra moved out of position.
+                    # Sinuses gradually getting cleared by pressure...
+  paused bench:
+    45x10x2, 135, 225, 275x3, 315x1, 345x1, 365x1
+    385x1@8.5 # Ka-chunk.
+    330x6@(8.75,9,7.5,9.5,10) # 3s squeezed and kept in chest, but couldn't replicate.
+
+2016-12-23 (Friday) # Still feeling sick, but recovering.
+  weight: 201.8
+  squat:
+    45x10x2, 135, 225, 315x3, 405x1, 455x1, 495x1
+    505x6@(7.5,8,8.5) # Pretty tiring! Ignore RPE: I'm dead!
+  bench:
+    45x10x2, 135, 225, 275x3, 315x1, 335x1
+    350x6@(10,10) # Right side feels way heavier. Left side fine. Weight imbalance?
+    350x5@9 # Injuring shoulder: stopping.
+  sldl:
+    135x5x2, 225, 315x3, 405x1, 455x1
+    485x5@(7.5,7,8) # 6-count hold on last.
+  deadlift hold:
+    345x20x3 # ~5 more seconds in last set. Tough!
+
+2016-12-22 (Thursday)
+  2-count paused squat:
+    45x10x2, 135, 225, 315x3, 405x1, 455x1
+    475x4@(8.5,8,10) # 3s for 5-count. Feeling sick: throat pressure.
+  press:
+    45x10x2, 95, 115 # 30 min pause involving crying.
+    115, 135, 165x3, 185x1
+    190x6@(7.5,7,7,9,10) # Looking up makes it easier?
+  dips:
+    0x15x4 # Got tiring by end.
+
+2016-12-20 (Tuesday)
+  weight: 201.0
+  deadlift:
+    70kgx5x2, 120kg, 170kgx3, 200kgx1, 220kgx1, 250kgx1
+    270kgx1@9 # Tough, but better than last week.
+    225kgx6@(6.5,7) # With straps.
+  chain deadlift: # with straps
+    205kg+80x6@(6,7)
+  1.5-inch deficit deadlift: # with straps
+    205kgx8@9.5
+  close-grip bench:
+    45x10x2, 135, 225, 275x3, 315x1
+    325x6@(7,7.5,7.5,9,9.5)
+    275x10@10 # AMRAP.
+  squat:
+    45x10x2, 135, 225, 315x3, 405x1, 455x1
+    475x6@(7.5,7.5,8) # Still tough.
+  lat pulldown:
+    140x8, 180x8, 200x8@10, 200x5@10, 180x5@10
+
+2016-12-19 (Monday)
+  weight: 200.6
+  squat:
+    45x10x2, 135, 225, 315x3, 405x1, 455x1, 495x1, 545x1
+    585x1@8.5 # Some minor knee pain. Back a little tired.
+    495x6@(6,9,8) # 3s medium width: no pain if kept in hips.
+                  # 1s pain under right patella increasing each rep.
+  paused bench:
+    45x10x2, 135, 225, 275x3, 315x1, 345x1, 365x1
+    385x1@7.5 # Nice!
+    325x6@(7.5,7,7,8.5,8)
+  bench:
+    275x8@8.5 # Immediately after the last set of 325, AMRAP.
+
+2016-12-16 (Friday)
+  weight: 203.4
+  squat:
+    45x10x2, 135, 225, 315x3, 405x1, 455x1
+    485x6@(7,7.5,8.5) # Bone at top of right shin trying to escape, hurt at lockout.
+  bench:
+    45x10x2, 135, 225, 275x3, 315x1
+    345x6@(9,7.5,8,7.5,9)
+  sldl:
+    135x5x2, 225, 315x3, 405x1
+    475x5@(7,6,7) # 3s5r held for 6-count.
+  deadlift hold:
+    335x20x3
+
+2016-12-15 (Thursday) # At home. Rain.
+  weight: 203.6
+  2-count paused squat:
+    45x10x2, 135, 225, 315x3, 405x1
+    445x6@(7.5,9,9) # 3s pain near right knee on left side, low, top shin.
+                    # Smelling ammonia on 1s5,6r. 2s bar rolling everywhere.
+  press:
+    45x10x2, 95, 115, 135, 165x3 # Falling asleep!
+    185x6@(6.5,6,7.5,8,9)
+
+2016-12-13 (Tuesday) # Entire right side barely holding on
+  deadlift:
+    70kgx5x2, 120kg, 170kgx3, 200kgx1, 220kgx1
+    250kgx1@8 # Hip cracked, felt back bent, unstable.
+    270kgx1@9 # Felt like the rep took a good while.
+    215kgx6@(6,6.5)
+  chain deadlift:
+    195kg+80x6@(6.5,6)
+  1.5-inch deficit deadlift:
+    195kgx8@9.5
+  close-grip bench:
+    45x10x2, 135, 225, 275x3
+    315x6@(7,7,7.5,8.5,8) # Right pec feels strange, can't push well.
+  squat:
+    45x10x2, 135, 225, 315x3, 405x1 # Pain at bone under right patella at bottom.
+    455x6@(6,7,7.5) # Pain not as bad if quads not squeezed at top, but not great.
+
+2016-12-12 (Monday) # Back from Hawaii.
+  weight: 201.8
+  squat:
+    45x10x2, 135, 225, 315x3, 405x1, 455x1, 495x1, 545x1
+    585x1@9
+    475x6@(6.5,8,9) # Mostly cardio. Some knee pain.
+  paused bench:
+    45x10x2, 135, 225, 275x3, 315x1, 345x1
+    375x1@8
+    315x6@(7,6,7.5,8.5,9) # Cardio.
+
 2016-12-03 (Saturday) # Stimulus before Hawaii, again.
   deadlift:
     70kgx5x2, 120kg, 170kgx3, 200kgx1
