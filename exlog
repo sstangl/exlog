@@ -2,6 +2,36 @@
 # vim: syntax=python ts=2 tw=79 et sw=2 sts=2:
 # license: CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
 
+2017-02-28 (Tuesday) # Poked a vertebra (T5?) and now it hurts all the time.
+  weight: 202.4
+  deadlift:
+    70kgx5x2, 120kg, 170kgx3, 200kgx1, 220kgx1
+    250kgx1@8 # A little stiff-legged.
+    270kgx1@9 # Urgh. Worried about back, I guess.
+    237.5kgx6@(7,7)
+  chain deadlift:
+    215kg+80x6@(6,8) # Hams tired.
+  3-inch deficit deadlift:
+    215kgx6@8
+  close-grip bench:
+    45x10x2, 135, 225, 275x3 # This is what hurts the back!
+    320x6@(6.5,7,7.5,8) # Harder on right side, also tough on back.
+  leg press:
+    90x10, 180x10, 270x10, 380x10@(6.5,6,7,7.5,8)
+
+2017-02-27 (Monday)
+  weight: 201.4
+  squat:
+    45x10x2, 135, 225, 315x3, 405x1, 455x1, 495x1
+    545x1@6, 585x1@7.5 # Pretty slow. Right knee hurts.
+    535x6@(8,8.5,8.5) # Good. 15m rest between.
+  chain squat:
+    495+80x5@(7.5,8.5)
+  paused bench:
+    45x10x2, 135, 225, 275x3, 315x1, 365x1@7 # Right side bad.
+    385x1@8
+    335x6@(7.5,8,8,9.5), 315x6@8
+
 2017-02-24 (Friday)
   weight: 203.0
   squat:
