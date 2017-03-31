@@ -2,6 +2,144 @@
 # vim: syntax=python ts=2 tw=79 et sw=2 sts=2:
 # license: CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
 
+2017-03-17 (Friday) # Last day before 2-week trip.
+  weight: 201.2
+  squat:
+    45x10x2, 135, 225, 315x3, 405x1, 455x1
+    495x3@6, 515x3@6.5, 535x3@8 # Stance was a little wider.
+    555x3@9 # Narrower stance, but hard to push.
+  bench:
+    45x10x2, 135, 225, 275x3, 315x4@5
+    335x4@6, 345x4@6.5, 355x4@7, 365x4@8, 375x4@9
+  sldl:
+    135x5x2, 225, 315x3, 405x1, 455x1
+    475x6@(6.5,7,8) # Last rep held 8-count. Tough!
+  deadlift hold:
+    365x20x3
+
+2017-03-16 (Thursday) # Poor sleep. About 5 hours. Left knee hurts but not in SBDs.
+  2-count paused squat:
+    45x10x2, 135, 225, 315x3, 405x1, 455x1
+    475x5@(8,8) # Good enough: everything dead.
+  3-count paused bench:
+    45x10x2, 135, 185, 225, 275x3
+    295x5@7.5, 305x4@7, 315x4@8 # Ugh
+  beltless press:
+    45x10x2, 95, 115, 135
+    165x6@(6,6,6)
+
+2017-03-14 (Tuesday)
+  deadlift:
+    70kgx5x2, 120kg, 170kgx3, 200kgx1, 220kgx1
+    250kgx1@8, 270kgx1@9 # Grip opening.
+    250kgx5@(8,8.75)
+  chain deadlift:
+    225kg+80x5@(8.5,9) # Upper back pretty dead, as seems to be the theme.
+  close-grip bench:
+    45x10x2, 135, 225, 275x3, 315x1
+    325x5@(7,7.5,8,7.5,8)
+  pendlay row:
+    135x5x2, 185x5
+    225x8@(7.5,8,8.5)
+  # No squat stuff: tendinitis in left knee.
+
+2017-03-13 (Monday) # Left knee tendinitis, also DST switch.
+  weight: 201.2
+  squat:
+    45x10x2, 135, 225, 315x3, 405x1, 455x1, 495x1
+    545x1@7.5, 585x1@9.5 # Just crap. Knee pain bad.
+    495x5@(7,6.5,7) # Ugh. Still hard. Little intensity deload due to knee pain.
+  paused bench:
+    45x10x2, 135, 225, 275x3, 315x1, 345x1
+    365x1@8.5, 385x1@8 # lol, OK.
+    345x5@(8,8.5,9), 315x5@(6,7.5,7)
+
+2017-03-10 (Friday) # Left knee getting subpatellar tendinitis.
+  weight: 201.4
+  squat:
+    45x10x2, 135, 225, 315x3, 405x1, 455x1, 495x1, 545x1
+    557.5x5@10 # Weird. Legs didn't care, but lower back rounding on last two.
+               # Hips moved forward to protect back.
+    525x5@(8,10) # Back is the weak point, by far.
+  bench:
+    45x10x2, 135, 225, 275x3, 315x1
+    345x5@(7.5,8.5,7,10) # Random RPE generator.
+  # Skipping SLDL -- due to low back failure on squats.
+  deadlift hold:
+    355x20x3
+  chins:
+    0x(5,6,7,6,5) # Grip tough.
+
+2017-03-09 (Thursday)
+  weight: 202.4
+  2-count paused squat:
+    45x10x2, 135, 225, 315x3, 405x1, 455x1
+    475x5@(7.5,7.5,7) # Last rep paused 6-count, RPE not counting that.
+  1-board bench:
+    45x10x2, 135, 225, 275x3, 315x3
+    350x5@(6.5,6.5,7,7,7.5) # Butt coming off bench.
+  press:
+    45x10x2, 95, 115, 135, 155x3
+    175x8@(7.5,7.5,8) # Ugh. Good for upper back.
+
+2017-03-07 (Tuesday)
+  weight: 201.2
+  deadlift:
+    70kgx5x2, 120kg, 170kgx3, 200kgx1, 220kgx1
+    250kgx1@7, 270kgx1@8
+    242.5kgx6@(7.5,8.5)
+  chain deadlift:
+    220kg+80x6@(8.5,8.5) # Easy until 6r, then slow lockout.
+  3-inch deficit deadlift:
+    220kgx6@8 # Nice!
+  close-grip bench:
+    45x10x2, 135, 225, 275x3, 315x1
+    325x6@(7,8,8.5,9.5)
+  leg press:
+    90x10x2, 180x10, 270x10
+    400x10@(7.5,6.75,6,7.5,8.5) # Keeping knees out to use outer quads more.
+
+2017-03-06 (Monday) # Left rib hurts.
+  weight: 201.4
+  squat:
+    45x10x2, 135, 225, 315x3, 405x1, 455x1, 495x1
+    545x1@6 # Feels loose.
+    585x1@7.5 # Slow & mostly in lower back.
+    550x6@9.5 # Nice =)
+    550x5@9
+    525x5@8.5 # Knees getting shaky, so good enough!
+  paused bench:
+    45x10x2, 135, 225, 275x3, 315x1, 365x1@8 # Ugh
+    385x1@8 # Minor right side pain. Using the rack benches.
+    340x6@(8.5,9,9), 315x6@(7.75,7.5)
+
+2017-03-03 (Friday) # More back and rib fun.
+  weight: 200.8
+  squat:
+    45x10x2, 135, 225, 315x3, 405x1, 455x1, 495x1, 525x1
+    542.5x6@(8.75)
+    542.5x5@(8.5,9) # Back not strong. Getting too heavy. Need a break? At least from intensity.
+  bench:
+    45x10x2, 135, 225, 275x3, 315x1
+    340x5@(6,6.5,7,7) # Pec attachment on right still hurts.
+  sldl:
+    135x5x2, 225, 315x3, 405x1
+    475x6@(7,7,7) # Last rep held 6-count.
+  deadlift hold:
+    345x20x3
+
+2017-03-02 (Thursday) # Back constantly bothered.
+  weight: 202.8
+  2-count paused squat:
+    45x10x2, 135, 225, 315x3, 405x1
+    465x5@(7,7,7.5) # Didn't long-pause 3s5r: forgot!
+  3-count paused bench:
+    45x10x2, 135, 225, 265x3
+    295x5@7, 305x5@7, 315x5@7.5
+  cable row: # To fix back
+    90x10, 130x10, 150x10
+    170x10@(6,6,7)
+
 2017-02-28 (Tuesday) # Poked a vertebra (T5?) and now it hurts all the time.
   weight: 202.4
   deadlift:
