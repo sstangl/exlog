@@ -98,6 +98,7 @@ liftdb = {
     "touch-and-go deadlift": LiftType.deadlift,
 
     # Accessories primarily affecting bench.
+    "1-board bench": LiftType.bench,
     "1-board paused bench": LiftType.bench,
     "2-board bench": LiftType.bench,
     "3-board bench": LiftType.bench,

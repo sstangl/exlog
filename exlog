@@ -2,8 +2,361 @@
 # vim: syntax=python ts=2 tw=79 et sw=2 sts=2:
 # license: CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
 
+# Lots of back discomfort on Wednesday, pretty sore.
+
+2017-05-16 (Tuesday)
+  weight: 198.8
+  deadlift:
+    70kgx5x2, 120kg, 170kgx3, 200kgx1, 220kgx1
+    250kgx1@7.5, 280kgx1@8.5 # Held for 4-count. Right hand opening on hold.
+                             # Some muscles in back fatiguing.
+    280kgx1@9, 270kgx1@8 # No straps.
+  close-grip bench:
+    45x10x2, 135, 225, 275x3, 315x1 # Right pec soreish.
+    335x4@(6.5,7,7.5) # Some muscle by spine in mid-back feels extremely weak, needs recovery.
+  squat:
+    45x10x2, 135, 225, 315x3, 405x1 # Keeping it light: just keeping fitness.
+    455x5@(6,6,5) # Back REALLY unhappy, though. Tough on abs.
+
+2017-05-15 (Monday) # 2 weeks out. Various pains, mostly back and knees.
+  weight: 200.4
+  squat:
+    45x10x2, 135, 225, 315x3, 405x1, 455x1, 495x1
+    545x1@7, 585x1@7.5 # Some right quad pain. Too low?
+    600x2@9 # Damn good, both.
+    585x2@10 # Both good, just tired. Safe grind. First rep very good.
+  paused bench:
+    45x10x2, 135, 225, 275x3, 315x1, 365x1
+    385x1@7, 405x2@9.5 # Very strong, long pauses, but right shoulder pronated on 2s2r.
+    385x2@8.5
+  3-count paused bench:
+    385x1@10 # more than 3-count but whateva.
+
+2017-05-12 (Friday)
+  weight: 199.6
+  squat:
+    45x10x2, 135, 225, 315x3, 405x1, 455x1, 495x1
+    545x1@6, 585x2@(8,8.25,9) # Mid-back tired.
+  bench:
+    45x10x2, 135, 225, 275x3, 315x1, 345x1
+    365x4@(7,6.5,8.75) # But feels real shit, esp. in right shoulder.
+  sldl:
+    135x5x2, 225, 315x3, 405x1, 455x1
+    495x6@7 # Drop reps to spare lower back.
+    495x5@(7,7) # Last rep held 8-count, hurting left wrist a little.
+  deadlift hold:
+    435x20x2 # One vertebra in neck feeling the muscles on each side failing: skipping 3s.
+             # Holding it too un-shrugged, I think. Should take off floor, not
+             # via rack pull.
+
+2017-05-11 (Thursday) # Feel sick in throat.
+  weight: 199.4
+  2-count paused squat:
+    45x10x2, 135, 225, 315x3, 405x1, 455x1
+    495x3@7 # VMOs pretty sore. Left hamstring tight.
+    455x5@(7.5,7.5,8) # 3s5r 5-count pause. RPE not counting that.
+  1-board bench:
+    45x10x2, 135, 225, 275x3, 315x1, 365x1, 385x1
+    405x3@8.5 # Nice!!!
+    385x3@(8,8.5) # Right pec a little tender.
+  press:
+    45x10x2, 95, 135, 165x3
+    185x5@(6,7.5,8) # Left shoulder not too thrilled.
+
+2017-05-09 (Tuesday)
+  weight: 199.4
+  deadlift:
+    70kgx5x2, 120kg, 170kgx3, 200kgx1, 220kgx1
+    250kgx1@7, 285kgx1@8 # Uh... really damn fast. Grip awesome.
+    270kgx2@(7.5,8,8.5) # Straps.
+  2-count pasude-off-floor deadlift:
+    220kgx4@8
+  close-grip bench:
+    45x10x2, 135, 225, 275x3, 315x1
+    325x5@(7,7,6,6.5)
+  squat: # Rehbands.
+    45x10x2, 135, 225, 315x3, 405x1, 455x1
+    495x5@(8,7,8)
+
+2017-05-08 (Monday) # Very tired: long walk Sunday.
+  weight: 201.6
+  squat:
+    70kgx5x2, 120kg, 170kgx3, 200kgx1, 225kgx1
+    252.5kgx1@7.5 # Weak. Rotated counter-clockwise at bottom to avoid right quad pain.
+    275kgx1@10 # Slow but non-maximal. Right quad tension.
+    261kgx2@(9,8,8.5) # Pretty heavy... Better bracing on 2s.
+  paused bench:
+    45x10x2, 135, 225, 275x3, 315x1, 365x1
+    385x1@7, 405x1@8 # Nice. Right shoulder OK-ish. Some sharp pain after.
+    375x2@(7.5,8.5,7.5) # Sarah forgot press command on 2s1r. 4-count pause!
+  cable row:
+    150x8x3
+
+2017-05-05 (Friday) # Feel SO tired. CNS toast.
+  weight: 200.6
+  squat:
+    45x10x2, 135, 225, 315x3, 405x1, 455x1, 495x1
+    545x1@7, 565x3@(8,8,8.75) # Still OK. Controlled. Right eye blurry.
+  bench:
+    45x10x2, 135, 225, 275x3, 315x1, 345x1
+    365x4@6.5, 375x4@10 # Huh... kept reps slow. Not enough rest?
+    365x4@(8.5,8) # Right shoulder moving, though.
+  sldl:
+    135x5x2, 225, 315x3, 405x1, 455x1
+    495x6@(6,7,7) # 3s6r held for 8-count. Left hamstring a little weird.
+  deadlift hold:
+    425x20x3 # 1s something moved by a vertebra, with minor pain. Grip holding strongly.
+
+2017-05-04 (Thursday) # Left hamstring still bad.
+  weight: 203.4
+  2-count paused squat:
+    45x10x2, 135, 225, 315x3, 405x1, 455x1
+    495x3@(7.5,8,7.5) # Feel very CNS-drained. Depressed.
+  1-board bench:
+    45x10x2, 135, 225, 275x3, 315x1, 365x1
+    385x3@(7.5,7,7)
+  303 tempo bench: # To get a stretch & comfy in bottom position.
+    45x10x2, 135, 225x3, 275x3@6
+
+2017-05-02 (Tuesday)
+  weight: 200.6
+  deadlift:
+    70kgx5x2, 120kg, 170kgx3, 200kgx1, 220kgx1
+    250kgx1@7, 280kgx1@8.5 # Very nice. Held for easy 3-count.
+    260kgx3@(7,8,8)
+  2-count paused-off-floor deadlift:
+    220kgx4@8 # No straps. Just one set: back already toasty.
+  close-grip bench:
+    45x10x2, 135, 225, 275x3, 315x1
+    325x5@(6,7,6,8) # Right shoulder cramped badly on 2s.
+  squat:
+    4x10x2, 135, 225, 315x3, 405x1, 455x1
+    495x5@(7,6.5,7) # Better bracing on 2s.
+
+2017-05-01 (Monday) # Feels very heavy.
+  weight: 198.8
+  squat:
+    45x10x2, 135, 225, 315x3, 405x1, 455x1, 495x1
+    545x1@6.5 # Not great effort, kept it loose.
+    605x1@8.5 # Felt very comfy, very stable!
+    555x3@(7.5,8,8.25) # Nice.
+  paused bench:
+    45x10x2, 135, 225, 275x3, 315x1
+    365x1, 385x1@8, 405x1@8.5 # Nice. Right shoulder pain.
+    365x3@(6.5,7.5,8)
+
+2017-04-28 (Friday)
+  weight: 199.4
+  squat:
+    45x10x2, 135, 225, 315x3, 405x1, 455x1, 495x1
+    545x4@(7.5,8,8)
+  bench:
+    45x10x2, 135, 225, 275x3, 315x1, 345x1
+    365x4@8, 355x4@(7,7.5,9) # Ugh. Do reps instead! Trying with a belt, maybe better?
+  sldl:
+    135x5x2, 225, 315x3, 405x1, 455x1
+    495x6@(7.5,6.5,7) # 3s6r held 6-count.
+  deadlift hold:
+    405x20x3 # Wow, held nicely! Go team. Hard on traps.
+
+2017-04-27 (Thursday) # Left hamstring feels strange.
+  weight: 200.6
+  2-count paused squat:
+    45x10x2, 135, 225, 315x3, 405x1, 455x1
+    495x1@7.5, 545x1@9.5
+    475x4@(7,7,8) # 3s4r 6-count hold. Great! RPE not counting that.
+  1-board bench:
+    45x10x2, 135, 225, 275x3, 315x1, 355x1
+    375x4@(7,7), 385x4@(10,7.5) # 10m rest before last set. 3s mis-pathed.
+  press:
+    45x10x2, 95, 135, 165x3, 185x6@(6.75,6,7)
+  chins:
+    0x8
+
+2017-04-25 (Tuesday)
+  deadlift:
+    70kgx5x2, 120kg, 170kgx3, 200kgx1, 220kgx1
+    250kgx1@7, 270kgx1@8.5 # Grip opening a little.
+    250kgx4@(6.5,7,7) # Bar getting stuck on legs. Straps.
+  2-count paused-off-floor deadlift:
+    220kgx4@(7.5,7) # 2s4r held 10-count. No straps!
+  close-grip bench:
+    45x10x2, 135, 225, 275x3, 315x1
+    325x5@(6,6.5,6.5,6.5,6.75)
+  squat:
+    45x10x2, 135, 225, 315x3, 405x1, 455x1
+    495x5@(6,7.5,8) # Tough. Hitting depth hard! Using gym belt.
+
+2017-04-24 (Monday) # Last "Volume" Week.
+  weight: 200.0
+  squat:
+    45x10x2, 135, 225, 315x3, 405x1, 455x1, 495x1
+    545x1@7, 585x1@7.5 # High? Too good; suspicious.
+    535x4@(7,7.25,7.5)
+  paused bench:
+    45x10x2, 135, 225, 275x3, 315x1
+    365x1@7, 385x1@7.5, 405x1@8.5 # Held for 3-count pause, RPE not counting that.
+    355x4@(6.5,7,7.75,8.5,8.5) # Right shoulder pain - have to be careful to set up centered.
+
+2017-04-21 (Friday) # Very warm today.
+  weight: 200.6
+  squat:
+    45x10x2, 135, 225, 315x3, 405x1, 455x1, 495x1
+    525x5@(7.5,7,6.5) # But clip on right failed. Dehydrated?
+  bench:
+    45x10x2, 135, 225, 275x3, 315x1
+    355x5@(7,7.5,7.5,9)
+  sldl:
+    135x5x2, 225, 315x3, 405x1, 455x1
+    475x6@(6,10,6) # 2s grip slipping badly: using a bar with little knurl. 3s more chalk.
+                   # 3s6r held 10-count.
+  deadlift hold:
+    375x20x3 # Plenty of grip left!
+
+2017-04-20 (Thursday)
+  weight: 200.6
+  2-count paused squat:
+    45x5x2, 135, 225, 315x3, 405x1, 455x1
+    495x1@8, 545x1@9
+    475x4@(6,7,8) # 3s4r for 5-count, RPE not counting that.
+  1-board bench:
+    45x10x2, 135, 225, 275x3, 315x1
+    355x5@(6.5,6.5), 365x5@(6.5,7.5)
+  press:
+    45x10x2, 95, 135 # No shoulder pain.
+    165x6@(5,5), 185x6@(7.5) # Left shoulder weak.
+
+2017-04-18 (Tuesday) # Feeling very sore today.
+  weight: 201.0
+  deadlift:
+    70kgx5x2, 120kg, 170kgx3, 200kgx1, 220kgx1
+    250kgx1@8, 270kgx1@8.75 # Grip held, but RHS slipping a little.
+    240kgx5@(6,6.5,7) # Straps.
+  2-count paused-off-floor deadlift:
+    200kgx5@(7.5,7.5)
+  close-grip bench:
+    45x10x2, 135, 225, 275x3, 315x1
+    315x6@(6,6.5,6.75,7,7.25) # Right shoulder not too hot.
+  squat:
+    45x10x2, 135, 225, 315x3, 405x1, 455x1
+    475x6@(6,7,8)
+
+2017-04-17 (Monday) # Feeling very good today!
+  weight: 198.8
+  squat:
+    45x10x2, 135, 225, 315x3, 405x1, 455x1, 495x1
+    545x1@7, 585x1@8 # Nice! Squat's back!
+    515x5@(6,6.5,7.25)
+  paused bench:
+    45x10x2, 135, 225, 275x3, 315x1, 345x1
+    365x1@7, 385x1@8, 405x1@9 # With press command.
+    345x5@(6.5,6.5,7.5,8.5,8)
+
+2017-04-14 (Friday)
+  weight: 202.0
+  squat:
+    45x10x2, 135, 225, 315x3, 405x1, 455x1, 495x1
+    505x5@(6,6.5,7) # Form feels very locked-in today from paused squats.
+  bench:
+    45x10x2, 135, 225, 275x3, 315x1
+    345x5@(7,6.5,7.75,9) # Butt coming up on some reps.
+  sldl:
+    135x5x2, 225, 315x3, 405x1
+    455x6@(6,6.5,6) # 3s6r held for 10-count easily.
+  deadlift hold:
+    365x20x3 # ~5 seconds left? Painful!
+
+2017-04-13 (Thursday)
+  weight: 202.2
+  2-count paused squat:
+    45x10x2, 135, 225, 315x3, 405x1, 455x1 # Hip tight.
+    495x1@8, 525x1@8.5, 545x1@9
+    565x1@9.5 # Nice!
+    465x5@(6.5,8,8)
+  1-board bench:
+    45x10x2, 135, 225, 275x3, 315x1, 365x1
+    405x1@8.5, 425x1@9
+    345x5@(6,6,6.5,6,6)
+
+2017-04-11 (Tuesday) # Still no Sarah.
+  weight: 200.2
+  deadlift:
+    70kgx5x2, 120kg, 170kgx3, 200kgx1, 220kgx1
+    250kgx1@8, 270kgx1@9 # Grip held nicely.
+    230kgx5@(6,6.5,7) # Straps.
+  2-count paused-off-floor deadlift:
+    200kgx5@(7.5,7)
+  close-grip bench:
+    45x10x2, 135, 225, 275x3, 315x1
+    295x7@(6,5.5), 305x7@(6,8) # Urgh, RPE drop.
+  squat:
+    45x10x2, 135, 225, 315x3, 405x1
+    455x6@(6,5.5), 475x6@7
+
+2017-04-10 (Monday) # Sarah in LA.
+  weight: 199.8
+  squat:
+    45x10x2, 135, 225, 315x3, 405x1, 455x1, 495x1
+    545x1@8 # Feels very loose still.
+    565x1@8 # Thought about "up" the whole time. Better!
+    495x5@(6.5,6.5,7)
+  paused bench:
+    45x10x2, 135, 225, 275x3, 315x1, 345x1
+    365x1@7, 385x1@7.5, 405x1@9
+    335x5@(6,6,7,7.5,8.5) # Shoulders happier if pecs squeezed.
+
+2017-04-07 (Friday)
+  weight: 199.8
+  squat:
+    45x10x2, 135, 225, 315x3, 405x1, 455x1
+    485x6@(6,6.75,7.25) # Left scapula hurting. Kept back vertical.
+  bench:
+    45x10x2, 135, 225, 275x3, 315x1
+    325x6@5.5, 330x6@(8,7.5,9) # First 5 reps ez, last slowed to nothing.
+  sldl:
+    135x5x2, 225, 315x3, 405x1
+    425x8@5, 435x8@(6,5) # Last rep held 10-count, easy.
+  deadlift hold:
+    345x20x3 # Very easy...
+
+2017-04-06 (Thursday)
+  2-count paused squat:
+    45x10x2, 135, 225, 315x3, 405x1
+    455x5@(7,7.5,8.5) # Too hard. =( Regressed a lot. Left knee pain & low back sore.
+  1-board bench:
+    45x10x2, 135, 225, 275x3, 315x1
+    335x5@(6,6.5,6,6.25,6)
+  # Skipping press: sickness feeling stronger.
+  chins:
+    0x5x3 # Plenty easy.
+
+2017-04-04 (Tuesday)
+  weight: 198.8
+  deadlift:
+    70kgx5x2, 120kg, 170kgx3, 200kgx1, 220kgx1
+    250kgx1@7 # Except for grip, which made it like @9... Left hand opening.
+    270kgx1@8 # Again not counting grip.
+    220kgx6@(5.5,6,6.5) # Straps.
+  2-count paused-off-floor deadlift:
+    200kgx6@(8,9) # Too heavy. Urgh.
+  close-grip bench:
+    45x10x2, 135, 225
+    275x8@(6,5.5), 285x8@(7,7.5)
+  squat: # Forgot knee sleeves at home
+    45x10x2, 135, 225, 315x3, 405x1, 455x6@7, 445x6@8 # Left knee sharp pain at bottom.
+
 2017-04-03 (Monday) # Back home. New cycle leading up to meet. Regain strength.
   weight: 197.4 # Sickness.
+  squat:
+    45x10x2, 135, 225, 315x3, 405x1, 455x1, 495x1
+    545x1@7, 565x1@9 # Just poor pushing... no ability to control muscle.
+    475x6@(6,6.75,6) # OK, so loss is just in CNS.
+  paused bench:
+    45x10x2, 135, 225, 275x3, 315x1, 345x1
+    365x1@7.5, 385x1@8.5 # Nice! Not tired, just CNS dead.
+    325x6@(6.5,6.5,7,8) # 7m rests. RHS falling off bench.
+  chest-supported row:
+    45x10, 90x10@4, 135x10@(8,8,9.5)
 
 # On Friday, illness intensified, going up to a 101 fever. Coughing up mucus.
 # On Saturday, felt better in the morning, became worse at mid-day, better in
