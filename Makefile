@@ -1,4 +1,4 @@
-CSVDIR = csv-data
+CSVDIR = build
 
 all: csv graphs
 

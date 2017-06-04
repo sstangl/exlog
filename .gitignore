@@ -1,4 +1,4 @@
 *.swp
-csv-data
+build
 __pycache__
 graphs/*.jpg
