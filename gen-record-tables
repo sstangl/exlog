@@ -10,19 +10,13 @@ import sys
 sessions = logparse.parse("exlog")
 
 def make_initial_records():
-    return [ # (weight, rpe, date) lists.
-        [0, 0, 0], # 1
-        [0, 0, 0], # 2
-        [0, 0, 0], # 3
-        [0, 0, 0], # 4
-        [0, 0, 0], # 5
-        [0, 0, 0], # 6
-        [0, 0, 0], # 7
-        [0, 0, 0], # 8
-    ]
+    # [weight, rpe, date, e1rm] lists.
+    return [[0,0,0,0] for i in range(8)]
+
 weight_idx = 0
 rpe_idx = 1
 date_idx = 2
+e1rm_idx = 3
 
 # List of lifts tracked.
 if len(sys.argv) == 1:
@@ -41,7 +35,7 @@ def maybe_update_record(session, lift, set):
 
     if lift.name not in lifts:
         return
-    if set.reps == 0 or set.reps > 8:
+    if set.reps == 0 or set.reps > len(records[0]):
         return
 
     record = records[lifts.index(lift.name)][set.reps-1]
@@ -54,6 +48,7 @@ def maybe_update_record(session, lift, set):
     record[weight_idx] = set.weight
     record[rpe_idx] = set.rpe
     record[date_idx] = session.date
+    record[e1rm_idx] = calc_e1rm(set.weight, set.reps, set.rpe)
 
 def make_lift_str(record, reps):
     weight = "%0.1f" % record[weight_idx]
@@ -64,8 +59,9 @@ def make_lift_str(record, reps):
         rpe = "%0.1f" % record[rpe_idx]
 
     date = str(record[date_idx])
+    e1rm = "%0.1f" % record[e1rm_idx]
 
-    return str(reps) + ":\t" + weight + "\t@" + rpe + "\t" + date
+    return str(reps) + ":\t" + weight + "\t@" + rpe + "\t" + e1rm + "\t" + date
 
 # Populate the records table.
 for session in sessions:
