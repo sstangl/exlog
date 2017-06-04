@@ -2,6 +2,135 @@
 # vim: syntax=python ts=2 tw=79 et sw=2 sts=2:
 # license: CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
 
+2017-06-02 (Friday)
+  deadlift:
+    70kgx5x2, 120kg, 170kg
+    200kgx8@6 # Left hamstring feels strange: cracked after set.
+    220kgx6@6.5
+    240kgx4@7.25
+    220kgx4@7
+    200kgx6@6
+    180kgx8@6.5 # Left hasmtring still weird.
+  floor press:
+    45x10x2, 135, 225, 275x3@6
+    295x4@(7.5,6), 305x4@(7,7,6.5), 315x4@(7.5,8) # Hello, triceps.
+    # Make sure right wrist isn't bent back. Feel bar center of mass.
+    # Also, squeeze bar hard.
+  cable row:
+    110x15, 140x15
+    160x12@(6,6,7) # Strict and slow. Supersetting with bench.
+    # Upper back muscles getting maximally fatigued, tugging on vertebrae.
+    # Crazy arm and finger pump.
+
+2017-06-01 (Thursday) # Try some DUP.
+  weight: 199.0
+  squat:
+    45x10x2, 135, 225, 315x3
+    405x7@(7,5,7,6) # Left adductor starting to cramp. Lost count on 3s, may have done 9.
+  chain bench:
+    45x10x2, 135, 135+40, 225+40x3
+    275+40x5@6, 295+40x5@(6.5,6), 315+40x5@10 # USAPL pauses.
+    # Used the blue chain hooks, 2nd hook, and made the chains into a ball by
+    # attaching both ends as well as the middle link to the clip. Works great!
+  press:
+    45x10x2, 95, 135
+    155x5@6.5, 165x5@(6.5,6,6.5) # No hip drive.
+    # Right shoulder not loving it. Tight. Pulling on clavicle.
+
+2017-05-30 (Tuesday) # Recovery.
+  weight: 199.6
+  squat:
+    45x10x2, 135, 225, 315x3
+    405x5@5, 425x5@6, 455x5@(6,6,7)
+  2-count paused bench: # AKA "USAPL Paused Bench"
+    45x10x2, 135, 225, 275x3
+    315x5@(6,6.5,6.5,7)
+  pendlay row:
+    135x8x2, 185x8
+    225x8@9, 225x5@(7,8)
+
+# Looking at the graphs leading up to this meet, it looks like I did the
+# opposite of peaking. Everything was pretty much at the worst it's been.
+# Either the E1RM calculation is all crap and I'm getting bad transfer,
+# or I need to keep volume higher closer to the meet.
+
+2017-05-27 (Saturday) # Boss of NorCal 4!
+  weight: 196.2 # Weighed in at 89.0kg. Minor water cut.
+  # The warmup room had a mixture of pounds and kilos, but all of the weights
+  # ~25lbs were moved out of the gym. But I tried to keep the warmups normal.
+  squat:
+    585x1@8 # Last warmup. Injured right calf at the bottom. Became a big problem.
+    272.5kgx1@9 # Really worried about right calf. Cramped a little at bottom.
+    287.5kgxf # Failed: tried to keep off calf so much that form was very different,
+              # and wound up going too low and loading hamstrings weirdly.
+    287.5kgx1@10 # Absolutely maximal. Still tried to stay off the calf a little.
+                 # Paused on the way up about a foot out of the hole. Meet PR!
+                 # CA State squat record!
+  paused bench:
+    182.5kgx1@10 # Whoa, the judge is giving super-long pauses. 2 or 3-count, for real.
+    187.5kgx1@10 # Very fast on the way up, but the long pause is tough. Meet PR!
+    192.5kgxf # Entered in 190kg, but upped it to 192.5kg to attempt a state bench record.
+              # Moved fast off the chest, but got stuck about half a foot up.
+              # The left pec strained a little while holding it forever at the bottom.
+  deadlift:
+    # The warmup was completely random. I forgot that deadlift flights go quickly.
+    # Also the deadlifts were a mixture of pounds and kilos, and I didn't
+    # really know what the weights was.
+    270kgx1@8 # Put in 280kg as opener, but wasn't sure about grip.
+              # Turns out grip was fine and I should have stuck with the 280kg.
+    280kgx1@9 # CA State Total PR!
+    290kgx1@9.5 # Really strong. Could have done 300, I think.
+  # 491 Wilks!
+
+2017-05-24 (Wednesday) # A little beat up in back and right knee.
+  weight: 201.2
+  squat:
+    45x10x2, 135, 225, 315x3, 405x1, 455x1
+    495x3@(5,6.5,6) # OK but right knee _very_ tight.
+  paused bench:
+    45x10x2, 135, 225, 275x3, 315x1
+    335x3@(6,5,6)
+
+2017-05-22 (Monday) # Last Warmups.
+  weight: 199.8
+  squat:
+    45x10x2, 135, 225, 315x3, 405x1, 455x1, 495x1
+    545x1@7 # Right quad very tight on VMO.
+    585x1@8 # Great! Feet a little wider: no quad pain. Kept it controlled and focused
+            # on back rigidity and hip drive. Moved really well. Not fast, but solid.
+  paused bench:
+    45x10x2, 135, 225, 275x3, 315x1
+    365x1, 385x1@8 # With commands, on low orange bench. Feels OK? Probably 405 will be fine.
+  deadlift:
+    135x5x2, 225, 315x3, 405x1, 455x1 # Upper back tired. Has been for a while.
+    495x1x3 # Pretty easy. But upper back sore.
+
+2017-05-19 (Friday) # Stressed about motorcycle repair again.
+  weight: 199.4
+  squat:
+    70kgx5x2, 120kg, 170kgx3, 200kgx1, 220kgx1
+    250kgx1@7 # Hips came forward, which felt strange in low back.
+    262.5kgx1@8
+    275kgx1@10 # In orange rack: loocking too far down, curved upper back.
+               # Weird. Pathed really badly.
+    275kgx1@8.5 # OK, better, but back still weird. Held higher.
+  3-count paused bench:
+    20kgx10x2, 60kg, 100kg, 120kgx3
+    140kgx2@6, 160kgx2@7.5, 170kgx2@9.5
+  paused bench:
+    185kgx1@9 # OK, nice. Butt stayed down.
+  # No deadlift -- back in really unstable shape. Would rather be uninjured.
+
+2017-05-18 (Thursday)
+  weight: 200.2
+  2-count paused squat:
+    45x10x2, 135, 225, 315x3, 405x1, 455x1, 495x1
+    515x3@(7,8.5) # Probably too little rest for 2s. Same as before last meet! No worse!
+                  # Back a little sore all over. Needs healing.
+  1-board bench:
+    45x10x2, 135, 225, 275x3, 315x1, 365x1
+    385x3@(7.5,8,9.5) # Well, OK. Butt stayed down.
+
 # Lots of back discomfort on Wednesday, pretty sore.
 
 2017-05-16 (Tuesday)
