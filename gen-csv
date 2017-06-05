@@ -1,0 +1,191 @@
+#!/usr/bin/env python3
+# vim: syntax=python ts=4 et sw=4 sts=4:
+
+# Generates CSV files for use with gnuplot.
+
+import argparse
+import sys
+
+import liftdb
+import logparse
+from common import *
+
+from oplcsv import Csv
+
+
+# Given two arrays where the 0th index is the date and the rest are data,
+# with both arrays sorted descending by date, make a single array that
+# contains [date, ...left_data, ...right_data] for each date in dates(left,right).
+def zip_csv(lcsv, rcsv):
+    left = lcsv.rows
+    right = rcsv.rows
+
+    assert lcsv.index('date') == 0
+    assert rcsv.index('date') == 0
+
+    acc = []
+    default = ''
+    lndata = len(left[0]) - 1
+    rndata = len(right[0]) - 1
+    li = 0
+    ri = 0
+    while li < len(left) and ri < len(right):
+        # Always output the greater date first. A date only occurs once.
+        if left[li][0] > right[ri][0]:
+            acc += [left[li] + [default for x in range(0,rndata)]]
+            li += 1
+        elif left[li][0] < right[ri][0]:
+            acc += [[right[ri][0]] + [default for x in range(0,lndata)] + right[ri][1:]]
+            ri += 1
+        else:
+            acc += [left[li] + right[ri][1:]]
+            li += 1
+            ri += 1
+
+    while li < len(left):
+        acc += [left[li] + [default for x in range(0,rndata)]]
+        li += 1
+
+    while ri < len(right):
+        acc += [[right[ri][0]] + [default for x in range(0,lndata)] + right[ri][1:]]
+        ri += 1
+
+    csv = Csv()
+    csv.fieldnames = lcsv.fieldnames[:] + rcsv.fieldnames[1:]
+    csv.rows = acc
+
+    return csv
+
+
+#####################################################################
+
+
+def makebodyweightcsv(sessions, iterator):
+    csv = Csv()
+    csv.append_columns(['date','bodyweight'])
+
+    for period in iterator(sessions):
+        weights = list(filter(lambda x: x > 0, [session.bodyweight for session in period]))
+        if len(weights) > 0:
+            average = sum(weights) / len(weights)
+            csv.rows.append([canonical_date(period), average])
+    return csv
+
+
+def makecsv(sessions, iterator, lift, only_accessories=False):
+    name = lift.lower().replace(' ','')
+    if only_accessories:
+        name = name + '_acc'
+
+    csv = Csv()
+    csv.append_columns([
+        'date',
+        '%s_e1rm' % name,
+        '%s_epley' % name,
+        '%s_volume' % name,
+        '%s_tonnage' % name,
+        '%s_fatigue' % name,
+
+        '%s_reps1' % name,
+        '%s_reps3' % name,
+        '%s_reps5' % name,
+        '%s_reps8' % name,
+
+        '%s_rpe6' % name,
+        '%s_rpe7' % name,
+        '%s_rpe8' % name,
+        '%s_rpe9' % name,
+        '%s_rpe10' % name,
+    ])
+
+    def matchfn(x):
+        if only_accessories:
+            return lift != x.name and liftdb.gettype(lift) == liftdb.gettype(x.name)
+        return lift == x.name
+
+    # Iterate over each training block and perform calculations.
+    for period in iterator(sessions):
+        date = canonical_date(period)
+
+        # Max calculations.
+        e1rm = max([0] + list(map(lambda x: x.e1rm(matchfn), period))) or ''
+        epley = max([0] + list(map(lambda x: x.epley(matchfn), period))) or ''
+
+        # Simple calculations.
+        volume = sum(x.volume(matchfn) for x in period) or ''
+        tonnage = sum(x.tonnage(matchfn) for x in period) or ''
+        fatigue = sum(x.fatigue(matchfn) for x in period) or ''
+
+        # How many reps for a set?
+        reps1 = 0
+        reps3 = 0 # 2-3
+        reps5 = 0 # 4-6
+        reps8 = 0 # 7+
+
+        # What RPE for a set?
+        rpe6 = 0
+        rpe7 = 0
+        rpe8 = 0
+        rpe9 = 0
+        rpe10 = 0
+
+        for session in period:
+            for l in filter(matchfn, session.lifts):
+                for set in l.get_worksets():
+                    # Handle reps.
+                    if set.reps == 0:
+                        pass
+                    elif set.reps == 1:
+                        reps1 += 1
+                    elif set.reps <= 3:
+                        reps3 += 1
+                    elif set.reps <= 6:
+                        reps5 += 1
+                    else:
+                        reps8 += 1
+
+                    # Handle RPEs.
+                    if set.rpe >= 5.5 and set.rpe < 6.5:
+                        rpe6 += 1
+                    elif set.rpe >= 6.5 and set.rpe < 7.5:
+                        rpe7 += 1
+                    elif set.rpe >= 7.5 and set.rpe < 8.5:
+                        rpe8 += 1
+                    elif set.rpe >= 8.5 and set.rpe < 9.5:
+                        rpe9 += 1
+                    elif set.rpe >= 9.5:
+                        rpe10 += 1
+
+        row = [date, e1rm, epley, volume, tonnage, fatigue, \
+               reps1, reps3, reps5, reps8, \
+               rpe6, rpe7, rpe8, rpe9, rpe10]
+
+        assert len(row) == len(csv.fieldnames)
+        csv.rows.append(row)
+
+    return csv
+
+
+def main():
+    parser = argparse.ArgumentParser()
+    parser.add_argument('period', help='take from specified time period', choices=['daily', 'weekly'])
+    args = parser.parse_args()
+    sessions = logparse.parse('exlog')
+
+    if args.period == "daily":
+        iterator = DailyIterator
+    elif args.period == "weekly":
+        iterator = WeeklyIterator
+
+    csv = makebodyweightcsv(sessions, iterator)
+    for lift in ['squat', 'paused bench', 'deadlift', 'press', 'bench']:
+        c1 = makecsv(sessions, iterator, lift)
+        c2 = makecsv(sessions, iterator, lift, True)
+        csv = zip_csv(csv, c1)
+        csv = zip_csv(csv, c2)
+
+    csv.write(sys.stdout)
+
+
+if __name__ == '__main__':
+    main()

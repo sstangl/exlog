@@ -137,6 +137,7 @@ class Set:
             return 0
         return max(0, (1 - (set_e1rm / best_e1rm)) * 100)
 
+
 class Lift:
     def __init__(self, name):
         self.name = name
@@ -211,3 +212,83 @@ class TrainingSession:
     def tonnage(self, matchfn):
         lifts = filter(matchfn, self.lifts)
         return sum(x.tonnage() for x in lifts)
+
+    def fatigue(self, matchfn):
+        lifts = filter(matchfn, self.lifts)
+        return sum(x.fatigue() for x in lifts)
+
+
+# Handles the case of multiple TrainingSessions on the same day,
+# but really just exists so that the code between daily/weekly
+# uses the same types and the same interface.
+class DailyIterator:
+    def __init__(self, sessions):
+        self.sessions = sessions
+
+    def __iter__(self):
+        self.idx = 0
+        return self
+
+    def __sameday(self, a, b):
+        return a.toordinal() == b.toordinal()
+
+    def __next__(self):
+        if self.idx >= len(self.sessions):
+            raise StopIteration
+
+        startdate = self.sessions[self.idx].date
+        acc = []
+        for i in range(self.idx, len(self.sessions)):
+            if self.__sameday(startdate, self.sessions[i].date):
+                acc.append(self.sessions[i])
+            else:
+                break
+
+        self.idx += len(acc)
+        return acc
+
+
+class WeeklyIterator:
+    def __init__(self, sessions):
+        self.sessions = sessions
+
+    def __iter__(self):
+        self.idx = 0
+        return self
+
+    # Whether the two given dates are in the same training week.
+    # A training week is Sunday through Saturday (inclusive).
+    def __sameweek(self, a, b):
+        # Canonicalize each date according to the last Sunday.
+        # isoweekday() gives 1 for Monday, 7 for Sunday.
+        # So in terms of mapping how much to subtract:
+        #  isoweekday -> subtract_amount
+        #  [1,2,3,4,5,6,7] -> [1,2,3,4,5,6,0]
+        week_a = a.toordinal() - (a.isoweekday() % 7)
+        week_b = b.toordinal() - (b.isoweekday() % 7)
+        return week_a == week_b
+
+    def __next__(self):
+        if self.idx >= len(self.sessions):
+            raise StopIteration
+
+        # Generate a list of sessions from here until Saturday (inclusive).
+        # In terms of weekday(), Saturday is a return value of 6.
+        startdate = self.sessions[self.idx].date
+        acc = []
+
+        for i in range(self.idx, len(self.sessions)):
+            if self.__sameweek(startdate, self.sessions[i].date):
+                acc.append(self.sessions[i])
+            else:
+                break
+
+        self.idx += len(acc)
+        return acc
+
+
+# Return a single date as representative of the list of dates.
+# For choosing a date on which to mark weekly volume, etc.
+def canonical_date(sessionlist):
+    return sessionlist[-1].date
+

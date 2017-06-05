@@ -1,0 +1,14 @@
+#!/usr/bin/env python3
+# vim: syntax=python ts=4 et sw=4 sts=4:
+
+# Generates a GNUPlot include file that allows using names in place of columns.
+
+import sys
+from oplcsv import Csv
+
+assert __name__ == '__main__'
+
+csv = Csv(sys.argv[1])
+for i in range(len(csv.fieldnames)):
+    # GNUPlot indexes from 1.
+    print('%s = %u' % (csv.fieldnames[i], i+1))

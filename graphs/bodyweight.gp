@@ -12,4 +12,4 @@ set y2tics
 set title "Bodyweight"
 
 plot \
-     csvdir."bodyweight-daily.csv" using 1:2 with lines ls 1 title "daily bodyweight (lbs)"
+     csvdir."daily.csv" using date:bodyweight with lines ls 1 title "daily bodyweight (lbs)"

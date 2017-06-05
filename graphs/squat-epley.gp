@@ -12,5 +12,5 @@ set y2tics
 set title "Squat Epley"
 
 plot \
-     csvdir."squat-weekly.csv" using date:epley with lines ls 1 title "squat week epley",\
-     csvdir."squat-daily.csv" using date:epley title "",\
+     csvdir."weekly.csv" using date:squat_epley with lines ls 1 title "squat epley",\
+     csvdir."daily.csv" using date:squat_epley title "",\

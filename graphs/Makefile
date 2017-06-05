@@ -1,10 +1,7 @@
 all: graphs
 
-graphs: key
+graphs:
 	./gengraphs
-
-key:
-	./genkey
 
 clean:
 	rm -f *.jpg
