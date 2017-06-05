@@ -85,6 +85,7 @@ def makecsv(sessions, iterator, lift, only_accessories=False):
         '%s_volume' % name,
         '%s_tonnage' % name,
         '%s_fatigue' % name,
+        '%s_epley_wilks' % name,
 
         '%s_reps1' % name,
         '%s_reps3' % name,
@@ -115,6 +116,7 @@ def makecsv(sessions, iterator, lift, only_accessories=False):
         volume = sum(x.volume(matchfn) for x in period)
         tonnage = sum(x.tonnage(matchfn) for x in period)
         fatigue = sum(x.fatigue(matchfn) for x in period)
+        epley_wilks = max(x.epley_wilks(matchfn) for x in period) or ''
 
         # How many reps for a set?
         reps1 = 0
@@ -156,9 +158,8 @@ def makecsv(sessions, iterator, lift, only_accessories=False):
                     elif set.rpe >= 9.5:
                         rpe10 += 1
 
-        row = [date, e1rm, epley, volume, tonnage, fatigue, \
-               reps1, reps3, reps5, reps8, \
-               rpe6, rpe7, rpe8, rpe9, rpe10]
+        row = [date, e1rm, epley, volume, tonnage, fatigue, epley_wilks, \
+               reps1, reps3, reps5, reps8, rpe6, rpe7, rpe8, rpe9, rpe10]
 
         assert len(row) == len(csv.fieldnames)
         csv.rows.append(row)

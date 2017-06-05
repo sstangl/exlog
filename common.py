@@ -4,6 +4,7 @@
 # Common supporting classes and calculations.
 
 import datetime
+from wilks import wilks
 
 PercentageTable = [
     [100.00, 97.80, 95.50, 93.90, 92.20, 90.70, 89.20, 87.80, 86.30], # 1 rep
@@ -216,6 +217,12 @@ class TrainingSession:
     def fatigue(self, matchfn):
         lifts = filter(matchfn, self.lifts)
         return sum(x.fatigue() for x in lifts)
+
+    def epley_wilks(self, matchfn):
+        lifts = filter(matchfn, self.lifts)
+        def liftwilks(lift):
+            return wilks(True, self.bodyweight/2.20462262, lift.epley()/2.20462262)
+        return max([0] + list(map(liftwilks, lifts)))
 
 
 # Handles the case of multiple TrainingSessions on the same day,

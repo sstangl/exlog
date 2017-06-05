@@ -9,8 +9,8 @@ set style fill solid 0.25 border
 
 set y2tics
 
-set title "Paused Bench Epley"
+set title "Paused Bench Epley and Wilks"
 
 plot \
-     csvdir."weekly.csv" using date:pausedbench_epley with lines ls 1 title "pausedbench epley",\
-     csvdir."daily.csv" using date:pausedbench_epley title "",\
+     csvdir."weekly.csv" using date:pausedbench_epley with lines title "pausedbench epley",\
+     csvdir."weekly.csv" using date:pausedbench_epley_wilks with lines axis x1y2 title "pausedbench wilks",\

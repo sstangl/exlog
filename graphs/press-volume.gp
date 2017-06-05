@@ -15,5 +15,5 @@ set xrange [RPESTARTDATE:]
 plot \
      csvdir."weekly.csv" using date:(column(press_volume)+column(press_acc_volume)) with boxes axes x1y2 title "press accessory volume",\
      csvdir."weekly.csv" using date:press_volume with boxes axes x1y2 title "press volume",\
-     csvdir."weekly.csv" using date:press_e1rm smooth csplines title "press e1rm",\
+     csvdir."weekly.csv" using date:press_e1rm smooth csplines ls 8 title "press e1rm",\
      csvdir."daily.csv" using date:press_e1rm title "press daily e1rm",\
