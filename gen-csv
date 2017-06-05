@@ -112,9 +112,9 @@ def makecsv(sessions, iterator, lift, only_accessories=False):
         epley = max([0] + list(map(lambda x: x.epley(matchfn), period))) or ''
 
         # Simple calculations.
-        volume = sum(x.volume(matchfn) for x in period) or ''
-        tonnage = sum(x.tonnage(matchfn) for x in period) or ''
-        fatigue = sum(x.fatigue(matchfn) for x in period) or ''
+        volume = sum(x.volume(matchfn) for x in period)
+        tonnage = sum(x.tonnage(matchfn) for x in period)
+        fatigue = sum(x.fatigue(matchfn) for x in period)
 
         # How many reps for a set?
         reps1 = 0
