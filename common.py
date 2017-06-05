@@ -157,7 +157,7 @@ class Lift:
         # If this is one of the earlier lifts that didn't track RPE,
         # just take some of the heaviest sets of what's present.
         topweight = max([0] + list(map(lambda x: x.weight, self.sets)))
-        cutoff = topweight * 0.85
+        cutoff = topweight * 0.70
         return filter(lambda x: x.weight >= cutoff, self.sets)
 
     # TODO: Should trust higher RPEs more.
