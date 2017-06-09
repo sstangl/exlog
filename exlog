@@ -2,6 +2,47 @@
 # vim: syntax=python ts=2 tw=79 et sw=2 sts=2:
 # license: CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
 
+2017-06-08 (Thursday) # SORE. Thanks, safety bar!
+  weight: 201.6
+  2-count paused squat:
+    45x10x2, 135, 225, 315x5
+    405x5@6, 425x5@6, 445x5@7 # Tough. Tired before I started! Knees, adductors weird.
+  close-grip floor press:
+    45x10, 135, 225x5@5
+    275x7@(7,7.5,8.5) # Sarah says left elbow hitting mat, right elbow hitting floor.
+                      # This felt weird and useless. Normal-grip floor press may be better.
+  press:
+    45x10x2, 95, 135, 165x5@6, 170x5@6
+    175x5@6, 185x5@(6.5,6,7,7.75) # Left side giving out first.
+
+2017-06-06 (Tuesday)
+  weight: 200.6
+  deadlift:
+    70kgx5x2, 120kg, 170kgx3, 200kgx1, 220kgx1
+    230kgx5@6, 237.5kgx5@(7,7.25) # Neck feels a bit weird, so skipping chains.
+  1.5-inch deficit deadlift:
+    220kgx5@(6,6) # Note: No straps! Grip hurts after, but can hold.
+  close-grip bench: # Chest still a bit crampy from yesterday.
+    45x10x2, 135x8, 225x6, 275x4
+    315x6@6, 325x6@7.5, 315x6@(7,7,7,7.5,8) # 5m rest for last two.
+  safety bar squat: # Bar + collars = 30kg
+    30kgx10x2, 80kgx5, 130kgx5@5, 140kgx5@6, 150kgx5@6
+    160kgx5@6, 170kgx5@7.5 # But on the last one abs and upper back both starting to fail,
+                           # especially for last two reps. Legs don't care, just abs and upper back.
+
+2017-06-05 (Monday) # Starting a new cycle!
+  weight: 199.6
+  squat:
+    45x10x2, 135, 225, 315x3, 405x1, 455x1 # Quad pain sharp at bottom, left side greater.
+    # Doing a careful squeeze to not load it suddenly.
+    495x5@(7,7.25,7), 455x5@(5.5,6) # Left adductor pain on 1s. Knees not too happy.
+  paused bench:
+    45x10x2, 135, 225, 275x3, 315x1
+    335x5@7.5 # Nice! Good pauses!
+    320x5@(6.5,6,7,6,6.25,7,7.5) # 5% drop. Last 2 sets on 5m rest.
+  leg curl: # Supersetted with the bench.
+    80x12, 100x10@(6,6,4), 120x10@(6,6.5)
+
 2017-06-02 (Friday)
   deadlift:
     70kgx5x2, 120kg, 170kg
