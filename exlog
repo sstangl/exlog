@@ -2,6 +2,68 @@
 # vim: syntax=python ts=2 tw=79 et sw=2 sts=2:
 # license: CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
 
+2017-06-17 (Saturday) # Just for fun in the garage gym, since we have that new couch there.
+  pullups: # With bench grip.
+    0x5x3 # Chest touching the bar. Tough!
+  # Also used the Ivanko grippers, just for fun, 3 sets of 10-second holds for
+  # each hand, alternating, supersetted with the pullups. Possibly useful, but
+  # the grippers are much wider than a barbell.
+
+2017-06-16 (Friday) # Exploding knees.
+  weight: 199.8
+  squat:
+    45x10x2, 135, 225, 315x3, 405x1, 455x1 # Avoid sudden loading at bottom.
+    495x5@(7.5,8,8.5) # Completely pain-free! KEEP RIGHT SHOULDER UP, STRAIGHT WRISTS!
+                      # Reps slowed down on purpose to path more carefully -- but harder.
+  bench:
+    45x10x2, 135, 225, 275x3, 315x1, 345x1, 365x1
+    375x3@8 # Nice!
+    345x5@(6,6,6,7,6), 355x5@(6.5,8) # 5m rests for 355.
+  sldl:
+    135x5x2, 225, 315x3
+    405x6@(5.5,5,6,6) # Last rep held 6-count, but traps still tugging on vertebra in neck.
+
+2017-06-15 (Thursday) # Tendinitis is the name of the game
+  2-count paused squat:
+    45x10x2, 135, 225, 315x3, 405x1
+    405x4@6 # Keeping it _WAY_ in hip. Quad on right hurting a little 3,4r.
+    425x4@6 # Trying to load right evenly.
+    445x4@6
+    465x4@7 # Less knee pain each set: but weird hip-dominant form.
+  chain bench:
+    20kgx10x2, 70kg, 90kg, 120kgx3, 120kg+40x4@5
+    140kg+40x4@6, 155kg+40x4@8.25
+    140kg+40x5@(6,6.5,7,8) # 5m rests.
+  press:
+    45x10x2, 95, 135, 165
+    185x5@(6.5,5.5), 190x5@(7,6.5,7)
+
+2017-06-13 (Tuesday)
+  weight: 201.4
+  deadlift:
+    70kgx5x2, 120kg, 170kgx3, 200kgx1, 220kgx1
+    250kgx1@7, 270kgx1@8 # Harder than I'd like! Neck feels weird, that one vertebra still being pulled.
+    230kgx5@6.5, 235kgx5@(7,7.5), 200kgx5@(5.5,5.5)
+  close-grip bench:
+    45x10x2, 125, 225, 275x4
+    315x6@6.5, 325x6@7.5, 315x6@(6.5,6,7,7.5,8) # 15m rest before the @6, oops.
+  leg press: # Thought it would help knees: bad idea, made them even worse, should have squatted.
+    90x10x2, 180x8, 270x8@5, 360x8@(6.5,5.5), 410x8@6.5 # Tough! Right knee tendinitis near bald spot above knee.
+
+2017-06-12 (Monday) # Sharp knee tendinitis pain over weekend.
+  weight: 201.6
+  squat:
+    45x10x2, 135, 225, 315x3, 405x1, 455x1, 495x1
+    545x1@7 # Stuttering on way up. Keep pathing tight.
+    565x1@8 # Looks OK, but sharp right knee pain, and low E1RM.
+    505x5@(7,7.5,8) # Already a lot of fatigue! Too hard...
+      # Focused on keeping hips from rotating clockwise. Felt more on right side.
+  paused bench:
+    45x10x2, 135, 225x3, 275x3, 315x1
+    345x1@6, 365x1@7.5, 385x1@8
+    340x6@9 # Miscounted. Shooting for 5@8. Also, unbolted the rack from the floor when re-racking =/
+    325x5@(6.5,7,7,7,6.5,7.75,7,8) # Start 5min rests after 5s. Harder on right pec.
+
 2017-06-10 (Saturday) # Sarah was training, so I went too.
   ab roller:
     0x10x3 # From knees.
