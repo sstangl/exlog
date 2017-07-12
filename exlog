@@ -2,6 +2,160 @@
 # vim: syntax=python ts=2 tw=79 et sw=2 sts=2:
 # license: CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
 
+2017-07-11 (Tuesday) # Recovery day.
+  weight: 199.2
+  2-count paused squat:
+    45x10x2, 135, 225, 315x3, 405x1, 455x1
+    495x3@7.5 # Guess I was still fatigued from yesterday. Should have been @7.
+    485x3@8 # Well that's still too heavy.
+    475x3@(8,8.75) # This would have been a good starting weight.
+  incline bench:
+    45x10x2, 95, 135, 175x3
+    195x6@8
+    175x8@(7.5,8)
+  press:
+    45x10x2, 95, 135
+    160x10@8 # Too heavy: should have been @7, but fatigued from incline bench.
+    150x10@8
+  jm press:
+    45x12x2, 65x12@5, 85x12@(8,8) # Left elbow getting twanged at bottom. RIP tendons.
+  chest-supported row:
+    45x10, 90x8, 135x11@10 # Too heavy. Oops.
+    115x12@(8,10) # The first set was great. The second set was poor quality for last 4 reps.
+
+2017-07-10 (Monday)
+  weight: 198.2
+  squat: # Left adductor super hot. Worrying.
+    20kgx10x2, 60kg, 100kg, 140kgx3, 180kgx1, 205kgx1, 225kgx1
+    240kgx3@8 # 3r fell forward and loaded quads, but held. A little pain when that happened.
+    205kgx6@(6,6.5) # No pain!!! Calves feeling tight at bottom. Keep in glutes.
+  safety bar squat:
+    80kgx5, 120kgx5
+    140kgx8@(7.5,7.5) # Tough on upper back.
+  paused bench:
+    20kgx10x2, 70kgx5, 120kgx4
+    140kgx6@(5.5,6,6.25)
+  deadlift:
+    70kgx5x2, 120kg, 170kgx3
+    205kgx3@(6,5,5) # Upper back fatigued from safety-bar squat. Hips tight too.
+  chain sldl:
+    160kg+80x10@5 # Too easy... programming called for 7.5.
+    170kg+80x10@7.5 # Quadrati Lumborum extremely toasty.
+  pendlay row:
+    70kgx5, 100kgx8@(7.5,8)
+  chins: # Supersetted with ab roller.
+    0x8@(8,9), 0x6@10 # Supposed to be 0x8x3, but alas.
+  ab roller:
+    0x(15,14,10)
+
+# Starting programming with Hani Jazayrli from TSA!
+# As part of that, starting taking nutrition seriously again.
+
+2017-07-07 (Friday) # Tired.
+  weight: 200.2
+  squat:
+    45x10x2, 135, 225, 315, 405x2
+    425x8@(6.5,7,8) # No knee pain, just feels tight. Left adductor feels very hot.
+  bench:
+    45x10x2, 135, 225, 275x3
+    315x8@(6,6.5,7,7.5,7.5) # EZ
+  sldl:
+    135x5x2, 225, 315x3
+    425x6@(6,5.5,6) # 3s6r held for 6-count.
+
+2017-07-06 (Thursday) # 3 hours of sleep due to allergies.
+  weight: 200.0
+  2-count paused squat:
+    45x10x2, 135, 225, 315x3
+    405x5@6 # Some right knee pain, increasing.
+    425x5@7 # Toes out: less pain. Very little.
+    445x5@7.5 # Right knee pain.
+  3-count paused bench:
+    45x10x2, 135, 225x4, 275x3
+    315x3@6, 335x3@6.5, 355x3@9 # Uhh...
+    335x3@(7.5,7)
+
+2017-07-04 (Tuesday) # Lots of soreness (mostly back)
+  weight: 198.6
+  deadlift:
+    70kgx5x2, 120kg, 170kgx3, 200kgx1
+    220kgx6@(6,6.5,7) # One vertebra in upper back / base of neck is trying to escape.
+  # No chains: vertebra is fishy. I think it's from the sitting.
+  1.5-inch deficit deadlift:
+    200kgx6@(6.5,6) # TIRED.
+  close-grip bench:
+    45x10x2, 135, 225, 275x3
+    315x6@(7.75,7.5,7.5,8,8) # OK, just systemic tiredness.
+  reverse hyper:
+    180x12x3 # To stretch out lower back.
+  lat pulldown:
+    150x10x3
+
+2017-07-03 (Monday) # Back at BBBC!
+  # This is the last week before switching to TSA coaching under Hani.
+  # Hani said to just do whatever I would have done to start a normal linear
+  # cycle, but move some of Tuesday's volume to Monday.
+  weight: 197.6
+  squat:
+    45x10x2, 135x8, 225x8, 315x5 # Both knees hurt. Left adductor hurts.
+    365x3, 405x8@(7,6.5,7,6.5,7) # Knees more forward: no pain! A little tight.
+                                 # This was an intense cardio event. Panting.
+                                 # Legs don't care. Mid-back and abs tired.
+  paused bench:
+    45x10x2, 135, 225, 275x3, 315x1, 345x1
+    365x1@7.5 # Feels a little untrained
+    275x8@5.5, 285x8@(6,7,7.5,7)
+
+# No lifting Friday due to work.
+
+2017-06-29 (Thursday) # Same 24, Top Floor. Sarah joined!
+  321 tempo squat: # Feeling out the knee, basically.
+    45x10x3, 135x5x2, 225, 315x3
+      # This is funny. The "bad" right knee doesn't hurt at all, but the "good"
+      # left knee hurts inferior to the patella, on the inside, above calf
+      # insertion.
+    405x3@7, 455x3@8, 495x2@9 # Basically no pain.
+    525x1@9 # A little right knee pain on ascent, but not much.
+  squat:
+    545x1@9 # Calves tightened a lot at bottom, felt weird.
+            # Some pain on ascent from retightening. Too low? Floor slanted.
+    495x3@8 # Not sure how to push, hesitant.
+    495x3@(6.5,7) # Kept in hips much better. Great!
+  bench:
+    45x10x2, 135, 225, 275x3, 315x1, 345x1
+    365x3@8 # The physical bench is extremely low to the ground. Can't get leg drive.
+            # Also the bar is badly bent, making the pathing weird.
+    345x4@(7,10) # Just feels so weird on this bench.
+    315x5@(7,6)
+
+2017-06-27 (Tuesday) # Van Ness 24hr Fitness... bad equipment.
+  deadlift:
+    115x5x2, 185, 275, 365x3, 455x1
+    475x1 # No knurl, so used straps. The floor isn't level at all!
+    # At this point, the manager came over and told me that deadlifts can't be
+    # dropped, and gym policy is to lower plates slowly. So do that or be kicked
+    # out. So I started doing that.
+  3-count paused-at-knees deadlift: # Paused at knees because bar has too much flex.
+    475x4@(8,7.5,7.5) # Not too bad. Slow eccentrics kind of suck the energy out.
+  squat:
+    45x10x2, 115, 205, 315x3
+    405x6@(5,5.5,6) # 1s lots of right knee pain every rep. Floor totally unlevel.
+                    # 2s much less pain, basically none, but feels... present.
+                    # Knee doesn't hurt during 3s, but after. 
+
+2017-06-26 (Monday) # Garage, early morning. Heading to SF for a week of meetings.
+  weight: 200.2
+  squat:
+    45x10x2, 135, 225, 315x3, 405x1 # Right knee bothersome but not too bad.
+    455x2f # Stumbled forward on 3r, left foot took a step.
+    455x5@(5,6.5,6) # Sick to stomach. Threw up in throat after.
+                    # No pain during the sets, but a few seconds of pain after.
+  paused bench:
+    45x10x2, 135, 225, 275x3, 315x1
+    335x5@(7,6.5,7.5,8,8) # Great IPF pauses 4,5s.
+
+# Thai massage on Sunday.
+
 2017-06-23 (Friday)
   weight: 203.0
   squat:
