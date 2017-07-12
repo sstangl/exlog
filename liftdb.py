@@ -189,6 +189,7 @@ liftdb = {
     # Accessories that are for conditioning.
     "120bpm walking": LiftType.conditioning,
     "ab roller": LiftType.conditioning,
+    "band pull-apart": LiftType.conditioning,
     "deadlift hold": LiftType.conditioning,
     "double-overhand deadlift hold": LiftType.conditioning,
     "farmers walk": LiftType.conditioning,
