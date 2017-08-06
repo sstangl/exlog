@@ -58,6 +58,7 @@ liftdb = {
     # Accessories primarily affecting deadlift.
     "1-inch deficit deadlift": LiftType.deadlift,
     "1.5-inch deficit deadlift": LiftType.deadlift,
+    "1.5-inch deficit chain deadlift": LiftType.deadlift,
     "2-count paused-off-floor deadlift": LiftType.deadlift,
     "2-count paused-at-knees deadlift": LiftType.deadlift,
     "2-count paused seated goodmorning": LiftType.deadlift,
@@ -112,6 +113,7 @@ liftdb = {
     "303 tempo bench": LiftType.bench,
     "303 tempo chins": LiftType.bench,
     "bench": LiftType.bench,
+    "bent barbell row": LiftType.bench,
     "cable row": LiftType.bench,
     "cable french press": LiftType.bench,
     "chest-supported row": LiftType.bench,
@@ -129,6 +131,7 @@ liftdb = {
     "jm press": LiftType.bench,
     "lat pulldown": LiftType.bench,
     "lying tricep extension": LiftType.bench,
+    "narrow-grip lat pulldown": LiftType.bench,
     "neutral grip chins": LiftType.bench,
     "paused close-grip bench": LiftType.bench,
     "paused close-grip floor press": LiftType.bench,
@@ -164,6 +167,7 @@ liftdb = {
     "seated press machine": LiftType.press,
     "strict press": LiftType.press,
     "swiss bar press": LiftType.press,
+    "tricep pressdown": LiftType.press,
     "wide-grip pullups": LiftType.press,
 
     # Accessories that serve no direct main lift purpose.
@@ -181,6 +185,7 @@ liftdb = {
     "preacher curl": LiftType.bro,
     "preacher curl machine": LiftType.bro,
     "reverse curl": LiftType.bro,
+    "seated incline db curl": LiftType.bro,
     "situps on decline bench": LiftType.bro,
     "swiss bar hammer curl": LiftType.bro,
     "wrist curl": LiftType.bro,
@@ -193,6 +198,8 @@ liftdb = {
     "deadlift hold": LiftType.conditioning,
     "double-overhand deadlift hold": LiftType.conditioning,
     "farmers walk": LiftType.conditioning,
+    "fingertip hold": LiftType.conditioning,
+    "plank": LiftType.conditioning,
     "prowler": LiftType.conditioning,
     "rower": LiftType.conditioning,
     "sled pull": LiftType.conditioning,
