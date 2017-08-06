@@ -174,6 +174,9 @@ def parse(filename):
 if __name__ == '__main__':
     exlog = parse(sys.argv[1])
 
-    for session in exlog:
-        for lift in session.lifts:
-            print(str(session.date) + ' ' + lift.name + " " + str(lift.e1rm() or lift.epley()))
+    try:
+        for session in exlog:
+            for lift in session.lifts:
+                print(str(session.date) + ' ' + lift.name + " " + str(lift.e1rm() or lift.epley()))
+    except BrokenPipeError:
+        pass
