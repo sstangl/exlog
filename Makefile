@@ -3,8 +3,8 @@ CSVDIR = build
 all: csv graphs
 
 csv: $(CSVDIR) exlog
-	./gen-csv daily > "${CSVDIR}/daily.csv"
-	./gen-csv weekly > "${CSVDIR}/weekly.csv"
+	./gen-csv exlog daily > "${CSVDIR}/daily.csv"
+	./gen-csv exlog weekly > "${CSVDIR}/weekly.csv"
 	./gen-key "${CSVDIR}/weekly.csv" > "${CSVDIR}/gnuplot.key"
 
 $(CSVDIR):

@@ -169,9 +169,10 @@ def makecsv(sessions, iterator, lift, only_accessories=False):
 
 def main():
     parser = argparse.ArgumentParser()
+    parser.add_argument('logfile')
     parser.add_argument('period', help='take from specified time period', choices=['daily', 'weekly'])
     args = parser.parse_args()
-    sessions = logparse.parse('exlog')
+    sessions = logparse.parse(args.logfile)
 
     if args.period == "daily":
         iterator = DailyIterator

@@ -2,6 +2,296 @@
 # vim: syntax=python ts=2 tw=79 et sw=2 sts=2:
 # license: CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
 
+2017-09-01 (Friday)
+  weight: 199.4
+  210 tempo squat:
+    45x10x2, 135, 225, 315x3, 405x1, 455x5@9.5
+  squat:
+    415x6@(6,5,6) # Too hard for 415. Ugh. Should be 495.
+  safety bar squat:
+    155, 245, 340x8@(7,8)
+  paused bench:
+    20kgx10x2, 70kg, 120kg, 140kgx3, 160kgx1, 170kgx1
+    180kgx1@(8.5,9.5)
+    155kgx4@(7,7.5,8,8.5)
+  close-grip bench:
+    147.5kgx4@8.5, 135kgx6@(7,6,7)
+  tricep pressdown:
+    90x8, 120x12@(7,8,8.5)
+  seated incline db curl:
+    40x10@7, 45x10@(9,9)
+  rear delt row:
+    35x12@(5,5,5) # Pretty easy. Go up.
+
+2017-08-31 (Thursday) # Tight left adductor.
+  weight: 198.8
+  deadlift:
+    70kgx5x2, 120kg, 170kgx3, 200kgx1, 220kgx1, 220kgx1, 250kgx1
+    270kgx1@(8,8.5) # Grip a little tired on 2r.
+    250kgx3@(8,8,9) # Too much rest due to bathroom line.
+  chain deadlift: # Straps.
+    210kg+80x5@(6,8,8.5)
+  squat:
+    45x10x2, 135, 225, 315x3, 405x1
+    460x3@(7,6.5,7)
+  paused bench:
+    45x10x2, 135, 225, 275, 315x3@(5,5.5,5,5.5,6)
+  bent barbell row:
+    135x8, 185x5, 230x9@(8,8,8)
+  narrow-grip lat pulldown:
+    140x8, 170x12@(8,7,7.5)
+
+2017-08-29 (Tuesday)
+  weight: 198.4
+  202 tempo squat:
+    45x10x2, 135, 225, 315x3, 405x1
+    460x3@(6,6.5,6,7,7) # Tight right knee.
+  incline bench:
+    45x10x2, 95, 135, 165x3, 185x2, 215x1
+    230x5@8.5, 215x5@(8,7,7)
+  wide-grip bench:
+    45x10x2, 135, 225, 275x3, 315x7@(8,6.5,6.5)
+  chest-supported row:
+    45x10, 90, 135x3, 160x10@7, 165x10@(8,9)
+  face pull:
+    52.5x20x3
+
+2017-08-28 (Monday)
+  weight: 198.4
+  squat:
+    45x10x2, 135, 225, 315x3, 405x1, 455x1, 495x1, 535x1
+    565x1@8 # Went a little loose at the bottom. Zero pain.
+    495x5@(7.5,9,9.5) # 2s kept back more vertical.
+  safety bar squat:
+    155, 245, 335x3, 385x7@(6.5,7.5)
+  paused bench:
+    45x10x2, 135, 225, 275x3, 315x5@(6,6.5,7.5,7,7)
+  chain sldl:
+    135x5x2, 225, 315x3, 405+80x7@6, 415+80x7@(7.5,7.5,7.5)
+  pendlay row:
+    245x7@(7.5,8)
+  chins:
+    10x(8@7.5,8@8,8@10)
+  ab roller:
+    0x15x3
+
+2017-08-25 (Friday) # After BoB4 Open.
+  weight: 200.4
+  202 tempo squat:
+    20kgx10x2, 70kg, 120kg, 170kgx3, 205kgx5@6.5 # No knee pain!
+  squat:
+    187.5kgx6@(6,5,6)
+  safety bar squat:
+    80kg, 130kg, 152.5kgx8@(6.5,7)
+  paused bench:
+    20kgx10x2, 60kg, 100kg, 120kgx3, 140kgx1, 160kgx1, 170kgx1
+    177.5kgx1@(8,8)
+    152.5kgx4@(6.5,7,7.5,8.5)
+  close-grip bench:
+    152.5kgx4@9.5 # RPEs too high after working all day.
+    135kgx6@(7,7,7.5)
+  # No time for accessories, and they're outside in the dark anyway.
+
+2017-08-24 (Thursday) # 1PM: Gym closing early for BoB4.
+  deadlift:
+    70kgx5x2, 120kg, 170kgx3, 200kgx1, 220kgx1
+    255kgx2@(7.5,7.75), 242.5kgx3@(7.5,8,7.5)
+  chain deadlift: # With straps.
+    220kg+80x5@7, 225kg+80x5@9, 220kg+80x5@10 # Very tough. Left adductor cramping.
+  squat:
+    20kgx10x2, 60kg, 100kg, 140kgx3, 180kgx1, 205kgx3@(6,6,6)
+  paused bench:
+    20kgx10x2, 60kg, 100kg, 120kgx3, 141kgx3@(5,4,5,5,5)
+  bent barbell row:
+    60kgx10, 102.5kgx9@(8,9,8) # Last set hook-grip. Better.
+  narrow-grip lat pulldown:
+    150x6, 170x12@(6,7,10) # Hoo boy.
+
+2017-08-22 (Tuesday)
+  weight: 199.2
+  202 tempo squat:
+    45x10x2, 135, 225, 315x3, 405x1
+    470x3@7, 455x3@(6,6.5,5.5,6)
+  incline bench:
+    45x10x2, 95, 135, 165x3, 185x1, 205x1
+    230x5@9 # Too hard: supposed to be @8. Paused the reps.
+    207.5x6@(7,6.5,7)
+  wide-grip bench:
+    45x10x2, 135, 225, 275x3, 300x8@7, 305x8@(8,8.5)
+  chest-supported row:
+    45x10, 90x8, 135, 155x10@7, 160x10@(8,8)
+  face pull:
+    52.5x20x3
+
+2017-08-21 (Monday)
+  weight: 198.6
+  squat:
+    45x10x2, 135, 225, 315x3, 405x1, 455x1, 495x1
+    535x2@7.5 # Focused on abs. Bad hip drive. Right knee pain on 2r.
+    480x5@(7,7.75,7) # Absolutely zero pain! First braced with abs, then focused on hips.
+  safety bar squat:
+    155, 245, 335x3, 375x7@(7,7.5)
+  paused bench:
+    45x10x2, 135, 225, 275x3, 310x5@(5,5,5,5,6)
+  chain sldl:
+    70kgx5, 120kg, 170kgx3, 205kgx1
+    205kg+80x7@9 # Much higher than last week!
+    180kg+80x7@(7,7.5,7.5) # Augh.
+  pendlay row:
+    110kgx7@(8,8)
+  chins:
+    0x(8@6,8@7.5,8@8.5)
+  ab roller:
+    0x15x3
+
+2017-08-18 (Friday)
+  weight: 198.4
+  2-count paused squat:
+    45x10x2, 135, 225, 315x3, 405x1
+    455x5@7 # 1-4r not much pain, just tight: 5r started to hurt right knee.
+  squat:
+    410x6@(4,4,5) # Minor left knee patellar pain.
+  safety bar squat:
+    155, 245, 335x8@(6.5,6)
+  paused bench:
+    45x10x2, 135, 225, 275x3, 315x1, 345x1
+    365x1@7, 385x1@7.5, 390x1@8.5
+    325x4@(6,6,6,6)
+  close-grip bench:
+    340x4@8, 310x6@(7,8,8.5)
+  tricep pressdown:
+    90x12@5, 110x12@7, 120x12@(8,10)
+  seated incline db curl:
+    40x12@(8,8), 40x10@8 # Was supposed to be 10 reps.
+  rear delt row:
+    25x12@5, 35x12@(7,6,7) # Fatigue.
+  plank:
+    0x30x1, 0x20x2 # Seconds.
+
+2017-08-17 (Thursday)
+  weight: 200.2
+  deadlift:
+    70kgx5x2, 120kg, 170kgx3, 200kgx1, 220kgx1
+    245kgx3@(7,7.5), 235kgx3@(6.5,6.5,6)
+  chain deadlift:
+    220kg+80x5@7.5, 225kg+80x5@9 # Grip slipping. Straps next week.
+  squat:
+    45x10x2, 135, 225, 315x3, 405x1
+    440x3@(6,6,6) # Knee a little tight but no pain.
+  paused bench:
+    45x10x2, 135, 225, 275x3, 305x3@(4,4,4,4,4)
+  bent barbell row:
+    135, 185, 225x9@(8,8,8.5)
+  narrow-grip lat pulldown:
+    140x8, 170x12@(8,9) # Couldn't do 3s: machine broke!
+
+2017-08-15 (Tuesday)
+  weight: 199.4
+  202 tempo squat:
+    45x10x2, 135, 225, 315x3, 405x1
+    455x3@5.5, 465x3@(6,6,6,6.5) # Some left knee pain after 5s.
+  incline bench:
+    45x10x2, 95, 135, 165x3, 185x1, 205x1
+    225x5@8, 205x6@(7,6,6)
+  wide-grip bench:
+    45x10, 135, 225, 275x3, 295x8@(8,8,9)
+  chest-supported row:
+    45, 90, 155x10@(8,7.5,8)
+  face pull:
+    52.5x20@(7,6,6)
+
+2017-08-14 (Monday) # Intensity Block Start.
+  weight: 199.0
+  squat:
+    45x10x2, 135, 225, 315x3, 405x1, 455x1, 495x1 # Some minor right knee pain.
+    525x3@8 # Very weak. Low back barely holding up. Biasing to left.
+    462.5x5@(6,6.5,7) # No knee pain during, but some after 3s.
+  safety bar squat:
+    155x5, 245x5, 365x7@(7.5,7.5) # Back/abs near failure.
+  paused bench:
+    45x10x2, 135, 225, 275x3, 305x5@(5,5,5,5,5) # =/
+  chain sldl:
+    135x5x2, 225, 315x3, 405x1
+    445+80x7@(7.5,8,9,10) # Abs pretty shot.
+  pendlay row:
+    225x7@7, 235x7@8
+  chins:
+    0x(8@7,8@8,8@8)
+  ab roller:
+    3x15
+
+2017-08-11 (Friday)
+  weight: 198.6
+  2-count paused squat:
+    45x10x2, 135, 225, 315x3, 405x1, 455x6@7.5
+    # Knee hurt a litle more each rep, getting worse at bottom.
+  squat:
+    400x8@(6,6) # Tough from a cardio perspective. Some left knee pain.
+  safety bar squat:
+    155, 245, 315x10@(7.5,8.5) # Hard. Kept more in posterior chain to avoid knee pain.
+  paused bench:
+    45x10x2, 135, 225, 275x3, 320x5@(6.5,7,7)
+  close-grip bench:
+    320x5@7, 330x5@8.5, 280x7@(6.5,6,5)
+  tricep pressdown:
+    90x12@7, 70x15@(7.5,10)
+  seated incline db curl:
+    30x12@6, 35x15@9.5
+  face pull:
+    62.5x15@(6.5,7,7.5)
+  plank:
+    0x30x3 # Seconds, front-side-side.
+
+2017-08-10 (Thursday)
+  weight: 199.4
+  deadlift:
+    70kgx5x2, 120kg, 170kgx3, 200kgx1
+    227.5kgx5@(7.5,7.5) # Right hand grip opening.
+  1.5-inch deficit chain deadlift:
+    200kg+80x6@(7,6) # Right side of back a little hurt after, by scapula.
+  squat:
+    45x10x2, 135, 225, 315x3, 405x1, 455x3@(5,5,4)
+    # 1s zero knee pain and could push the whole way. Tight after. 2s zero pain!
+  paused bench:
+    20kgx10x2, 70kg, 90kg, 125kgx3, 142.5kgx3@(4,4,4)
+  bent barbell row:
+    135x6, 185x5, 205x10@7, 215x10@(8,8)
+  narrow-grip lat pulldown:
+    140x5, 170x12@(8,9,10)
+
+2017-08-08 (Tuesday) # Mid-right back sore.
+  weight: 198.4
+  202 tempo squat:
+    45x10x2, 135, 225, 315x3, 405x3@5, 425x3@5.5, 445x3@(6,6,5.5)
+    # Very little knee pain: mostly tightness on left part of right knee.
+  incline bench:
+    45x10x2, 95, 135, 165, 185x2, 205x1
+    220x6@8 # Left shoulder weird. Elbow coming in?
+    187.5x8@(7,6)
+  wide-grip bench:
+    45x10x2, 135, 225x10@4, 275x10@(8,8)
+  chest-supported row:
+    45x8, 90x8, 135x12@6, 145x12@(8,8) # With some back cheating.
+  # Done by 7:00!
+
+2017-08-07 (Monday) # Deload week.
+  weight: 199.0
+  squat:
+    45x10x2, 135, 225, 315x3, 405x1
+    455x5@(5,5,5) # Right knee pain. Less pain on 2s. 3s hurt least.
+  safety bar squat:
+    155x5, 245x5, 345x8@7, 350x8@7.5 # Some right knee patella pain on left side.
+  paused bench:
+    45x10x2, 135, 225, 275x3, 295x6@(5.5,7,6)
+  chain sldl:
+    70kgx5x2, 120kg, 175kgx3, 175kg+80x10@(7,9)
+  pendlay row:
+    100kgx8@(8,8)
+  chins:
+    0x(8@7,8@6,8@8) # Nice! In rack w/knurl. Much stronger.
+  ab roller:
+    0x(15,15,15)
+
 2017-08-04 (Friday) # Final day of 4-week accumulation block. Deload up next.
   weight: 197.4
   2-count paused squat:
