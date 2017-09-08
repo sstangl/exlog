@@ -2,6 +2,66 @@
 # vim: syntax=python ts=2 tw=79 et sw=2 sts=2:
 # license: CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
 
+2017-09-07 (Thursday) # Abs and upper back fatigued before starting from Monday.
+  weight: 198.4
+  deadlift:
+    70kgx5x2, 120kg, 170kgx3, 200kgx1, 220kgx1, 250kgx1
+    270kgx1@8 # Grip not strong.
+    282.5kgx1@8 # Assuming grip can hold for the extra reps!
+    292.5kgx1@9 # Back strong, but right hand slipping at lockout.
+    255kgx3@(8,9,8.5)
+  chain deadlift:
+    200kg+80x5@(6,7,7.5) # Supposed to be @7 but right side of back bad.
+  squat:
+    # From coaching Max, realized that I could stand to lean forward a bit
+    # more. Slightly better hamstring/glute engagement. But harder on back.
+    # Feels easier to push through the whole ROM this way. Easier on knees too.
+    45x10x2, 135, 225, 315x3, 405x1, 455x1
+    470x3@(6.5,6,7)
+  paused bench:
+    45x10x2, 135, 225, 275x3
+    320x3@(6,5.5,5,5,6)
+  # Skipping rows and lat pulldown due to back fatigue and it already being 9PM.
+
+2017-09-05 (Tuesday)
+  weight: 198.2
+  202 tempo squat:
+    45x10x2, 135, 225, 315x3, 405x1
+    465x3@(6,6.5,7,7,7)
+  incline bench:
+    45x10x2, 95, 135, 165x3, 185x2, 215x1
+    230x5@7, 220x5@(8,7.5) # Pinkies on rings.
+  wide-grip bench:
+    45x10x2, 135, 225, 275x3
+    320x6@7, 325x6@9 # Bench slippery -- couldn't use legdrive.
+  chest-supported row:
+    45x10, 90x10@6, 100x10@(8,7,7) # Lower position (2) and no dynamic start.
+  face pull:
+    52.5x20x3
+  reverse hyper: # Due to back pain, not programmed.
+    165x15x3 # Massive stretch to hips. By third set hip stretch pain gone.
+
+2017-09-04 (Monday) # Strained upper-left back.
+  weight: 199.0
+  squat:
+    45x10x2, 135, 225, 315x3, 405x1, 455x1, 495x1, 545x1
+    585x1@9.5 # Pretty slow. Right knee pain when right spotter lifter to re-rack.
+              # Back was the major hangup. Hani says it looks like an 8.
+  safety bar squat:
+    155, 245, 335x3
+    395x7@8, 385x7@8 # Back weak: can barely hold muscularly. Feels dangerous.
+  paused bench:
+    45x10x2, 135, 225, 275x3, 320x5@(6,6,6.5,7) # Left shoulder feeling unstable.
+  chain sldl:
+    135, 225, 315x3, 405x1, 405+80x7@(6,6,6.5,7)
+    # Abs can barely hold. They are the point of failure. Low back very tired.
+  pendlay row:
+    245x7@(7,8)
+  chins:
+    0x(8@6,8@8,8@7) # No weight to get home sooner.
+  ab roller:
+    0x10x3 # 10 reps instead of 15 to get home sooner. Little rest between sets.
+
 2017-09-01 (Friday)
   weight: 199.4
   210 tempo squat:
