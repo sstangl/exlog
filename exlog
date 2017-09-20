@@ -2,6 +2,127 @@
 # vim: syntax=python ts=2 tw=79 et sw=2 sts=2:
 # license: CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
 
+2017-09-18 (Monday)
+  weight: 201.4
+  paused bench:
+    45x10x2, 135, 225, 275x3
+    305x3@(6,6,5.5,6,5.5)
+  deadlift:
+    70kgx5x2, 120kg, 170kgx3, 200kgx1
+    210kgx10@8.5
+  chain deadlift:
+    190kg+80x10@(8.5,9) # 15min rests. Good.
+  romanian deadlift:
+    150kgx12@6, 155kgx12@(7,6.5) # Lots of rest. No straps used today: grip held well!
+                                 # Probably because I used a power bar instead of Eleiko.
+  chins:
+    20x(8@8.5,8@10,8@10)
+  seated close-grip cable row:
+    110x12@4, 130x12@6, 140x12@(6.5,7)
+  ab roller:
+    0x10x3 # With pauses at the bottom.
+
+2017-09-17 (Sunday) # Mother visiting on Friday, so shifting training a day early.
+  weight: 201.8
+  squat:
+    45x10x2, 135, 225, 315x3, 405x1, 455x1, 495x1 # Left knee pain at bottom.
+    545x1@6.5
+    570x1@8 # Time slowed down in experience, felt @10, looks @8 on video.
+    465x5@(6,6,6) # Left knee pain in and out of bottom. Inferior to patella on right.
+  safety bar squat:
+    155, 245, 335x3
+    360x8@6, 365x8@(7.5,8) # One vertebra in mid-back still trying to eject.
+                           # Breathing in fully after this hurt for about an hour,
+                           # and walking around hurt. Felt injurious.
+  paused bench:
+    45x10x2, 135, 225, 275x3
+    305x8@7, 310x8@(7,8.5,8.5)
+  wide-grip bench:
+    290x10@(7.5,7,9)
+  lying tricep extension:
+    105x12@(7,7,8)
+  # Ran out of time: no rear delt rows. Probably OK due to spine pain.
+
+2017-09-15 (Friday)
+  weight: 200.4
+  2-count paused squat: # Stabbing pain in left knee at the bottom. Inferior to patella.
+    45x10x2, 135, 225, 315x3, 405x1
+    445x6@8 # Knee OK after flossing.
+    415x6@(7,7.5,9) # Left knee pain.
+  deadlift:
+    135x5x2, 225, 315x3, 405x1, 455x1
+    500x6@(7,6.5,7.5) # Tough. Back not great.
+  sldl:
+    415x8@(7,7) # Last set held for 10-count at end.
+  pullups:
+    0x(8@7,8@7.5,8@7) # Grip fun.
+  seated wide-grip cable row:
+    90x12, 140x12@7, 160x12@(8,8.5) # Spine fun.
+
+2017-09-14 (Thursday)
+  202 tempo squat:
+    45x10x2, 135, 225, 315x3, 405x1
+    465x3@(6,6,6,7)
+  paused bench:
+    45x10x2, 135, 225, 275x3, 315x1, 345x2
+    365x2@7
+    380x2@7.5 # Nice! Smooth.
+    305x6@(5,4.5,5)
+  chain close-grip bench:
+    265+60x8@6 # About 60lbs of chain since not all of the chain is off the ground.
+    275+60x8@9.5 # Um
+    265+60x8@8
+  tricep pressdown:
+    45x15, 90x15@(8.5,8,8)
+  seated hammer curl:
+    30x15@(7,8.5,9.5) # Such burn.
+  face pull:
+    57.5x15@(6.5,7,7.5)
+
+2017-09-12 (Tuesday)
+  weight: 199.0
+  paused bench:
+    45x10x2, 135, 225, 275x3
+    315x3@6 # Accidentally did 74% instead of 70%.
+    300x3@(6,5.5,5.5,5)
+  deadlift:
+    70kgx5x2, 120kg, 170kgx3
+    207.5kgx10@8 # Or so -- but glutes fatiguing at lockout on last 4.
+  chain deadlift: # With straps.
+    185kg+80x10@(8.5,10) # Tough on glutes at top. Almost passed out after.
+  romanian deadlift:
+    145kgx12@(7,6), 150kgx12@7 # No straps on 3s. Held OK.
+    # Triggering a huge stretch on top of glute -- no back difficulty, just that.
+    # Kind of like a minor compartment syndrome feeling. Better on 2s.
+    # Thinking that RDLs will be a great way to train grip...
+  chins:
+    15x(8@8,8@8.5,8@9) # Ample rest for once! Hitting chest cramps on each rep... 
+  seated close-grip cable row:
+    90x12@5.5, 100x12@5, 110x12@(7.5,5,5)
+  ab roller:
+    0x10x3 # With pauses at the bottom.
+
+2017-09-11 (Monday) # Volume Block.
+  weight: 199.8
+  squat:
+    45x10x2, 135, 225, 315x3, 405x1, 455x1, 495x1 # Very slow: back tired.
+    535x1@6.5 # Hollow knee after but no pain.
+    555x1@7.25 # Hit right safety.
+    455x5@(5,5,5.5)
+  safety bar squat:
+    155, 245, 355x8@(7.5,7) # Some knee pain after 1s.
+  barbell lunge:
+    95x10@6 # Hani asked me to see if this hurts the knee.
+            # It doesn't, but it's a big stretch on the left hip.
+  paused bench:
+    45x10x2, 135, 225, 275x3, 305x8@(7.5,8,8.5)
+  wide-grip bench:
+    275x10@6, 290x10@(7.5,8)
+  lying tricep extension:
+    55x12@3, 85x12@7, 95x12@(7.5,8)
+  rear delt row:
+    45x15@(6.5,7.5,8.5) # Back/spine tenuous. Doesn't like being loaded on one side.
+
 2017-09-08 (Friday)
   weight: 198.0 # Hum. Guess I really do have to eat more.
   201 tempo squat: # Leaning over a little more.
