@@ -2,6 +2,99 @@
 # vim: syntax=python ts=2 tw=79 et sw=2 sts=2:
 # license: CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
 
+2017-10-17 (Tuesday) # Sarah's sick at home =(
+  weight: 201.8
+  paused bench:
+    20kgx10x2, 70kg, 100kg, 120kgx3
+    141kgx3@(4,4,5,5,5,5)
+  deadlift: # Using a gym belt since Sarah had mine. Was fine.
+    70kgx5x2, 120kg, 170kgx3, 200kgx1, 220kgx1
+    245kgx6@(8.5) # Tightened belt too much -- weird on abs.
+  chain deadlift:
+    215kg+80x6@(7,5.5,6,6) # So fast today. Awesome.
+                           # Grip was really solid -- grabbed "over the bar" more.
+  romanian deadlift:
+    195kgx8@(7,6.5)
+  chins:
+    35x(8@7.5,8@7.5,8@8.5)
+  close-grip seated cable row:
+    90x5, 180x5, 210x12@(7.5,7.5,8.5)
+  ab roller: # On incline, #6 from bottom.
+    0x(10@5,10@6,10@7.5) # Abs a little tender. This is very recoverable.
+  # Training took only ~3.5 hours today! Hurried up on warmups.
+
+2017-10-16 (Monday)
+  weight: 201.4
+  squat:
+    20kgx10x2, 60kg, 100kg, 140kgx3, 180kgx1, 205kgx1
+    213.5kgx4@(5,6,7,6,6.25) # Something popped in butt after a couch stretch.
+                             # Persisted into the squats as a hollow feeling.
+  safety bar squat:
+    80kg, 130kgx3, 160kgx1
+    185kgx6@(7,7.5)
+  paused bench:
+    45x10x2, 135, 225, 275x3, 315x1, 335x1
+    355x5@(7.5,8,8,9)
+  seated calf raise: # Calves were cramping on squats, seeing if this helps.
+    45x10@(8.5,7,6.5) # Holy moley I have weak calves.
+  wide-grip bench:
+    335x6@(7,7,6)
+  lying tricep extension:
+    125x10@6, 135x10@(8,9.5,9) # Chest crampy. Last set with spotter.
+
+2017-10-13 (Friday)
+  weight: 202.0
+  squat:
+    45x10x2, 135, 225, 315x3, 405x1, 455x1
+    485x5@7.5
+    435x5@(5.5,5,6)
+  deadlift:
+    70kgx5x2, 120kg, 170kgx3, 200kgx1, 220kgx1
+    245kgx4@(7,6.5,7.6) # Abs tired. DL very down today (~40lbs on E1RM).
+  sldl:
+    200kgx8@(7,7.5)
+  pullups:
+    20x(8@7.5,8@7,8@8)
+  wide-grip seated cable row:
+    90x8, 180x12@(7,8,8)
+
+2017-10-12 (Thursday) # At 24hr Fitness because North Bay is on fire (smoky).
+  weight: 202.6
+  202 tempo squat:
+    45x10x2, 135, 225, 315x3, 405x1, 455x1
+    475x3@(5.5,6,6,6.5) # Beat up left hip a lot (by adductor).
+  paused bench:
+    45x10x2, 135, 225, 275x3
+    315x5@(6,5.5,6.5)
+  close-grip bench: # No chains -- at 24.
+    290x6@6, 305x6@(6.5,6.75)
+  tricep pressdown:
+    90x15@6, 110x15@(8.5,9)
+  seated hammer curl: # Way less of an incline, so much harder.
+    45x(15@9,10@10,8@10)
+  face pull:
+    60x15@(6,7.5,8)
+
+2017-10-10 (Tuesday)
+  weight: 202.8
+  paused bench:
+    45x10x2, 135, 225, 275x3
+    300x3@(5.5,4.5,5,4.5)
+  deadlift:
+    70kgx5x2, 120kg, 170kgx3, 200kgx1, 220kgx1
+    240kgx6@7.5
+  chain deadlift:
+    205kg+80x6@(6,6,7) # Last set heavier on left side.
+  romanian deadlift:
+    177.5kgx10@(7,6.5) # Upper back tenuous.
+  chins:
+    30x(8@7,8@8,8@8) # Nice =)
+  close-grip seated cable row:
+    90x8, 180x12@5, 200x12@(6.5,6)
+  ab roller:
+    0x3@8 # From feet. Lower abs felt like they may be damaged by continuing.
+    0x10x2 # From knees. Lower abs weird.
+
 2017-10-09 (Monday) # Deload week. Abs sore from Friday roller.
   weight: 202.0
   squat:
