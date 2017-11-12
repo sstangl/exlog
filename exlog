@@ -2,6 +2,180 @@
 # vim: syntax=python ts=2 tw=79 et sw=2 sts=2:
 # license: CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
 
+2017-11-10 (Friday) # Training at 1PM -- BBBC closes early.
+  weight: 203.2
+  squat:
+    45x10x2, 135, 225, 315x3, 405x1, 455x1, 495x1
+    515x5@8 # Basically tempo. Tough!
+    465x5@(7,6.5,7) # Facing the other way on white racks. Floor may be angled...
+  deadlift:
+    70kgx5x2, 120kg, 170kgx3, 200kgx1, 220kgx1, 240kgx1, 260kgx1
+    270kgx4@9.5 # Wought have been @9 but 3r plates jumped to the right, pulled unevenly.
+    256kgx4@(7.5,7.5,8,9) # Got way colder in the gym by last set.
+  sldl:
+    195kgx8@(7,7.5)
+  pullups:
+    25x(8@7.5,8@8,8@8,8@8.5)
+  ab roller: # From knees -- in a rush.
+    0x(15,15,15)
+
+2017-11-09 (Thursday)
+  weight: 203.0
+  202 tempo squat:
+    45x10x2, 135, 225, 315x3, 405x1, 455x1
+    465x3@5.5, 470x3@(6.5,6,6,7)
+  paused bench:
+    20kgx10x2, 70kg, 120kg, 140kgx3, 160kgx1, 170kgx1
+    180kgx1@7, 190kgx1@8, 200kgx1@9 # All-time PR.
+    156.5kgx5@(6,6,6,7,6.5)
+  chain close-grip bench:
+    130kg+60x5@(7.5,7.5,8)
+  tricep extension: # Standing, behind-the-head. Much better than the other way.
+    62.5x12@5, 77.5x12@7, 82.5x12@(8,8,8.5)
+  seated incline hammer curl:
+    35x15@(7,7,8)
+  face pull:
+    62.5x15@(7,7.5,6) # Too much rest before last set.
+
+2017-11-07 (Tuesday) # Feel very tired and spacey.
+  weight: 203.6
+  paused bench:
+    45x10x2, 135, 225, 275x3, 315x1
+    325x3@(4.5,5,4,5,5)
+  deadlift:
+    70kgx5x2, 120kg, 170kgx3, 200kgx1, 220kgx1
+    240kgx6@8
+  chain deadlift:
+    215kg+80x6@(7,7.5,7)
+  romanian deadlift:
+    200kgx8@(6.5,7) # Stumbled on first pull on 2s, lol.
+  chins:
+    45x(8@7.5,8@8.5,8@9)
+  close-grip seated cable row:
+    90x5, 180x5, 210x12@(6.5,6,6)
+
+2017-11-06 (Monday) # Feeling manic-tired. Right adductor pain.
+  weight: 203.8
+  squat:
+    45x10x2, 135, 225, 315x3, 405x1, 455x1, 495x1
+    545x1@7, 570x1@7.5, 590x1@8.5
+    500x4@(7,7.5,8,8.5,8,9)
+  safety bar squat:
+    245x5, 335x3, 385x1
+    420x6@(7,8)
+  paused bench:
+    45x10x2, 135, 225, 275x3, 315x1, 335x1
+    355x5@(7.5,8,8,9)
+  wide-grip bench:
+    335x6@(6.5,7,7)
+
+2017-11-03 (Friday)
+  weight: 202.8
+  squat:
+    45x10x2, 135, 225, 315x3, 405x1, 455x1, 495x1
+    515x5@8
+    465x5@(6,6,6.5,6,6)
+  deadlift:
+    70kgx5x2, 120kg, 170kgx3, 200kgx1, 220kgx1, 250kgx1
+    258.5kgx4@(8,7,7.5,8.5,9) # Grip tired at end. Too much in fingers?
+  sldl:
+    195kgx8@(7.5,7.5)
+  pullups:
+    35x(8@8,6@8), 25x(8@9) # In a rush, so just dropped weight.
+  ab roller: # On incline, #6 from bottom
+    0x(10,10)
+
+2017-11-02 (Thursday)
+  weight: 201.8
+  202 tempo squat:
+    45x10x2, 135, 225, 315x3, 405x1, 455x1
+    465x3@(6,6.5,6,6,6) # Threw up a little re-racking. Still sick?
+  paused bench:
+    20kgx10x2, 70kg, 120kg, 140kgx3, 160kgx1, 170kgx1
+    181kgx1@7.5, 187.5kgx1@7.5, 195kgx1@9
+    155kgx5@(6.5,7,6,6,6.5)
+  chain close-grip bench:
+    135kg+60x5@8.5, 130kg+60x5@(7.5,8)
+  lying tricep extension:
+    135x8@8, 125x10@8.5, 115x7@10 # Crap. Really tough on abs.
+  seated incline hammer curl:
+    30x15@(6,7,8) # Stricter reps.
+  face pull:
+    62.5x15@(6,6.5,7)
+
+2017-10-31 (Tuesday)
+  weight: 204.0
+  squat:
+    45x10x2, 135, 225, 315x3, 405x1, 455x1, 495x1
+    555x1@7.5, 575x1@7 # No pain during, but right adductor hollow after.
+    490x4@(6,6.5,7,7,7.5,7.5) # Trying to screw hips outward to avoid adductor.
+  safety bar squat:
+    245x5, 335x3
+    415x6@(6.5,7)
+  paused bench:
+    45x10x2, 135, 225, 275x3, 315x1, 335x1
+    355x5@(7,8,7,7.5)
+  wide-grip bench:
+    345x6@(7,8,9)
+
+2017-10-30 (Monday) # Doing Tuesday's training today to give adductor more time.
+  weight: 203.4
+  paused bench:
+    45x10x2, 135, 225, 275x3
+    320x3@(5,5,5,5,5,4)
+  deadlift:
+    70kgx5x2, 120kg, 170kgx3, 200kgx1, 220kgx1
+    245kgx6@8 # Good, but kept having to burp between reps.
+  chain deadlift:
+    220kg+80x6@(6.5,7,7.5,7)
+  romanian deadlift:
+    200kgx8@(7,7) # RIP fingers
+  chins:
+    45x(8@9,8@8,8@8) # Nice.
+  close-grip seatedl cable row:
+    90x8, 180x5, 210x12@(7,7,7.5)
+
+2017-10-28 (Saturday) # Right Adductor Rehab + Volume Makeup
+  weight: 204.4
+  squat:
+    45x10x2, 135x10, 225, 315x3, 405x2
+    462.5x5@(6.5,7,7) # Definitely tighter each set.
+
+2017-10-27 (Friday)
+  weight: 203.4
+  squat:
+    45x10x2, 135, 225, 315x3, 405x1, 455x1
+    505x5@7.5 # Maybe easier than that.
+    462.5x5@(6,6.5) # Right adductor cracked at bottom of 2s5r. No pain, twangy.
+    462.5x2 # Adductor too painful -- can't complete training. Getting worse each rep.
+  deadlift:
+    135x5x2, 225, 315x3, 405x1, 455x1, 495x1, 545x1
+    555x4@(7.5,7.5,8,8.5,8.5) # Lots of rest. Back weak?
+  sldl:
+    417x8@(6,7) # Keeping it light to protect adductor.
+  pullups:
+    30x(8@7,8@8,8@9,8@10)
+  wide-grip seated cable row:
+    130x5, 180x12@(7,8.5,9.5)
+
+2017-10-26 (Thursday)
+  weight: 203.4
+  202 tempo squat:
+    45x10x2, 135, 225, 315x3, 405x1
+    465x3@(6,6,6,6,6)
+  paused bench:
+    45x10x2, 135, 225, 275x3, 315x1, 345x1, 365x1
+    380x1@6.5, 395x1@7, 405x1@8
+    335x5@(6,7,6,7,6)
+  chain close-grip bench:
+    295+60x5@(7,6.5,6.5)
+  tricep pressdown:
+    90, 115x12@(7,7.5,8), 115x11f # Form?
+  seated hammer curl:
+    45x15@(8,8.5,9.5)
+  face pull:
+    62.5x15@(7.5,7.5,7.5)
+
 2017-10-25 (Wednesday)
   weight: 201.2
 
