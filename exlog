@@ -2,6 +2,115 @@
 # vim: syntax=python ts=2 tw=79 et sw=2 sts=2:
 # license: CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
 
+2017-11-21 (Tuesday)
+  weight: 202.8
+  paused bench:
+    45x10x2, 135, 225, 275x3, 315x1
+    325x3@(4,4,4,4,4,5,5)
+  deadlift:
+    70kgx5x2, 120kg, 170kgx3, 200kgx1, 220kgx1, 240kgx1
+    252.5kgx4@7.5 # Upper back very sore, but surprisingly good considering yesterday.
+  chain deadlift:
+    225kg+80x4@(7,7.5,7,7.5) # ~15m rests.
+  romanian deadlift:
+    215kgx6@(7,7) # Back OK but grip hurting hands.
+  chins:
+    55x(7@8,7@9,7@8.5)
+  close-grip seated cable row:
+    90x5, 180x5, 230x10@(6.5,7,8.5)
+  ab roller: # On incline, #4 from bottom:
+    0x6x3
+
+2017-11-20 (Monday) # Right QL bothersome all weekend. Feel toasted.
+  weight: 200.6
+  squat:
+    45x10x2, 135, 225, 315x3, 405x1, 455x1, 495x1, 525x1 # Felt heavy from 315 on.
+    550x1@9, 565x1@9.5 # Felt like I just couldn't use the musculature. CNS toasted.
+    525x2@(9,8.5,8.5,9,9.5,9) # Horrible day. Extremely fatigued. Emotional.
+  safety bar squat:
+    245x5, 335x3
+    425x5@6.5, 435x5@7.5 # Tough on knee quad tendons.
+  paused bench:
+    45x10x2, 135, 225, 275x3, 315x1, 335x1
+    360x4@(7,7.5,8,8.5,8.75,8.5) # Right knee hurting.
+  wide-grip bench:
+    345x5@(6.5,7)
+  cable rear delt row:
+    40x15@4, 50x15@(5,5)
+
+2017-11-17 (Friday)
+  weight: 202.4
+  squat:
+    45x10x2, 135, 225, 315x3, 405x1, 455x1, 495x1
+    525x4@7.75 # Adductor OK, but lacking confidence.
+    495x4@(7.5,7,7.5,8.25) # Ugh.
+  deadlift:
+    135x5x2, 225, 315x3, 405x1, 495x1, 545x1
+    585x1@5.5, 600x1@7
+    575x3@(9,9,9,9.5) # ~15min rests.
+  sldl:
+    445x6@(6.5,6.5)
+  pullups:
+    30x(6@7,6@7,6@7.5,6@9)
+  wide-grip seated cable row:
+    180x10@(7.5,5.5,7)
+  ab roller: # on incline, #4 from bottom.
+    0x5x3
+
+2017-11-16 (Thursday)
+  weight: 202.6
+  202 tempo squat:
+    45x10x2, 135, 225, 315x3, 405x1
+    450x3@(7,6,7,6,6.5,6) # Felt like shit throughout, but good by last set.
+                          # Right groin hurting.
+  paused bench:
+    45x10x2, 135, 225, 275x3, 315x1, 335x1, 355x1, 375x1
+    395x1@7 # Nice, didn't expect that.
+    385x2@(7.5,7.5,7.75,7.75,8,7.5)
+  chain close-grip bench:
+    295+60x4@7, 305+60x4@7.5, 315+60x4@(8,9.5)
+  seated cable behind-the-head tricep extension:
+    92.5x10@6, 97.5x10@5, 140x10@(8,7.5,8,10)
+  seated incline hammer curl:
+    40x12@(8,7.5,7.5,10) # Last set turned into a power front raise.
+  face pull:
+    62.5x15@(6.5,7,9)
+
+2017-11-14 (Tuesday)
+  weight: 201.4
+  paused bench:
+    20kgx10x2, 70kg, 120kg
+    145kgx3@(5.5,4.5,5,5,4.5,4,4)
+  deadlift:
+    70kgx5x2, 120kg, 170kgx3, 200kgx1, 220kgx1
+    245kgx5@7.5
+  chain deadlift:
+    220kg+80x5@(6.5,6,8,8) # Grip getting weird.
+  romanian deadlift:
+    215kgx6@(7,6.5) # Back + grip toasty.
+  chins:
+    50x(7@8,7@8.5,7@8.5)
+  ab roller: # on incline, #5 from bottom.
+    0x(8@5,8@5,8@5)
+
+2017-11-13 (Monday) # Intensity Block.
+  weight: 201.6
+  squat:
+    45x10x2, 135, 225, 315x3, 405x1, 455x1, 495x1 # Right hip unhappy.
+    510x3@(7,7.5,7,7,7,8) # Knees feel like pre-tendinitis.
+  safety bar squat:
+    245x5, 335x3, 385x1
+    435x5@(7,7) # Nice!
+  paused bench:
+    20kgx10x2, 60kg, 100kg, 120kgx3, 140kgx1
+    161kgx4@(6.5,6.5,6.5,7,7.5,7.5) # ~5m rests.
+  wide-grip bench:
+    161kgx5@(7.5,8)
+  lying tricep extension:
+    105x8@5, 125x8@(6,7,7,7.5)
+  cable rear delt row:
+    35x15@(6,5,4)
+
 2017-11-10 (Friday) # Training at 1PM -- BBBC closes early.
   weight: 203.2
   squat:
