@@ -2,6 +2,100 @@
 # vim: syntax=python ts=2 tw=79 et sw=2 sts=2:
 # license: CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
 
+2017-12-01 (Friday)
+  weight: 201.6
+  squat: # Feels OK today.
+    45x10x2, 135, 225, 315x3, 405x1, 455x1, 495x1 # Migraine in base of neck on left.
+    535x3@8 # Tough, but pathing was OK. Extremely sharp pain under right knee all reps.
+    475x3@(7,6,6) # Accidentally paused 3s1r but it's too light to matter. No pain.
+  deadlift:
+    135x5x2, 225, 315x3, 405x1, 455x1, 495x1
+    550x2@(6.5,6.5,6.5,6.5) # 4s2r held 10-count. Grip strong.
+  pullups:
+    35x(6@7.5,6@7.5)
+  wide-grip seated cable row:
+    180x10@(6,7.5)
+  ab roller: # On incline, #2 from bottom:
+    0x5x2 # Paused. Felt OK! First set a little strainy, second just fine.
+
+2017-11-30 (Thursday) # Sharp pain under right patella all night.
+  weight: 202.0
+  202 tempo squat:
+    45x10x2, 135, 225, 315x3, 405x1 # Warmups paused at bottom.
+    440x3@(6,6,6,6) # Experimented with quicker ascents.
+  paused bench:
+    45x10x2, 135, 225, 275x3, 315x1, 345x1, 365x1, 385x1
+    405x1@7.5, 415x1@8.5
+    400x2@(9,9,9,9.5,9.5)
+  chain close-grip bench:
+    320+60x3@(7.5,8.5,8,8)
+  seated behind-the-head tricep extension:
+    140x10@(6,7)
+  face pull:
+    62.5x15@(6,6)
+
+2017-11-28 (Tuesday)
+  weight: 201.6
+  paused bench:
+    45x10x2, 135, 225, 275x3, 315x1
+    330x3@(6,4.5,5,4.5,4.5,4.5)
+  deadlift:
+    70kgx5x2, 120kg, 170kgx3, 200kgx1, 220kgx1 # Right QL/hip tight, mini-strain.
+    254kgx3@7
+    227.5kgx3@(5.5,6,6)
+  chins:
+    60x(7@8,7@8.5,7@9)
+  close-grip seated cable row:
+    90x10, 180x5, 230x10@(6,6,6)
+
+2017-11-27 (Monday)
+  weight: 201.6
+  squat:
+    45x10x2, 135, 225, 315x3, 405x1, 455x1, 495x1, 535x1 # Shaky right leg. Adductor.
+    560x1@8.5, 585x1@10 # Back started to round out of bottom.
+    540x2@(8.5,9.5,9,9,9.5,9.5) # Lower back giving out.
+  paused bench:
+    45x10x2, 135, 225, 275x3, 315x1, 345x1
+    365x4@(7,7.5,8,7.5,8.5,9) # Right knee tendinitis hurting.
+  wide-grip bench:
+    355x5@(7,8) # Right tricep close to cramping.
+
+2017-11-24 (Friday)
+  weight: 203.6
+  squat:
+    45x10x2, 135, 225, 315x3, 405x1, 455x1, 495x1
+    530x3@7 # Thank Zeus. A little pain, but strong.
+    480x4@(7,6.5,6.5,7.5) # All good.
+  deadlift:
+    70kgx5x2, 120kg, 170kgx3, 200kgx1, 220kgx1, 250kgx1
+    265kgx2@(8,9,9) # Last set held 5-count.
+  sldl:
+    205kgx6@6 # Held 8-count.
+  pullups:
+    30x(6@6,6@8,6@7,6@7)
+  wide-grip seated cable row:
+    90x5, 180x10@(6,6,7,7)
+  ab roller: # On incline, #3 from bottom:
+    0x5x3
+
+2017-11-23 (Thursday) # Thanksgiving
+  weight: 202.6
+  202 tempo squat:
+    45x10x2, 135, 225, 315x3, 405x1
+    455x3@(7.5,6,6,7) # Narrower stance on sets 2+.
+  paused bench:
+    45x10x2, 135, 225, 275x3, 315x1, 335x1, 355x1
+    375x1@7, 395x1@7.5, 405x1@8.5
+    395x2@(7.75,8.75,8,8.5,9.5,9)
+  chain close-grip bench:
+    315+60x4@(8.5,9,10,10)
+  seated behind-the-head tricep extension:
+    130x10@(6,6,7,7.5)
+  seated incline hammer curl:
+    35x12@(6,7,8,8.5)
+  face pull:
+    62.5x15@(7,7.5,8.5)
+
 2017-11-21 (Tuesday)
   weight: 202.8
   paused bench:
