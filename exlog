@@ -2,6 +2,84 @@
 # vim: syntax=python ts=2 tw=79 et sw=2 sts=2:
 # license: CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
 
+2017-12-13 (Wednesday) # Gold's Gym in Austin, TX.
+  squat:
+    45x10x2, 135, 225, 315x3, 405x1
+    445x3@(6.5,6,7) # Elbow tendinitis kicking in from grip slipping everywhere.
+  paused bench:
+    45x10x2, 135, 225, 275x3, 315x1
+    335x3@(6,6,6.5,6,6) # 5s3r held 4-count until spotter got antsy.
+  deadlift:
+    225x5, 315x3, 405x1
+    465x3@(6,6,7) # Lower back sore and feels like it's rounding.
+
+2017-12-12 (Tuesday) # Gold's Gym in Austin, TX.
+  squat:
+    45x10x2, 135, 225, 315x3
+    380x8@(7,6,6.5) # Lower back death. Hot in the gym: almost passing out.
+  paused bench:
+    45x10x2, 135, 225, 285x8@(6.5,6,6) # 3s8r 10-count pause for funsies.
+  # 20 minutes slow bicycle riding.
+
+# Lower back extremely sore after meet (for about a week).
+
+2017-12-10 (Sunday) # Meet: 2017 USAPL American Open in Anaheim, CA.
+  weight: 90.1kg
+  squat:
+    20kgx10x2, 70kg, 120kg, 170kgx3, 200kgx1, 220kgx1, 235kgx1
+    252.5kgx1 # First attempt: went smoothly. Back tired, but somehow it feels
+              # like the weight is being properly carried by hip drive.
+    267.5kgx1 # Second attempt: went very fast. Legs feel fresh, but like I can't
+              # exactly squeeze them tightly. Score table said "add some weight."
+              # Accidentally called for 2.5kg more than I meant to, because the
+              # timer was going at the score table and I was dizzy from the attempt.
+    277.5kgx1 # Third attempt: Was going OK, but back FULLY ROUNDED at the bottom,
+              # including lower back, but the weight was still light enough
+              # that I could get it up. Nobody seemed to notice that it
+              # happened, but that was fairly scary.
+  paused bench:
+    20kgx10x2, 70kg, 120kgx3, 140kgx1, 165kgx1
+    185kgx1 # First attempt: very fast, but Hani said head came up too much.
+    192.5kgx1 # Second attempt: very fast, and kept head down.
+    197.5kgx1 # Third attempt: Hani called to play safe. Was easy, 200kg easy.
+  deadlift:
+    # Meet director fucked up and announced a platform change for my flight,
+    # giving me only about eight minutes to warm up instead of my normal ~40.
+    70kgx5, 120kgx5, 170kgx3, 200kgx1, 235kgx1, 255kgx1
+    277.5kgx1 # First attempt: felt like shit, pretty mad, CNS not ready.
+    292.5kgx1 # Second attempt: Still huffing and puffing before the lift.
+              # Because I wasn't ready, strained a lower ab halfway up.
+              # Hani didn't want me to take a 3rd, due to risk of a tear,
+              # but I wanted to try to qualify for Prime Time.
+    305kgxf # Third attempt: Made it to lockout despite fear of injury and CNS
+            # still in the gutter, but couldn't hold onto the bar at the top.
+            # Very upset about that one.
+
+2017-12-07 (Thursday) # Last trainings =) Feeling OK.
+  weight: 201.6
+  paused bench:
+    45x10x2, 135, 225, 275x3, 315x1
+    335x2@(6,5,5,5,5)
+  202 tempo squat:
+    45x10x2, 135, 225, 315x3 # Lower back giving some stabbing pains.
+    405x2x3 # Too light to call RPE.
+
+2017-12-05 (Tuesday) # Depression easing off.
+  weight: 200.6
+  deadlift:
+    70kgx5x2, 120kg, 170kgx3, 200kgx1 # Upper back sore -- weak at top.
+    215kgx1x4
+
+2017-12-04 (Monday) # Migraine since Friday & Intense Depression
+  weight: 200.0
+  squat:
+    45x10x2, 135, 225, 315x3, 405x1, 455x1
+    480x1 # Painful right knee + adductors, but fast.
+    440x1x4
+  paused bench:
+    45x10x2, 135, 225, 275x3, 315x1, 335x1
+    355x3@(6.5,6.5,6.5,6.5,7,6.5)
+
 2017-12-01 (Friday)
   weight: 201.6
   squat: # Feels OK today.
