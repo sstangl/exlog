@@ -2,6 +2,125 @@
 # vim: syntax=python ts=2 tw=79 et sw=2 sts=2:
 # license: CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
 
+2017-12-29 (Friday)
+  weight: 199.6
+  240 tempo squat:
+    45x10x2, 135, 225, 315x3
+    355x6@7 # Right knee hurting at quarter-squat position.
+    342.5x6@(6.5,7.5,8,8) # 3s toes more out: less knee pain.
+  band deadlift: # red bands, doubled.
+    100kgx5x2, 100kg+130x5, 140kg+130x3
+    180kg+130x4@6 # Nice!
+    160kg+130x4@(5,6,6.5,7,7)
+  chinups:
+    0x(12@5,12@6.5,12@8)
+  close-grup seated cable row:
+    90x8, 180x15@(8,8,8) # Urgh
+
+2017-12-28 (Thursday) # Back at BBBC. Slept well!
+  weight: 201.0
+  202 tempo squat:
+    45x10x2, 135, 225, 315x3, 405x1
+    450x3@(7,6,6.5) # 3s medium stance and looking more up (~8ft ahead).
+                    # 1s wider stance -- hurt right knee.
+                    # 2s medium stance & load quads.
+  2-count paused bench:
+    45x10x2, 135, 225, 275x3, 140kgx1
+    152.5kgx5@6.5, 157.5kgx5@8, 136kgx8@(8,9,10) # Creatine cliff.
+  2-count paused wide-grip bench:
+    120kgx10@(9,10)
+  db curl:
+    25x15@(6,7.5,8)
+  band pull-aparts:
+    0x(60,50,50,50,40)
+
+2017-12-26 (Tuesday)
+  deadlift:
+    135, 225, 315x3, 405x1, 495x1, 545x1
+    585x1@6 # With 5-count hold. Held fine on 24hr bar.
+    500x5@(5,5.5,6,7)
+  sldl:
+    385x10@(8,10) # Glutes failing at lockout.
+  3-count paused bench:
+    45x10x2, 135, 225x3, 275x2
+    325x3@(7.5,7.75,8.5,9,8.5)
+  pullups:
+    15x10@7, 20x(10@9,10@10)
+  db rows:
+    35x12, 65x12@(7,6,5)
+
+2017-12-24 (Sunday) # Christmas Eve San Diego 24Hr Fitness.
+  squat:
+    45x10x2, 135, 225, 315x3, 405x1, 455x1, 495x1
+    525x1@6 # But right knee pain after.
+    545x1@7 # Came a little onto toes. Unstable walkout.
+    450x6@(7,8,7.5)
+    405x8@(7.5,7.5) # Urgh.
+  paused bench:
+    45x10x2, 135, 225, 275x3, 315x1
+    345x5@(8,8.5,9) # 2s noticed that the bar is bent and trying to escape.
+  db incline press:
+    45x8, 75x8@(8,8.5,10)
+  band pull-aparts:
+    0x(50,50,50,50,50)
+
+2017-12-22 (Friday) # Recovering from sickness. Very dry; runny nose.
+  weight: 201.0
+  240 tempo squat:
+    45x10, 135, 225, 315x3
+    365x6@8.5, 335x6@(8,7.5,8) # Very lightheaded and sleepy. Butt tight.
+  deadlift:
+    135x5x2, 315x5, 455x1, 525x1
+    585x1@7 # Held 5-count.
+    485x5@(5.5,6,6)
+  sldl:
+    385x10@(7,9.5)
+  chinups:
+    0x(12@6,12@10,12@10)
+
+2017-12-21 (Thursday)
+  weight: 200.6
+  202 tempo squat:
+    45x10x2, 135, 225, 315x3, 405x1
+    445x3@(6,6.5,6.5) # Stretching hamstrings.
+  2-count paused bench:
+    45x10x2, 135, 225, 275x3, 315x1
+    325x5@6, 340x5@7.5
+    290x8@(6.5,6.5,9) # Too little rest?
+  db curl:
+    25x15@(7.5,9,7)
+  band pull-aparts:
+    0x(40,40,30,40,30,40,30)
+
+2017-12-19 (Tuesday)
+  weight: 200.2
+  3-count paused bench:
+    45x10x2, 135, 225, 275x2
+    315x3@(7,6.5,7,6)
+  deadlift:
+    135x5x2, 315x5, 455x1, 495x1
+    525x6@7.5 # Threw up a bit after 5r, 20-second break. 6r held 5-count.
+  band deadlift: # red bands, doubled.
+    475+130x3@9 # lol
+    405+130x6@10
+    365+130x8@10 # Had to stop after 5r to burp. Tough at lockout.
+  pullups:
+    15x(10@8,10@9,10@10) # Left elbow hollow.
+
+2017-12-18 (Monday) # Post-Meet Restorative Volume
+  weight: 198.8
+  squat:
+    45x10x2, 135, 225, 315x3, 405x1, 455x1, 495x1
+    525x1@6
+    435x6@(5.5,6.5,6) # Light-headed after. Great pathing.
+  paused bench:
+    45x10x2, 135, 225, 275x3, 315x1
+    335x5@(7,6.5,7)
+  db incline press:
+    30x8, 45x8, 70x8@(7,7,7.5)
+  band pull-aparts:
+    0x(30,30,30,30,40,30,30,30) # Green band.
+
 2017-12-15 (Friday) # Gold's Gym in Austin, TX. Early morning.
   squat:
     45x10x2, 135, 225, 315x3, 405x1
