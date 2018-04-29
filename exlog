@@ -2,6 +2,74 @@
 # vim: syntax=python ts=2 tw=79 et sw=2 sts=2:
 # license: CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
 
+2018-01-09 (Tuesday)
+  weight: 199.6
+  paused bench:
+    45x10x2, 135, 225, 275x5, 315x2
+    335x3@(4.5,5.5,4.5,5,4.5)
+  band deadlift: # Red bands, doubled.
+    100kgx5x2, 100kg+130x5, 140kg+130x3, 180kg+130x6@8 # Hands opening.
+    # Dan says bands weigh 200 at the top, 50 off the floor. Not 130.
+    170kg+130x6@(6.5,7,7) # All sets 6r held 4-6 count.
+    # Sarah says not locked-out because sholders are forward.
+  pullups:
+    20x(10@7.5,10@7.5,10@8)
+  ab roller: # Incline, #5 from bottom.
+    0x(6@6,6@7.5,6@7)
+
+2018-01-08 (Monday)
+  weight: 198.6
+  squat: # Narrower stance with toes more forward & more quads.
+    45x10x2, 135, 225, 315x3, 405x1, 455x1, 495x1@6 # Right side feels heavier.
+    435x6@(6,6,7) # Mild quad tendon aggravation. Lightheaded after every set.
+  safety bar squat:
+    235x5, 325x5@(6.5,5.5,5.5)
+  paused bench:
+    45x10x2, 135, 225, 275x3, 315x1, 345x5@7.5
+    327.5x5@(6,6,6,6.5,6,7)
+
+2018-01-05 (Friday) # More unstructured lifting.
+  weight: 201.0
+  squat:
+    45x10x2, 135x8, 225x8, 315x8@5
+    365x8@5, 405x8@7 # Throwing up between every rep here.
+      # Wide toes & spreading knees hurt, but leaning into VMO with forward hip
+      # felt OK.
+    405x8@7 # Lost most hearing for ~30s after.
+  paused bench:
+    45x10x2, 135, 225, 275x3, 315x1
+    345x5@6.5, 305x8@(6.25,6,6.5,6.5,7)
+  chins:
+    0x(10@8,10@9,10@8) # 2s pulled faster.
+
+2018-01-04 (Thursday) # Unstructured Lifting.
+  weight: 201.6
+  200 tempo squat:
+    45x10x2, 135, 225, 315x3x2
+    405x3@(5,5,5,5.5,5.5)
+    445x3@7 # Left knee & low back hurt a bit.
+      # Kept right hip more closed, to be more symmetric. Wider toes.
+  press:
+    45x10x2, 135
+    165x5@(6,5), 175x5@(6,5), 185x5@6 # Every set geting better!
+
+# Quit training. Too much pain. Taking a mental health break.
+# Told Hani that I'll return to training with him once I figure out
+# a training pattern in which I don't get injured.
+
+2018-01-01 (Monday) # Some New Block! Left Adductor Hurts.
+  weight: 200.4
+  squat:
+    45x10x2, 135, 225, 315x3, 405x1, 455x1, 495x1@6 # Sharp right knee pain. Very slow.
+    525x1@7.5
+    460x5@7 # Supposed to be 6 but both knees extremely painful, and stopped.
+    460x6@(10,9,10) # Reps 4-6 hurt left knee.
+  safety bar squat:
+    245x5, 335x8@(6,7)
+  paused bench:
+    45x10x2, 135, 225, 275x3, 315x1
+    345x5@(8.5,8.5,9,8.5)
+
 2017-12-29 (Friday)
   weight: 199.6
   240 tempo squat:
