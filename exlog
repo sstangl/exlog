@@ -2,6 +2,212 @@
 # vim: syntax=python ts=2 tw=79 et sw=2 sts=2:
 # license: CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
 
+2018-02-02 (Friday) # Tirde. Early training for Sarah.
+  weight: 201.6
+  squat:
+    20kgx10x2, 60kg, 100kg, 140kgx3, 180kgx1
+    197.5kgx8@(7,7.25,7.5) # Much harder than last week, and VMOs really tight.
+  deadlift: # ugh tired
+    70kgx5x2, 120kg, 170kgx3, 200kgx1, 220kgx1
+    250kgx1@7 # ugh, pretty heavy
+    240kgx5@(7,7.75,7.5) # Soft lockouts, really very tired.
+  ab roller: # incline, #2 from bottom
+    0x(6@7,6@7,6@7)
+
+2018-02-01 (Thursday) # Left Adductor Weird
+  weight: 201.4
+  200 tempo squat:
+    45x10x2, 135, 225, 315x3, 405x1
+    455x3@(6,7,6,6,6.5) # Right knee and left adductor painful.
+  paused bench:
+    45x10x2, 135, 225, 275x3, 315x1, 335x1 # Right chest spasming.
+    355x5@6.5, 370x5@7.75 # First 4 great, 5th pathed weird. Still spasms.
+    345x5@(6,6,6,6.5,7) # Held together. Tight chest!
+  seated behind-the-head tricep extension:
+    100x12@4, 120x10@(7,6.5,7.5)
+
+2018-01-30 (Tuesday)
+  weight: 202.4
+  paused bench:
+    45x10x2, 135, 225, 275x3, 315x1, 335x1 # Feels REAL good.
+    357.5x3@(5.5,5.5,5.5,6,6.5)
+  2-count paused-off-floor deadlift:
+    70kgx5x2, 120kg, 170kgx3, 200kgx1 # Feels good today.
+    225kgx4@7.5 # Had to stop to burp.
+    235kgx4@7 # Held in burps.
+    220kgx4@(6,6.5,6.5) # Nice!
+  sldl:
+    220kgx5@(6,6.75)
+  pullups:
+    35x(8@7.5,8@8,8@9)
+  ab roller: # incline, #2 from bottom
+    0x(6@6,6@7,6@7)
+
+2018-01-29 (Monday) # Orthotics!
+  weight: 200.8
+  squat:
+    45x10x2, 135, 225, 315x3, 405x1, 455x1, 495x1
+    535x1@7.5, 565x18 # Came forward a little -- effective heel is higher now.
+    495x6@8 # Tightness, but zero knee pain. Knees very stable.
+    470x6@(8.25,7.5,8,8) # Hell yeah. No pain.
+  safety bar squat:
+    245x5, 335x3, 355x7@(6,7.5)
+  paused bench:
+    20kgx10x2, 60kg, 100kg, 120kgx3, 140kgx1, 155kgx1
+    165kgx5@8 # Right side pain a bit, & giving out.
+    157.5kgx5@(6,6,6,7,6.5,7,8)
+
+2018-01-26 (Friday)
+  weight: 202.0
+  squat:
+    45x10x2, 135, 225, 315x3, 405x1
+    425x8@(6.5,6.5,6.5) # Reps done very quickly, barely a breath.
+      # Set 1 hurt right knee a bit, 2s-3s tighter hip & more forward: no pain.
+  deadlift:
+    75kgx5x2, 125kg, 175kgx3, 205kgx1, 225kgx1
+    260kgx1@6.5, 280kgx1@7.25 # Held extremely solidly for 5-count.
+    240kgx5@(6.5,6.5,7,7.75) # Held 5-count. Grip dead! Tired!
+      # Intended 235, but accidentally misloaded to 240. Great RPEs then!
+  chins:
+    35x(8@7,8@6,8@7)
+  ab roller: # incline, #3 from bottom
+    0x(6@6,6@7,6@7)
+
+2018-01-25 (Thursday)
+  weight: 200.6
+  200 tempo squat:
+    45x10x2, 135, 225, 315x3, 405x1
+    460x3@(7,7.5,7.25,6.5,7) # Last set somehow hurt upper back.
+      # Low back tired. Left adductor & right knee bothersome.
+  paused bench:
+    45x10x2, 135, 225, 275x3, 315x1, 335x1
+    355x5@7.5, 365x5@8, 340x5@(6.5,6.75,6.25,7.5)
+  wide-grip bench:
+    320x8@(7,8,10) # lol
+
+2018-01-23 (Tuesday)
+  weight: 202.0
+  paused bench:
+    45x10x2, 135, 225, 275x3, 315x1 # Sharp right elbow pain. Yesterday too.
+    335x1, 352.5x3@(6,5.5,6,6,6)
+  2-count paused-off-floor deadlift:
+    70kgx5x2, 120kg, 170kgx3, 200kgx1
+    220kgx4@8 # Well... quite a bit harder than last week!
+      # This probably won't go well. Stopping it.
+  band deadlift:
+    315+200x3@4, 405+200x5@7 # 5r held 5-count.
+    405+200x5@6, 425+200x5@(6.5,7) # All sets 5-count hold on 5r.
+  pullups:
+    30x(8@7.5,8@7.5,8@8)
+  ab roller: # incline, #3 from bottom
+    0x(6@7,6@7,6@7)
+  hack squat:
+    0x8, 90x8@(7,8)
+
+2018-01-22 (Monday)
+  weight: 200.4
+  squat:
+    20kgx10x2, 70kg, 120kgx4, 170kgx3, 200kgx1
+    220kgx1@6, 237.5kgx1@7, 252.5kgx1@7 # Hell yeah.
+    220kgx6@8 # VMOs getting tight.
+    207.5kgx6@(7,6,7,7.5) # OK! No real pains.
+  safety bar squat:
+    80kgx5, 120kgx5
+    155kgx7@(6.5,6), 155kgx10@8
+  paused bench:
+    45x10x2, 135, 225, 275x3, 315x1, 345x1
+    360x5@8, 345x5@(7,7,7.25,8) # Some right elbow pain.
+
+2018-01-19 (Friday)
+  weight: 200.2
+  squat:
+    45x10x2, 135, 225, 315x3
+    415x8@(6,7.5,7.5) # 2s,3s zero knee pain: better hip.
+  deadlift:
+    75kgx5x2, 125kg, 175kgx3, 205kgx1, 225kgx1
+    255kgx1@6, 275kgx1@7 # Fast and easily held 5-count. Grip is good now!
+    230kgx5@(6.5,7,7,7.5) # Every set held 5-count. Solid.
+  chins:
+    30x(10@8,10@7,10@8)
+  ab roller: # incline, #4 from bottom
+    0x(6@6,6@7,6@7)
+
+2018-01-18 (Thursday)
+  weight: 199.8
+  200 tempo squat:
+    45x10x2, 135, 225, 315x3, 405x1
+    455x3@(6,6.5,6.75,6.5,6.5)
+  paused bench:
+    20kgx10x2, 70kg, 120kg, 140kgx2, 150kgx1
+    157.5kgx5@7, 162.5kgx5@7 # lol
+    150kgx6@6.5, 155kgx6@(7.25,8,8.5)
+  wide-grip bench:
+    145kgx8@8, 142.5kgx8@(6.75,9) # Mostly triceps, since chest pre-fatigued.
+  seated behind-the-head tricep extension:
+    90x15@(6.5,6), 100x15@9.5
+
+2018-01-16 (Tuesday)
+  weight: 200.4
+  paused bench:
+    45x10x2, 135, 225, 275x3, 315x1
+    345x3@(5,5,5,5,5.5)
+  2-count paused-off-floor deadlift:
+    70kgx5x2, 120kg, 170kgx3, 200kgx1
+    220kgx4@7, 230kgx4@8 # Hamstrings tired & grip slipping at top.
+    215kgx4@(6.5,7,7.25)
+  sldl:
+    210kgx6@(7,7.5) # Grip not stable at top -- wrist position changing?
+  hack squat:
+    0x10 # Got a quad pump in VMO just from this...
+    90x8@(7,6,6) # Tough on knees, but maybe usefully.
+  pullups:
+    25x(10@8,8@7,8@9)
+  ab roller: # incline, #5 from bottom
+    0x(6@5,6@6,6@6)
+
+2018-01-15 (Monday)
+  weight: 199.6
+  squat:
+    45x10x2, 135, 225, 315x3, 405x1, 455x1
+    495x1@5.5, 525x1@7.5, 545x1@7 # More controlled descent & hip drive.
+    475x6@7.5, 445x6@(7,6.5,6.75,7.75) # Form deteriorated set-to-set.
+  safety bar squat:
+    235x5, 325x7@(6,6)
+  paused bench:
+    20kgx10x2, 70kg, 120kgx4, 140kgx1, 150kgx1
+    160kgx5@7.5, 152.5kgx5@(6.5,6.75,7,7,7.5)
+  db incline press:
+    35, 60x10@(7,8,9)
+
+2018-01-12 (Friday)
+  weight: 200.4
+  squat:
+    45x10x2, 135, 225, 315x5
+    405x8@(6,6.75,6.75) # Nice. Went quickly.
+  deadlift:
+    70kgx5x2, 120kg, 170kgx3, 200kgx1, 220kgx1
+    250kgx1@6.5, 270kgx1@8.5 # Oof, feels very heavy today.
+    220kgx5@(6,6,5.5,5) # Hell yeah
+      # All last reps held for 5-count.
+  close-grip seated cable row:
+    90x15, 180x15@(6,6,6)
+  ab roller: # from knees
+    0x10x2 # Low abs super sore. Painfully.
+
+2018-01-11 (Thursday) # Abs + Triceps (LTE style) sore.
+  weight: 200.4
+  200 tempo squat:
+    45x10x2, 135, 225, 315x3
+    405x3@5, 425x3@5.5, 445x3@(6,6,6)
+  paused bench:
+    45x10x2, 135, 225, 275x3, 315x1
+    335x5@6, 355x5@7.5
+    335x6@(6,7,7.5,7.75)
+  wide-grip bench: # tng
+    315x8@(7,7,8)
+  seated behind-the-head tricep extension:
+    90x15@(6,7,8.5)
+
 2018-01-09 (Tuesday)
   weight: 199.6
   paused bench:
