@@ -2,6 +2,367 @@
 # vim: syntax=python ts=2 tw=79 et sw=2 sts=2:
 # license: CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
 
+2018-03-30 (Friday) # Bike ride + rolling.
+  weight: 202.2
+  beltless squat:
+    45x10x2, 135, 225, 315x3, 405x1, 455x1
+    465x5@(7,6.5,7.5,8,8) # Nice! No pain, some tugging on left knee.
+  deadlift:
+    135x5x2, 225, 315x3, 405x1, 455x1
+    495x5@6 # Back very strong, but left hand opening.
+    515x5@7 # Grip crap. Tried carefully, just got nothing.
+    545x6@7 # Straps. Well, back is super fucking strong. Good for 700. Grip is bad.
+  deadlift hold: # Mixed-grip.
+    315x30 # seconds. Left elbow bent a little, hurting. Grip just about giving out.
+    225x20 # Hook grip. Ow, ow ow ow.
+
+2018-03-29 (Thursday) # MRIs found nothing. Knees in great shape.
+  weight: 202.6
+  beltless 2-count paused squat:
+    45x10x2, 135, 225, 315x3, 365x1
+    405x3@6.5, 425x3@7.5, 445x3@8.5
+  paused bench:
+    20kgx10x2, 70kg, 100kg, 120kgx3, 140kgx1, 160kgx1
+    170kgx3@8
+  chain bench:
+    130kg+70x5@(6,6.5,7,9) # Tough at top on last set.
+  seated behind-the-head tricep extension:
+    110x10@6, 120x8@(6,7)
+
+2018-03-27 (Tuesday)
+  weight: 203.2
+  safety bar squat:
+    155, 245
+    345x8@6, 365x8@6.5, 385x8@7.5
+  paused bench:
+    45x10x2, 135, 225, 275x3, 315x1
+    335x3@(5,4,5,5,5)
+  sldl:
+    135x5x2, 225x6, 315x3, 405x1
+    475x6@6 # Grip slipping -- didn't chalk well. Got tinnitus in left ear.
+    495x5@9 # Grip just not holding.
+    495x6@7 # Ugh, still grip.
+  ab roller: # Toes, floor, belt.
+    0x(6@6,6@6,6@8) # 3s something felt wrong. Ab over-strained?
+
+2018-03-26 (Monday)
+  weight: 202.0
+  beltless squat:
+    45x10x2, 135, 225, 315x3, 405x1
+    455x5@(7.5,7,7.5,8,9) # No pain but also no CNS.
+  paused bench:
+    45x10x2, 135, 225, 275x3, 315x1
+    335x6@(6,6,6,6.5,7)
+
+2018-03-23 (Friday)
+  weight: 202.6
+  beltless squat:
+    45x10x2, 135, 225, 315x3, 405x1
+    445x5@(6.5,6.5,6,7,6.5) # Not bad RPEs. Friday better than Monday.
+  deadlift: # Right QL feels weird.
+    75kgx5x2, 125kg, 175kgx3, 225kgx1
+    255kgx1@7.5, 275kgx1@7.5, 285kgx1@7.5 # Held 5-count. Nice!
+  chain deadlift:
+    200kg+80x5@4, 220kg+80x5@(6.5,7.5)
+    # Some tugging on left tibial tuberosity -- good stopping point.
+  chins:
+    45x(8@8,8@7,8@8)
+  ab roller: # Toes, floor, with belt.
+    0x(6@5,6@6,6@7.5) # Got a headache after. Tough!
+
+2018-03-22 (Thursday) # MRIs scheduled for next week.
+  weight: 203.2
+  beltless 2-count paused squat:
+    45x10x2, 135, 225, 315x3, 365x1
+    385x3@6, 405x3@6.5, 425x3@10 # Held 12-count, pretty EZ. No pain!
+  paused bench:
+    45x10x2, 135, 225, 275x3, 315x1, 335x1, 355x1
+    375x4@9.75 # Right side weird again.
+    335x5@(6,6,6,7)
+
+2018-03-20 (Tuesday)
+  weight: 201.2
+  safety bar squat:
+    155x5, 245x5
+    335x8@6, 355x8@6, 375x8@6
+  paused bench:
+    20kgx10x2, 70kg, 120kg, 140kgx1
+    150kgx3@(4,4,4,4,4.5)
+  sldl:
+    135x6x2, 225, 315, 405x3
+    455x8@5.5, 475x8@6.5, 495x6@6.5
+  ab roller: # Incline, #2 from bottom.
+    0x(6@6,8@6,8@7) # With belt -- completely takes out back pain.
+
+2018-03-19 (Monday) # Allergies. A little dizzy.
+  weight: 201.0
+  beltless squat:
+    135x5x2, 225, 315x3, 405x1
+    435x5@(7,6.5,7.5,7,8) # Was sleepy all day! No knee pain.
+  paused bench:
+    45x10x2, 135, 225, 275x3, 315x1 # Back OK, right shoulder hurts a bit.
+    325x7@(6,6.5,7,6.5)
+
+2018-03-16 (Friday) # Left knee pain inferior to patella. Stabbing.
+  weight: 201.6
+  beltless squat:
+    45x10x2, 135, 225, 315x1, 365x1, 405x1
+    425x5@(6.5,6,6,6,6) # 1s sloppy. 3s kept in butt, LEAN OVER!
+    # Squeeze whole glute/ham tie-in, at bottom and around to the outer side.
+    # And stretch adductor the day before.
+  deadlift:
+    135x5x2, 225, 315x3, 405x1, 495x1, 545x1
+    585x1@7, 615x1@7.5 # VERY fast, held 3-count.
+    495x5@(5,4.5,5.5) # Grip was OK -- just was holding it too much in fingers.
+  # Back feels a little weird: skipping accessories.
+
+2018-03-15 (Thursday) # Left groin still weird.
+  beltless 2-count paused squat:
+    45x10x2, 135, 225 # Intense left knee stabbing pain. Went away after "flossing."
+    315x3, 365x1
+    385x3@6.5, 405x3@6.5, 425x3@10 # 3r held 10-count, pretty maximal.
+  paused bench:
+    45x10x2, 135, 225, 275x3, 315x1, 335x1, 355x1
+    365x6@10 # Right shoulder giving out first. Tough to arch due to back pinching.
+  chain bench:
+    275+70x5@(6,6,7,7.5) # Left knee still giving sharp stabs, even with bodyweight.
+
+2018-03-13 (Tuesday)
+  weight: 200.8
+  safety squat bar:
+    155x5, 245x5, 295x3
+    315x8@5, 335x8@6, 355x8@6
+  paused bench:
+    20kgx10x2, 70kg, 120kgx3
+    145kgx3@(5,4,5,4,4)
+  sldl:
+    75kgx5x2, 125kg, 175kgx3
+    195kgx8@6, 205kgx8@6, 215kgx8@7 # Nice. More in hams.
+  pullups:
+    50x(8@9,6@8,6@9)
+
+2018-03-12 (Monday) # Left adductor/hip weird.
+  weight: 200.4
+  beltless squat:
+    45x10x2, 135, 225, 315x3, 405x1 # Kind of hard =/
+    415x5@(5,6,6.5,6,6) # Zero pain, kept in butt, pushed HARD. Great!
+    # 1s in knees, pain. 2s in butt, no pain.
+  paused bench:
+    45x10x2, 135, 225, 275x3
+    320x8@(7,7.5,8,8.5)
+  close-grip cable row:
+    90x15, 140x15@(5,5,6)
+
+2018-03-09 (Friday)
+  weight: 203.0
+  beltless squat:
+    45x10x2, 135, 225, 315x3 # Feels locked-in!
+    405x5@(6,5.5,5,5,5) # Getting better & better.
+      # Some stabbing pains in right quad after.
+  deadlift: # With belt.
+    75kgx5x2, 125kg, 175kgx3, 205kgx1 # Feels slow.
+    225kgx1, 255kgx1@7.5 # Held 4-count, grip not great. E1RM ~610.
+    215kgx5@(5,5.5,5.5)
+  chinups:
+    45x(8@7,8@7), 50x(8@8.5) # Left chest pulling on middle of ribcage. Hurts.
+  # Tried ab roller -- back immediately pinched. Nope.
+  leg raise:
+    0x(12,12,12)
+
+2018-03-08 (Thursday) # Little sleep. Sarah stressed.
+  beltless 2-count paused squat:
+    45x10x2, 135, 225, 315x3
+    365x3@6, 385x3@6.5, 405x3@10 # 3s3r 10-count pause.
+  paused bench:
+    45x10x2, 135, 225 # Mid-back pinching.
+    275x3
+    315x8@(7,6,7) # OK =) Benching in the white rack. Back weird. Can't do leg drive.
+  seated behind-the-head tricep extension:
+    110x11@(6,6,6) # Tendons felt better after!
+
+2018-03-06 (Tuesday)
+  weight: 201.8
+  safety bar squat:
+    155x5, 245x5
+    295x8@(4,4) # OK. A little out of breath.
+  paused bench:
+    20kgx10x2, 70kgx5, 120kgx5
+    145kgx3@(4,4.5,4,3.5,4.5)
+  sldl:
+    135x5x2, 225, 315x3
+    405x8@5, 425x8@6, 445x8@6
+  pullups:
+    45x(8@8,7@9,6@10)
+  ab roller: # Toes, floor.
+    20x(6@7) # Mid-back vertebra pinched.
+    0x(8@7) # Abs sore & don't want injury. Stopping.
+
+2018-03-05 (Monday) # Start Meet Prep for Boss of Bosses V in August.
+  beltless squat:
+    45x10x2, 135, 225, 315x3, 405x5@(5,5,6,5.5,6)
+  paused bench:
+    45x10x2, 135, 225, 275x3
+    315x8@(6.5,6.5,6.75,8) # Right side giving out first.
+  close-grip cable row:
+    90x15@5, 140x15@(7,5,6)
+
+2018-03-02 (Friday)
+  squat:
+    45x10x2, 135, 225, 315x3, 405x1, 455x1
+    495x1 # Accidentally paused... Huh.
+    545x1@8.5 # OK. No searing pain -- but quads tight after. Low E1RM, but OK!
+    465x5@(7,7,7) # Need to not lean over so much.
+  deadlift: # Left QL and mid-back weird from belttless yesterday. Tenuous.
+    135x5x2, 225, 315x3, 405x1, 455x1
+    495x5@(5,6,6)
+  chinups:
+    45x(8@8.5,8@8,8@8)
+  ab roller: # Toes, floor
+    15x(5@6,5@6.5,5@7)
+    # Bottom lower back taking a beating. Needs ice & decompression.
+    # If I keep doing beltless stuff, back may get injured.
+
+2018-03-01 (Thursday)
+  weight: 200.6
+  beltless chain squat:
+    45x10x2, 135, 225, 315x3
+    315+80x5@4.5, 365+80x5@5.5, 385+80x5@7.5, 405+80x5@8.5 # PR!
+  paused bench:
+    20kgx10x2, 70kg, 120kg, 140kgx3, 150kgx1 # Shoulders bothersome.
+    160kgx1, 170kgx1, 180kgx1, 185kgx3@9.5 # Butt would raise.
+  close-grip bench:
+    160kgx5@(8,10) # Good enough, RIP me.
+  seated behind-the-head tricep extension:
+    100x10@5, 110x10@6, 120x10@(7,8)
+
+2018-02-27 (Tuesday) # Very tired. A little grumpy.
+  weight: 201.8
+  beltless 2-count paused squat:
+    45x10x2, 135, 225, 315x3 # Some right knee pain: cracking.
+    365x3@6, 385x3@6, 405x3@10 # 3r last set held 10-count. Pretty easy.
+  paused bench:
+    45x10x2, 135, 225, 275x3, 315x1, 335x1, 355x1
+    365x3@(6.5,7,7,6.75,7)
+  sldl:
+    135x5x2 # Headache!
+    225, 315x3
+    405x8@6 # Tough on mid-back erectors (traps?).
+    455x6@6.5, 475x6@6, 495x6@6.5 # Should bend over more. Tougher.
+  ab roller: # Toes, floor.
+    10x(5@6,5@6,5@6.5)
+
+2018-02-26 (Monday)
+  weight: 201.0
+  beltless squat:
+    45x10x2, 135, 225, 315x3
+    375x5@4.5, 395x5@5, 415x5@5.5, 435x5@6, 455x5@8 # Oof!
+  paused bench:
+    45x10x2, 135, 225, 275x3, 315x1, 335x1, 355x1, 375x1
+    390x4@(7.75) # Great!
+    365x4@(7,7,7.5,8.5)
+
+2018-02-23 (Friday) # Backyard Barbell in San Jose.
+  squat:
+    20kgx5x2, 70kg, 120kg, 170kgx3, 200kgx1 # Minor stabbing in right knee.
+    220kgx1@5 # Felt so comfy. Like Jesse Norris'!
+    240kgx1@7 # Or so. Minor knee pain but very solid at bottom.
+    205kgx6@(6.5,7,7) # Falling forward 2s4r and 2s6r.
+  deadlift:
+    70kgx5x2, 120kg, 170kgx3, 200kgx1, 220kgx1, 250kgx1
+    270kgx1@7.5 # Held 5-count. Dehydrated -- passing out a bit.
+    220kgx5@(5.5,6,6) # Easy volume =)
+  ab roller: # From toes, on floor.
+    0x(6@5,6,6) # Roller is bumpy, like a rumble roller.
+
+2018-02-22 (Thursday)
+  weight: 201.6
+  beltless chain squat:
+    45x10x2, 135, 225, 225+80x5, 315+80x5@5
+    365+80x5@(6.5,6), 385+80x5@7
+  paused bench:
+    45x10x2, 135, 225, 275x3, 315x1 # Shoulder tendons feeling off.
+    335x1, 355x1, 375x1, 390x3@7.5 # Tendons feels stretched out & better!
+  close-grip bench:
+    345x6@(8,8), 345x5@8.5, 315x8@8.5
+
+2018-02-20 (Tuesday) # Sore obliques!
+  weight: 201.4
+  beltless 2-count paused squat:
+    45x10x2, 135, 225, 315x3@5, 335x3@4, 365x3@5, 385x3@10 # Very easy. Last rep 10-count.
+      # No knee pain! New form with squeezing hams under knees works great.
+  paused bench:
+    45x10x2, 135, 225, 275x3, 315x1, 335x1, 355x1
+    367.5x3@(6.5,6.5,7,7,6.5)
+  sldl:
+    135x6x2, 225x6, 315x5
+    405x8@6, 445x6@6, 465x6@6, 485x6@6 # Nice. Upper back sore.
+  # Skipping pullups -- time & back already toasty.
+  ab roller: # From toes, on floor.
+    0x(6@5,6@5.5,6@6) # Nice! Good day. 4.5 hours of training, though!
+
+2018-02-19 (Monday) # Lots of rolling over weekend.
+  weight: 200.2
+  beltless squat:
+    45x10x2, 135, 225, 315x5
+    365x5@5, 385x5@5.5, 405x5@7, 425x5@7.5, 445x5@8 # Ugh.
+      # Knees hurting a bit at bottom. Less paing if squeezing everything.
+  ghr:
+    3x10
+  paused bench:
+    45x10x2, 135, 225, 275x3, 315x1, 335x1, 355x1
+    380x4@8.5 # Butt coming up a bit. Right side a bit hurting.
+    357.5x5@(7,7.5,9) # Right shoulder pain on 3s. Something in anterior. Hurts to touch.
+    345x5@7 # Good with Sarah's handoff. No pain.
+
+2018-02-16 (Friday) # Sarah's Birthday =)
+  weight: 201.0
+  squat: # Trying asymmetric stance to reduce effective right femur length.
+    45x10x2, 135x5x2, 225x5x2, 315x3x2, 315x5 # Paused.
+    405x1, 455x1, 495x1x4 # OK -- take wider grip (2nd finger). Thanks Anand!
+    405x1x2 # Lat imbalanca may be from mixed grip -- try switching hands.
+  chinups:
+    45x(8@9,8@8,8@8.5) # Longer reps than usual (more ROM).
+  ab roller: # From toes, on floor.
+    0x(6@7,6@7)
+
+2018-02-15 (Thursday)
+  weight: 202.0
+  200 tempo squat: # In Chucks -- wider stance. Feels good!
+    45x10x2, 135, 225, 315x3, 405x1
+    455x3@(5.5,8,9), 405x3@7, 405x3x4 # Checking form. Bad. Shoulder dip.
+      # Some keep pain on the first set, but less than usual.
+      # Too damn painful. Stopping squatting, I guess.
+  paused bench:
+    45x10x2, 135, 225, 275x3, 315x1, 335x1
+    160kgx1, 167.5kgx4@7, 175kgx4@7.5 # OK. Pecs tight. Butt up.
+    160kgx5@(7.5,7.5,8) # Back hurting.
+
+2018-02-13 (Tuesday)
+  weight: 200.2
+  paused bench:
+    20kgx10x2, 60kg, 100kg, 120kgx3, 140kgx1, 150kgx1, 160kgx1
+    166kgx3@(6,6.5,6.5,7,6.5) # Too much rest.
+  beltless 1.5-inch deficit deadlift:
+    75kgx5x2, 125kg, 175kg
+    205kgx5@(5.5,5), 215kgx5@(5.5,6) # Too much rest? Quad tenuously holding on.
+  pullups:
+    45x(8@8.5,8@9,7@9.5)
+  ab roller: # From toes, on floor.
+    0x(6@6.5,6@7) # That feels like enough.
+
+2018-02-12 (Monday)
+  weight: 202.0
+  squat:
+    20kgx10x2, 75kg, 125kg, 175kgx3, 205kgx1, 225kgx1
+    250kgx1@8 # Quad tendon painful after, like last week, but a little less.
+    237.5kgx3@9 # Not good. Knee pain, and all reps different.
+    230kgx3@(8,8) # Shitty & knee pain. Keeping volume low.
+  paused bench:
+    45x10x2, 135, 225, 275x3, 315x1, 335x1, 355x1
+    375x4@6.75 # Nice.
+    355x5@(6.5,7,7.5,8) # Oof! So it is.
+  # Did some breathing squats with 1plate. Felt better in adductors after.
+
 2018-02-09 (Friday) # Upper Back Tired.
   weight: 202.0
   squat:
