@@ -133,40 +133,44 @@ def parse(filename):
     session = None
     lift = None
 
-    for line in lines:
+    for linenum, line in enumerate(lines):
         if len(line) == 0:
             continue
 
-        level = get_indentation_level(line)
+        try:
+            level = get_indentation_level(line)
 
-        # New training session.
-        if level == 0:
-            [year, month, day] = [int(x) for x in (line.split()[0]).split('-')]
-            session = TrainingSession(year, month, day)
-            exlog.append(session)
+            # New training session.
+            if level == 0:
+                [year, month, day] = [int(x) for x in (line.split()[0]).split('-')]
+                session = TrainingSession(year, month, day)
+                exlog.append(session)
 
-        # New lift for the current session, or bodyweight declaration.
-        elif level == 1:
-            name = line.lstrip().split(':')[0]
-            if name == "weight":
-                maybeweight = line.split(':')[1].strip()
-                if maybeweight:
-                    session.setbodyweight(weight2float(maybeweight))
+            # New lift for the current session, or bodyweight declaration.
+            elif level == 1:
+                name = line.lstrip().split(':')[0]
+                if name == "weight":
+                    maybeweight = line.split(':')[1].strip()
+                    if maybeweight:
+                        session.setbodyweight(weight2float(maybeweight))
 
-            # The earliest entries do some jogging for warmup.
-            elif name == "warmup":
-                continue
+                # The earliest entries do some jogging for warmup.
+                elif name == "warmup":
+                    continue
 
-            else:
-                lift = Lift(name)
-                session.addlift(lift)
+                else:
+                    lift = Lift(name)
+                    session.addlift(lift)
 
-        # List of sets for the current lift.
-        elif level == 2:
-            # Can't just split by comma, since a line may be "155x3, 175x(2,2,1)".
-            for x in line.split(', '):
-                sets = makesets(x.strip())
-                lift.addsets(sets)
+            # List of sets for the current lift.
+            elif level == 2:
+                # Can't just split by comma, since a line may be "155x3, 175x(2,2,1)".
+                for x in line.split(', '):
+                    sets = makesets(x.strip())
+                    lift.addsets(sets)
+        except Exception as err:
+            print("Error on line %s (%s): %s" % (linenum+1, line, err))
+            sys.exit(1)
             
     return exlog
 
