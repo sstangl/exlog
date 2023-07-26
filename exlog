@@ -2,6 +2,12 @@
 # vim: syntax=python ts=2 tw=79 et sw=2 sts=2:
 # license: CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
 
+2023-07-25 (Tuesday): # Nicotine patches for LC, feeling so much better immediately.
+  press:
+    45, 95, 135x1
+    165x5@6 # Misload, whoops. Jumped the gun.
+    160x5@(7.5,6)
+
 2023-07-24 (Monday): # 101F outside. CNS not great. Don't feel like lifting.
   squat:
     135, 225, 315x3, 365x1, 395x5@(6) # Chlorine feeling from unrack.
