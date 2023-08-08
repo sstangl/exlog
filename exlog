@@ -2,6 +2,10 @@
 # vim: syntax=python ts=2 tw=79 et sw=2 sts=2:
 # license: CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
 
+2023-08-07 (Monday): # Done with nicotine. Much much better.
+  bench:
+    135, 225, 245x5@(4,4,4)
+
 2023-08-02 (Wednesday): # Near end of nicotine. Feeling much better.
   bench:
     135, 225x5@5, 235x5@5, 245x5@4
