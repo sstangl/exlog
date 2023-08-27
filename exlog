@@ -2,13 +2,17 @@
 # vim: syntax=python ts=2 tw=79 et sw=2 sts=2:
 # license: CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
 
+2023-08-27 (Sunday):
+  bench:
+    135, 225, 245x1, 285x5@(6.5,7,6.5)
+
 2023-08-25 (Friday): # Addressing adductor soreness.
   squat:
     135, 225x5x2
 
 2023-08-24 (Thursday):
   bench:
-    135, 225, 245x1, 280x5@(6,6,)
+    135, 225, 245x1, 280x5@(6,6,7)
 
 2023-08-23 (Wednesday):
   squat: # Finally! It's been a month!
