@@ -2,6 +2,10 @@
 # vim: syntax=python ts=2 tw=79 et sw=2 sts=2:
 # license: CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
 
+2023-09-10 (Sunday): # Finally feeling a bit more energetic after medicine.
+  bench: # Benching once a week at this rate -- it's not great.
+    135, 225, 275x1, 300x5@(6,6,7.5) # Too much rest? Left shoulder iffy.
+
 2023-09-08 (Friday): # Left shoulder very tight, tendon overstressed?
   press:
     45, 95, 135x8@(7,7.5,7)
