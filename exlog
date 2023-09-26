@@ -2,12 +2,25 @@
 # vim: syntax=python ts=2 tw=79 et sw=2 sts=2:
 # license: CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
 
+2023-09-25 (Monday): # Felt pretty crummy all week, now slightly better.
+  weight: 195.4
+  squat: # Left knee hurting, feels heavy, not used to blood pressure.
+    135, 225, 315x1, 365x1, 405x5@(6.5,7,7.5) # :-), CNS really twitching now
+
+2023-09-21 (Thursday):
+  chinups:
+    0x(4,4,4,5)
+
+2023-09-20 (Wednesday):
+  chinups: # In the morning.
+    0x4@(6,7,7,7) # Total: 16. Doesn't need chalk, just don't hook grip.
+  
 2023-09-19 (Tuesday): # Feeling a lot better.
   bench: # Tendons by pecs in armpits on both sides feel rough. Need slower ramp?
     135, 225, 275x1, 315x5@(7,8,9) # Sarah was feeling up to handoffs on 2,3s!
       # No shoulder pain with handoffs. Use chalk.
   chinups:
-    0x4@(6,7,7) # Also needs chalk.
+    0x4@(6,7,7) # Total: 12. Also needs chalk.
 
 2023-09-18 (Monday): # Absolutely exhausted from rolling 2 days ago.
   squat: # Top set felt very heavy, low back may be rounding? Mild sharp pains.
@@ -17,7 +30,7 @@
   squat:
     135, 225, 315x1, 365x1, 385x5@(6,6,6.5)
   chinups:
-    0x3@(6,6.5,6)
+    0x3@(6,6.5,6). Total: 9.
 
 2023-09-14 (Thursday): # Have been feeling bad lately, took more rest.
   chinups:
