@@ -2,6 +2,12 @@
 # vim: syntax=python ts=2 tw=79 et sw=2 sts=2:
 # license: CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
 
+2023-10-03 (Tuesday):
+  bench: # Feels like I'm getting kicked in the nuts after 1s. Response?
+    135, 225, 275x1, 315x5@(7,7.5,7) # Without handoffs, so harder.
+  chinups:
+    0x(5,5,5,5) # 20 total.
+
 2023-10-02 (Monday): # Haven't been feeling up to it. Maybe now!
   squat:
     135, 225, 315x1, 365x1, 405x5@(6,6,6) # Tough only on abs.
