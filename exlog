@@ -2,6 +2,10 @@
 # vim: syntax=python ts=2 tw=79 et sw=2 sts=2:
 # license: CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
 
+2023-10-10 (Tuesday):
+  bench:
+    135, 225x3, 275x8@(5,6,7,8) # Felt decent. ~6m rests.
+
 2023-10-09 (Monday):
   squat:
     135, 225, 315x3, 365x1, 415x5@(5.5,6,6.5) # 1s mild chlorine. No bounce.
