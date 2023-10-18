@@ -2,6 +2,14 @@
 # vim: syntax=python ts=2 tw=79 et sw=2 sts=2:
 # license: CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
 
+2023-10-17 (Tuesday):
+  chinups:
+    0x(8,8,7,7) # 30 total.
+  bench:
+    135, 225, 275x3
+      320x5@8.5 # Only hard because the self-unrack was too difficult.
+      320x3f # Much easier unrack, but I was afraid of hitting the hooks.
+
 2023-10-16 (Monday):
   squat:
     135, 225, 315x3, 405x1, 425x5@(6,6.5,7) # Feels really good. No chlorine.
