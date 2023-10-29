@@ -2,9 +2,13 @@
 # vim: syntax=python ts=2 tw=79 et sw=2 sts=2:
 # license: CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
 
+2023-10-29 (Sunday):
+  pullups:
+    0x(7,6,6) # 19 total.
+
 2023-10-24 (Tuesday):
   pullups:
-    0x(6,6,6)
+    0x(6,6,6) # 18 total.
   press:
     45x10x2, 115x8@(4,5,4,5,4)
 
