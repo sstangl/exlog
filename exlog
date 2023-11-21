@@ -2,6 +2,26 @@
 # vim: syntax=python ts=2 tw=79 et sw=2 sts=2:
 # license: CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
 
+2023-11-20 (Monday):
+  weight: 194.6 # The diet is going way too quickly, hope it's not muscle!
+  squat:
+    135, 225, 315x3, 405x1, 465x5@(7,7.5,9) # Tough because of dieting. Smooth!
+
+2023-11-17 (Friday):
+  weight: 196.6
+
+2023-11-16 (Thursday):
+  weight: 197.0
+  chinups:
+    0x(12,11,10,10) # 43 total. Way too much rest between sets.
+
+2023-11-15 (Wednesday):
+weight: 197.6
+  bench:
+    135, 225, 255x8@(7,6,6)
+  barbell curl:
+    75x10@(6.5,6,)
+
 2023-11-13 (Monday): # Started a diet on 
   weight: 197.8
   squat:
