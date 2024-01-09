@@ -2,6 +2,11 @@
 # vim: syntax=python ts=2 tw=79 et sw=2 sts=2:
 # license: CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
 
+2024-01-08 (Monday): # With patches.
+  weight: 196.0
+  squat: # 8/5/2 5s day.
+    135, 225, 315x2, 385x5@5, 405x5@6, 425x5@7.5
+
 2024-01-06 (Saturday):
   squat: # Recovery day.
     135, 225, 315x5@(4,4)
