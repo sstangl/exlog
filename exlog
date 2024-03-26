@@ -2,9 +2,20 @@
 # vim: syntax=python ts=2 tw=79 et sw=2 sts=2:
 # license: CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
 
+2024-03-25 (Monday)
+  bench: # Keep doing 5s as long as it's working.
+    135, 225, 277.5x5@4, 287.5x5@5, 297.5x5@6 # Great!
+
+# Sick on Saturday, skipping DLs.
+
+2024-03-20 (Wednesday)
+  squat: # 8/5/2 5s day.
+    135, 225, 315x3, 405x1, 415x5@5, 435x5@5, 455x5@6
+      # Very poor sleep, so tough on CNS, but reps were smooth.
+
 2024-03-18 (Monday)
   bench: # 8/5/2 5s day. (Not a great idea for bench, but OK in the beginning.)
-    135, 225, 275x5@4,  285x5@5,  295x5@6 # Sarah was able to hand off!!!!
+    135, 225, 275x5@4, 285x5@5, 295x5@6 # Sarah was able to hand off!!!!
 
 2024-03-16 (Saturday)
   romanian deadlift:
