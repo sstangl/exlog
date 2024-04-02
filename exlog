@@ -2,6 +2,10 @@
 # vim: syntax=python ts=2 tw=79 et sw=2 sts=2:
 # license: CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
 
+2024-03-25 (Monday)
+  bench: # CNS much more ready! Less shaking.
+    135, 225, 280@4, 290@5, 300@6.5 # Great!
+
 2024-03-31 (Sunday) # Feeling a bit better, can deadlift.
   romanian deadlift:
     135x5, 225x5, 315x1, 365x1, 405x3@8 # Grip issues, the chalk is slippery.
