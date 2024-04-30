@@ -2,13 +2,17 @@
 # vim: syntax=python ts=2 tw=79 et sw=2 sts=2:
 # license: CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
 
+2024-04-29 (Monday)
+  bench: # 7s day (rotating rep ranges). Target @6, @7, @8.
+    135, 225, 275x5@5.5, 285x7@6.5, 295x7@7.5 # E1RM = 395.3
+
 2024-04-25 (Thursday) # Couldn't squat yesterday, no energy.
   squat: # 8/5/2 8s day, going up by 5.
     135, 225, 315x2, 370x8@5, 390x8@5, 410x8@6
 
 2024-04-22 (Monday)
   bench: # Next time, begin rotating rep ranges.
-    135, 225, 275x1, 295x5@5, 305x5@6.5, 315x5@8.5 # Nice!
+    135, 225, 275x1, 295x5@5, 305x5@6.5, 315x5@8.5 # E1RM = 381.5
 
 2024-04-20 (Saturday) # Patches started today, possibly from squat recent-PR.
   bent barbell row: Accessories to knock out remaining spikes, hopefully.
