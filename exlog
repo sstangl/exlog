@@ -2,6 +2,14 @@
 # vim: syntax=python ts=2 tw=79 et sw=2 sts=2:
 # license: CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
 
+2024-05-06 (Monday)
+  bench: # 4s day (rotating rep ranges). Target @6, @7, @8.
+    135, 225, 275x2, 310x4@5.5, 320x4@7, 330x4@8.5 # E1RM = 387.5
+
+2024-05-03 (Friday)
+  press:
+    45x10x2, 95x5, 135x3, 145x6@4.5, 150x6@5, 155x6@6.5 # 207.7 E1RM (+1.2)
+
 2024-05-01 (Wednesday)
   squat: # 8/5/2 5s day. Started patches again due to overdoing biking.
     135, 225, 315x3, 405x1, 430x5@5.5, 450x5@6.5, 470x5@7.5 # Much harder than last cycle.
@@ -24,7 +32,7 @@
 
 2024-04-18 (Thursday)
   press: # Been a while again, do it regularly please !!!
-    45x10x2, 95x5, 135x1, 145x5@4, 155x5@5, 165x5@7.5
+    45x10x2, 95x5, 135x1, 145x5@4, 155x5@5, 165x5@7.5 # 206.5 E1RM
 
 2024-04-17 (Wednesday)
   squat: # 8/5/2 2s day.
