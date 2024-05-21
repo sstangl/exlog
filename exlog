@@ -2,6 +2,10 @@
 # vim: syntax=python ts=2 tw=79 et sw=2 sts=2:
 # license: CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
 
+2024-05-20 (Monday)
+  bench: # 8s day. Target @6, @7, @8.
+    135, 225, 265x8@5, 275x8@6, 285x8@8 # E1RM = 388.7
+
 2024-05-19 (Sunday)
   press: # Trying for @5, @6, @7.
     45x10x2, 95x5, 135x3, 155x5@5, 160x5@5.5, 165x5@7 # E1RM = 209.9
