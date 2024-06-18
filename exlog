@@ -2,6 +2,12 @@
 # vim: syntax=python ts=2 tw=79 et sw=2 sts=2:
 # license: CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
 
+2024-06-17 (Monday)
+  bench:
+    135, 225, 265x5@4, 285x5@4.5, 305x5@5
+  barbell curl:
+    90x8@8, 70x10@5
+
 2024-06-12 (Wednesday)
   squat: # 8/5/2 2s day.
     135, 225, 315x3, 405x1, 455x1, 475x2@6, 495x2@6.5, 515x2@7
