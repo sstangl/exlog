@@ -2,6 +2,10 @@
 # vim: syntax=python ts=2 tw=79 et sw=2 sts=2:
 # license: CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
 
+2024-08-26 (Friday)
+  bench: # 3x5 +2.5
+    135, 225, 275x1, 292.5x5@5, 312.5x5@6, 332.5x5@10 # No slipping, just hard.
+
 2024-08-22 (Thursday)
   squat: # 8/5/2 5s day, +5
     135, 225, 315x3, 405x1, 445x5@6, 465x5@6, 485x5@7 # Nice!
