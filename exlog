@@ -2,6 +2,11 @@
 # vim: syntax=python ts=2 tw=79 et sw=2 sts=2:
 # license: CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
 
+2024-09-16 (Monday)
+  bench: # 5s, work up to @7, then drop sets at @6 until @7.
+    135, 225, 275x1, 315x5@7 # Triceps sore from rowing machine, but OK.
+    305x5@(6,6,6) # Already 4x5, so that's enough. Need patches tomorrow.
+
 2024-09-14 (Saturday)
   press: # 3x5. +2.5. Next time, drop weight and increase volume.
     45x10x2, 95x5, 135x3, 177.5x5@(7,9,8)
