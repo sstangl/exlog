@@ -2,8 +2,15 @@
 # vim: syntax=python ts=2 tw=79 et sw=2 sts=2:
 # license: CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
 
+2024-09-30 (Monday)
+  bench: # Repeat basically the same weight, I was sick, maybe it's better now.
+    135, 225, 275x3, 315x5@7 # Spine pain with arching.
+    305x5@(6,7,7.5)
+
+# Extremely tired this week, taking a deload.
+
 2024-09-23 (Monday) # Spine hurts from Saturday.
-  bench: #5s (+2.5), target @7, drop sets at @6 until @7.
+  bench: # 5s (+2.5), target @7, drop sets at @6 until @7.
     135, 225, 275x2, 317.5x5@8 # Too heavy, so drop back. From press+DLs?
     295x5@(6,6,7,7) # 3s hard because hands water, was washing dishes.
 
