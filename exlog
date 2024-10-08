@@ -2,6 +2,11 @@
 # vim: syntax=python ts=2 tw=79 et sw=2 sts=2:
 # license: CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
 
+2024-10-07 (Monday)
+  bench: # Fours, targeting @7.
+    135, 225, 275x3, 315x1, 325x4@7
+    315x4@(6,6.5,6.5,7)
+
 2024-10-02 (Wednesday) # Squats! Feeling up to it today. ~3 weeks off.
   squat: # Working up to @6 RPE. I have energy, but spine is still weird.
     135, 225, 315x5@3, 365x5@4, 405x5@5 # Good enough, left knee a bit rough.
