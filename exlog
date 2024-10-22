@@ -2,6 +2,11 @@
 # vim: syntax=python ts=2 tw=79 et sw=2 sts=2:
 # license: CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
 
+2024-10-21 (Monday)
+  bench: # Fives, +2.5... but then I misloaded it.
+    135, 225, 275x1, 305x1, 317.5x5@7.5 # Went down from last time.
+    305x5@(6,6.5,6.5,7)
+
 2024-10-16 (Wednesday)
   squat: # Working up to @6.5 RPE, then drop sets. Easier volume control.
     135, 225, 315x2, 405x1, 435x5@6 # Muscularly easy, but nervous system chlorinated.
