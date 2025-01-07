@@ -2,6 +2,19 @@
 # vim: syntax=python ts=2 tw=79 et sw=2 sts=2:
 # license: CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
 
+2025-01-06 (Monday):
+  bench: # Let's just do SS from 225 -- but with an AMRAP-1 at the end for fun.
+    135x10, 225x5@(4,4,5) # Paused. Muscle is fine. It's mostly CNS that detrained.
+    135x20@9 # AMRAP-1, just for fun :)
+  romanian deadlift: # CNS detrained, so grip work will help.
+    185x6@3 # Mostly a stretch to traps.
+  power shrug: # For fun.
+    185x8@7 # More shrug than power, but still effective.
+  
+# More bodyweight exercise in the meantime. Highly successful, this is the longest
+# I've gone without patches. They've been more focused on cardio, lower body, and abs.
+# Upper body has been neglected, so I want to reintroduce bench and easy RDLs.
+
 2024-12-16 (Monday):
   bench:
     135, 225x5@4, 235x5@4, 245x5@5
@@ -471,7 +484,7 @@
   squat: # Recovery
     135, 225, 315x5@(3,3)
   romanian deadlift:
-    135x5, 225x5, 315x1, 365x(3@9, 2@9) # From grip. Back trivial.
+    135x5, 225x5, 315x1, 365x(3@9,2@9) # From grip. Back trivial.
   deadlift hold:
     285x20x2 # Tough, barely making it to the end! Tired from main sets.
 
@@ -620,7 +633,7 @@
     0x(12,11,10,10) # 43 total. Way too much rest between sets.
 
 2023-11-15 (Wednesday):
-weight: 197.6
+  weight: 197.6
   bench:
     135, 225, 255x8@(7,6,6)
   barbell curl:
@@ -637,7 +650,7 @@ weight: 197.6
 # Goal is to hopefully improve some health stuff, and make room for a bulking
 # phase later if I decide to take the lifting more seriously, depending on interest.
 
-2023-11-12: (Sunday):
+2023-11-12 (Sunday):
   weight: 199.8
 
 2023-11-11 (Saturday):
@@ -804,7 +817,7 @@ weight: 197.6
   squat:
     135, 225, 315x1, 365x1, 385x5@(6,6,6.5)
   chinups:
-    0x3@(6,6.5,6). Total: 9.
+    0x3@(6,6.5,6) # Total: 9.
 
 2023-09-14 (Thursday): # Have been feeling bad lately, took more rest.
   chinups:
@@ -814,7 +827,7 @@ weight: 197.6
 
 2023-09-13 (Wednesday):
   chinups:
-    0@3x3 # Realized I can use the squat stand as a pullup bar. But it rotates!
+    0x3x3 # Realized I can use the squat stand as a pullup bar. But it rotates!
           # Got very sore from this. Upper back hasn't been used in a while. Good idea.
 
 2023-09-11 (Monday):
