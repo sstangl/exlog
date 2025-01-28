@@ -2,6 +2,14 @@
 # vim: syntax=python ts=2 tw=79 et sw=2 sts=2:
 # license: CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
 
+2024-01-27 (Monday): # Just normal Starting Strength, I think squats are OK now.
+  squat: # +20 next time. No need to rush.
+    135, 225x5@(4,3,2) # Perfectly OK, head just not used to blood pressure.
+  bench: # +5 next time.
+    135, 225x3, 250x5@(4,4,5)
+  romanian deadlift: # Should always be a bit ahead of squats.
+    245x6@5 # Very easy. Also no warmup, still easy.
+
 2024-01-20 (Monday):
   bench:
     135x10, 225x3, 245x5@(5,4,4)
