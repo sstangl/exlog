@@ -2,6 +2,10 @@
 # vim: syntax=python ts=2 tw=79 et sw=2 sts=2:
 # license: CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
 
+2025-07-18 (Friday) # On 14mg, so a good time to release some spikes.
+  squat: # Redo. It's been a minute, and last time crashed me pretty hard.
+    135, 225, 315x3, 375x5@(5,6,5) # Great! Best training in a long time.
+
 2025-07-15 (Tuesday) # PEM'd from Friday but on the upswing. Bench should be OK.
   bench: # Large, immediate histamine reaction, though. Very unpleasant.
     135, 225x5@5, 245x5@5, 265x5@8
