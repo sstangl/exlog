@@ -2,6 +2,10 @@
 # vim: syntax=python ts=2 tw=79 et sw=2 sts=2:
 # license: CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
 
+2025-07-28 (Monday)
+  bench: # Drop to @6, repeat until @7.
+    135, 225, 250x5@6.5, 240x5@(6,6.5,7.5)
+
 2025-07-25 (Friday)
   squat:
     135, 225, 315x3, 365x1, 385x5@(5.5,5,6)
