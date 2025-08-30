@@ -2,6 +2,14 @@
 # vim: syntax=python ts=2 tw=79 et sw=2 sts=2:
 # license: CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
 
+2025-08-29 (Friday)
+  bench:
+    135, 225x5@6, 247.5x5@5, 257.5x5@6, 247.5x5@(5,6,6)
+  romanian deadlift:
+    135, 225, 315x5@4
+
+# No squats: patches.
+
 2025-08-22 (Friday)
   bench:
     135, 225x5@6, 245x5@6, 255x5@6.5, 245x5@(6,7,6.5)
