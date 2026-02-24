@@ -2,13 +2,18 @@
 # vim: syntax=python ts=2 tw=79 et sw=2 sts=2:
 # license: CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
 
+2026-02-23 (Monday)
+  bench:
+    135, 225x5@5, 245x6@(5,6), 245x6@8 # Lost track on last set!
+
 2026-02-18 (Wednesday)
   squat: # 8s (8/5/2) +5
     135, 225, 315x1, 370x8@(6.5,6,6) # Getting very lightheaded, though.
 
 2026-02-17 (Tuesday)
   bench: # Not motivated for squat, but should get into benching. Squat tomorrow.
-    135, 225x6@(5,5,6), 185x8@6
+    135, 225x6@(5,5,6)
+    185x8@6
 
 2026-02-09 (Monday) # Patches.
   squat: # 2s (8/5/2) +5
