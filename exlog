@@ -2,6 +2,10 @@
 # vim: syntax=python ts=2 tw=79 et sw=2 sts=2:
 # license: CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
 
+2026-05-04 (Monday) # Feeling much better now, but I didn't sleep much.
+  bench: # + 2.5, to make the numbers pretty
+    135, 225, 280x5@(8,9,10) # No CNS, but it worked! Not too hard, really.
+
 2026-04-27 (Monday) # Going through antihistamine withdrawal, day 6, it is bad.
   bench: # + 2.5, because little muscle tension.
     135, 225, 277.5x5@(7,7.5,9) # Very tired, but got it! CNS otherwise occupied.
