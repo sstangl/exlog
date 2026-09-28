@@ -2,6 +2,12 @@
 # vim: syntax=python ts=2 tw=79 et sw=2 sts=2:
 # license: CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
 
+2026-09-28 (Monday)
+  bench: # 6s. Wearing a belt helps low back not pinch.
+    135, 225, 260x6@(6.5,6.5,8)
+
+# In Crestone for a week.
+
 2026-09-18 (Friday) # Last day of work! In a great mood.
   press: # 6s.
     95, 135x3, 142.5x6@(8.5,7,8.5) # Better form on 2s. Creatine would help.
